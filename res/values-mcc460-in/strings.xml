@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Nama perangkat terlihat oleh aplikasi di ponsel, dan juga mungkin dilihat oleh orang lain saat Anda menghubungkan ke perangkat Bluetooth atau menyiapkan hotspot WLAN.</string>
+    <string name="accessibility_no_wifi">WLAN tidak tersambung.</string>
+    <string name="accessibility_wifi_off">WLAN tidak aktif.</string>
+    <string name="accessibility_wifi_one_bar">WLAN satu baris.</string>
+    <string name="accessibility_wifi_signal_full">Sinyal WLAN penuh.</string>
+    <string name="accessibility_wifi_three_bars">WLAN tiga baris.</string>
+    <string name="accessibility_wifi_two_bars">WLAN dua baris</string>
+    <string name="backup_data_summary">Mencadangkan data aplikasi, sandi WLAN, dan setelan lainnya ke server Google</string>
+    <string name="backup_erase_dialog_message">Berhenti mencadangkan sandi WLAN, bookmark, setelan lainnya, dan data aplikasi, serta menghapus semua salinan di server Google?</string>
+    <string name="battery_action_wifi">Setelan WLAN</string>
+    <string name="battery_desc_wifi">Baterai digunakan oleh WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Matikan WLAN ketika tidak digunakan atau ketika tidak tersedia</string>
+    <string name="battery_usm_desc">"Mode Ultra STAMINA akan memperpanjang waktu baterai secara signifikan. Perhatikan bawah sambungan internet melalui WLAN dan Data seluler akan dinonaktifkan, fungsi seperi penyelarasan data dan panggilan WLAN tidak akan tersedia. Layar beranda Anda akan dialihkan ke Beranda mode Ultra STAMINA.
+
+Aplikasi tersedia dalam mode Ultra STAMINA"</string>
+    <string name="battery_usm_desc_variable">"Mode Ultra STAMINA akan memperpanjang masa pakai baterai secara signfikan. Perhatikan bahwa sambungan internet melalui WLAN dan Data seluler akan dinonaktifkan, fungsi seperti penyelarasan data dan %s tidak akan tersedia. Layar Beranda akan dialihkan ke Beranda mode Ultra STAMINA.
+
+Aplikasi yang tersedia dalam mode Ultra STAMINA"</string>
+    <string name="bluetooth_on_time">WLAN berdasarkan waktu</string>
+    <string name="bs_feature_wifi">WLAN nonaktif</string>
+    <string name="change_wifi_state_app_detail_summary">Izinkan aplikasi ini mengaktifkan atau menonaktifkan WLAN, memindai, dan menghubungkan ke jaringan WLAN, menambahkan atau menghapus jaringan, atau memulai hotspot khusus lokal</string>
+    <string name="change_wifi_state_app_detail_switch">Izinkan aplikasi mengontrol WLAN</string>
+    <string name="change_wifi_state_title">Kontrol WLAN</string>
+    <string name="condition_bg_data_summary">Data latar belakang hanya tersedia melalui WLAN. Hal ini dapat memengaruhi beberapa aplikasi atau layanan saat WLAN tidak tersedia.</string>
+    <string name="condition_cellular_summary">Internet hanya tersedia melalui WLAN</string>
+    <string name="connected_via_app">Tersambung melalui %1$s</string>
+    <string name="credential_for_wifi">Dipasang untuk WLAN</string>
+    <string name="ct_wifi_connected_text">WLAN China Telecom tersambung</string>
+    <string name="cw_network_notification">Aktifkan pemberitah. CT WLAN</string>
+    <string name="cw_network_priority">Prioritas WLAN China Telecom</string>
+    <string name="cw_network_priority_summary">Jaringan WLAN China Telecom akan diprioritaskan dibanding jaringan WLAN lain dalam sambungan</string>
+    <string name="data_service_except_mms_disabled_warning_txt">Kecuali menggunakan WLAN, Anda tidak akan bisa lagi menggunakan Internet, Email, atau aplikasi lain yang membutuhkan sambungan data. Matikan sambungan data seluler?</string>
+    <string name="data_traffic_disabled_text">Tidak dapat menyambung ke jaringan WLAN China Telecom karena lalu lintas data dinonaktifkan. Aktifkan lalu lintas data sekarang?</string>
+    <string name="data_usage_app_summary_title">Kuota &amp; WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Tetapkan batas data WLAN</string>
+    <string name="data_usage_menu_hide_wifi">Sembunyikan WLAN</string>
+    <string name="data_usage_menu_show_wifi">Tampilkan WLAN</string>
+    <string name="data_usage_metered_wifi">Jaringan WLAN berbayar</string>
+    <string name="data_usage_metered_wifi_disabled">Untuk memilih jaringan berbayar, aktifkan WLAN.</string>
+    <string name="data_usage_restrict_background">Jika Anda membatasi data seluler latar belakang, beberapa aplikasi dan layanan tidak akan bekerja kecuali Anda tersambung ke WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Jika Anda membatasi data seluler latar belakang, beberapa aplikasi dan layanan tidak akan bekerja kecuali Anda tersambung ke WLAN.
+
+Setelan ini memengaruhi semua pengguna di ponsel ini."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 digunakan di WLAN</string>
+    <string name="data_usage_wifi_title">Data WLAN</string>
+    <string name="dialog_message_hint">"Mode STAMINA meliputi:
+
+• Siaga lebih lama
+Menghemat daya saat layar mati dengan menonaktifkan WLAN dan data seluler untuk sementara. Sebagian besar aplikasi akan nonaktif.
+Saat layar HIDUP, ponsel Anda akan berfungsi secara normal.
+Jika Anda ingin beberapa aplikasi tetap aktif saat Siaga Lebih Lama AKTIF, tambahkan aplikasi tersebut ke daftar APLIKASI AKTIF DI POSISI SIAGA.
+
+• Penggunaan lebih lama
+Menghemat daya saat perangkat digunakan dengan membatasi kinerja perangkat keras.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Apa itu modus STAMINA?</u>"
+Modus STAMINA adalah fungsi hemat daya Sony. Fungsi ini memperpanjang masa pakai baterai saat layar mati.
+
+"<u>Penggunaan dasar</u>"
+Untuk mengaktifkan modus STAMINA, ketuk tombol di layar. 
+Saat layar mati, guna menghemat baterai, WLAN dan data seluler sementara dinonaktifkan, dan hampir semua aplikasi akan nonaktif.
+Saat layar menyala, perangkat Anda akan berfungsi secara normal.
+
+"<u>Penggunaan tingkat lanjut</u>"
+Jika Anda ingin mempertahankan agar beberapa aplikasi tetap aktif selama STAMINA, silakan tambahkan ke daftar APLIKASI AKTIF DI POSISI SIAGA.
+Aplikasi mungkin tidak berfungsi dengan benar tidak tidak ditambahkan ke daftar.
+
+"<u>Catatan</u>"
+Jika aplikasi tidak berfungsi dengan benar, tambahkan ke daftar APLIKASI AKTIF DI POSISI SIAGA, atau nonaktifkan modus STAMINA."</string>
+    <string name="emergency_address_summary">Digunakan sebagai lokasi Anda ketika Anda melakukan panggilan darurat melalui WLAN</string>
+    <string name="fullbackup_data_summary">"Otomatis cadangkan data perangkat (seperti sandi WLAN dan histori panggilan) dan data aplikasi (seperti setelan dan file yang disimpan oleh aplikasi) dari jarak jauh.
+
+Jika Anda mengaktifkan cadangan otomatis, data perangkat dan aplikasi secara berkala disimpan dari jarak jauh. Data aplikasi dapat berupa data apa saja yang telah disimpan oleh aplikasi (menurut setelan developer), termasuk data yang berpotensi sensitif seperti kontak, pesan, dan foto."</string>
+    <string name="fullbackup_erase_dialog_message">Berhenti mencadangkan data perangkat (seperti sandi WLAN dan histori panggilan) dan data aplikasi (seperti setelan dan file yang disimpan oleh aplikasi), serta hapus semua salinan di server jarak jauh?</string>
+    <string name="install_wapi_certs">Instal sertifikat WLAN</string>
+    <string name="keywords_wifi_notify_open_networks">Notifikasi WLAN, notifikasi wi‑fi</string>
+    <string name="l_dialog_message_hint">"Mode STAMINA meliputi:
+
+• Siaga diperpanjang
+Menghemat daya saat layar mati dengan sementara menonaktifkan WLAN. Sebagian besar aplikasi akan nonaktif.
+Saat layar aktif, perangkat Anda akan berfungsi secara normal.
+Jika Anda ingin beberapa aplikasi tetap aktif ketika siaga Diperpanjang diaktifkan, tambahkan aplikasi ke daftar Aplikasi aktif di siaga.
+
+• Pemakaian diperpanjang
+Menghemat daya saat perangkat Anda sedang digunakan dengan membatasi kinerja perangkat keras."</string>
+    <string name="location_based_wifi">WLAN berbasis lokasi</string>
+    <string name="location_neighborhood_level_wifi">Lokasi yang ditentukan oleh WLAN</string>
+    <string name="location_network_based">Lokasi WLAN &amp; seluler</string>
+    <string name="location_scanning_screen_title">Pemindaian WLAN dan Bluetooth</string>
+    <string name="location_scanning_wifi_always_scanning_description">Izinkan aplikasi dan layanan untuk memindai jaringan WLAN kapan saja, meski WLAN nonaktif. Ini dapat dilakukan, misalnya, untuk menyempurnakan fitur dan layanan berbasis lokasi.</string>
+    <string name="location_scanning_wifi_always_scanning_title">Pemindaian WLAN</string>
+    <string name="lost_internet_access_cancel">Tetap di WLAN</string>
+    <string name="lost_internet_access_text">Anda dapat beralih ke jaringan seluler jika sambungan WLAN buruk. Mungkin dikenai biaya penggunaan data.</string>
+    <string name="lost_internet_access_title">WLAN tidak terhubung ke internet</string>
+    <string name="mobile_data_always_on_summary">Selalu aktifkan kuota, meski WLAN aktif (agar jaringan beralih dengan cepat).</string>
+    <string name="network_scorer_change_active_dialog_title">Ubah WLAN Assistant?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Untuk membagikan jaringan WLAN saat ini, pilih opsi \"Bagikan info WLAN\" di pengaturan.</string>
+    <string name="nfc_wifi_share_checkbox">Bagikan info WLAN</string>
+    <string name="nfc_wifi_share_title_txt">Bagi info WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Sambungkan otomatis ke Hotspot WLAN AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">Smbung oto. WLAN AT&amp;T</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">Kecuali menggunakan WLAN, Anda tidak akan bisa lagi menggunakan Internet, Email, atau aplikasi lain yang membutuhkan sambungan data. Matikan sambungan data seluler?</string>
+    <string name="powersaver_feature_wifi">WLAN nonaktif</string>
+    <string name="radio_controls_summary">Kelola WLAN, Bluetooth, mode pesawat, jaringan seluler, &amp; VPN</string>
+    <string name="radio_info_ims_reg_status">"Pendaftaran IMS: %1$s
+Suara melalui LTE: %2$s
+Suara melalui WLAN: %3$s
+Video Call: %4$s
+Antarmuka UT: %5$s"</string>
+    <string name="reset_network_desc">"Tindakan ini akan menyetel ulang semua setelan jaringan, termasuk:
+
+"<li>WLAN</li>"
+"<li>Kuota seluler</li>"
+"<li>Bluetooth</li></string>
+    <string name="restriction_wifi_config_summary">Memungkinkan modifikasi setelan WLAN dan Seluler</string>
+    <string name="restriction_wifi_config_title">WLAN dan Seluler</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Pemindaian Bluetooth dan WLAN tidak aktif</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Pemindaian Bluetooth aktif, pemindaian WLAN tidak aktif</string>
+    <string name="scanning_status_text_wifi_on_ble_off">Pemindaian WLAN aktif, pemindaian Bluetooth nonaktif</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Pemindaian WLAN dan Bluetooth aktif</string>
+    <string name="somc_backup_failed_no_wifi_summary">Menunggu sambungan WLAN</string>
+    <string name="somc_wifi_turned_on_info">WLAN diaktifkan. Pilih jaringan Anda di dalam daftar.</string>
+    <string name="stamina_xssm_summary">Menonaktifkan data seluler dan WLAN ketika layar nonaktif</string>
+    <string name="status_wifi_mac_address">Alamat MAC WLAN</string>
+    <string name="tethering_no_sim_warning_txt">Harap pasang kartu SIM untuk membagikan sambungan data ponsel Anda dengan perangkat lain menggunakan Hotspot Seluler WLAN atau peranggitan USB untuk akses Internet.</string>
+    <string name="usage_type_data_wifi_recv">Paket WLAN diterima</string>
+    <string name="usage_type_data_wifi_send">Paket WLAN dikirim</string>
+    <string name="usage_type_wifi_running">WLAN berjalan</string>
+    <string name="usm_descr">"Mode Ultra STAMINA akan memperpanjang masa pakai baterai secara signifikan. Ini bisa digunakan saat Anda tidak bisa mengisi daya perangkat dalam waktu yang lama.
+
+Hanya beberapa fungsi dasar seperti Ponsel dan Olah Pesan dapat tersedia. Ketuk \"Info selengkapnya\" untuk rincian lebih lanjut.
+
+Catat bahwa sambungan Internet melalui WLAN dan data Seluler akan dinonaktifkan."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Panggilan darurat tidak memungkinkan melalui panggilan WLAN.
+Perangkat beralih otomatis ke jaringan seluler (2G/3G) untuk melakukan panggilan darurat.
+Panggilan darurat hanya dimungkinkan di area dengan jangkauan seluler."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">Panggilan darurat melalui panggilan WLAN</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Panggilan WLAN Vodafone</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"Untuk mengaktifkan panggilan WLAN, Anda harus mengaktifkan Lokasi dan memilih Akurasi tinggi atau mode Hemat baterai.
+
+Pastikan untuk tetap mengaktifkan Lokasi saat panggilan WLAN."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Panggilan darurat tidak memungkinkan melalui panggilan WLAN.
+Perangkat beralih otomatis ke jaringan seluler (2G/3G) untuk melakukan panggilan darurat.
+Panggilan darurat hanya dimungkinkan di area dengan jangkauan seluler."</string>
+    <string name="wfc_location_info_dialog_desc_txt">Informasi terkait lokasi Anda dapat dikirim ke Google dan operator Anda untuk melakukan panggilan WLAN, meskipun setelan Lokasi aktif atau nonaktif.</string>
+    <string name="wfc_provisioned_switch_string">Panggilan WLAN Disediakan</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">Jaringan WLAN</string>
+    <string name="wifi_advanced_not_available">Setelan lanjutan WLAN tidak tersedia untuk pengguna ini</string>
+    <string name="wifi_advanced_settings_label">Setelan WLAN</string>
+    <string name="wifi_advanced_titlebar">WLAN Lanjutan</string>
+    <string name="wifi_ap_band_select_one">Pilih minimal satu pita frekuensi untuk hotspot WLAN:</string>
+    <string name="wifi_ask_disable">%s ingin menonaktifkan WLAN</string>
+    <string name="wifi_ask_enable">%s ingin mengaktifkan WLAN</string>
+    <string name="wifi_auto_network_switch_setting_msg">Secara otomatis beralih ke jaringan pilihan ketika jaringan WLAN dan jaringan seluler tersedia</string>
+    <string name="wifi_calling_link_to_register_emergency_address">Klik di sini untuk mendaftar ke Panggilan WLAN atau untuk memperbarui Alamat Darurat yang ada</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Jika jaringan seluler tidak tersedia, gunakan WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Telepon melalui WLAN. Jika WLAN terputus, panggilan akan berakhir.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Jika WLAN tidak tersedia, gunakan jaringan seluler</string>
+    <string name="wifi_calling_not_supported">Panggilan WLAN tidak didukung untuk %1$s</string>
+    <string name="wifi_calling_off_explanation">"Gunakan panggilan WLAN untuk meningkatkan kualitas panggilan di tempat dengan jangkauan jaringan yang buruk.
+
+Biaya
+Untuk informasi tentang biaya panggilan WLAN, hubungi penyedia layanan Anda.
+
+Catatan untuk panggilan WLAN
+Untuk tetap berada di panggilan WLAN, pastikan Anda tetap berada dalam jangkauan WLAN."</string>
+    <string name="wifi_calling_on_dialog_text">Untuk menggunakan Panggilan WLAN, setel SIM Pilihan untuk Data seluler ke SIM 1</string>
+    <string name="wifi_calling_settings_activation_instructions">Aktifkan Panggilan WLAN</string>
+    <string name="wifi_calling_settings_title">Panggilan WLAN</string>
+    <string name="wifi_calling_suggestion_summary">Aktifkan panggilan WLAN untuk memperluas jangkauan</string>
+    <string name="wifi_calling_suggestion_title">Perluas panggilan dengan WLAN</string>
+    <string name="wifi_calling_summary">Gunakan WLAN untuk melakukan panggilan dengan kualitas lebih baik</string>
+    <string name="wifi_calling_turn_on">Aktifkan panggilan WLAN</string>
+    <string name="wifi_carrier_connect">Jaringan WLAN operator</string>
+    <string name="wifi_cellular_data_fallback_summary">Gunakan data seluler saat WLAN tidak memiliki akses internet. Mungkin dikenakan biaya penggunaan data.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN tidak aktif kembali secara otomatis</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN kembali aktif secara otomatis</string>
+    <string name="wifi_configure_settings_preference_title">Preferensi WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Ubah sertifikat WLAN</string>
+    <string name="wifi_data_template">^1 data WLAN</string>
+    <string name="wifi_data_usage">Penggunaan kuota WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Kegagalan Sambungan WLAN</string>
+    <string name="wifi_dpp_add_device_to_wifi">Tambahkan perangkat ini ke “%1$s”?</string>
+    <string name="wifi_dpp_center_qr_code">Posisikan kode QR di tengah jendela kamera untuk menambahkan perangkat ke “%1$s”</string>
+    <string name="wifi_dpp_failure_not_supported">Penambahan “%1$s” tidak didukung oleh perangkat ini</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Pindai kode QR ini untuk terhubung ke “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Posisikan kode QR di tengah jendela kamera untuk menyambungkan ke “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Hubungkan ke WLAN dengan meminta kode QR</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Pindai kode QR ini untuk terhubung ke “%1$s” dan membagikan sandi</string>
+    <string name="wifi_dpp_share_wifi">Bagikan WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Membagikan WLAN kepada perangkat ini…</string>
+    <string name="wifi_dpp_wifi_password">Sandi WLAN: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN dibagikan dengan perangkat</string>
+    <string name="wifi_empty_list_user_restricted">Anda tidak memiliki izin untuk mengubah jaringan WLAN.</string>
+    <string name="wifi_empty_list_wifi_off">Aktifkan WLAN untuk melihat jaringan yang ada.</string>
+    <string name="wifi_empty_list_wifi_on">Menelusuri jaringan WLAN...</string>
+    <string name="wifi_hotspot_auto_off_summary">Hotspot WLAN akan dinonaktifkan jika tidak ada perangkat yang terhubung</string>
+    <string name="wifi_hotspot_configure_ap_text">Penyiapan hotspot WLAN</string>
+    <string name="wifi_hotspot_footer_info_regular">Gunakan hotspot untuk membuat jaringan WLAN bagi perangkat Anda yang lain. Hotspot menyediakan sambungan internet menggunakan koneksi data seluler Anda. Biaya data seluler tambahan mungkin berlaku.</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Sambungkan otomatis ke jaringan Passpoint yang tersedia saat WLAN aktif</string>
+    <string name="wifi_limit_optimizations_summary">Batasi penggunaan baterai oleh WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Langsung</string>
+    <string name="wifi_on_time">WLAN berdasarkan waktu</string>
+    <string name="wifi_p2p_settings">Setelan WLAN Direct</string>
+    <string name="wifi_p2p_settings_title">WLAN Langsung</string>
+    <string name="wifi_poor_network_detection_summary">Jangan gunakan jaringan WLAN, kecuali sambungan internetnya kuat</string>
+    <string name="wifi_quick_toggle_summary">Nyalakan WLAN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Untuk meningkatkan akurasi lokasi dan untuk tujuan-tujuan lainnya, sebuah aplikasi yang tidak dikenal ingin mengaktifkan pemindaian jaringan, bahkan saat WLAN nonaktif.
+
+Izinkan ini untuk semua aplikasi yang ingin memindai?"</string>
+    <string name="wifi_scan_always_turnon_message">"Untuk meningkatkan ketepatan lokasi dan untuk tujuan lainnya, %1$s ingin mengaktifkan pemindaian jaringan, bahkan saat WLAN sedang tidak aktif.
+
+Izinkan ini untuk semua aplikasi yang ingin memindai?"</string>
+    <string name="wifi_scan_notify_text">Untuk meningkatkan akurasi lokasi, aplikasi dan layanan tetap dapat memindai jaringan WLAN kapan saja, meski WLAN tidak aktif. Ini dapat digunakan, misalnya, untuk menyempurnakan fitur dan layanan berbasis lokasi. Anda dapat mengubahnya di LINK_BEGINsetelan pemindaianLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Untuk meningkatkan akurasi lokasi, aktifkan pemindaian WLAN di LINK_BEGINsetelan pemindaianLINK_END.</string>
+    <string name="wifi_scan_throttling">Pembatasan pemindaian WLAN</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">Diamankan dengan WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Diamankan dengan WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">Pilih WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN aktif saat mode tidur</string>
+    <string name="wifi_setting_sleep_policy_title">Biarkan WLAN nyala saat mode tidur</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Setelan WLAN</string>
+    <string name="wifi_settings_master_switch_title">Gunakan WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">Pemindaian WLAN diaktifkan</string>
+    <string name="wifi_settings_scanning_required_info">Pemindaian WLAN memungkinkan aplikasi dan layanan untuk memindai jaringan WLAN kapan saja, meski WLAN nonaktif. Ini dapat dilakukan, misalnya, untuk menyempurnakan fitur dan layanan berbasis lokasi.</string>
+    <string name="wifi_settings_scanning_required_summary">Untuk mengaktifkan WLAN secara otomatis, Anda harus mengaktifkan pemindaian WLAN terlebih dahulu.</string>
+    <string name="wifi_settings_scanning_required_title">Aktifkan pemindaian WLAN?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Menyalakan WLAN...</string>
+    <string name="wifi_stopping">Mematikan WLAN...</string>
+    <string name="wifi_suspend_optimizations">Pengoptimalan WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Minimalkan penggunaan baterai saat WLAN aktif</string>
+    <string name="wifi_switch_away_when_unvalidated">Beralih ke data seluler jika WLAN tidak memiliki akses internet.</string>
+    <string name="wifi_tether_settings_subtext">Konfigurasikan &amp; kelola hotspot WLAN portabel</string>
+    <string name="wifi_tether_settings_text">Setelan hotspot WLAN portabel</string>
+    <string name="wifi_tethering_warning_txt">Setiap operasi WLAN yang sedang berlangsung seperti transfer media, pembaruan perangkat lunak ponsel, merekam cadangan dan mengembalikan akan terganggu</string>
+    <string name="wifi_turned_on_message">WLAN diaktifkan</string>
+    <string name="wifi_verbose_logging">Aktifkan Pencatatan Log Panjang WLAN</string>
+    <string name="wifi_verbose_logging_summary">Tingkatkan level pencatatan log WLAN, tampilkan per SSID RSSI di Pemilih WLAN</string>
+    <string name="wifi_wakeup">Aktifkan WLAN secara otomatis</string>
+    <string name="wifi_wakeup_summary">WLAN akan aktif kembali di dekat jaringan berkualitas tinggi yang tersimpan, seperti jaringan rumah Anda</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Tidak tersedia karena pemindaian WLAN dinonaktifkan</string>
+    <string name="wifi_wps_category_title">Siapkan jaringan WLAN</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN terputus. Konfigurasi dibatalkan.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"Mode STAMINA menghemat daya baterai dengan menyesuaikan pengaturan perangkat. Anda dapat memilih aplikasi untuk berjalan dengan fungsionalitas yang dikurangi selama mode tidur. (Ini akan membantu Anda menghemat daya karena sebagian besar aplikasi tetap menghabiskan daya bahkan selama mode tidur.)
+
+Fungsi dinonaktifkan untuk aplikasi yang dipilih:
+- WLAN
+- Data seluler
+- Timer
+
+Lampu pemberitahuan untuk semua aplikasi berkedip dalam warna yang sama dan frekuensi yang sama selama mode tidur.
+
+Mode STAMINA dinonaktifkan selama Anda mengontrol perangkat."</string>
+</resources>

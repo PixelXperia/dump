@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:icon="@drawable/ic_loops" android:key="xperia_loops" settings:after="appearance_wallpaper" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.xperiaxloops" android:targetClass="com.sonymobile.xperiaxloops.settings.LoopsSettingsActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:icon="@drawable/ic_appearance_ambient" android:key="ambient_settings_top" settings:after="appearance_wallpaper" settings:dependOnIsValidIntent="true" settings:dependOnResource="@bool/config_showAmbientSettings" settings:hasMetaData="true">
+        <intent android:action="com.sonymobile.settings.intent.action.LOCKSCREEN_AMBIENT_SETTINGS_TOP" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:icon="@drawable/ic_appearance_clock" android:key="lockscreen" settings:after="appearance_wallpaper" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:action="com.sonyericsson.settings.intent.action.LOCKSCREEN" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

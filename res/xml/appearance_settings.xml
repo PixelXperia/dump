@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/appearance_dashboard_title"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.android.settingslib.RestrictedPreference android:icon="@drawable/ic_wallpaper" android:title="@string/wallpaper_settings_title" android:key="appearance_wallpaper" android:summary="@string/wallpaper_settings_summary" android:order="10" settings:keywords="@string/keywords_display_wallpaper">
+        <intent android:targetPackage="com.android.settings" android:targetClass="com.android.settings.Settings$WallpaperSettingsActivity" />
+    </com.android.settingslib.RestrictedPreference>
+    <com.sonymobile.settings.preference.IncludePreference settings:include="@xml/somc_add_appearance_settings" />
+</PreferenceScreen>

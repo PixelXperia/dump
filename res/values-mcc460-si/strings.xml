@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">ඔබගේ උපාංගයේ නම ඔබගේ දුරකථනයේ යෙදුම්වලට දෘශ්‍යමානය. ඔබ බ්ලූටූත්වලට සම්බන්ධ වූ විට හෝ WLAN හොට්ස්පොට් එකක් පිහිට වූ විට වෙනත් පුද්ගලයන්ද එය දැකිය හැකිය.</string>
+    <string name="accessibility_no_wifi">WLAN සම්බන්ධ කර නොමැත.</string>
+    <string name="accessibility_wifi_off">WLAN අක්‍රියයි.</string>
+    <string name="accessibility_wifi_one_bar">WLAN තීරු එකයි.</string>
+    <string name="accessibility_wifi_signal_full">WLAN සංඥාව පිරී ඇත.</string>
+    <string name="accessibility_wifi_three_bars">WLAN තීරු තුනයි.</string>
+    <string name="accessibility_wifi_two_bars">WLAN තීරු දෙකයි.</string>
+    <string name="backup_data_summary">යෙදුම් දත්ත, WLAN මුරපද, සහ වෙනත් සැකසුම් Google සේවාදායක වෙත උපස්ථ කරන්න</string>
+    <string name="backup_erase_dialog_message">ඔබගේ WLAN මුරපද, පිටුසන්, වෙනත් සැකසීම්, සහ යෙදුම් දත්ත උපස්ථ කිරීම නවත්වා, තවත Google සේවාදායක මත ඇති සියලු පිටපත් මකා දමන්නද?</string>
+    <string name="battery_action_wifi">WLAN සැකසීම්</string>
+    <string name="battery_desc_wifi">WLAN මඟින් භාවිතා කර ඇති බැටරි ප්‍රමාණය</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">WLAN භාවිතා නොකරන විට හෝ එය ලද නොහැකි විට වසා දමන්න</string>
+    <string name="bluetooth_on_time">ප්‍රමාද නොවී WLAN</string>
+    <string name="change_wifi_state_app_detail_summary">මෙම යෙදුමට WLAN ක්‍රියාත්මක හෝ ක්‍රියාවිරහිත කිරීමට, WLAN ජාල වෙත සම්බන්ධ වීමට, ජාල එක් කිරීමට හෝ ඉවත් කිරීමට, හෝ ස්ථානීය-පමණි හොට්ස්පොට් එකක් ඇරඹීමට ඉඩ දෙන්න</string>
+    <string name="change_wifi_state_app_detail_switch">WLAN පාලනය කිරීමට යෙදුමට ඉඩ දෙන්න</string>
+    <string name="change_wifi_state_title">WLAN පාලනය</string>
+    <string name="condition_cellular_summary">අන්තර්ජාලය WLAN හරහා පමණක් ලබා ගත හැකිය</string>
+    <string name="connected_via_app">%1$s හරහා සම්බන්ධයි</string>
+    <string name="credential_for_wifi">WLAN සඳහා ස්ථාපිත</string>
+    <string name="data_usage_app_summary_title">ජංගම දත්ත සහ WLAN</string>
+    <string name="data_usage_disable_wifi_limit">WLAN දත්ත සීමාව සකසන්න</string>
+    <string name="data_usage_menu_hide_wifi">WLAN සඟවන්න</string>
+    <string name="data_usage_menu_show_wifi">WLAN පෙන්වන්න</string>
+    <string name="data_usage_metered_wifi">WLAN ජාල මාපකය කරන ලදි</string>
+    <string name="data_usage_metered_wifi_disabled">මාපකය කරන ලද ජාල තේරීමට, WLAN සක්‍රිය කරන්න.</string>
+    <string name="data_usage_restrict_background">ඔබ පසුබිම් ජංගම දත්ත සිමා කළහොත්, ඔබ WLAN වෙත සම්බන්ධ වී නොමැති නම් සමහර යෙදුම් සහ සේවා ක්‍රියා නොකරනු ඇත.</string>
+    <string name="data_usage_restrict_background_multiuser">"ඔබ පසුබිම් ජංගම දත්ත සීමා කරයි නම්, සමහර යෙදුම් සහ සේවා ඔබ WLAN වෙත සම්බන්ධ වී ඇතිනම් මිස ක්‍රියා නොකරනු ඇත.
+
+මෙම සැකසීම දුරකථනයේ සියලු පරිශීලකයින්ට බලපානු ඇත."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 WLAN මත භාවිත වේ</string>
+    <string name="data_usage_wifi_title">WLAN දත්ත</string>
+    <string name="emergency_address_summary">ඔබ WLAN හරහා හදිසි ඇමතුමක් ලබා ගන්නා විට ඔබගේ ස්ථානය ලෙස භාවිතා වේ</string>
+    <string name="fullbackup_data_summary">"දුරස්ථව උපාංග දත්ත (WLAN මුරපද හා ඇමතුම් ඉතිහාසය වැනි) සහ යෙදුම් දත්ත (යෙදුම් මඟින් ගබඩා කරන සැකසීම් සහ ගොනු) ස්වයංක්‍රියව උපස්ථ කරයි.
+
+ඔබ ස්වයංක්‍රියව උපස්ථ කිරීම ක්‍රියාත්මක කළ විට, උපාංග සහ යෙදුම් දත්ත කලින් කලට දුරස්ථව සුරකිනු ලැබේ. සම්බන්ධතා, පණිවුඩ, හා ඡායාරූප වැනි සංවේදී දත්ත ඇතුළුව යෙදුම් දත්ත ඕනෑම එකක් විය හැකි වේ (සංවර්ධක සැකසුම් මත පදනම්ව)."</string>
+    <string name="fullbackup_erase_dialog_message">උපාංග දත්ත (WLAN මුරපද සහ ඇමතුම් ඉතිහාසය යනාදී) සහ යෙදුම් දත්ත (යෙදුම් මගින් ගබඩා කළ සැකසීම් සහ ගොනු යනාදී) උපස්ථ කිරීම සහ දුරස්ථ සේවාදායකවල සියලු පිටපත් මැකීම නවත්වන්නද?</string>
+    <string name="keywords_hotspot_tethering">usb ටෙදර්, බ්ලූටූත් ටෙදර්, WLAN හොට්ස්පොට්</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN දැනුම්දීම, wifi දැනුම්දීම</string>
+    <string name="location_neighborhood_level_wifi">WLAN මඟින් ස්ථානය හඳුනාගන්නා ලදි</string>
+    <string name="location_network_based">WLAN සහ ජංගම ජාල ස්ථාන</string>
+    <string name="location_scanning_screen_title">WLAN සහ බ්ලූටූත් ස්කෑන් කිරීම</string>
+    <string name="location_scanning_wifi_always_scanning_description">WLAN ක්‍රියාවිරහිත විට පවා, ඕනෑම අවස්ථාවක WLAN ජාල සඳහා ස්කෑන් කිරීමට යෙදුම් සහ සේවාවලට ඉඩ දෙන්න. උදාහරණයක් ලෙස, ස්ථානය-පදනම් වූ විශේෂාංග සහ සේවා වැඩි දියුණු කිරීම සඳහා මෙය භාවිත කළ හැකිය.</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN ස්කෑන් කිරීම</string>
+    <string name="lost_internet_access_cancel">WLAN හි සිටින්න</string>
+    <string name="lost_internet_access_text">ඔබට WLAN සඳහා අයහපත් සම්බන්ධතාවක් ඇති ඕනෑම අවස්ථාවක ජංගම ජාලයට මාරු විය හැකිය. දත්ත භාවිතය අදාළ විය හැකිය.</string>
+    <string name="lost_internet_access_title">අන්තර්ජාලය වෙත WLAN සම්බන්ධ වී නැත</string>
+    <string name="mobile_data_always_on_summary">WLAN අක්‍රිය විට පවා, සැම විටම ජංගම දත්ත ක්‍රියාකාරීව තබන්න (අවසන් ජාල මාරුව සඳහා).</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN සහායක වෙනස් කරන්නද?</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_controls_summary">WLAN, බ්ලූටූත්, ගුවන්යානා ආකාරය, ජංගම ජාල, සහ VPN කළමනාකරණය</string>
+    <string name="radio_info_ims_reg_status">"IMS ලියාපදිංචි කිරීම: %1$s
+වොයිස් ඕවර් LTE: %2$s
+වොයිස් ඕවර් WLAN: %3$s
+වීඩියෝ ඇමතුම්: %4$s
+UT අතුරුමුහුණත: %5$s"</string>
+    <string name="reset_network_desc">"මෙය, පහත ඒවා ඇතුළුව සියලු ජාල සැකසීම් යළි සකසනු ඇත:
+
+"<li>WLAN</li>"
+"<li>ජංගම දත්ත</li>"
+"<li>බ්ලූටූත්</li></string>
+    <string name="reset_network_title">WLAN, ජංගම, බ්ලූටූත් යළි සකසන්න</string>
+    <string name="restriction_wifi_config_summary">WLAN සහ ජංගම සැකසීම් වෙනස් කිරීමට ඉඩ දෙන්න</string>
+    <string name="restriction_wifi_config_title">WLAN සහ ජංගම</string>
+    <string name="scanning_status_text_wifi_off_ble_off">WLAN සහ බ්ලූටූත් ස්කෑන් කිරීම් දෙකම ක්‍රියාවිරහිත කරන්න</string>
+    <string name="scanning_status_text_wifi_off_ble_on">බ්ලූටූත් ස්කෑන් කිරීම සක්‍රීයයි, WLAN ස්කෑන් කිරීම අක්‍රියයි</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN ස්කෑන් කිරීම සක්‍රීයයි, බ්ලූටූත් ස්කෑන් කිරීම අක්‍රියයි</string>
+    <string name="scanning_status_text_wifi_on_ble_on">WLAN සහ බ්ලූටූත් ස්කෑන් කිරීම් දෙකම සක්‍රීයයි</string>
+    <string name="status_wifi_mac_address">WLAN MAC ලිපිනය</string>
+    <string name="usage_type_data_wifi_recv">ලැබුණු WLAN පැකට්</string>
+    <string name="usage_type_data_wifi_send">යැවූ WLAN පැකට්</string>
+    <string name="usage_type_wifi_running">WLAN ධාවනය</string>
+    <string name="user_add_user_message_long">"අමතර පරිශීලකයින් නිර්මාණය කිරීම මඟින් වෙනත් පුද්ගලයන් සමඟ මෙම උපාංගය ඔබට බෙදා ගත හැකිය. සෑම පරිශීලකයෙක්ටම ඔවුන්ගේම යෙදුම්, වෝල්පේපර, සහ වෙනත් ඒවා අභිරුචි කළ හැකි තමන්ට අයිති ඉඩක් ඇත. පරිශීලකයින්ට WLAN වැනි සෑම දෙනාටම බලපාන උපාංග සැකසීම්ද සීරුමාරු කළ හැක.
+
+ඔබ නව පරිශීලකයෙකු එක් කළ විට ඔවුන්ගේ ඉඩ එම පුද්ගලයා සකසා ගත යුතු වේ.
+
+ඕනෑම පරිශීලකයෙකුට අනෙක් සියලු පරිශීලකයන් සඳහා යෙදුම් යාවත්කාලීන කළ හැකිය. ප්‍රවේශයතා සැකසීම් සහ සේවා නව පරිශීලකයා වෙත මාරු නොකරනු ඇත."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"WLAN ඇමතුම ඔස්සේ හදිසි ඇමතුම්වලට ඔබේ වාහකයා සහය නොදක්වයි.
+උපාංගය හදිසි ඇමතුමක් කිරීමට ස්වයංක්‍රීයව සෙලියුලර් ජාලයකට මාරු වෙයි.
+හදිසි ඇමතුම් හැකි වන්නේ සෙලියුලර් ආවරණය සහිත ප්‍රදේශවල පමණයි."</string>
+    <string name="wfc_provisioned_switch_string">WLAN ඇමතුම් ප්‍රතිපාදනය</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN ජාල</string>
+    <string name="wifi_advanced_not_available">මෙම පරිශීලකයා සඳහා WLAN උසස් සැකසීම් නැත</string>
+    <string name="wifi_advanced_settings_label">IP සැකසීම්</string>
+    <string name="wifi_advanced_titlebar">උසස් WLAN</string>
+    <string name="wifi_ap_band_select_one">WLAN හොට්ස්පොට් සඳහා අවම වශයෙන් එක් කලාපයක් තෝරන්න:</string>
+    <string name="wifi_ask_disable">%s හට WLAN ක්‍රියාවිරහිත කිරීමට අවශ්‍යය</string>
+    <string name="wifi_ask_enable">%s හට WLAN ක්‍රියාත්මක කිරීමට අවශ්‍යය</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">ජංගම ජාලය නොලැබේ නම්, WLAN භාවිත කරන්න</string>
+    <string name="wifi_calling_mode_wifi_only_summary">WLAN ඔස්සේ ඇමතුම. WLAN අහිමි වූයේ නම්, ඇමතුම අවසන් වෙයි.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">WLAN නොලැබේ නම්, ජංගම ජාලය භාවිත කරන්න</string>
+    <string name="wifi_calling_not_supported">WLAN ඇමතුම %1$s සඳහා සහාය නොදේ</string>
+    <string name="wifi_calling_off_explanation">WLAN ඇමතීම සක්‍රීය වූ විට, ඔබේ දුරකථනයට ඔබේ මනාපයට සහ සංඥා ප්‍රබලතාවට අනුව, WLAN ජාල හරහා හෝ ඔබේ වාහකයේ ජාලය හරහා ඇමතුම් ප්‍රතියොමු කළ හැක. මෙම විශේෂාංගය සක්‍රීය කිරීමට පෙර, ගාස්තු සහ අනෙකුත් විස්තර පිළිබඳව ඔබේ වාහකය සමඟ පරීක්‍ෂා කර ගන්න.%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">WLAN ඇමතුම සක්‍රිය කරන්න</string>
+    <string name="wifi_calling_settings_title">WLAN ඇමතීම</string>
+    <string name="wifi_calling_suggestion_summary">ආවරණය පුළුල් කිරීමට WLAN ඇමතුම් ක්‍රියාත්මක කරන්න</string>
+    <string name="wifi_calling_suggestion_title">WLAN සමඟ ඇමතුම් දිගු කරන්න</string>
+    <string name="wifi_calling_summary">තත්ත්‍වය වැඩිදියුණු කිරීමට ඇමතුම් සඳහා WLAN භාවිත කරන්න</string>
+    <string name="wifi_calling_turn_on">WLAN ඇමතුම ක්‍රියාත්මක කරන්න</string>
+    <string name="wifi_carrier_connect">වාහක WLAN ජාලය</string>
+    <string name="wifi_cellular_data_fallback_summary">WLAN සඳහා අන්තර්ජාල සබැඳුම නැති විට ජංගම දත්ත භාවිත කරන්න. දත්ත භාවිතය අදාළ විය හැකිය.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN ස්වයංක්‍රියව නැවත සබල වෙන්නේ නොමැත</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN ස්වයංක්‍රියව නැවත සබල වේ</string>
+    <string name="wifi_configure_settings_preference_title">WLAN මනාප</string>
+    <string name="wifi_data_template">WLAN දත්ත ^1</string>
+    <string name="wifi_data_usage">WLAN දත්ත භාවිතය</string>
+    <string name="wifi_disabled_wifi_failure">WLAN සම්බන්ධතාව අසාර්ථකයි</string>
+    <string name="wifi_dpp_add_device_to_wifi">මෙම උපාංගය “%1$s”ට එක් කරන්නේද?</string>
+    <string name="wifi_dpp_center_qr_code">උපාංගය “%1$s” වෙත එක් කිරීමට පහත QR කේතය කේන්‍ද්‍රගත කරන්න</string>
+    <string name="wifi_dpp_failure_not_supported">“%1$s” එක් කිරීමට මෙම උපාංගයෙන් සහය නොදැක්වේ</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">“%1$s” වෙත සම්බන්ධ කිරීමට මෙම QR කේතය ස්කෑන් කරන්න</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">“%1$s” වෙත සම්බන්ධ කිරීමට පහත සඳහන් QR කේතය කේන්‍ද්‍රගත කරන්න</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">QR කේතයක් ස්කෑන් කිරීමෙන් WLAN වෙත එකතු වන්න</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">“%1$s” වෙත සම්බන්ධ කිරීමටත් මුරපදය බෙදා ගැනීමටත් මෙම QR කේතය ස්කෑන් කරන්න</string>
+    <string name="wifi_dpp_share_wifi">WLAN බෙදා ගන්න</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">මෙම උපාංගය සමඟ WLAN බෙදා ගනිමින්…</string>
+    <string name="wifi_dpp_wifi_password">WLAN මුරපදය: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">උපාංගය සමඟ WLAN බෙදා ගත්තා</string>
+    <string name="wifi_empty_list_user_restricted">WLAN ජාලය වෙනස් කිරීමට ඔබට අවසර නැත.</string>
+    <string name="wifi_empty_list_wifi_off">ලබා ගත හැකි ජාල බැලීමට WLAN සක්‍රිය කරන්න.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN සඳහා පරිලෝකනය කරමින්…</string>
+    <string name="wifi_hotspot_auto_off_summary">උපාග සම්බන්ධ කර නැතිනම් WLAN හොට්ස්පොට් ක්‍රියාවිරහිත වනු ඇත</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN හොට්ස්පොට්</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN හොට්ස්පොට් සැකසුම</string>
+    <string name="wifi_hotspot_footer_info_regular">ඔබගේ අනෙකුත් උපාංග සඳහා WLAN ජාලයක් තැනීමට හොට්ස්පොට් භාවිත කරන්න. හොට්ස්පොට් ඔබගේ ජංගම දත්ත සබැඳුම භාවිත කරමින් අන්තර්ජාල සපයයි. අමතර ජංගම දත්ත ගාස්තු අදාළ විය හැකිය.</string>
+    <string name="wifi_limit_optimizations_summary">WLAN මඟින් භාවිතා කර ඇති බැටරි ප්‍රමාණය සීමා කරන්න</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN සක්‍රිය කාලය</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">හොඳ අන්තර්ජාල සබැඳුමක් නොමැති නම් WLAN ජාලය භාවිත නොකරන්න.</string>
+    <string name="wifi_quick_toggle_summary">WLAN සක්‍රිය කරන්න</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"ස්ථාන නිරවද්‍යතාව වැඩිදියුණු කිරීමටත් වෙනත් අරමුණු සඳහාත් නොදන්නා යෙදුමකට WLAN අක්‍රියව තිබෙන විටත් ජාල ස්කෑන් කිරීම සක්‍රීය කිරීමට අවශ්‍යයි.
+
+ස්කෑන් කිරීම අවශ්‍ය කරන සියලුම යෙදුම්වලට මෙයට ඉඩ දෙන්නේද?"</string>
+    <string name="wifi_scan_always_turnon_message">"ස්ථාන නිරවද්‍යතාවය වැඩි කිරීමට සහ වෙනත් අරමුණු සඳහා, WLAN අක්‍රිය වුවද %1$s  හට ජාල පරිලෝකනය සක්‍රිය කිරීමට අවශ්‍යය. 
+
+පරිලෝකනය අවශ්‍ය සියලු යෙදුම් සඳහා මෙයට අවසර දෙන්නේ ද?"</string>
+    <string name="wifi_scan_notify_text">ස්ථාන නිරවද්‍යතාව වැඩි දියුණු කිරිමට, WLAN ක්‍රියාවිරහිත විට පවා, ඕනෑම අවස්ථාවක WLAN ජාල සඳහා ස්කෑන් කිරීමට යෙදුම් සහ සේවාවලට හැකිය. උදාහරණයක් ලෙස, ස්ථානය-පදනම් වූ විශේෂාංග සහ සේවා වැඩි දියුණු කිරීම සඳහා මෙය භාවිත කළ හැකිය. ඔබට මෙය LINK_BEGINස්කෑන් කිරීමේ සැකසීම්LINK_END තුළ වෙනස් කළ හැකිය.</string>
+    <string name="wifi_scan_notify_text_scanning_off">ස්ථාන නිරවද්‍යතාව වැඩිදියුණු කිරීමට, LINK_BEGINස්කෑන් කිරීමේ සැකසීම්LINK_END තුළ WLAN ස්කෑන් කිරීම ක්‍රියාත්මක කරන්න.</string>
+    <string name="wifi_scan_throttling">WLAN ස්කෑන් අවකරණය</string>
+    <string name="wifi_select_network">WLAN තෝරන්න</string>
+    <string name="wifi_setting_on_during_sleep_title">නිද්‍රාව අතරතුර WLAN ක්‍රියාත්මකයි</string>
+    <string name="wifi_setting_sleep_policy_title">නිද්‍රාව අතරතුර WLAN සක්‍රියව තබන්න</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN සැකසුම්</string>
+    <string name="wifi_settings_master_switch_title">WLAN භාවිත කරන්න</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN ස්කෑන් කිරීම ක්‍රියාත්මකයි</string>
+    <string name="wifi_settings_scanning_required_info">WLAN ක්‍රියාවිරහිත විට පවා, ඕනෑම අවස්ථාවක WLAN ජාල සඳහා ස්කෑන් කිරීමට Wi011Fi ස්කෑන් කිරීම යෙදුම් සහ සේවාවලට ඉඩ දෙයි. උදාහරණයක් ලෙස, ස්ථානය-පදනම් වූ විශේෂාංග සහ සේවා වැඩි දියුණු කිරීම සඳහා මෙය භාවිත කළ හැකිය.</string>
+    <string name="wifi_settings_scanning_required_summary">WLAN ස්වයංක්‍රියව ක්‍රියාත්මක කිරීමට, ඔබ පළමුව WLAN ස්කෑන් කිරීම ක්‍රියාත්මක කිරිම අවශ්‍යයි.</string>
+    <string name="wifi_settings_scanning_required_title">WLAN ස්කෑන් කිරීම ක්‍රියාත්මක කරන්නද?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN සක්‍රිය කරමින්...</string>
+    <string name="wifi_stopping">WLAN අක්‍රිය කරමින්...</string>
+    <string name="wifi_suspend_optimizations">WLAN ප්‍රශස්තකරණය</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN සක්‍රිය විට බැටරි භාවිතය අවම කරන්න</string>
+    <string name="wifi_switch_away_when_unvalidated">WLAN සඳහා අන්තර්ජාල ප්‍රවේශය නැති වුවහොත් ජංගම දත්තවලට මාරු වෙන්න.</string>
+    <string name="wifi_tether_configure_ap_text">WLAN හොට්ස්පොට් එක සකසන්න</string>
+    <string name="wifi_tether_failed_subtext">ජංගම WLAN හොට්ස්පොට් දෝෂය</string>
+    <string name="wifi_turned_on_message">WLAN සක්‍රීයයි</string>
+    <string name="wifi_verbose_logging">විස්තරාත්මක WLAN ලොග් කිරීම සබල කරන්න</string>
+    <string name="wifi_verbose_logging_summary">WLAN ලොග් මට්ටම වැඩි කරන්න, WLAN තෝරනයෙහි SSID RSSI අනුව පෙන්වන්න</string>
+    <string name="wifi_wakeup">WLAN ස්වයංක්‍රියව නැවත සබල කරන්න</string>
+    <string name="wifi_wakeup_summary">ඔබගේ නිවෙස් ජාලය වැනි සුරැකි ඉහළ ගුණත්ව ජාල අවට ස්වයංක්‍රියව නැවත WLAN සබල කරන්න</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">WLAN ස්කෑන් කිරීම ක්‍රියාවිරහිත කර ඇති නිසා ලබා ගත නොහැකිය</string>
+</resources>

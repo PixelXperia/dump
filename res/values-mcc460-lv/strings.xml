@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Jūsu ierīces nosaukums ir redzams tālrunī instalētajām lietotnēm. Ja izveidosiet savienojumu ar Bluetooth ierīcēm vai iestatīsiet WLAN tīklāju, tas būs redzams arī citām personām.</string>
+    <string name="accessibility_no_wifi">WLAN savienojums pārtraukts</string>
+    <string name="accessibility_wifi_off">WLAN savienojums izslēgts</string>
+    <string name="accessibility_wifi_one_bar">WLAN: viena josla</string>
+    <string name="accessibility_wifi_signal_full">Pilna piekļuve WLAN signālam</string>
+    <string name="accessibility_wifi_three_bars">WLAN: trīs joslas</string>
+    <string name="accessibility_wifi_two_bars">WLAN: divas joslas</string>
+    <string name="backup_data_summary">Dublēt lietotnes datus, WLAN paroles un citus iestatījumus Google serveros</string>
+    <string name="backup_erase_dialog_message">Vai pārtraukt WLAN paroļu, grāmatzīmju, lietotņu datu un citu iestatījumu dublēšanu un dzēst visas to kopijas Google serveros?</string>
+    <string name="battery_action_wifi">WLAN iestatījumi</string>
+    <string name="battery_desc_wifi">WLAN izmantošanas laikā patērētā akumulatora jauda</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Izslēdziet WLAN, kad to neizmantojat vai kad tas nav pieejams.</string>
+    <string name="battery_usm_desc">"Ultra STAMINA režīms būtiski pagarina akumulatora darbības laiku. Ņemiet vērā, ka tiek atspējots interneta savienojums, izmantojot WLAN un mobilos datus, tāpēc nav pieejamas tādas funkcijas kā datu sinhronizācija un WLAN zvani. Sākuma ekrāns tiek nomainīts pret Ultra STAMINA režīma sākuma ekrānu.
+
+Ultra STAMINA režīmā pieejamās lietotnes"</string>
+    <string name="battery_usm_desc_variable">"Ultra STAMINA režīms būtiski pagarina akumulatora darbības laiku. Ņemiet vērā, ka tiek atspējots interneta savienojums, izmantojot WLAN un mobilos datus, tāpēc nav pieejamas tādas funkcijas kā datu sinhronizācija un %s. Sākuma ekrāns tiek nomainīts pret Ultra STAMINA režīma sākuma ekrānu.
+
+Pieejamās lietotnes Ultra STAMINA režīmā"</string>
+    <string name="bluetooth_on_time">WLAN uz laiku</string>
+    <string name="bs_feature_wifi">WLAN izslēgts</string>
+    <string name="change_wifi_state_app_detail_summary">Atļaut šai lietotnei ieslēgt vai izslēgt savienojumu ar WLAN, meklēt un izveidot savienojumu ar WLAN tīkliem, pievienot vai noņemt tīklus vai izveidot vietējo tīklāju.</string>
+    <string name="change_wifi_state_app_detail_switch">Atļaut lietotnei pārvaldīt savienojumu ar WLAN</string>
+    <string name="change_wifi_state_title">WLAN pārvaldība</string>
+    <string name="condition_bg_data_summary">Fona dati ir pieejami, izmantojot tikai WLAN savienojumu. Tas var ietekmēt dažu lietotņu vai pakalpojumu darbību, kad Wi-Fī tīkls nav pieejams.</string>
+    <string name="condition_cellular_summary">Internets ir pieejams, izmantojot tikai WLAN savienojumu</string>
+    <string name="connected_via_app">Savienojums ar %1$s</string>
+    <string name="credential_for_wifi">Instalēts WLAN konfigurācijai</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN savienots</string>
+    <string name="cw_network_notification">Iespējot CT WLAN paziņojumu</string>
+    <string name="cw_network_priority">Prioritāte China Telecom WLAN</string>
+    <string name="cw_network_priority_summary">China Telecom WLAN tīkliem tiks noteikta prioritāte pār citiem savienojuma WLAN tīkliem</string>
+    <string name="data_service_except_mms_disabled_warning_txt">Ja vien neizmantojat WLAN, vairs nevarēsit izmantot internetu, e-pastu vai citas lietotnes, kam ir nepieciešams datu savienojums. Vai izslēgt mobilo datu savienojumu?</string>
+    <string name="data_traffic_disabled_text">Nevarēja izveidot savienojumu ar China Telecom WLAN tīkliem, jo ir atspējota datplūsma. Vai iespējot datplūsmu tagad?</string>
+    <string name="data_usage_app_summary_title">Mobilie dati un WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Iest. WLAN datu ierobež.</string>
+    <string name="data_usage_menu_hide_wifi">Slēpt WLAN</string>
+    <string name="data_usage_menu_show_wifi">Parādīt WLAN</string>
+    <string name="data_usage_metered_wifi">WLAN maksas tīkli</string>
+    <string name="data_usage_metered_wifi_disabled">Lai atlasītu maksas tīklus, ieslēdziet WLAN.</string>
+    <string name="data_usage_restrict_background">Ierobežojot mobilos fona datus, dažas lietotnes un pakalpojumi nedarbosies, ja nebūs savienojuma ar WLAN tīklu.</string>
+    <string name="data_usage_restrict_background_multiuser">"Ierobežojot mobilos fona datus, dažas lietotnes un pakalpojumi nedarbosies, ja nebūs savienojuma ar WLAN tīklu.
+
+Šis iestatījums ietekmē visus šī tālruņa lietotājus."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 patērēts, izmantojot WLAN savienojumu</string>
+    <string name="data_usage_wifi_title">WLAN datu apjoms</string>
+    <string name="dialog_message_hint">"STAMINA režīms ietver:
+
+• Paplašinātais gaidīšanas režīms
+Taupa enerģiju, kad īslaicīgi atspējota WLAN un mobilo datu tīkla dēļ ir izslēgts ekrāns. Vairākums lietotņu nebūs aktīvas.
+Kad ekrāns būs ieslēgts, tālrunis darbosies, kā parasti.
+Ja vēlaties, lai dažas lietotnes darbotos tad, kad ir ieslēgts paplašinātais gaidīšanas režīms, pievienojiet šīs lietotnes sarakstam GAIDĪŠANAS REŽĪMĀ AKTĪVĀS LIETOTNES.
+
+• Paplašinātais lietojums
+Ierobežojot aparatūras darbību, taupa enerģiju, kad ierīce tiek lietota.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Kas ir STAMINA režīms?</u>"
+STAMINA režīms ir Sony enerģijas taupīšanas funkcija. Šis režīms nodrošina ilgāku akumulatora darbības laiku, atspējojot funkcionalitāti, kad ekrāns ir izslēgts.
+
+"<u>Pamata lietošana</u>"
+Lai aktivizētu STAMINA režīmu, izmantojiet ekrānā redzamo pogu.
+Kad ekrāns būs izslēgts, WLAN un mobilā tīkla dati tiks īslaicīgi atspējoti un vairākums lietotņu nebūs aktīvas, lai taupītu akumulatora enerģiju.
+Kad ekrāns būs ieslēgts, ierīce darbosies kā parasti.
+
+"<u>Uzlabotā lietošana</u>"
+Ja vēlaties, lai dažas lietotnes būtu aktīvas pat tad, kad STAMINA režīms ir aktivizēts, lūdzu, pievienojiet tās sarakstam GAIDĪŠANAS REŽĪMĀ AKTĪVĀS LIETOTNES.
+Lietotnes var nedarboties atbilstoši, ja netiks pievienotas sarakstam.
+
+"<u>Piezīme</u>"
+Ja lietotne nedarbojas pareizi, pievienojiet to sarakstam GAIDĪŠANAS REŽĪMĀ AKTĪVĀS LIETOTNES. Ja tas nelīdz, deaktivizējiet STAMINA režīmu."</string>
+    <string name="emergency_address_summary">Tiks izmantota kā jūsu atrašanās vieta, ja zvanīsiet uz ārkārtas numuru, lietojot WLAN.</string>
+    <string name="fullbackup_data_summary">"Ierīces dati (piemēram, WLAN paroles un zvanu vēsture) un lietotņu dati (piemēram, iestatījumi un lietotnēs uzglabātie faili) tiek automātiski attālināti dublēti.
+
+Kad esat ieslēdzis automātisko dublēšanu, ierīces un lietotņu dati tiek regulāri attālināti saglabāti. Lietotņu dati var būt jebkādi lietotnēs saglabātie dati (atkarībā no izstrādātāja iestatījumiem), tostarp potenciāli sensitīvi dati, piemēram, informācija par kontaktpersonām, ziņojumi un fotoattēli."</string>
+    <string name="fullbackup_erase_dialog_message">Vai pārtraukt ierīces datu (piemēram, WLAN paroļu un zvanu vēstures) un lietotņu datu (piemēram, lietotņu iestatījumu un saglabāto failu) dublēšanu un dzēst visas to kopijas attālajos serveros?</string>
+    <string name="install_wapi_certs">Instalēt WLAN sertifikātus</string>
+    <string name="keywords_change_wifi_state">WLAN, WLAN, pārslēgt, pārvaldība</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN paziņojumi, WLAN paziņojumi</string>
+    <string name="l_dialog_message_hint">"STAMINA režīma funkcijas
+
+• Ilgāks darbības laiks gaidīšanas režīmā
+Kad ekrāns ir izslēgts, taupa enerģiju, īslaicīgi atspējojot WLAN. Lielākā daļa lietotņu nav aktīvas.
+Ieslēdzot ekrānu, ierīce darbojas kā parasti.
+Ja vēlaties, lai noteiktas lietotnes darbotos arī pēc tam, kad ir iespējots ilgāks darbības laiks gaidīšanas režīmā, pievienojiet lietotnes sarakstam Gaidīšanas režīmā aktīvās lietotnes.
+
+• Ilgāks lietošanas laiks
+Taupa enerģiju ierīces lietošanas laikā, ierobežojot aparatūras veiktspēju."</string>
+    <string name="location_based_wifi">Atrašanās vietas WLAN</string>
+    <string name="location_neighborhood_level_wifi">WLAN noteikta atrašanās vieta</string>
+    <string name="location_network_based">WLAN un mob. tīklu atr. vieta</string>
+    <string name="location_scanning_screen_title">WLAN un Bluetooth meklēšana</string>
+    <string name="location_scanning_wifi_always_scanning_description">Ļauj lietotnēm un pakalpojumiem meklēt WLAN tīklus vienmēr, pat ja WLAN ir izslēgts. Šo iestatījumu var izmantot, piemēram, lai uzlabotu atrašanās vietas funkcijas un pakalpojumus.</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN meklēšana</string>
+    <string name="lost_internet_access_cancel">Turpināt izmantot WLAN</string>
+    <string name="lost_internet_access_text">Varat pārslēgties uz mobilo tīklu ikreiz, kad ir slikts WLAN savienojums. Var tikt piemērota maksa par datu lietojumu.</string>
+    <string name="lost_internet_access_title">WLAN nav savienots ar internetu.</string>
+    <string name="mobile_data_always_on_summary">Mobilo datu savienojums būs vienmēr aktīvs, pat ja būs aktīvs WLAN savienojums (ātrai ierīces pārslēgšanai uz citu tīklu).</string>
+    <string name="network_scorer_change_active_dialog_title">Vai mainīt WLAN palīgu?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Lai kopīgotu pašlaik izmantoto WLAN tīklu, iestatījumos atlasiet opciju “Kopīgot WLAN inform.”.</string>
+    <string name="nfc_wifi_share_checkbox">Kopīgot WLAN inform.</string>
+    <string name="nfc_wifi_share_title_txt">Koplietot WLAN informāciju</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Automātiski izveidot savienojumu ar AT&amp;T™ WLAN tīklāju</string>
+    <string name="operator_auto_connect_hotspot_txt">Aut. sav. ar AT&amp;T™ WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">Ja vien neizmantojat WLAN, vairs nevarēsit izmantot internetu, e-pastu vai citas lietotnes, kam ir nepieciešams datu savienojums. Vai izslēgt mobilo datu savienojumu?</string>
+    <string name="powersaver_feature_wifi">WLAN izslēgts</string>
+    <string name="radio_controls_summary">WLAN, Bluetooth, lidojuma režīma, mobilo tīklu un VPN pārvaldība</string>
+    <string name="radio_info_ims_reg_status">"Tūlītējās ziņojumapmaiņas reģistrācija: %1$s
+Balss pārraide ar LTE: %2$s
+Balss pārraide ar WLAN: %3$s
+Videozvani: %4$s
+UT interfeiss: %5$s"</string>
+    <string name="reset_network_desc">"Tādējādi tiks atiestatīti visi tīkla iestatījumi, tostarp:
+
+"<li>WLAN;</li>"
+"<li>mobilie dati;</li>"
+"<li>Bluetooth.</li></string>
+    <string name="restriction_wifi_config_summary">Atļaut WLAN un mobilā tīkla iestatījumu pārveidošanu</string>
+    <string name="restriction_wifi_config_title">WLAN un mobilais tīkls</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Gan WLAN, gan Bluetooth meklēšana ir izslēgta</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Bluetooth meklēšana ir ieslēgta, un WLAN meklēšana ir izslēgta</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN meklēšana ir ieslēgta, un Bluetooth meklēšana ir izslēgta</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Gan WLAN, gan Bluetooth meklēšana ir ieslēgta</string>
+    <string name="somc_backup_failed_no_wifi_summary">Gaida WLAN savienojumu</string>
+    <string name="somc_wifi_turned_on_info">WLAN ir iespējots. Sarakstā atlasiet tīklu.</string>
+    <string name="stamina_xssm_summary">Atspējo mobilos datus un WLAN, ja ir izslēgts ekrāns</string>
+    <string name="status_wifi_mac_address">WLAN MAC adrese</string>
+    <string name="tethering_no_sim_warning_txt">Lūdzu, ievietojiet SIM karti, lai tālruņa datu savienojumu kopīgotu ar citām ierīcēm, izmantojot mobilo WLAN tīklāju vai USB saistīšanu interneta piekļuvei.</string>
+    <string name="usage_type_data_wifi_recv">Saņemtās WLAN datu paketes</string>
+    <string name="usage_type_data_wifi_send">Nosūtītās WLAN datu paketes</string>
+    <string name="usage_type_wifi_running">WLAN darbojas</string>
+    <string name="user_add_user_message_long">"Varat koplietot šo ierīci ar citām personām, izveidojot papildu lietotājus. Katram lietotājam ir sava vide, kas ir pielāgojama, izmantojot lietotnes, fona tapetes u.c. Lietotāji var pielāgot arī ierīces iestatījumus, kas attiecas uz visiem lietotājiem, piemēram, WLAN.
+
+Kad pievienosiet jaunu lietotāju, viņam būs jāizveido sava vide.
+
+Ikviens lietotājs var atjaunināt lietotnes citu lietotāju vietā. Pieejamības iestatījumi un pakalpojumi var netikt pārsūtīti jaunajam lietotājam."</string>
+    <string name="usm_descr">"Režīms Ultra STAMINA ievērojami pagarina akumulatora kalpošanas laiku. To var izmantot brīžos, kad ilgstoši nevarat uzlādēt ierīci.
+
+Šajā režīmā ir pieejamas tikai dažas pamatfunkcijas, piemēram, Tālrunis un Ziņapmaiņa. Piesitiet vienumam Papildinformācija, lai uzzinātu vairāk.
+
+Ņemiet vērā, ka tiek atspējots WLAN savienojums ar internetu un mobilie dati."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Nav iespējams veikt ārkārtas zvanus, izmantojot WLAN zvanīšanu.
+Ierīce automātiski pārslēdzas uz mobilo tīklu (2G/3G), lai veiktu ārkārtas zvanus.
+Ārkārtas zvani ir pieejami tikai vietās ar mobilo pārklājumu."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">Ārkārtas zvani, izmantojot WLAN zvanīšana</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Zvan., izm. Vodafone WLAN</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"Lai ieslēgtu WLAN zvanus, jāieslēdz funkcija Atrašanās vieta un jāatlasa režīms Augsta precizitāte vai Akumulatora jaudas taupīšana.
+
+Pārliecinieties, ka WLAN zvanu laikā funkcija Atrašanās vieta paliek ieslēgta."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Nav iespējams veikt ārkārtas zvanus, izmantojot WLAN zvanīšanu.
+Ierīce automātiski pārslēdzas uz mobilo tīklu (2G/3G), lai veiktu ārkārtas zvanus.
+Ārkārtas zvani ir pieejami tikai vietās ar mobilo pārklājumu."</string>
+    <string name="wfc_location_info_dialog_desc_txt">Lai veiktu WLAN zvanus neatkarīgi no tā, vai iestatījums Atrašanās vieta ir iespējots vai nav, informācija par jūsu atrašanās vietu var tikt nosūtīta uzņēmumam Google un mobilo sakaru operatoram.</string>
+    <string name="wfc_provisioned_switch_string">WLAN zvani ir nodrošināti</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN tīkli</string>
+    <string name="wifi_advanced_not_available">WLAN papildu iestatījumi šim lietotājam nav pieejami.</string>
+    <string name="wifi_advanced_settings_label">WLAN iestatījumi</string>
+    <string name="wifi_advanced_titlebar">Papildu WLAN</string>
+    <string name="wifi_ap_band_select_one">Izvēlieties vismaz vienu joslu WLAN tīklājam:</string>
+    <string name="wifi_ask_disable">Lietotnē %s tiek mēģināts izslēgt WLAN savienojumu.</string>
+    <string name="wifi_ask_enable">Lietotnē %s tiek mēģināts ieslēgt WLAN savienojumu.</string>
+    <string name="wifi_auto_network_switch_setting_msg">Automātiski pārslēdziet uz izvēlēto tīklu, ja ir pieejams gan WLAN, gan mobilais tīkls</string>
+    <string name="wifi_calling_link_to_register_emergency_address">Noklikšķiniet šeit, lai reģistrētos WLAN zvaniem vai atjauninātu pašreizējo ārkārtas adresi</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Ja mobilais tīkls nav pieejams, izmantot WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Zvans WLAN tīklā. Ja WLAN savienojums tiks zaudēts, zvans beigsies.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Ja WLAN savienojums nav pieejams, izmantot mobilo tīklu</string>
+    <string name="wifi_calling_not_supported">Mobilo sakaru operators %1$s neatbalsta WLAN zvanus.</string>
+    <string name="wifi_calling_off_explanation">"Izmantojiet WLAN zvanīšanu, lai uzlabotu zvanu kvalitāti vietās, kur ir slikts mobilā tīkla pārklājums.
+
+Izmaksas
+Lai iegūtu informāciju par maksu par WLAN zvanīšanu, lūdzu, sazinieties ar pakalpojumu sniedzēju.
+
+Piezīmes par WLAN zvanīšanu
+Lai turpinātu izmantot WLAN zvanīšanu, neizejiet no WLAN tīkla darbības zonas."</string>
+    <string name="wifi_calling_on_dialog_text">Lai lietotu WLAN zvanīšanu, iestatiet SIM 1 kā prioritāro SIM karti mobilajiem datiem</string>
+    <string name="wifi_calling_settings_activation_instructions">Aktivizējiet WLAN zvanus</string>
+    <string name="wifi_calling_settings_title">WLAN zvani</string>
+    <string name="wifi_calling_suggestion_summary">Ieslēdziet WLAN zvanus, lai paplašinātu pārklājumu</string>
+    <string name="wifi_calling_suggestion_title">Zvanīšana, izmantojot WLAN</string>
+    <string name="wifi_calling_summary">Zvaniem izmantot WLAN, lai uzlabotu kvalitāti</string>
+    <string name="wifi_calling_turn_on">Ieslēdziet WLAN zvanus</string>
+    <string name="wifi_carrier_connect">Mobilo sakaru operatora WLAN tīkls</string>
+    <string name="wifi_cellular_data_fallback_summary">Izmantojiet mobilo datu savienojumu, kad WLAN tīklā nav piekļuves internetam. Var tikt piemērota maksa par datu lietojumu.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN savienojums netiek automātiski atkārtoti ieslēgts.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN savienojums tiek automātiski atkārtoti ieslēgts.</string>
+    <string name="wifi_configure_settings_preference_title">WLAN preferences</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Mainīt WLAN sertifikātu</string>
+    <string name="wifi_data_template">^1 WLAN datu</string>
+    <string name="wifi_data_usage">WLAN datu lietojums</string>
+    <string name="wifi_disabled_wifi_failure">WLAN savienojuma kļūme</string>
+    <string name="wifi_dpp_add_device_to_wifi">Vai pievienot šo ierīci tīklam %1$s?</string>
+    <string name="wifi_dpp_center_qr_code">Lai izveidotu ierīces savienojumu ar %1$s, centrējiet tālāk norādīto QR kodu.</string>
+    <string name="wifi_dpp_failure_not_supported">“%1$s” pievienošana šajā ierīcē netiek atbalstīta</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Lai izveidotu savienojumu ar tīklu %1$s, skenējiet šo QR kodu</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Lai izveidotu savienojumu ar %1$s, centrējiet tālāk norādīto QR kodu.</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Lai pievienotos WLAN tīklam, skenējiet ātrās atbildes kodu.</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Lai izveidotu savienojumu ar tīklu “%1$s” un kopīgotu paroli, skenējiet šo QR kodu</string>
+    <string name="wifi_dpp_share_wifi">WLAN tīkla koplietošana</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Notiek WLAN kopīgošana ar šo ierīci…</string>
+    <string name="wifi_dpp_wifi_password">WLAN tīkla parole: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN tīkls ir kopīgots ar ierīci</string>
+    <string name="wifi_empty_list_user_restricted">Jums nav atļaujas mainīt WLAN tīklu.</string>
+    <string name="wifi_empty_list_wifi_off">Lai skatītu pieejamos tīklus, ieslēdziet WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Notiek WLAN tīklu meklēšana…</string>
+    <string name="wifi_hotspot_auto_off_summary">WLAN tīklājs tiks izslēgts, ja netiks pievienota neviena ierīce</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN tīklāja iestatīšana</string>
+    <string name="wifi_hotspot_footer_info_regular">Izmantojiet tīklāju, lai izveidotu WLAN tīklu citām savām ierīcēm. Tīklājs nodrošina internetu, izmantojot mobilo datu savienojumu. Var tikt piemērota papildu maksa par mobilo datu pārraidi.</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Automātiski veidot savienojumu ar pieejamajiem Passpoint tīkliem, kad WLAN ir ieslēgts</string>
+    <string name="wifi_limit_optimizations_summary">WLAN: akumulatora izmantošana</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN uz laiku</string>
+    <string name="wifi_p2p_settings">WLAN Direct iestatījumi</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Nelietot WLAN tīklu, ja vien tas nenodrošina labu interneta savienojumu</string>
+    <string name="wifi_quick_toggle_summary">Ieslēgt WLAN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Atrašanās vietas datu precizitātes uzlabošanas un citos nolūkos nezināma lietotne vēlas ieslēgt tīkla meklēšanu, pat ja WLAN ir izslēgts.
+
+Atļaut šo darbību visām lietotnēm, kuras vēlas meklēt tīklu?"</string>
+    <string name="wifi_scan_always_turnon_message">"Lai uzlabotu atrašanās vietu noteikšanas precizitāti, kā arī citas funkcijas, lietotnē %1$s tiek pieprasīts ieslēgt tīkla skenēšanu, pat ja WLAN savienojums ir izslēgts.
+
+Vai atļaut šo darbību visām lietotnēm, kurās tiek pieprasīta skenēšana?"</string>
+    <string name="wifi_scan_notify_text">Lai precīzāk noteiktu atrašanās vietu, lietotnes un pakalpojumi meklēs WLAN tīklus vienmēr, pat ja WLAN ir izslēgts. Šo iestatījumu var izmantot, piemēram, lai uzlabotu atrašanās vietas funkcijas un pakalpojumus. Varat to mainīt no LINK_BEGINmeklēšanas iestatījumiemLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Lai uzlabotu atrašanās vietas noteikšanas precizitāti, LINK_BEGINmeklēšanas iestatījumosLINK_END ieslēdziet WLAN meklēšanu.</string>
+    <string name="wifi_scan_throttling">WLAN meklēšanas ierobežošana</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">Aizsargāts ar WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Aizsargāts ar WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">Atlasīt WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN ieslēgts miega režīmā</string>
+    <string name="wifi_setting_sleep_policy_title">Aktivizēt WLAN arī miega režīmā</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN iestatījumi</string>
+    <string name="wifi_settings_master_switch_title">Izmantot WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN meklēšana ir ieslēgta</string>
+    <string name="wifi_settings_scanning_required_info">Veicot WLAN meklēšanu, lietotnes un pakalpojumi var meklēt WLAN tīklus vienmēr, pat ja WLAN savienojums ir izslēgts. Šo iestatījumu var izmantot, piemēram, lai uzlabotu atrašanās vietas funkcijas un pakalpojumus.</string>
+    <string name="wifi_settings_scanning_required_summary">Lai automātiski izslēgtu WLAN, vispirms iespējojiet WLAN meklēšanu.</string>
+    <string name="wifi_settings_scanning_required_title">Vai ieslēgt WLAN meklēšanu?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Notiek WLAN ieslēgšana...</string>
+    <string name="wifi_stopping">Notiek WLAN izslēgšana...</string>
+    <string name="wifi_suspend_optimizations">WLAN optimizācija</string>
+    <string name="wifi_suspend_optimizations_summary">Pēc iespējas samazināt akumulatora lietojumu, kad WLAN savienojums ir ieslēgts</string>
+    <string name="wifi_switch_away_when_unvalidated">Pārslēgties uz mobilajiem datiem, ja WLAN tīklā nav pieejams internets</string>
+    <string name="wifi_tether_settings_subtext">Iestatīt un pārvaldīt portatīvo WLAN tīklāju</string>
+    <string name="wifi_tether_settings_text">Portatīvā WLAN tīklāja iestatījumi</string>
+    <string name="wifi_tethering_warning_txt">Tiks pārtrauktas visas WLAN darbības, piemēram, multivides failu pārsūtīšana, tālruņa programmatūras atjaunināšana, dublēšana un atjaunošana.</string>
+    <string name="wifi_turned_on_message">WLAN ir ieslēgts</string>
+    <string name="wifi_verbose_logging">Iespējot WLAN detalizēto reģistrēšanu</string>
+    <string name="wifi_verbose_logging_summary">Palieliniet WLAN reģistrēšanas līmeni; rādīt katram SSID RSSI WLAN atlasītājā.</string>
+    <string name="wifi_wakeup">Automātiski ieslēgt WLAN</string>
+    <string name="wifi_wakeup_summary">WLAN tiks automātiski atkārtoti ieslēgts netālu no saglabātiem augstas kvalitātes tīkliem, piemēram, netālu no mājas tīkla.</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Nav pieejama, jo ir izslēgta WLAN meklēšana</string>
+    <string name="wifi_wps_category_title">WLAN tīkla iestatīšana</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN ir atvienots. Iestatīšana ir atcelta.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"Režīmā STAMINA tiek pielāgoti ierīces iestatījumi, lai samazinātu akumulatora enerģijas patēriņu. Varat izvēlēties, kuru lietotņu funkcionalitāti ierobežot miega režīmā. (Tādējādi varat taupīt akumulatora enerģiju, jo lielākā daļa lietotņu to patērē arī miega režīmā.)
+
+Atlasītajās lietotnēs tiek atspējotas šādas funkcijas:
+– WLAN;
+– mobilie dati;
+– taimeris.
+
+Miega režīmā visām lietotnēm ar vienādu frekvenci mirgo vienas krāsas paziņojuma indikators.
+
+Režīms STAMINA tiek deaktivizēts ierīces vadības laikā."</string>
+</resources>

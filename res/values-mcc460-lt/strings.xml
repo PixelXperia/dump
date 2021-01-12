@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Įrenginio pavadinimas matomas jūsų telefone esančioms programoms. Kai prisijungiate prie „Bluetooth“ įrenginių arba nustatote „WLAN“ viešosios interneto prieigos tašką, jį taip pat gali matyti kiti žmonės.</string>
+    <string name="accessibility_no_wifi">„WLAN“ atjungtas.</string>
+    <string name="accessibility_wifi_off">„WLAN“ išjungtas.</string>
+    <string name="accessibility_wifi_one_bar">Viena „WLAN“ signalo juosta.</string>
+    <string name="accessibility_wifi_signal_full">Stiprus „WLAN“ signalas.</string>
+    <string name="accessibility_wifi_three_bars">Trys „WLAN“ signalo juostos.</string>
+    <string name="accessibility_wifi_two_bars">Dvi „WLAN“ signalo juostos.</string>
+    <string name="backup_data_summary">„Google“ serveriuose kurti atsargines programos duomenų, „WLAN“ slaptažodžių ir kitų nustatymų kopijas</string>
+    <string name="backup_erase_dialog_message">Nebekurti atsarginių „WLAN“ slaptažodžių, žymių, kitų nustatymų ir programų duomenų kopijų ir ištrinti visas „Google“ serveriuose esančias kopijas?</string>
+    <string name="battery_action_wifi">„WLAN“ nustatymai</string>
+    <string name="battery_desc_wifi">„WLAN“ naudojamas akumuliatorius</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Išjungti „WLAN“, kai nenaudojama arba nepasiekiama</string>
+    <string name="battery_usm_desc">"Įjungus režimą „Ultra STAMINA“ gerokai pailgės akumuliatoriaus veikimo trukmė. Atkreipkite dėmesį: kadangi interneto ryšys naudojant „WLAN“ ir mobiliuosius duomenis bus pasyvintas, tokios funkcijos kaip duomenų sinchronizavimas ir skambinimas „WLAN“ ryšiu bus nepasiekiamos. Pagrindinis ekranas bus perjungiamas į režimo „Ultra STAMINA“ pagrindinį ekraną.
+
+Įrenginiui veikiant režimu „Ultra STAMINA“ pasiekiamos programos"</string>
+    <string name="battery_usm_desc_variable">"„Ultra STAMINA“ režimas žymiai padidins akumuliatoriaus veikimo trukmę. Atkreipkite dėmesį, kad interneto ryšiui veikiant per „WLAN“ ir mobiliesiems duomenims esant išjungtiems funkcijos, tokios kaip duomenų sinchronizavimas ir %s, neveiks. Jūsų pagrindinis ekranas bus perjungtas į „Ultra STAMINA“ režimo pagrindinį ekraną.
+
+Galimos programos „Ultra STAMINA“ režimu"</string>
+    <string name="bluetooth_on_time">„WLAN“ laiku</string>
+    <string name="bs_feature_wifi">„WLAN“ išjungtas</string>
+    <string name="change_wifi_state_app_detail_summary">Leiskite šiai programai įjungti arba išjungti „WLAN“, nuskaityti „WLAN“ tinklus ir prisijungti prie jų, pridėti ar pašalinti tinklus arba paleisti tik vietinį viešosios interneto prieigos tašką</string>
+    <string name="change_wifi_state_app_detail_switch">Leisti programai valdyti „WLAN“</string>
+    <string name="change_wifi_state_title">„WLAN“ valdymas</string>
+    <string name="condition_bg_data_summary">Foniniai duomenys pasiekiami tik prisijungus prie „WLAN“ ryšio. Tai gali paveikti kai kurias programas ar paslaugas, kai „WLAN“ ryšys nepasiekiamas.</string>
+    <string name="condition_cellular_summary">Internetas pasiekiamas tik naudojant „WLAN“ ryšį</string>
+    <string name="connected_via_app">Prisijungta naudojant programą „%1$s“</string>
+    <string name="credential_for_wifi">Įdiegta „WLAN“</string>
+    <string name="ct_wifi_connected_text">„China Telecom“ „WLAN“ prijungt.</string>
+    <string name="cw_network_notification">Akty. pran. apie KT „WLAN“</string>
+    <string name="cw_network_priority">Prioritet. „China Telecom“ „WLAN“</string>
+    <string name="cw_network_priority_summary">„China Telecom“ „WLAN“ tinklams bus teikiamas prioritetas, palyginti su kitais „WLAN“ tinklais</string>
+    <string name="data_service_except_mms_disabled_warning_txt">Jei nenaudosite „WLAN“, nebegalėsite naudotis internetu, el. paštu arba kitomis programomis, kurioms reikalingas duomenų ryšys. Išjungti mobilųjį duomenų ryšį?</string>
+    <string name="data_traffic_disabled_text">Nepavyko prisijungti prie „China Telecom“ „WLAN“ tinklų, nes pasyvintas duomenų srautas. Ar aktyvinti duomenų srautą dabar?</string>
+    <string name="data_usage_app_summary_title">Mob. r. duom. ir „WLAN“</string>
+    <string name="data_usage_disable_wifi_limit">Nust. „WLAN“ duom. aprib.</string>
+    <string name="data_usage_menu_hide_wifi">Slėpti „WLAN“</string>
+    <string name="data_usage_menu_show_wifi">Rodyti „WLAN“</string>
+    <string name="data_usage_metered_wifi">Matuojami „WLAN“ tinklai</string>
+    <string name="data_usage_metered_wifi_disabled">Kad galėtumėte pasirinkti matuojamus tinklus, įjunkite „WLAN“.</string>
+    <string name="data_usage_restrict_background">Jei apribosite mobiliojo ryšio foninius duomenis, kai kurios programos ir paslaugos neveiks, nebent prisijungsite prie „WLAN“ tinklo.</string>
+    <string name="data_usage_restrict_background_multiuser">"Jei apribosite mobiliojo ryšio foninius duomenis, kai kurios programos ir paslaugos neveiks, nebent prisijungsite prie „WLAN“ tinklo.
+
+Šis nustatymas paveiks visus šio telefono naudotojus."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 naudojama „WLAN“ tinkle</string>
+    <string name="data_usage_wifi_title">„WLAN“ duomenys</string>
+    <string name="dialog_message_hint">"Režimo STAMINA funkcijos:
+
+• Išplėstinis budėjimo režimas
+Kai ekranas išjungtas, taupo energiją laikinai išjungdamas „WLAN“ ir mobiliuosius duomenis. Dauguma programų bus neaktyvios.
+Įjungus ekraną, telefonas veiks įprastai.
+Jei norite, kad veikiant išplėstiniu budėjimo režimu dalis programų būtų aktyvios, įtraukite jas į sąrašą BUDĖJIMO REŽIMO AKTYVIOS PROGRAMOS.
+
+• Išplėstinis naudojimas
+Kai prietaisas naudojamas, taupo energiją apribodamas aparatūros veikimą.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Kas yra STAMINA režimas?</u>"
+STAMINA režimas – tai „Sony“ energijos taupymo funkcija. Ją naudojant pratęsiama akumuliatoriaus veikimo trukmė pasyvinant funkcijas, kai ekranas išjungtas.
+
+"<u>Pagrindinis naudojimas</u>"
+Norėdami įjungti STAMINA režimą, bakstelėkite ekrane esantį mygtuką.
+Išjungus ekraną, „WLAN“ ir mobilieji duomenys bus laikinai pasyvinti, o dauguma programų bus neaktyvios, kad būtų taupoma akumuliatoriaus energija.
+Įjungus ekraną, telefonas veiks įprastai.
+
+"<u>Papildomas naudojimas</u>"
+Jei norite, kad dalis programų būtų aktyvios, kai įjungtas STAMINA režimas, įtraukite jas į sąrašą BUDĖJIMO REŽIMO AKTYVIOS PROGRAMOS.
+Programų neįtraukus į sąrašą, jos gali neveikti tinkamai.
+
+"<u>Pastaba</u>"
+Jei programa netinkamai veikia, įtraukite ją į sąrašą BUDĖJIMO REŽIMO AKTYVIOS PROGRAMOS arba išjunkite STAMINA režimą."</string>
+    <string name="emergency_address_summary">Naudojama kaip vietos informacija, kai skambinate pagalbos numeriu naudodami „WLAN“</string>
+    <string name="fullbackup_data_summary">"Automatiškai nuotoliniu būdu sukurkite atsarginę įrenginio duomenų (pvz., „WLAN“ slaptažodžių ir skambučių istorijos) ir programų duomenų (pvz., programų nustatymų ir išsaugotų failų) kopiją.
+
+Kai įjungiate automatinę atsarginę kopiją, įrenginio ir programų duomenys periodiškai išsaugomi nuotoliniu būdu. Programų duomenys gali būti bet kurie programų išsaugoti duomenys (atsižvelgiant į kūrėjo nustatymus), įskaitant duomenis, kurie gali būti neskelbtini, pvz., kontaktai, pranešimai ir nuotraukos."</string>
+    <string name="fullbackup_erase_dialog_message">Nebekurti įrenginio duomenų (pvz., „WLAN“ slaptažodžių ir skambučių istorijos) ir programų duomenų (pvz., programų saugomų nustatymų ir failų) atsarginių kopijų ir ištrinti visas kopijas iš nuotolinių serverių?</string>
+    <string name="install_wapi_certs">Įdiegti WLAN sertifikatus</string>
+    <string name="keywords_wifi_calling">„WLAN“, skambinti, skambinama</string>
+    <string name="keywords_wifi_notify_open_networks">„WLAN“ pranešimas, „WLAN“ pranešimas</string>
+    <string name="l_dialog_message_hint">"STAMINA režimas užtikrina:
+
+• Ilgesnį budėjimą
+Taupoma energija, kai ekranas yra išjungtas, laikinai išjungiant „WLAN“. Daugelis programų bus neaktyvios.
+Įjungus ekraną įrenginys veiks įprastai.
+Jei norite, kad kai kurios programos veiktų įjungus ilgesnio budėjimo funkciją, įtraukite jas į aktyvių programų budėjimo režimu sąrašą.
+
+• Ilgesnį naudojimą
+Taupoma energija, kai įrenginys naudojamas, ribojant aparatūros veikimą."</string>
+    <string name="location_based_wifi">Vieta pagrįstas „WLAN“</string>
+    <string name="location_neighborhood_level_wifi">Vietą nustatė „WLAN“</string>
+    <string name="location_network_based">„WLAN“ ir mob. tinklo vietovė</string>
+    <string name="location_scanning_screen_title">„WLAN“ ir „Bluetooth“ ryšio nuskaitymas</string>
+    <string name="location_scanning_wifi_always_scanning_description">Leisti programoms ir paslaugoms bet kuriuo metu nuskaityti ieškant „WLAN“ tinklų, net kai „WLAN“ išjungtas. Tai galima naudoti norint, pvz., tobulinti pagal vietovę teikiamas funkcijas ir paslaugas.</string>
+    <string name="location_scanning_wifi_always_scanning_title">„WLAN“ nuskaitymas</string>
+    <string name="lost_internet_access_cancel">Toliau naudoti „WLAN“</string>
+    <string name="lost_internet_access_text">Galite perjungti į mobiliojo ryšio tinklą, kai „WLAN“ ryšys silpnas. Gali būti taikomas duomenų naudojimo mokestis.</string>
+    <string name="lost_internet_access_title">„WLAN“ tinkle nėra interneto ryšio</string>
+    <string name="mobile_data_always_on_summary">Visada suaktyvinti mobiliojo ryšio duomenis, net kai aktyvus „WLAN“ ryšys (kad būtų galima greitai perjungti tinklą).</string>
+    <string name="network_scorer_change_active_dialog_title">Pakeisti „WLAN“ pagelbiklį?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Norėdami dalintis savo „WLAN“ tinklu, nustatymuose pasirinkite „Share WLAN info“.</string>
+    <string name="nfc_wifi_share_checkbox">Bendrai naudoti „WLAN“ inf.</string>
+    <string name="nfc_wifi_share_title_txt">Bendrai naudoti „WLAN“ informac.</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Automatiškai prisijungti prie AT&amp;T „WLAN“ prieigos taško</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T „WLAN“ aut. prisij.</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">Jei nenaudosite „WLAN“, nebegalėsite naudotis internetu, el. paštu arba kitomis programomis, kurioms reikalingas duomenų ryšys. Išjungti mobilųjį duomenų ryšį?</string>
+    <string name="powersaver_feature_wifi">„WLAN“ išjungtas</string>
+    <string name="radio_controls_summary">Tvarkyti „WLAN“, „Bluetooth“, lėktuvo režimą, mobiliojo ryšio tinklus ir VPN</string>
+    <string name="radio_info_ims_reg_status">"IMS registracija: %1$s
+Balso skambučiai naudojat LTE: %2$s
+Balso skambučiai naudojat „WLAN“: %3$s
+Vaizdo skambučiai: %4$s
+UT sąsaja: %5$s"</string>
+    <string name="reset_network_desc">"Bus iš naujo nustatyti visi tinklo nustatymai, įskaitant:
+
+"<li>„WLAN“;</li>"
+"<li>mobiliojo ryšio duomenis;</li>"
+"<li>„Bluetooth“.</li></string>
+    <string name="restriction_wifi_config_summary">Leisti keisti „WLAN“ ir mobiliojo ryšio nustatymus</string>
+    <string name="restriction_wifi_config_title">„WLAN“ ir mobilusis ryšys</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Išjungtas „WLAN“ ir „Bluetooth“ nuskaitymas</string>
+    <string name="scanning_status_text_wifi_off_ble_on">„Bluetooth“ nuskaitymas įjungtas, „WLAN“ nuskaitymas išjungtas</string>
+    <string name="scanning_status_text_wifi_on_ble_off">„WLAN“ nuskaitymas įjungtas, „Bluetooth“ nuskaitymas išjungtas</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Įjungtas „WLAN“ ir „Bluetooth“ nuskaitymas</string>
+    <string name="somc_backup_failed_no_wifi_summary">Laukiama prisijungimo prie „WLAN“</string>
+    <string name="somc_wifi_turned_on_info">„WLAN“ įjungtas. Sąraše pasirinkite tinklą.</string>
+    <string name="stamina_xssm_summary">Pasyvina mobiliuosius duomenis ir „WLAN“, kai ekranas išjungtas</string>
+    <string name="status_wifi_mac_address">„WLAN“ MAC adresas</string>
+    <string name="tethering_no_sim_warning_txt">Įdėkite SIM kortelę, kad prieigai prie interneto galėtumėte bendrai su kitais prietaisais naudotimobilųjį „WLAN“ prieigos tašką arba prijungti telefoną kaip modemą per USB.</string>
+    <string name="usage_type_data_wifi_recv">„WLAN“ ryšio paketai gauti</string>
+    <string name="usage_type_data_wifi_send">„WLAN“ ryšio paketai išsiųsti</string>
+    <string name="usage_type_wifi_running">„WLAN“ vykdoma</string>
+    <string name="user_add_user_message_long">"Galite bendrinti šį įrenginį su kitais žmonėmis sukūrę papildomų naudotojų. Kiekvienam naudotojui suteikiama atskira erdvė, kurią jie gali tinkinti naudodami programas, ekrano foną ir kt. Be to, naudotojai gali koreguoti įrenginio nustatymus, pvz., „WLAN“, kurie taikomi visiems.
+
+Kai pridedate naują naudotoją, šis asmuo turi nusistatyti savo erdvę.
+
+Bet kuris naudotojas gali atnaujinti visų kitų naudotojų programas. Pasiekiamumo nustatymai ir paslaugos gali nebūti perkeltos naujam naudotojui."</string>
+    <string name="usm_descr">"Naudojant režimą „Ultra STAMINA“, gerokai prailginama akumuliatoriaus veikimo trukmė. Jį galite naudoti, kai ilgą laiką negalite įkrauti prietaiso.
+
+Bus pasiekiamos tik kelios pagrindinės funkcijos, pvz., skambinimo ir žinučių siuntimo. Jei reikia išsamesnės informacijos, bakstelėkite „Daugiau informacijos“.
+
+Atkreipkite dėmesį, kad „WLAN“ arba mobiliųjų duomenų interneto ryšys bus išjungtas."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Pagalbos skambutis naudojant „WLAN“ skambučių funkciją negalimas.
+Įrenginys automatiškai perjungiamas į mobiliojo ryšio tinklą (2G / 3G), kad būtų atliktas pagalbos skambutis.
+Pagalbos skambutis galimas tiktai mobiliojo ryšio zonose."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">Pagalbos skambutis naudojant „WLAN“ skamb.</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">„Vodafone“ skambučiai „WLAN“</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"Norėdami įjungti „WLAN“ skambinimą, turite įjungti vietovę ir pasirinkti režimą „Didelis tikslumas“ arba „Akumuliatoriaus tausojimas“.
+
+Kol atliekate „WLAN“ skambinimą, laikykite vietovę įjungtą."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Pagalbos skambutis naudojant „WLAN“ skambučių funkciją negalimas.
+Įrenginys automatiškai perjungiamas į mobiliojo ryšio tinklą (2G / 3G), kad būtų atliktas pagalbos skambutis.
+Pagalbos skambutis galimas tiktai mobiliojo ryšio zonose."</string>
+    <string name="wfc_location_info_dialog_desc_txt">Kad galėtumėte skambinti per „WLAN“, su jūsų vieta susijusi informacija gali būti perduota „Google“ ir jūsų operatoriui nepriklausomai nuo to, ar įjungtas vietos nustatymas.</string>
+    <string name="wfc_provisioned_switch_string">Skambinimo naudojant „WLAN“ ryšį aprūpinimas</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">„WLAN“ tinklai</string>
+    <string name="wifi_advanced_not_available">„WLAN“ išplėstiniai nustatymai nepasiekiami šiam naudotojui</string>
+    <string name="wifi_advanced_settings_label">„WLAN“ nustatymai</string>
+    <string name="wifi_advanced_titlebar">Išplėstinis „WLAN“</string>
+    <string name="wifi_ap_band_select_one">Pasirinkite bent vieną „WLAN“ viešosios interneto prieigos taško dažnio juostą:</string>
+    <string name="wifi_ask_disable">Programa „%s“ nori išjungti „WLAN“</string>
+    <string name="wifi_ask_enable">Programa „%s“ nori įjungti „WLAN“</string>
+    <string name="wifi_auto_network_switch_setting_msg">Automatiškai perjungti į pageidaujamą tinklą, kai pasiekiami ir „WLAN“, ir mobiliojo ryšio tinklai</string>
+    <string name="wifi_calling_link_to_register_emergency_address">Spustelėkite čia norėdami užsiregistruoti skambinti naudojant „WLAN“ arba atnaujinkite esamą pagalbos adresą</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Jei mobiliojo ryšio tinklas nepasiekiamas, naudoti „WLAN“</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Skambinimas naudojant „WLAN“. Nutrūkus „WLAN“ skambutis bus baigtas.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Jei „WLAN“ nepasiekiamas, naudokite mobiliojo ryšio tinklą</string>
+    <string name="wifi_calling_not_supported">„WLAN“ skambinimo funkcija nepalaikoma naudojantis „%1$s“ paslaugomis</string>
+    <string name="wifi_calling_off_explanation">"Naudokite skambinimo per „WLAN“ funkciją, kad pagerintumėte skambučių kokybę vietose, kuriose mobilusis tinklo ryšys prastas.
+
+Mokesčiai
+Jei reikia informacijos apie mokesčius, taikomus skambinant per „WLAN“, kreipkitės į savo paslaugos teikėją.
+
+Pastabos dėl skambinimo per „WLAN“
+Kad skambinimo per „WLAN“ funkcija liktų aktyvi, turite likti „WLAN“ diapazone."</string>
+    <string name="wifi_calling_on_dialog_text">Norėdami naudoti „WLAN“ skambinimo funkciją, kaip mobiliojo ryšio duomenims skirtą pageidaujamą SIM kortelę nustatykite SIM 1</string>
+    <string name="wifi_calling_settings_activation_instructions">Suaktyvinti „WLAN“ skambinimo funkciją</string>
+    <string name="wifi_calling_settings_title">„WLAN“ skambinimas</string>
+    <string name="wifi_calling_suggestion_summary">Įjunkite „WLAN“ skambinimą, kad išplėstumėte aprėptį</string>
+    <string name="wifi_calling_suggestion_title">Išplėskite skamb. aprėptį naudodami „WLAN“</string>
+    <string name="wifi_calling_summary">Naudokite „WLAN“ skambučiams atlikti, kad pagerintumėte kokybę</string>
+    <string name="wifi_calling_turn_on">Įjungti „WLAN“ skambinimo funkciją</string>
+    <string name="wifi_carrier_connect">Operatoriaus „WLAN“ ryšio tinklas</string>
+    <string name="wifi_cellular_data_fallback_summary">Naudoti mobiliojo ryšio duomenis, kai „WLAN“ tinkle nėra interneto ryšio. Galite būti apmokestinti už naudojamus duomenis.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">„WLAN“ automatiškai neįjungiamas iš naujo</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">„WLAN“ automatiškai įjungiamas iš naujo</string>
+    <string name="wifi_configure_settings_preference_title">„WLAN“ nuostatos</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Keisti WLAN sertifikatą</string>
+    <string name="wifi_data_template">^1 „WLAN“ duomenų</string>
+    <string name="wifi_data_usage">„WLAN“ duomenų naudojimas</string>
+    <string name="wifi_disabled_wifi_failure">„WLAN“ ryšio triktis</string>
+    <string name="wifi_dpp_add_device_to_wifi">Pridėti šį įrenginį prie „%1$s“?</string>
+    <string name="wifi_dpp_center_qr_code">Centruokite toliau pateiktą QR kodą, kad galėtumėte pridėti įrenginį prie „%1$s“</string>
+    <string name="wifi_dpp_failure_not_supported">Šiame įrenginyje nepalaikomas „%1$s“ pridėjimas</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Nuskaitykite šį QR kodą, kad prisijungtumėte prie „%1$s“</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Centruokite toliau pateiktą QR kodą, kad galėtumėte prisijungti prie „%1$s“</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Prisijunkite prie „WLAN“ nuskaitydami QR kodą</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Nuskaitykite šį QR kodą, kad prisijungtumėte prie „%1$s” ir galėtumėte bendrinti slaptažodį</string>
+    <string name="wifi_dpp_share_wifi">„WLAN“ bendrinimas</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Bendrinamas „WLAN“ su šiuo įrenginiu…</string>
+    <string name="wifi_dpp_wifi_password">„WLAN“ slaptažodis: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">„WLAN“ bendrinamas su įrenginu</string>
+    <string name="wifi_empty_list_user_restricted">Neturite leidimo keisti „WLAN“ tinklą.</string>
+    <string name="wifi_empty_list_wifi_off">Kad peržiūrėt. galimus tinklus, įjunkite „WLAN“.</string>
+    <string name="wifi_empty_list_wifi_on">Ieškoma „WLAN“ tinklų…</string>
+    <string name="wifi_hotspot_auto_off_summary">„WLAN“ viešosios interneto prieigos taškas bus išjungtas, jei nebus prijungta jokių įrenginių</string>
+    <string name="wifi_hotspot_configure_ap_text">„WLAN“ vieš. int. pr. t. sąr.</string>
+    <string name="wifi_hotspot_footer_info_regular">Naudodami viešosios interneto prieigos tašką, galite sukurti „WLAN“ tinklą kitiems įrenginiams. Internetas teikiamas per viešosios interneto prieigos tašką naudojant mobiliųjų duomenų ryšį. Gali būti taikomi papildomi mobiliojo ryšio duomenų mokesčiai.</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Automatiškai prisijungti, kad veiktų „Passpoint“ tinklai, kai įjungtas „WLAN“</string>
+    <string name="wifi_limit_optimizations_summary">Apriboti „WLAN“ naud. akum.</string>
+    <string name="wifi_menu_p2p">Tiesiog. „WLAN“ r.</string>
+    <string name="wifi_on_time">„WLAN“ laiku</string>
+    <string name="wifi_p2p_settings">„WLAN Direct“ nustatymai</string>
+    <string name="wifi_p2p_settings_title">Tiesiog. „WLAN“ r.</string>
+    <string name="wifi_poor_network_detection_summary">Nenaudoti „WLAN“ tinklo, jei jo interneto ryšys nėra stiprus</string>
+    <string name="wifi_quick_toggle_summary">Įjungti „WLAN“</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Kad tiksliau nustatytų vietą ir dėl kitų priežasčių nežinoma programa prašo leidimo nuskaityti tinklus net kai „WLAN“ išjungtas.
+
+Ar norite suteikti leidimą nuskaityti visoms to prašančioms programoms?"</string>
+    <string name="wifi_scan_always_turnon_message">"Siekiant tiksliau nustatyti vietą ir dėl kitų priežasčių, „%1$s“ prašo leidimo nuskaityti tinklus, net kai „WLAN“ yra išjungtas.
+
+Ar norite suteikti leidimą nuskaityti visoms to prašančioms programoms?"</string>
+    <string name="wifi_scan_notify_text">Kad pagerintų vietos nustatymo tikslumą, programos ir paslaugos vis tiek bet kada gali nuskaityti „WLAN“ tinklus, net jei „WLAN“ išjungtas. Tai gali būti naudojama siekiant pagerinti pagal vietovę teikiamas paslaugas. Tai galite pakeisti LINK_BEGINnuskaitymo nustatymuoseLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Kad būtų galima patobulinti vietovės informacijos tikslumą, įjunkite „WLAN“ nuskaitymą LINK_BEGINnuskaitymo nustatymuoseLINK_END.</string>
+    <string name="wifi_scan_throttling">„WLAN“ nuskaitymo ribojimas</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">Apsaugotas WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Apsaugotas WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">Pasirinkti „WLAN“</string>
+    <string name="wifi_setting_on_during_sleep_title">„WLAN“ įj. esant miego būsen.</string>
+    <string name="wifi_setting_sleep_policy_title">Išlaikyti „WLAN“ įjungtą, kai veikia miego režimas</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">„WLAN“ nustatymai</string>
+    <string name="wifi_settings_master_switch_title">Naudoti „WLAN“</string>
+    <string name="wifi_settings_scanning_required_enabled">„WLAN“ nuskaitymas įjungtas</string>
+    <string name="wifi_settings_scanning_required_info">„WLAN“ nuskaitymo funkcija leidžia programoms ir paslaugoms bet kuriuo metu nuskaityti ieškant „WLAN“ tinklų, net kai „WLAN“ išjungtas. Tai galima naudoti norint, pvz., tobulinti pagal vietovę teikiamas funkcijas ir paslaugas.</string>
+    <string name="wifi_settings_scanning_required_summary">Norėdami įjungti „WLAN“ automatiškai pirmiausia turite įjungti „WLAN“ nuskaitymą.</string>
+    <string name="wifi_settings_scanning_required_title">Įjungti „WLAN“ nuskaitymą?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">„WLAN“ įjungiama…</string>
+    <string name="wifi_stopping">„WLAN“ išjungiama…</string>
+    <string name="wifi_suspend_optimizations">„WLAN“ optimizavimas</string>
+    <string name="wifi_suspend_optimizations_summary">Sumažinti akumuliatoriaus naudojimą, kai „WLAN“ įjungta</string>
+    <string name="wifi_switch_away_when_unvalidated">Perjungti į mobiliojo ryšio duomenis, jei prarandama „WLAN“ prieiga prie interneto.</string>
+    <string name="wifi_tether_settings_subtext">Nustatyti ir tvarkyti perkeliamąjį „WLAN“ prieigos tašką</string>
+    <string name="wifi_tether_settings_text">Perkel. „WLAN“ prieigos taško nust.</string>
+    <string name="wifi_tethering_warning_txt">Visų vykdomų „WLAN“ operacijų, pvz., medijos persiuntimo, telefono programinės įrangos naujinimo, atsarginės kopijos kūrimo ar atkūrimo, veikimas bus sutrikdytas.</string>
+    <string name="wifi_turned_on_message">„WLAN“ įjungtas</string>
+    <string name="wifi_verbose_logging">Įgal. „WLAN“ daugiaž. įraš. į žurnalą</string>
+    <string name="wifi_verbose_logging_summary">Padidinti „WLAN“ įrašymo į žurnalą lygį, rodyti SSID RSSI „WLAN“ rinkiklyje</string>
+    <string name="wifi_wakeup">Automatiškai įjungti „WLAN“</string>
+    <string name="wifi_wakeup_summary">„WLAN“ bus vėl įjungtas esant šalia išsaugotų aukštos kokybės tinklų, pvz., jūsų namų tinklo</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Nepasiekiama, nes „WLAN“ nuskaitymas išjungtas</string>
+    <string name="wifi_wps_category_title">Nustatyti „WLAN“ tinklą</string>
+    <string name="wps_strings_wifi_disconnected_txt">„WLAN“ atjungtas. Sąranka atšaukta.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"Režimas STAMINA tausoja akumuliatoriaus energiją, sureguliuodamas prietaiso nustatymus. Galite pasirinkti programėles, kurios miego režimu veiktų su mažiau funkcijų. (Tai padės sutaupyti akumuliatoriaus energijos, kadangi dauguma programėlių eikvoja energiją net ir miego režimu.)
+
+Funkcijos, išjungiamos pasirinktoms programėlėms:
+- „WLAN“
+- Mobiliojo ryšio duomenų
+- Laikmačio
+
+Miego režimu visų programėlių įspėjimo lemputė žybsi ta pačia spalva ir tuo pačiu dažnumu. 
+
+Režimas STAMINA deaktyvinamas, kai jūs valdote prietaisą."</string>
+</resources>

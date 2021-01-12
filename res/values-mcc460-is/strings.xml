@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Heiti tækisins þíns er sýnilegt forritum í símanum. Heiti þess er hugsanlega einnig sýnilegt öðru fólki þegar þú tengist Bluetooth-tækjum eða setur upp heitan WLAN reit.</string>
+    <string name="accessibility_no_wifi">WLAN ótengt.</string>
+    <string name="accessibility_wifi_off">Slökkt á WLAN.</string>
+    <string name="accessibility_wifi_one_bar">WLAN: Eitt strik.</string>
+    <string name="accessibility_wifi_signal_full">Fullur WLAN sendistyrkur.</string>
+    <string name="accessibility_wifi_three_bars">WLAN: Þrjú strik.</string>
+    <string name="accessibility_wifi_two_bars">WLAN: Tvö strik.</string>
+    <string name="backup_data_summary">Vista öryggisafrit af gögnum forrita, WLAN aðgangsorðum og öðrum stillingum á þjóna Google</string>
+    <string name="backup_erase_dialog_message">Hætta að taka öryggisafrit af WLAN aðgangsorðum, bókamerkjum, öðrum stillingum og gögnum forrita, og eyða öllum afritum af þjónum Google?</string>
+    <string name="battery_action_wifi">WLAN stillingar</string>
+    <string name="battery_desc_wifi">Rafhlöðunotkun WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Slökkva á WLAN þegar það er ekki í notkun eða ekki aðgengilegt</string>
+    <string name="battery_usm_desc">"Ultra STAMINA-stilling lengir endingartíma rafhlöðunnar verulega. Athugaðu samt að ekki er hægt að nota eiginleika á borð við gagnasamstillingu og WLAN-símtöl þar sem lokað er fyrir nettengingu í gegnum farsímagögn og WLAN. Heimaskjárinn verður stilltur á heimaskjá Ultra STAMINA-stillingar.
+
+Forrit sem hægt er að nota í Ultra STAMINA-stillingu"</string>
+    <string name="battery_usm_desc_variable">"Ultra STAMINA-stillingin lengir endingartíma rafhlöðunnar verulega. Athugaðu að þar sem lokað er fyrir nettengingu í gegnum WLAN og farsímagögn er ekki er hægt að nota eiginleika á borð við gagnasamstillingu og %s. Heimaskjárinn stillist yfir á heimaskjá Ultra STAMINA-stillingar.
+
+Forrit sem hægt er að nota í Ultra STAMINA-stillingu"</string>
+    <string name="bluetooth_on_time">WLAN tími</string>
+    <string name="bs_feature_wifi">Slökkt á WLAN</string>
+    <string name="change_wifi_state_app_detail_summary">Leyfa þessu forriti að kveikja og slökkva á WLAN, leita að og tengjast við WLAN net, bæta við og fjarlægja net og búa til staðbundinn heitan reit</string>
+    <string name="change_wifi_state_app_detail_switch">Leyfa forriti að stjórna WLAN</string>
+    <string name="change_wifi_state_title">WLAN stjórnun</string>
+    <string name="condition_bg_data_summary">Bakgrunnsgögn eru aðeins í boði yfir WLAN. Þetta getur haft áhrif á sum forrit eða þjónustu þegar WLAN er ekki í boði.</string>
+    <string name="condition_cellular_summary">Aðeins er hægt að tengjast internetinu með WLAN</string>
+    <string name="connected_via_app">Tenging í gegnum %1$s</string>
+    <string name="credential_for_wifi">Sett upp fyrir WLAN</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN tengt</string>
+    <string name="cw_network_notification">Kveikja á CT WLAN tilkynningu</string>
+    <string name="cw_network_priority">Setja China Telecom WLAN í forg.</string>
+    <string name="cw_network_priority_summary">WLAN-net frá China Telacom fá forgang yfir önnur WLAN-net</string>
+    <string name="data_service_except_mms_disabled_warning_txt">Þú munt ekki geta notað netið, tölvupóst eða önnur forrit sem krefjast gagnatengingar nema með WLAN. Slökkva á gagnatengingu?</string>
+    <string name="data_traffic_disabled_text">Tókst ekki að tengjast WLAN-netum China Telecom þar sem gagnaumferð er óvirk. Gera gagnaumferð virka núna?</string>
+    <string name="data_usage_app_summary_title">Farsímagögn og WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Stilla gagnahámark WLAN</string>
+    <string name="data_usage_menu_hide_wifi">Fela WLAN</string>
+    <string name="data_usage_menu_show_wifi">Sýna WLAN</string>
+    <string name="data_usage_metered_wifi">WLAN net með mælda notkun</string>
+    <string name="data_usage_metered_wifi_disabled">Kveiktu á WLAN til að velja net með mældri notkun.</string>
+    <string name="data_usage_restrict_background">Ef þú takmarkar bakgrunnsgögn í farsímakerfi virka sum forrit og þjónusta ekki nema þegar tengt er við WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Ef þú takmarkar bakgrunnsgögn í farsímakerfi virka sum forrit og þjónusta ekki nema þegar tengt er við WLAN.
+
+Þessi stilling á við alla notendur símans."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 notkun með WLAN</string>
+    <string name="data_usage_wifi_title">WLAN gögn</string>
+    <string name="dialog_message_hint">"Í STAMINA-stillingu felst:
+
+• Aukin biðstaða
+Sparar orku þegar slökkt er á skjánum með því að slökkva tímabundið á WLAN og gagnatengingu. Flest forrit verða óvirk.
+Þegar kveikt er á skjánum virkar síminn eðlilega.
+Ef þú vilt hafa sum forrit virk í Aukinni biðstöðu skaltu bæta þeim á listann yfir VIRK FORRIT Í BIÐSTÖÐU.
+
+• Aukin notkun
+Sparar orku þegar tækið er í notkun með því að takmarka afköst vélbúnaðar.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Hvað er STAMINA-stilling?</u>"
+STAMINA er orkusparnaðarstilling frá Sony. Hún lengir endingu rafhlöðunnar þegar ekki er kveikt á skjánum.
+
+"<u> Grunnnotkun</u>"
+Pikkaðu á takkann á skjánum til að virkja STAMINA-stillinguna.
+Þegar slökkt er á skjánum afvirkjast WLAN og öll netgögn tímabundið og flest forrit verða óvirk til að spara rafhlöðuna.
+Þegar kveikt er á skjánum starfar tækið eðlilega.
+
+"<u>Frekari stillingar</u>"
+Ef þú vilt hafa einhver forrit virk á meðan STAMINA er í gangi getur þú bætt þeim við FORRIT VIRK Í BIÐ listann.
+Forrit virka e.t.v. ekki rétt sé þeim ekki bætt á listann.
+
+"<u>Ath.</u>"
+Ef forrit virkar ekki rétt skaltu bæta forritinu við FORRIT VIRK Í BIÐ listann eða slökkva á STAMINA-stillingunni."</string>
+    <string name="emergency_address_summary">Notað sem staðsetningin þín þegar þú hringir neyðarsímtöl í gegnum WLAN</string>
+    <string name="fullbackup_data_summary">"Taktu sjálfkrafa afrit af gögnum tækisins (s.s. WLAN aðgangsorðum og símtalaferli) og forritsgögnum (s.s. stillingum og skrám sem forrit vista) og vistaðu á Google Drive.
+
+Þegar þú kveikir á sjálfvirkri afritun eru gögn tækisins og forrita reglulega vistuð fjartengt. Forritsgögn geta verið öll gögn sem forrit hefur vistað (fer eftir stillingum þróunaraðilans), þ.m.t. hugsanlega viðkvæm gögn á borð við tengiliði þína, skilaboð og myndir."</string>
+    <string name="fullbackup_erase_dialog_message">Viltu hætta að taka afrit af gögnum tækisins (s.s. WLAN aðgangsorðum og símtalaferli) og forritsgögnum (s.s. stillingum og skrám sem forrit vista) og eyða öllum afritum af fjartengdum þjónum?</string>
+    <string name="install_wapi_certs">Setja upp WLAN-vottorð</string>
+    <string name="keywords_hotspot_tethering">usb tjóðrun, bluetooth tjóðrun, heitur WLAN reitur</string>
+    <string name="keywords_wifi">wifi, WLAN, nettenging, internet, þráðlaust, gögn, wi fi</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN tilkynning, wifi tilkynning</string>
+    <string name="l_dialog_message_hint">"Í STAMINA-stillingu felst:
+
+• Takmörkuð virkni
+Sparar orku þegar slökkt er tímabundið á skjánum með því að slökkva á WLAN. Flest forrit verða óvirk.
+Þegar kveikt er á skjánum virkar tækið eðlilega.
+Ef þú vilt hafa einhver forrit virk í Takmarkaðri virkni skaltu bæta þeim við listann Virk forrit í biðstöðu.
+
+• Aukin notkun
+Sparar orku þegar tækið er í notkun með því að takmarka afköst vélbúnaðar."</string>
+    <string name="location_based_wifi">Staðsett WLAN</string>
+    <string name="location_neighborhood_level_wifi">WLAN ákvarðar staðsetningu</string>
+    <string name="location_network_based">Staðsetning frá WLAN og kerfi</string>
+    <string name="location_scanning_screen_title">WLAN leit og Bluetooth-leit</string>
+    <string name="location_scanning_wifi_always_scanning_description">Leyfa forritum og þjónustu að leita að WLAN netum hvenær sem er, jafnvel þegar slökkt er á WLAN. Sem dæmi er hægt að nota þetta til að bæta eiginleika og þjónustu sem byggja á staðsetningu.</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN leit</string>
+    <string name="lost_internet_access_cancel">Halda áfram á WLAN</string>
+    <string name="lost_internet_access_text">Þú getur skipt yfir í farsímakerfi þegar WLAN-tenging er léleg. Gjöld kunna að verða tekin fyrir gagnanotkun.</string>
+    <string name="lost_internet_access_title">WLAN er ekki tengt internetinu</string>
+    <string name="mobile_data_always_on_summary">Hafa alltaf kveikt á farsímagögnum, líka þegar kveikt er á WLAN (til að skipta megi hratt milli kerfa).</string>
+    <string name="network_scorer_change_active_dialog_title">Skipta um WLAN aðstoð?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Til að deila núverandi WLAN neti skaltu velja \"Deila WLAN upplýsingum\" í stillingum.</string>
+    <string name="nfc_wifi_share_checkbox">Deila WLAN upplýsingum</string>
+    <string name="nfc_wifi_share_title_txt">Deila WLAN upplýsingum</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Tengjast sjálfvirkt við heitan WLAN reit símafyrirtækis</string>
+    <string name="operator_auto_connect_hotspot_txt">Teng. sjálfv. AT&amp;T WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">Þú munt ekki geta notað netið, tölvupóst eða önnur forrit sem krefjast gagnatengingar nema með WLAN. Slökkva á gagnatengingu?</string>
+    <string name="powersaver_feature_wifi">Slökkt á WLAN</string>
+    <string name="radio_controls_summary">Stjórna WLAN, Bluetooth, flugstillingu, farsímakerfum og VPN-netum</string>
+    <string name="radio_info_ims_reg_status">"Skráning IMS: %1$s
+Rödd með LTE: %2$s
+Rödd með WLAN: %3$s
+Myndsímtöl: %4$s
+UT viðmót: %5$s"</string>
+    <string name="reset_network_desc">"Þetta mun endurstilla allar netkerfisstillingar, þar á meðal:
+
+"<li>WLAN</li>"
+"<li>Farsímagögn</li>"
+"<li>Bluetooth</li></string>
+    <string name="restriction_wifi_config_summary">Leyfa breytingar á stillingum WLAN og farsímakerfa</string>
+    <string name="restriction_wifi_config_title">WLAN og farsímakerfi</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Slökkt er á WLAN og Bluetooth-leit</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Kveikt er á Bluetooth-leit, slökkt er á WLAN leit</string>
+    <string name="scanning_status_text_wifi_on_ble_off">Kveikt er á WLAN leit, slökkt er á Bluetooth-leit</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Bæði er kveikt á WLAN leit og Bluetooth-leit</string>
+    <string name="somc_backup_failed_no_wifi_summary">Bíð eftir WLAN tengingu</string>
+    <string name="somc_wifi_turned_on_info">Kveikt á WLAN. Veldu netkerfið þitt af listanum.</string>
+    <string name="stamina_xssm_summary">Slekkur á gagnatengingu og WLAN þegar slökkt er á skjánum</string>
+    <string name="status_wifi_mac_address">MAC-vistfang WLAN</string>
+    <string name="tethering_no_sim_warning_txt">Settu inn SIM-kort til að deila gagnatengingu símans með öðrum tækjum og fá nettengingu með Mobile WLAN Hotspot eða USB-tjóðrun.</string>
+    <string name="usage_type_data_wifi_recv">Mótteknir WLAN pakkar</string>
+    <string name="usage_type_data_wifi_send">Sendir WLAN pakkar</string>
+    <string name="usage_type_wifi_running">Kveikt á WLAN</string>
+    <string name="user_add_user_message_long">"Þú getur búið til fleiri notendur til að deila þessu tæki með öðrum. Hver notandi hefur sitt eigið svæði sem viðkomandi getur sérsniðið með forritum, veggfóðri o.s.frv. Notendur geta einnig breytt þeim stillingum tækisins sem hafa áhrif á alla notendur, t.d. WLAN.
+
+Þegar þú bætir nýjum notanda við þarf sá notandi að setja upp svæðið sitt.
+
+Hvaða notandi sem er getur uppfært forrit fyrir alla aðra notendur. Ekki er tryggt að stillingar á aðgengi og þjónustu flytjist yfir á nýja notandann."</string>
+    <string name="usm_descr">"Ultra STAMINA stilling lengir endingu rafhlöðunnar til muna. Hana er hægt að nota þegar ekki er hægt að hlaða tækið lengi.
+
+Aðeins helstu eiginleikar, s.s. Sími og Skilaboð verða tiltækir. Pikkaðu á „Frekari upplýsingar“ til að skoða nánar.
+
+Athugaðu að slökkt verður á netsambandi um WLAN og gagnatengingu."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Neyðarsímtöl eru ekki möguleg með WLAN símtölum.
+Tækið skiptir sjálfkrafa yfir í farsímakerfi (2G/3G) til að hringja neyðarsímtal.
+Eingöngu er hægt að hringja neyðarsímtöl á svæðum með farsímasambandi"</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">Neyðarsímtöl með WLAN símtölum</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone WLAN símtöl</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"Til að kveikja á WLAN símtali þarftu að kveikja á staðsetningarupplýsingum og velja mikla nákvæmni eða orkusparnað. 
+
+Gættu þess að hafa kveikt á staðsetningarupplýsingum allan tímann meðan á WLAN símtalinu stendur."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Neyðarsímtöl eru ekki möguleg með WLAN símtölum.
+Tækið skiptir sjálfkrafa yfir í farsímakerfi (2G/3G) til að hringja neyðarsímtal.
+Eingöngu er hægt að hringja neyðarsímtöl á svæðum með farsímasambandi"</string>
+    <string name="wfc_location_info_dialog_desc_txt">Upplýsingar um staðsetningu verða sendar til Google og netþjónustuaðla til að stilla á WLAN-símtöl og hvort staðsetningarstillingin sé virk eða ekki.</string>
+    <string name="wfc_provisioned_switch_string">WLAN símtali úthlutað</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN net</string>
+    <string name="wifi_advanced_not_available">Ítarlegar WLAN stillingar eru ekki í boði fyrir þennan notanda</string>
+    <string name="wifi_advanced_settings_label">WLAN stillingar</string>
+    <string name="wifi_advanced_titlebar">Ítarlegar WLAN stillingar</string>
+    <string name="wifi_ap_band_select_one">Veldu a.m.k. eitt svið fyrir heitan WLAN reit:</string>
+    <string name="wifi_ask_disable">%s vill slökkva á WLAN</string>
+    <string name="wifi_ask_enable">%s vill kveikja á WLAN</string>
+    <string name="wifi_auto_network_switch_setting_msg">Skipta sjálfkrafa yfir í forgangskerfi þegar bæði WLAN net og farsímanet eru tiltæk</string>
+    <string name="wifi_calling_link_to_register_emergency_address">Smelltu hér til að skrá þig í WLAN símtöl eða til að uppfæra núverandi heimilisfang í neyð</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Ef farsímakerfi er ekki tiltækt skaltu nota WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Hringja í gegnum WLAN. Ef WLAN tenging slitnar lýkur símtalinu.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Nota farsímakerfi ef ekki er hægt að nota WLAN</string>
+    <string name="wifi_calling_not_supported">WLAN símtöl eru ekki studd fyrir %1$s</string>
+    <string name="wifi_calling_off_explanation">"Notaðu WLAN símtöl til að bæta gæði símtala þar sem móttökuskilyrði eru léleg.
+
+Kostnaður
+Hafðu samband við þjónustuveituna þína til að fá upplýsingar um kostnað við WLAN símtöl.
+
+Athugasemdir um WLAN símtöl
+Gakktu úr skugga um að þú sért innan WLAN sviðs þegar þú hringir WLAN símtöl."</string>
+    <string name="wifi_calling_on_dialog_text">Stilltu SIM 1 sem forgangs SIM fyrir farsímagögn til að nota WLAN símtöl</string>
+    <string name="wifi_calling_settings_activation_instructions">Kveikja á WLAN-símtölum</string>
+    <string name="wifi_calling_settings_title">WLAN símtöl</string>
+    <string name="wifi_calling_suggestion_summary">Kveiktu á WLAN símtölum til að fá aukið símasamband</string>
+    <string name="wifi_calling_suggestion_title">Fáðu aukið símasamband með WLAN</string>
+    <string name="wifi_calling_summary">Notaðu WLAN fyrir símtöl til að bæta gæðin</string>
+    <string name="wifi_calling_turn_on">Kveikja á WLAN símtölum</string>
+    <string name="wifi_carrier_connect">WLAN kerfi símafyrirtækis</string>
+    <string name="wifi_cellular_data_fallback_summary">Nota farsímagögn þegar WLAN er ekki með nettengingu. Gjöld fyrir gagnanotkun kunna að eiga við.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN kveikir ekki sjálfkrafa á sér aftur</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN kveikir sjálfkrafa á sér aftur</string>
+    <string name="wifi_configure_settings_preference_title">WLAN stillingar</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Skipta um WLAN-vottorð</string>
+    <string name="wifi_data_template">^1 WLAN gögn</string>
+    <string name="wifi_data_usage">WLAN gagnanotkun</string>
+    <string name="wifi_disabled_wifi_failure">WLAN-tengingarvilla</string>
+    <string name="wifi_dpp_add_device_to_wifi">Bæta þessu tæki við „%1$s“?</string>
+    <string name="wifi_dpp_center_qr_code">Færðu QR-kóðann fyrir miðju hér fyrir neðan til að bæta tækinu við „%1$s“</string>
+    <string name="wifi_dpp_failure_not_supported">Þetta tæki styður ekki að „%1$s“ sé bætt við</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Skannaðu þennan QR-kóða til að tengjast „%1$s“</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Færðu QR-kóðann fyrir miðju hér fyrir neðan til að tengja tækið við „%1$s“</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Tengjast WLAN með því að skanna QR-kóða</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Skannaðu þennan QR-kóða til að tengjast „%1$s“ og deildu aðgangsorðinu</string>
+    <string name="wifi_dpp_share_wifi">Deila WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Deilir WLAN með þessu tæki…</string>
+    <string name="wifi_dpp_wifi_password">WLAN aðgangsorð: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN deilt með tæki</string>
+    <string name="wifi_empty_list_user_restricted">Þú hefur ekki heimild til að breyta WLAN netinu.</string>
+    <string name="wifi_empty_list_wifi_off">Kveiktu á WLAN til að sjá tiltæk net.</string>
+    <string name="wifi_empty_list_wifi_on">Leitar að WLAN netum…</string>
+    <string name="wifi_hotspot_auto_off_summary">Slökkt verður á heitum WLAN reit ef engin tæki eru tengd</string>
+    <string name="wifi_hotspot_configure_ap_text">Uppsetning heits WLAN reits</string>
+    <string name="wifi_hotspot_footer_info_regular">Notaðu heitan reit til að búa til WLAN net fyrir önnur tæki. Heitir reitir bjóða upp á internetaðgang með því að nota farsímagagnatenginguna þína. Viðbótargjöld vegna farsímagagna kunna að eiga við.</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Tengstu sjálfkrafa tiltækum Passpoint-netum þegar kveikt er á WLAN</string>
+    <string name="wifi_limit_optimizations_summary">Takmarka rafhlöðunotkun WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN tími</string>
+    <string name="wifi_p2p_settings">Stillingar WLAN Direct</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Ekki nota WLAN net nema nettengingin sé góð</string>
+    <string name="wifi_quick_toggle_summary">Kveikja á WLAN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Óþekkt forrit vill geta leitað að neti, jafnvel þegar slökkt er á WLAN, meðal annars til að gera ákvörðun staðsetningar nákvæmari.
+
+Leyfa þetta fyrir öll forrit sem vilja leita að neti?"</string>
+    <string name="wifi_scan_always_turnon_message">"%1$s vill geta leitað að neti, jafnvel þegar slökkt er á WLAN, m.a. til að gera ákvörðun staðsetningar nákvæmari.
+
+Leyfa þetta fyrir öll forrit sem vilja leita að neti?"</string>
+    <string name="wifi_scan_notify_text">Til þess að auka nákvæmni staðsetninga geta forrit og þjónusta áfram leitað að WLAN neti hvenær sem er, jafnvel þegar slökkt er á WLAN. Þetta getur til dæmis nýst til að bæta eiginleika og þjónustu sem byggjast á staðsetningu. Þú getur breytt þessu í LINK_BEGINleitarstillingunumLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Til að auka nákvæmni staðsetninga skaltu kveikja á WLAN leit í LINK_BEGINleitarstillingumLINK_END.</string>
+    <string name="wifi_scan_throttling">Hægja á WLAN leit</string>
+    <string name="wifi_security_short_wapi_cert">WLAN-vottorð</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">Öryggi með WLAN-vottorði</string>
+    <string name="wifi_security_verbose_wapi_psk">Öryggi með WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN-vottorð</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">Velja WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">Kveikt á WLAN í svefnstöðu</string>
+    <string name="wifi_setting_sleep_policy_title">Hafa kveikt á WLAN í biðstöðu</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Stillingar WLAN</string>
+    <string name="wifi_settings_master_switch_title">Nota WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">Kveikt á WLAN leit</string>
+    <string name="wifi_settings_scanning_required_info">WLAN leit leyfir forritum og þjónustu að leita að WLAN neti hvenær sem er, jafnvel þegar slökkt er á WLAN. Sem dæmi er hægt að nota þetta til að bæta eiginleika og þjónustu sem byggja á staðsetningu.</string>
+    <string name="wifi_settings_scanning_required_summary">Til að kveikja sjálfvirkt á WLAN þarf fyrst að slökkva á WLAN leit.</string>
+    <string name="wifi_settings_scanning_required_title">Kveikja á WLAN leit?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Kveikir á WLAN…</string>
+    <string name="wifi_stopping">Slekkur á WLAN…</string>
+    <string name="wifi_suspend_optimizations">WLAN sparnaður</string>
+    <string name="wifi_suspend_optimizations_summary">Draga úr rafhlöðunotkun þegar kveikt er á WLAN</string>
+    <string name="wifi_switch_away_when_unvalidated">Skipta yfir í farsímagögn ef WLAN glatar nettengingunni.</string>
+    <string name="wifi_tether_settings_subtext">Setja upp og stjórna færanlegum heitum WLAN reit</string>
+    <string name="wifi_tether_settings_text">Stillingar færanlegs heits WLAN reits</string>
+    <string name="wifi_tethering_warning_txt">Allar yfirstandandi WLAN aðgerðir stöðvast, eins og miðlunarflutningur, uppfærsla símahugbúnaðar, öryggisafritun og endurheimt.</string>
+    <string name="wifi_turned_on_message">Kveikt á WLAN</string>
+    <string name="wifi_verbose_logging">Kveikja á ítarlegri skráningu WLAN</string>
+    <string name="wifi_verbose_logging_summary">Auka skráningarstig WLAN, sýna RSSI fyrir hvert SSID í WLAN vali</string>
+    <string name="wifi_wakeup">Kveikja sjálfkrafa á WLAN</string>
+    <string name="wifi_wakeup_summary">WLAN mun kveikja á sér innan sendisviðs vistaðra gæðaneta, eins og netsins þíns heima</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Ekki tiltækt vegna þess að slökkt er á WLAN leit</string>
+    <string name="wifi_wps_category_title">Setja upp WLAN net</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN aftengt. Hætt við uppsetningu.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINA-stilling sparar rafhlöðuna með því að breyta stillingum tækisins. Þú getur valið forrit til að keyra með minnkaðri virkni í svefnham. (Þetta hjálpar þér að spara rafhlöðuna því flest forrit halda áfram að tæma rafhlöðuna í svefnham.)
+
+Óvirkjaðir eiginleikar í völdum forritum:
+- WLAN
+- Farsímagögn
+- Tímamælir
+
+Tilkynningarljósið fyrir öll forrit blikkar í sama lit og með sömu tíðni í svefnham.
+
+Slökkt er á STAMINA-stillingu á meðan þú stýrir tækinu."</string>
+</resources>

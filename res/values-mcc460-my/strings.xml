@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">"သင့်စက်ပစ္စည်းအမည်ကို သင့်ဖုန်းပေါ်ရှိ အက်ပ်များက မြင်ရပါသည်။ သင် 'ဘလူးတုသ်' စက်ပစ္စည်းများသို့ ချိတ်ဆက်သည့်အခါ သို့မဟုတ် WLAN ဟော့စပေါ့ ထုတ်လွှင့်သည့်အခါ အခြားသူများက မြင်နိုင်ပါသည်။"</string>
+    <string name="accessibility_no_wifi">"WLAN  ချိတ်ဆက်ထားမှု မရှိပါ"</string>
+    <string name="accessibility_wifi_off">"WLAN  ပိတ်ထားသည်"</string>
+    <string name="accessibility_wifi_one_bar">"WLAN  ၁ ဘားရှိ"</string>
+    <string name="accessibility_wifi_signal_full">"WLAN  အပြည့်ရှိ"</string>
+    <string name="accessibility_wifi_three_bars">"WLAN  ၃ ဘား"</string>
+    <string name="accessibility_wifi_two_bars">"WLAN  ၂ ဘား"</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="change_wifi_state_app_detail_summary">WLAN ဖွင့်ရန် သို့မဟုတ် ပိတ်ရန်၊ WLAN ကွန်ရက်များ ရှာဖွေရန်နှင့် ၎င်းတို့သို့ ချိတ်ဆက်ရန်၊ ကွန်ရက်များ ထည့်ရန် သို့မဟုတ် ဖယ်ရှားရန် သို့မဟုတ် စက်တွင်းသာသုံးသည့် ဟော့စပေါ့စတင်ရန် ဤအက်ပ်ကို ခွင့်ပြုပါ</string>
+    <string name="change_wifi_state_app_detail_switch">WLAN ထိန်းချုပ်ရန် အက်ပ်ကို ခွင့်ပြုပါ</string>
+    <string name="change_wifi_state_title">WLAN ထိန်းချုပ်မှု</string>
+    <string name="condition_cellular_summary">WLAN မှတစ်ဆင့်သာ အင်တာနက် သုံးစွဲနိုင်ပါသည်</string>
+    <string name="connected_via_app">%1$s မှတစ်ဆင့် ချိတ်ဆက်ထားသည်</string>
+    <string name="credential_for_wifi">WLAN အတွက် ထည့်သွင်းထားပါသည်</string>
+    <string name="data_usage_app_summary_title">မိုဘိုင်းဒေတာနှင့် WLAN</string>
+    <string name="data_usage_metered_wifi">မီတာသုံး WLAN ကွန်ရက်များ</string>
+    <string name="data_usage_metered_wifi_disabled">မီတာသုံး ကွန်ရက်များကို ရွေးရန် WLAN ကို ဖွင့်လိုက်ပါ။</string>
+    <string name="data_usage_restrict_background">နောက်ခံတွင် မိုဘိုင်းဒေတာ အသုံးပြုမှုကို ကန့်သတ်လိုက်လျှင် WLAN သို့ မချိတ်ဆက်မချင်း အချို့အက်ပ်နှင့် ဝန်ဆောင်မှုများသည် အလုပ်လုပ်မည် မဟုတ်ပါ။</string>
+    <string name="data_usage_restrict_background_multiuser">"နောက်ခံတွင် မိုဘိုင်းဒေတာ အသုံးပြုမှုကို ကန့်သတ်လိုက်လျှင် WLAN သို့ မချိတ်ဆက်မချင်း အချို့အက်ပ်နှင့် ဝန်ဆောင်မှုများသည် အလုပ်လုပ်မည် မဟုတ်ပါ။
+
+ဤဆက်တင်သည် ဤဖုန်းထဲရှိ အသုံးပြုသူအားလုံးအပေါ် သက်ရောက်မှု ရှိပါသည်။"</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">WLAN တွင် ^1 သုံးထားသည်</string>
+    <string name="data_usage_wifi_title">WLAN ဒေတာ</string>
+    <string name="emergency_address_summary">WLAN သုံး၍ အရေးပေါ်ဖုန်းခေါ်သောအခါ အသုံးပြုသည့် သင့်တည်နေရာ</string>
+    <string name="fullbackup_data_summary">"(WLAN  စကားဝှက်နှင့် ခေါ်ဆိုမှုမှတ်တမ်း အစရှိသော) စက်ကိရိယာဒေတာများနှင့် (ဆက်တင်များနှင့် အက်ပ်များမှ သိမ်းဆည်းထားသော ဖိုင်များ အစရှိသော) အက်ပ်ဒေတာများအား အဝေးမှ အလိုအလျောက် အရံသိမ်းဆည်းပါ။ 
+
+အလိုအလျောက် အရံသိမ်းဆည်းခြင်းအား ဖွင့်ထားသည့်အခါ၊ စက်ကိရိယာနှင့် အက်ပ်ဒေတာများအား ကာလအပိုင်းအခြားအလိုက် အဝေးမှ သိမ်းဆည်းသွားမည်။ အက်ပ်ဒေတာ ဆိုသည်မှာ (ဆော့ဖ်ဝဲရေးသူ ဆက်တင်အား အခြေပြုလျက်) အက်ပ်မှ သိမ်းဆည်းထားသော မည်သည့်ဒေတာမဆို ဖြစ်နိုင်ပြီး အဆက်အသွယ်များ၊ စာတိုများနှင့် ဓာတ်ပုံများ အစရှိသည့် အရေးကြီးသည့် ဒေတာများလည်း ပါဝင်နိုင်သည်။"</string>
+    <string name="fullbackup_erase_dialog_message">"(WLAN  စကားဝှက်နှင့် ခေါ်ဆိုမှုမှတ်တမ်း အစရှိသော) စက်ကိရိယာဒေတာများနှင့် (ဆက်တင်များနှင့် အက်ပ်များမှ သိမ်းဆည်းထားသော ဖိုင်များ အစရှိသော) အက်ပ်ဒေတာများအား အရံသိုလှောင်သိမ်းဆည်းနေခြင်းမှ ရပ်တန့်ပြီးနောက်၊ အဝေးရှိ ဆာဗာများမှ မိတ္ထူပွားများအားလုံးကို ဖျက်ပစ်လိုပါသလား?"</string>
+    <string name="keywords_wifi_calling">WLAN ၊ WLAN ၊ ခေါ်ဆိုမှု၊ ခေါ်ဆိုခြင်း</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN အကြောင်းကြားချက်၊ wifi အကြောင်းကြားချက်</string>
+    <string name="location_network_based">"WLAN  &amp; မိုဘိုင်းလ်ကွန်ယက်တည်နေရာ"</string>
+    <string name="location_scanning_screen_title">WLAN နှင့် ဘလူးတုသ် ရှာဖွေခြင်း</string>
+    <string name="location_scanning_wifi_always_scanning_description">WLAN ကို ပိတ်ထားလျှင်ပင် အနီးအနားရှိ WLAN ကွန်ရက်များကို အချိန်မရွေးရှာဖွေရန် အက်ပ်များအား ခွင့်ပြုပါ။ ဥပမာအားဖြင့် ၎င်းကို တည်နေရာအခြေပြု ဝန်ဆောင်မှုနှင့် အခြားဝန်ဆောင်မှုများ တိုးတက်လာစေရန် အသုံးပြုနိုင်ပါသည်။</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN ရှာဖွေခြင်း</string>
+    <string name="lost_internet_access_cancel">WLAN ဆက်ချိတ်ထားရန်</string>
+    <string name="lost_internet_access_text">WLAN ချိတ်ဆက်မှု မကောင်းသည့်အခါတိုင်း မိုဘိုင်းကွန်ရက်သို့ ပြောင်းလဲ ချိတ်ဆက်နိုင်သည်။ ဒေတာ သုံးစွဲခများ ကျသင့်နိုင်ပါသည်။</string>
+    <string name="lost_internet_access_title">WLAN သည် အင်တာနက်သို့ ချိတ်ဆက်မထားပါ</string>
+    <string name="mobile_data_always_on_summary">WLAN ဖွင့်ထားချိန်တွင်လည်း မိုဘိုင်းဒေတာ အမြဲတမ်းဖွင့်မည် (မြန်ဆန်သည့် ကွန်ရက် ပြောင်းခြင်းအတွက်)။</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_controls_summary">WLAN ၊ ဘလူးတုသ်၊ လေယာဉ်ပေါ်အသုံးပြုစနစ်၊ မိုဘိုင်းလ်ကွန်ရက်များနှင့် VPN များကို စီမံခန့်ခွဲရန်</string>
+    <string name="radio_info_ims_reg_status">"IMS မှတ်ပုံတင်ခြင်း− %1$s
+LTE ကို အသုံးပြု၍ ခေါ်ဆိုခြင်း− %2$s
+WLAN ကို အသုံးပြု၍ ခေါ်ဆိုခြင်း− %3$s
+ဗီဒီယို ခေါ်ဆိုမှု− %4$s
+UT အသုံးပြုမှု အသွင်အပြင်− %5$s"</string>
+    <string name="reset_network_desc">"၎င်းသည် အောက်ပါတို့အပါအဝင် ကွန်ရက်ဆက်တင်များအားလုံးကို ပြင်ဆင်သတ်မှတ်လိုက်ပါမည်−
+
+"<li>WLAN</li>"
+"<li>မိုဘိုင်းဒေတာ</li>"
+"<li>ဘလူးတုသ်</li></string>
+    <string name="reset_network_title">WLAN၊ မိုဘိုင်း၊ ဘလူးတုသ် ပြင်ဆင်သတ်မှတ်ရန်</string>
+    <string name="scanning_status_text_wifi_off_ble_off">WLAN နှင့် ဘလူးတုသ် ရှာဖွေမှု နှစ်ခုလုံးပိတ်ထားသည်</string>
+    <string name="scanning_status_text_wifi_off_ble_on">ဘလူးတုသ် ရှာဖွေခြင်း ဖွင့်ထားသည်၊ WLAN ရှာဖွေခြင်း ပိတ်ထားသည်</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN ရှာဖွေခြင်း ဖွင့်ထားသည်၊ ဘလူးတုသ် ရှာဖွေခြင်း ပိတ်ထားသည်</string>
+    <string name="scanning_status_text_wifi_on_ble_on">WLAN နှင့် ဘလူးတုသ် ရှာဖွေမှု နှစ်ခုလုံးဖွင့်ထားသည်</string>
+    <string name="status_wifi_mac_address">WLAN ၏ MAC လိပ်စာ</string>
+    <string name="usage_type_wifi_running">"WLAN  အလုပ်လုပ်နေသည်"</string>
+    <string name="user_add_user_message_long">"နောက်ထပ် အသုံးပြုသူများ ထည့်သွင်းခြင်းဖြင့် ဤစက်ပစ္စည်းကို အခြားသူများနှင့် မျှဝေအသုံးပြုနိုင်သည်။ အသုံးပြုသူတိုင်းသည် မိမိတို့ကိုယ်ပိုင်နေရာ ရရှိမည်ဖြစ်ပြီး အက်ပ်၊ နောက်ခံပုံနှင့် အခြားအရာတို့ဖြင့် စိတ်ကြိုက်ပြင်ဆင်နိုင်ပါမည်။ အားလုံးကို အကျိုးသက်ရောက်မှု ရှိစေနိုင်သည့် WLAN ကဲ့သို့ ဆက်တင်များကိုလည်း ချိန်ညှိနိုင်ပါမည်။
+
+အသုံးပြုသူအသစ် ထည့်သည့်အခါ ထိုသူသည် မိမိ၏ကိုယ်ပိုင်နေရာကို သတ်မှတ်ရပါမည်။
+
+အသုံးပြုသူ မည်သူမဆို အခြားအသုံးပြုသူများအတွက် အက်ပ်များကို အပ်ဒိတ်လုပ်နိုင်သည်။ အများသုံးစွဲနိုင်မှုဆက်တင်များနှင့် ဝန်ဆောင်မှုများကို အသုံးပြုသူအသစ်ထံသို့ လွှဲပြောင်းပေးမည် မဟုတ်ပါ။"</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"'WLAN ခေါ်ဆိုခြင်း' မှတစ်ဆင့် အရေးပေါ်ဖုန်းခေါ်ခြင်းများကို သင့်ဝန်ဆောင်မှုပေးသူက ပံ့ပိုးမထားပါ။
+အရေးပေါ်ဖုန်းခေါ်ခြင်း ပြုလုပ်ရန် စက်ပစ္စည်းသည် ဆယ်လူလာကွန်ရက်သို့ အလိုအလျောက် ပြောင်းသွားပါမည်။
+ဆယ်လူလာကွန်ရက် ရရှိနိုင်သည့် နယ်မြေများတွင်သာ အရေးပေါ်ဖုန်းခေါ်ခြင်းများ ပြုလုပ်နိုင်ပါသည်။"</string>
+    <string name="wfc_provisioned_switch_string">WLAN ဖြင့် ခေါ်ဆိုမှု ပံ့ပိုးထားပါသည်</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN ကွန်ရက်များ</string>
+    <string name="wifi_advanced_not_available">WLAN အဆင့်မြှင့်ဆက်တင်များ ဤအသုံးပြုသူအတွက် မရပါ။</string>
+    <string name="wifi_advanced_settings_label">IP ဆက်တင်များ</string>
+    <string name="wifi_advanced_titlebar">အဆင့်မြင့် WLAN</string>
+    <string name="wifi_ap_band_select_one">WLAN ဟော့စပေါ့အတွက် အနည်းဆုံး လိုင်းတစ်လိုင်းရွေးပါ−</string>
+    <string name="wifi_ask_disable">%s က WLAN ပိတ်လိုသည်</string>
+    <string name="wifi_ask_enable">%s က WLAN ဖွင့်လိုသည်</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">မိုဘိုင်းကွန်ရက် မရနိုင်လျှင် WLAN သုံးပါ</string>
+    <string name="wifi_calling_mode_wifi_only_summary">WLAN သုံး၍ ခေါ်ဆိုသည်။ WLAN မရတော့လျှင် ခေါ်ဆိုမှု ပြီးသွားပါမည်။</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">WLAN မရနိုင်လျှင် မိုဘိုင်းကွန်ရက် သုံးပါ</string>
+    <string name="wifi_calling_not_supported">%1$s အတွက် WLAN ခေါ်ဆိုမှုကို ပံ့ပိုးမထားပါ</string>
+    <string name="wifi_calling_off_explanation">WLAN ခေါ်ဆိုမှု ဖွင့်ထားသည့်အခါ သင်၏ရွေးချယ်မှုနှင့် လိုင်းပိုမိမှုအပေါ် မူတည်၍ သင့်ဖုန်းသည် WLAN ကွန်ရက်များ သို့မဟုတ် သင့် ဝန်ဆောင်မှုပေးသူ၏ ကွန်ရက်မှတစ်ဆင့် ခေါ်ဆိုမှုများ ထပ်ဆင့်ပို့နိုင်ပါသည်။ ဤဝန်ဆောင်မှုမဖွင့်မီ ကျသင့်ငွေနှင့် အခြားအသေးစိတ် အချက်များအတွက် သင့်ဝန်ဆောင်မှုပေးသူကို မေးမြန်းကြည့်ပါ။%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">WLAN ခေါ်ဆိုမှုကို စသုံးရန်ဖွင့်ပါ</string>
+    <string name="wifi_calling_settings_title">"WLAN  ခေါ်ဆိုမှု"</string>
+    <string name="wifi_calling_suggestion_summary">လိုင်းပိုမိစေရန် WLAN ဖြင့်ခေါ်ဆိုခြင်းကို ဖွင့်ပါ</string>
+    <string name="wifi_calling_suggestion_title">WLAN ဖြင့် ခေါ်ဆိုမှုများကို တိုးချဲ့ပါ</string>
+    <string name="wifi_calling_summary">ဖုန်းခေါ်ဆိုမှုများ အရည်အသွေး ပိုမိုကောင်းမွန်စေရန် WLAN အသုံးပြုသည်</string>
+    <string name="wifi_calling_turn_on">WLAN ခေါ်ဆိုမှုဖွင့်ပါ</string>
+    <string name="wifi_carrier_connect">ဖုန်းကုမ္ပဏီ WLAN ကွန်ရက်</string>
+    <string name="wifi_cellular_data_fallback_summary">WLAN တွင် အင်တာနက် ချိတ်ဆက်မှု မရှိသည့်အခါ မိုဘိုင်းဒေတာကို အသုံးပြုပါ။ ဒေတာသုံးစွဲခ ကျသင့်နိုင်ပါသည်။</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN သည် အလိုအလျှောက် ပြန်မဖွင့်ပါ</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN သည် အလိုအလျှောက် ပြန်ဖွင့်သည်</string>
+    <string name="wifi_configure_settings_preference_title">WLAN ဦးစားပေးများ</string>
+    <string name="wifi_data_template">^1 WLAN ဒေတာ</string>
+    <string name="wifi_data_usage">WLAN ဒေတာ အသုံးပြုမှု</string>
+    <string name="wifi_disabled_wifi_failure">WLAN ချိတ်ဆက်မှု မအောင်မြင်ပါ</string>
+    <string name="wifi_dpp_add_device_to_wifi">ဤစက်ကို “%1$s” သို့ ထည့်လိုသလား။</string>
+    <string name="wifi_dpp_center_qr_code">“%1$s” သို့ စက်ပစ္စည်းထည့်ရန် အောက်ရှိ QR ကုဒ်ကို အလယ်တည့်တည့် ထားပါ</string>
+    <string name="wifi_dpp_failure_not_supported">“%1$s” ထည့်ခြင်းကို ဤစက်ပစ္စည်းက ပံ့ပိုးမထားပါ</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">“%1$s” နှင့်ချိတ်ဆက်ရန် ဤ QR ကုဒ်ကို စကင်ဖတ်ပါ</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">“%1$s” သို့ ချိတ်ဆက်ရန် အောက်ရှိ QR ကုဒ်ကို အလယ်တည့်တည့် ထားပါ</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">QR ကုဒ်ကို စကင်ဖတ်၍ WLAN ကို ချိတ်ဆက်ပါ</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">“%1$s” နှင့် ချိတ်ဆက်ရန် ဤ QR ကုဒ်ကို စကင်ဖတ်ပြီး စကားဝှက် မျှဝေပါ</string>
+    <string name="wifi_dpp_share_wifi">WLAN မျှဝေပါ</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">WLAN ကို ဤစက်အား မျှဝေနေသည်…</string>
+    <string name="wifi_dpp_wifi_password">WLAN စကားဝှက်− %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN မျှဝေထားသော စက်ပစ္စည်းများ</string>
+    <string name="wifi_empty_list_user_restricted">"သင့်မှာ WLAN  ကွန်ရက်ကို ပြောင်းလဲရန် ခွင့်ပြုချက် မရှိပါ။"</string>
+    <string name="wifi_empty_list_wifi_off">ရနိုင်သည့်ကွန်ရက်များကို မြင်ရန် WLAN ဖွင့်ပါ</string>
+    <string name="wifi_hotspot_auto_off_summary">မည်သည့် စက်ပစ္စည်းကိုမျှ ချိတ်ဆက်ထားခြင်း မရှိလျှင် WLAN ဟော့စပေါ့ကို ပိတ်သွားပါမည်</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN ဟော့စပေါ့</string>
+    <string name="wifi_hotspot_footer_info_regular">သင်၏ အခြားစက်များအတွက် WLAN ကွန်ရက်ကို ဖွင့်ပေးရန် ဟော့စပေါ့ကို အသုံးပြုပါ။ ဟော့စပေါ့က သင်၏ မိုဘိုင်းဒေတာဆက်သွယ်မှုကို အသုံးပြုပြီး အင်တာနက်ကို ဖန်တီးပေးနိုင်ပါသည်။ မိုဘိုင်းဒေတာသုံးစွဲခ ပိုကုန်ကျနိုင်ပါသည်။</string>
+    <string name="wifi_menu_p2p">တိုက်ရိုက် WLAN</string>
+    <string name="wifi_p2p_settings_title">တိုက်ရိုက် WLAN</string>
+    <string name="wifi_poor_network_detection_summary">WLAN ကွန်ရက်တွင် အင်တာနက် မကောင်းလျှင် မသုံးပါနှင့်</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"တည်နေရာ ပိုတိကျစေရန်နှင့် အခြားရည်ရွယ်ချက်များအတွက် အမည်ဖော်မထားသောအက်ပ်သည် WLAN ပိတ်ထားသော်လည်း ကွန်ရက်ကြည့်ရှုခြင်းကို ဖွင့်လိုသည်။
+
+ရှာဖွေလိုသော အက်ပ်အားလုံးအတွက် ၎င်းကို ခွင့်ပြုလိုသလား။"</string>
+    <string name="wifi_scan_always_turnon_message">"တည်နေရာ တိကျမှုနှင့် တခြားရည်ရွယ်ချက်များအတွက် ပိုကောင်းစေရန် %1$s သည် ဝိုင်ဖိုင်ပိတ်ထားချိန်မှာပင်လျှင် ကွန်ရက်ရှာဖွေမှုကို ဖွင့်လိုသည်။
+
+ အခြား ရှာဖွေလိုသော အပလီကေးရှင်းအားလုံးကို ခွင့်ပြုရမည်လား?"</string>
+    <string name="wifi_scan_notify_text">တည်နေရာ ပိုမိုတိကျမှု ရှိစေရန်အတွက် WLAN ကို ပိတ်ထားသည့်အခါတွင်ပင် အက်ပ်နှင့် ဝန်ဆောင်မှုများသည် WLAN ကွန်ရက်များကို အချိန်မရွေး ရှာဖွေနိုင်ပါသည်။ ဥပမာအားဖြင့် တည်နေရာကို အခြေခံသည့် လုပ်ဆောင်ချက်များနှင့် ဝန်ဆောင်မှုများ ပိုမိုကောင်းမွန်လာစေရန် ၎င်းကို အသုံးပြုပါသည်။ ၎င်းကို LINK_BEGINရှာဖွေခြင်း ဆက်တင်များLINK_END တွင် ပြောင်းနိုင်သည်။</string>
+    <string name="wifi_scan_notify_text_scanning_off">တည်နေရာ ပိုမိုတိကျလာစေရန် LINK_BEGINရှာဖွေမှု ဆက်တင်များLINK_END ရှိ WLAN ရှာဖွေခြင်းကို ဖွင့်ပါ။</string>
+    <string name="wifi_scan_throttling">WLAN ရှာဖွေခြင်း ထိန်းချုပ်မှု</string>
+    <string name="wifi_setting_sleep_policy_title">စက်ပိတ်ထားစဉ် WLAN ဖွင့်ထားပါ</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_master_switch_title">WLAN သုံးရန်</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN ရှာဖွေခြင်း ဖွင့်ထားသည်</string>
+    <string name="wifi_settings_scanning_required_info">WLAN ကို ပိတ်ထားစေကာမူ WLAN ကွန်ရက်များကို အချိန်မရွေး ရှာဖွေရန် အက်ပ်နှင့် ဝန်ဆောင်မှုများအား WLAN ရှာဖွေခြင်းက ခွင့်ပြုသည်။ ၎င်းကို ဥပမာအားဖြင့် တည်နေရာအခြေပြု လုပ်ဆောင်ချက်နှင့် ဝန်ဆောင်မှုများ ကောင်းမွန်လာစေရန် အသုံးပြုနိုင်သည်။</string>
+    <string name="wifi_settings_scanning_required_summary">WLAN ကို အလိုအလျောက် ဖွင့်ရန် WLAN ရှာဖွေခြင်းကို ဦးစွာ ဖွင့်ရပါမည်။</string>
+    <string name="wifi_settings_scanning_required_title">WLAN ရှာဖွေခြင်း ဖွင့်လိုသလား။</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_suspend_optimizations">"WLAN  သင့်တော်အောင်ဆောင်ရွက်ခြင်း"</string>
+    <string name="wifi_switch_away_when_unvalidated">WLAN တွင် အင်တာနက် သုံးစွဲခွင့်မရှိတော့ပါက မိုဘိုင်းဒေတာသို့ ပြောင်းပါ။</string>
+    <string name="wifi_tether_configure_ap_text">WLAN ဟော့စပေါ့ သတ်မှတ်ရန်</string>
+    <string name="wifi_tether_failed_subtext">"ခရီးဆောင် WLAN  ဟော့စပေါ့ မှားယွင်းချက်"</string>
+    <string name="wifi_turned_on_message">WLAN ဖွင့်ထားသည်</string>
+    <string name="wifi_verbose_logging">WLAN Verbose မှတ်တမ်းတင်ခြင်းအား ဖွင့်မည်</string>
+    <string name="wifi_verbose_logging_summary">WLAN မှတ်တမ်းတင်ခြင်း နှုန်းအားမြင့်ကာ၊ WLAN ရွေးရာတွင် SSID RSSI ဖြင့်ပြပါ</string>
+    <string name="wifi_wakeup">WLAN ကို အလိုအလျောက် ဖွင့်ရန်</string>
+    <string name="wifi_wakeup_summary">သင်၏နေအိမ်ကွန်ရက်ကဲ့သို့သော သိမ်းဆည်းထားသည့် အရည်အသွေးမြင့် ကွန်ရက်များအနီးသို့ ရောက်သည့်အခါ WLAN ကို ဖွင့်လိုက်ပါမည်</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">WLAN ရှာဖွေခြင်းကို ပိတ်ထားသောကြောင့် မရနိုင်ပါ</string>
+</resources>

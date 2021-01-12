@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/ambient_display_pickup_title" android:key="gesture_pick_up_screen"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <com.android.settings.widget.VideoPreference android:key="gesture_pick_up_video" settings:animation="@raw/gesture_ambient_lift" settings:preview="@drawable/gesture_ambient_lift" />
+    <SwitchPreference android:title="@string/ambient_display_pickup_title" android:key="gesture_pick_up" android:summary="@string/ambient_display_pickup_summary" settings:allowDividerAbove="true" settings:controller="com.android.settings.gestures.PickupGesturePreferenceController" settings:keywords="@string/keywords_gesture" />
+    <com.sonymobile.settings.preference.IncludePreference settings:include="@xml/somc_add_pick_up_gesture_settings" />
+</PreferenceScreen>

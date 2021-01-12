@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:icon="@drawable/ic_system_update" android:key="docomo_fota_settings" settings:dependOnIsOwnerOnly="true" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.nttdocomo.android.osv" android:action="com.nttdocomo.android.fota.FOTA_SETTINGS" android:targetClass="com.nttdocomo.android.osv.StartupActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:icon="@drawable/ic_settings_application_update" android:key="somc_application_update_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.updatecenter" android:action="com.sonyericsson.settings.APPLICATION_UPDATE_SETTINGS" android:targetClass="com.sonyericsson.updatecenter.ui.activity.SettingsEntryAppUpdateLegacy" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/regulatory_labels" android:key="somc_regulatory_info" settings:before="first" settings:dependOnIsValidIntent="true" settings:dependOnResource="@bool/config_showCertificatesInSystem">
+        <intent android:action="android.settings.SHOW_REGULATORY_INFO" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

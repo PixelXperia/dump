@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">உங்களது மொபைலில் உள்ள ஆப்ஸிற்கு, உங்கள் சாதனத்தின் பெயர் தெரியும். புளூடூத் சாதனங்களுடன் இணைக்கும்போது அல்லது வைஃபை ஹாட்ஸ்பாட்டை அமைக்கும்போது, அப்பெயர் பிறருக்குக் காட்டப்படலாம்.</string>
+    <string name="accessibility_no_wifi">வைஃபை துண்டிக்கப்பட்டது.</string>
+    <string name="accessibility_wifi_off">வைஃபை முடக்கப்பட்டது.</string>
+    <string name="accessibility_wifi_one_bar">வைஃபை சிக்னல்: ஒரு கோடு.</string>
+    <string name="accessibility_wifi_signal_full">வைஃபை சிக்னல் முழுமையாக உள்ளது.</string>
+    <string name="accessibility_wifi_three_bars">வைஃபை சிக்னல்: மூன்று கோடுகள்.</string>
+    <string name="accessibility_wifi_two_bars">வைஃபை சிக்னல்: இரண்டு கோடுகள்.</string>
+    <string name="battery_usm_desc">"Ultra STAMINA பயன்முறையானது பேட்டரியின் நேரத்தைக் கணிசமாக நீட்டிக்கும். WLAN மற்றும் மொபைல் தரவு மூலமான இணைய இணைப்பு முடக்கப்படும் என்பதால், தரவு ஒத்திசைத்தல் மற்றும் WLAN அழைப்பு போன்ற செயல்பாடுகள் கிடைக்காது என்பதை நினைவில் கொள்ளவும். உங்கள் முகப்புத் திரை Ultra STAMINA பயன்முறை முகப்பிற்கு மாற்றப்படும்.
+
+Ultra STAMINA பயன்முறையில் கிடைக்கும் பயன்பாடுகள்"</string>
+    <string name="battery_usm_desc_variable">"Ultra STAMINA பயன்முறையானது பேட்டரியின் நேரத்தைக் கணிசமாக நீட்டிக்கும். WLAN மற்றும் மொபைல் தரவு மூலமான இணைய இணைப்பு முடக்கப்படும் என்பதால், தரவு ஒத்திசைத்தல் மற்றும் %s போன்ற செயல்பாடுகள் கிடைக்காது என்பதை நினைவில் கொள்ளவும். உங்கள் முகப்புத் திரை Ultra STAMINA பயன்முறை முகப்பிற்கு மாற்றப்படும்.
+
+Ultra STAMINA பயன்முறையில் கிடைக்கும் பயன்பாடுகள்"</string>
+    <string name="bs_feature_wifi">WLAN அணைப்பு</string>
+    <string name="change_wifi_state_app_detail_summary">"வைஃபையை ஆன் அல்லது ஆஃப் செய்யவும், வைஃபை நெட்வொர்க்குகளை ஸ்கேன் செய்து இணைக்கவும், நெட்வொர்க்குகளைச் சேர்க்க அல்லது அகற்றவும், குறிப்பிட்ட இடம் அல்லது  சாதனத்திற்குள் மட்டும் இயங்கும் ஹாட்ஸ்பாட்டைத் தொடங்கவும் இந்த ஆப்ஸை அனுமதிக்கவும்"</string>
+    <string name="change_wifi_state_app_detail_switch">வைஃபை அணுகலைக் கட்டுப்படுத்த, ஆப்ஸை அனுமதித்தல்</string>
+    <string name="change_wifi_state_title">வைஃபை அணுகலைக் கட்டுப்படுத்தல்</string>
+    <string name="connected_via_app">%1$s மூலம் இணைக்கப்பட்டது</string>
+    <string name="credential_for_wifi">வைஃபைக்காக நிறுவியது</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN இண.</string>
+    <string name="cw_network_notification">CT WLAN அறிவி. செயல்படு.</string>
+    <string name="cw_network_priority">China Telecom WLAN -ஐ முன்.</string>
+    <string name="cw_network_priority_summary">இணைப்பில் உள்ள பிற WLAN நெட்வொர்க்குகளின் மூலம் China Telecom WLAN நெட்வொர்க்குகள் முன்னிலைப்படுத்தப்படும்</string>
+    <string name="data_service_except_mms_disabled_warning_txt">நீங்கள் WLAN -ஐ பயன்படுத்தாத வரை தரவு இணைப்பு தேவைப்படும் இணையம், மின்னஞ்சல், மற்றும் மற்ற பயன்பாடுகளை பயன்படுத்த முடியாது. மொபைல் தரவு இணைப்பை அணைக்கவா?</string>
+    <string name="dialog_message_hint">"STAMINA பயன்முறை இவற்றை உள்ளடக்கியது:
+
+• நீட்டிக்கப்பட்ட காத்திருநிலை
+WLAN மற்றும் மொபைல் தரவை தற்காலிகமாக முடக்குவதன் மூலம் மின்திறனை சேமிக்கிறது. பெரும்பாலான பயன்பாடுகள் செயலற்ற நிலையில் இருக்கும்.
+திரை இயக்கப்பட்டிருக்கும்போது, உங்கள் தொலைபேசி சாதாரணமாக செயல்புரியும்.
+நீட்டிக்கப்பட்ட காத்திருநிலை இயக்கப்பட்டிருக்கும்போது சில பயன்பாடுகளை நீங்கள் செயலில் வைக்க வேண்டுமென்றால், காத்திருநிலையில் செயலில் இருக்கும் பயன்பாடுகள் பட்டியலில் அவற்றை சேர்க்கவும்.
+
+• நீட்டிக்கப்பட்ட பயன்பாடு
+வன்பொருள் செயல்திறனைத் தடைசெய்யும் சாதனங்களால் பயன்படுத்தப்படும்போது மின்திறனை சேமிக்கிறது.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>STAMINA பயன்முறை என்றால் என்ன?</u>"
+STAMINA பயன்முறை என்பது Sony இன் ஒரு மின்திறன் சேமிப்பு செயல்பாடு ஆகும். இது திரை அணைக்கப்பட்டிருக்கும் போது பேட்டரியின் ஆயுள்காலத்தை நீட்டிக்கிறது.
+
+"<u>அடிப்படைப் பயன்பாடு</u>"
+STAMINA பயன்முறையை செயல்படுத்த, திரையிலுள்ள பொத்தானைத் தட்டவும்.
+திரை அணைக்கப்பட்டிருக்கும் போது, பேட்டரியை சேமிக்கும் பொருட்டு, WLAN மற்றும் மொபைல் தரவு தற்காலிகமாக முடக்கப்படும், பெரும்பாலான பயன்பாடுகள் செயலற்ற நிலையில் இருக்கும்.
+திரை இயக்கப்படும் போது, உங்கள் தொலைபேசி சாதாரணமாகச் செயல்படும்.
+
+"<u>மேம்பட்ட பயன்பாடு</u>"
+STAMINA இயக்கப்பட்டிருக்கும்போது சில பயன்பாடுகள் செயல்பாட்டில் இருக்கவேண்டும் என்று நீங்கள் கருதினால், அவற்றை காத்திருநிலையில் செயலில் இருக்கும் பயன்பாடுகள் பட்டியலில் சேர்க்கவும்.
+இந்த பட்டியலில் பயன்பாடுகள் சேர்க்கப்படவில்லை என்றால் சரியாக வேலை செய்யாமலும் போகக்கூடும்.
+
+"<u>குறிப்பு</u>"
+ஒரு பயன்பாடு சரியாக வேலை செய்யவில்லை என்றால், அவற்றை காத்திருநிலையில் செயலில் இருக்கும் பயன்பாடுகள் பட்டியலில் சேர்க்கவும் அல்லது STAMINA பயன்முறையை அணைக்கவும்."</string>
+    <string name="emergency_address_summary">WLAN மூலம் அவசர அழைப்பை மேற்கொள்ளும்போது, உங்களின் அப்போதைய இருப்பிடமே உங்கள் முகவரியாகக் கருதப்படும்</string>
+    <string name="fullbackup_data_summary">"சாதனத் தரவையும் (வைஃபை கடவுச்சொற்கள், அழைப்பு பதிவு போன்றவை) ஆப்ஸ் டேட்டாவையும் (பயன்பாடுகளில் சேமிக்கப்பட்டிருக்கும் அமைப்புகள், கோப்புகள் போன்றவை) தொலைநிலையில் தானாகக் காப்புப் பிரதி எடுக்கும்.
+
+தானியங்கு காப்புப் பிரதியை இயக்கும் போது, சாதனம் மற்றும் ஆப்ஸ் டேட்டாவானது குறிப்பிட்ட கால இடைவெளியில் தொலைநிலையில் சேமிக்கப்படும். ஆப்ஸ் டேட்டா என்பது, தொடர்புகள், செய்திகள், படங்கள் போன்ற மிகவும் முக்கிய தரவு உட்பட, பயன்பாடு சேமித்த (டெவெலப்பர் அமைப்புகளைப் பொறுத்து) எந்தத் தரவாகவும் இருக்கலாம்."</string>
+    <string name="fullbackup_erase_dialog_message">சாதனத் தரவையும் (வைஃபை கடவுச்சொற்கள் மற்றும் அழைப்பு பதிவு போன்றவை) ஆப்ஸ் டேட்டாவையும் (பயன்பாடுகளில் சேமிக்கப்பட்டிருக்கும் அமைப்புகள் மற்றும் கோப்புகள் போன்றவை) காப்புப் பிரதி எடுப்பதை நிறுத்தி, தொலைநிலை சேவையகங்களில் உள்ள எல்லா நகல்களையும் அழிக்கவா?</string>
+    <string name="install_wapi_certs">WLAN சான்றிதழ்களை நிறுவு</string>
+    <string name="l_dialog_message_hint">"STAMINA பயன்முறையில் இவை உள்ளடங்கியுள்ளன:
+
+• நீட்டிக்கப்பட்ட காத்திருநிலை
+திரை ஆஃப் ஆகியிருக்கும்போது WLAN -ஐ தற்காலிகமாக முடக்குவதன் மூலம் மின்சக்தியை சேமிக்கிறது. பெரும்பாலான பயன்பாடுகள் செயலற்றிருக்கும்.
+திரை ஆன் ஆகியிருக்கும்போது, உங்கள் சாதனம் இயல்பாக செயல்படும்.
+நீட்டிக்கப்பட்ட காத்திருநிலை இயக்கப்பட்டிருக்கும்பொது சில பயன்பாடுகளை நீங்கள் செயல்பாட்டில் வைத்திருக்க விரும்பினால், காத்திருநிலையில் செயல்பாட்டிலிருக்கும் பயன்பாடுகள் பட்டியலுக்கு பயன்பாடுகளைச் சேர்க்கவும்.
+
+• நீட்டிக்கப்பட்ட பயன்பாடு
+உங்கள் சாதனம் பயன்பாட்டில் உள்ளபோது வன்பொருள் செயல்திறனை தடைசெய்வதன் மூலம் மின்சக்தியை சேமிக்கிறது."</string>
+    <string name="location_based_wifi">இடம்-சார்ந்த WLAN</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">உங்கள் நடப்பு WLAN பிணையத்தைப் பகிர, அமைப்பில் \"WLAN தகவலைப் பகிர்\" விருப்பத்தைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="nfc_wifi_share_checkbox">WLAN தகவலைப் பகிர்</string>
+    <string name="nfc_wifi_share_title_txt">WLAN விவரத்தைப் பகிர்</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;T WLAN ஹாட்ஸ்பாட்டிற்கு தானாக இணை</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN தானிய. இணை</string>
+    <string name="powersaver_feature_data_message">நீங்கள் WLAN -ஐ பயன்படுத்தாத வரை தரவு இணைப்பு தேவைப்படும் இணையம், மின்னஞ்சல், மற்றும் மற்ற பயன்பாடுகளை பயன்படுத்த முடியாது. மொபைல் தரவு இணைப்பை அணைக்கவா?</string>
+    <string name="powersaver_feature_wifi">WLAN அணைப்பு</string>
+    <string name="radio_info_ims_reg_status">"IMS பதிவு: %1$s
+வாய்ஸ் ஓவர் LTE: %2$s
+வாய்ஸ் ஓவர் WLAN: %3$s
+வீடியோ அழைப்பு: %4$s
+UT இடைமுகம்: %5$s"</string>
+    <string name="somc_backup_failed_no_wifi_summary">WLAN இணைப்புக்குக் காத்திருக்.</string>
+    <string name="somc_wifi_turned_on_info">WLAN இயக்கப்ப. பட்டிய. உங்கள் பிணையத். தேர்ந்தெடுக்கவும்.</string>
+    <string name="stamina_xssm_summary">திரை அணைக்கப்படும்போது மொபைல் தரவு மற்றும் WLAN -ஐ முடக்குகிறது</string>
+    <string name="tethering_no_sim_warning_txt">இணைய அணுகலுக்காக Mobile WLAN Hotspot அல்லது USB டீத்தரிங்கைப் பயன்படுத்தி உங்கள் தொலைபேசியின் தரவு இணைப்பை மற்ற சாதனங்களுடன் பகிர்ந்து கொள்வதற்காக சிம் கார்டை தயவு செய்து செருகவும்.</string>
+    <string name="usm_descr">"Ultra STAMINA பயன்முறையானது பேட்டரியின் ஆயுள்காலத்தை குறிப்பிட்ட அளவு நீட்டிக்கிறது. உங்கள் சாதனத்தை நீண்ட நேரம் உங்களால் மின்னேற்றம் செய்ய முடியாத நிலையில் இதைப் பயன்படுத்தலாம்.
+
+தொலைபேசி மற்றும் செய்தியாக்கல் போன்ற சில அடிப்படை செயல்பாடுகள் மட்டுமே கிடைக்கும். கூடுதல் விவரங்களுக்கு “கூடுதல் விவரம்” என்பதைத் தட்டவும்.
+
+மொபைல் தரவு மற்றும் WLAN மூலம் பெறும் இணைய இணைப்பு முடக்கப்படும் என்பதை குறித்துக் கொள்ளவும்."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"WLAN அழைப்பு மூலம் அவசர அழைப்புகளைச் செய்ய முடியாது.
+அவசர அழைப்பைச் செய்ய சாதனம் ஒரு செல்லுலார் பிணையத்திற்கு (2G/3G) தானியங்காக மாறும்.
+செல்லுலார் தொடர்பு எல்லைக்குட்பட்ட பகுதிகளில் மட்டுமே அவசர அழைப்புகளைச் செய்ய முடியும்."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">WLAN அழைப்பு மூலம் அவசர அழைப்புகள்</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone WLAN அழைப்பு</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"WLAN அழைப்பை இயக்க, இடத்தை இயக்கி, உயர் துல்லியம் அல்லது பேட்டரி சேமித்தல் பயன்முறையைத் தேர்ந்தெடுக்க வேண்டும்.
+
+WLAN அழைப்பின்போது, இடம் தொடர்ந்து இயக்கத்தில் இருப்பதை உறுதிசெய்யவும்."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"WLAN அழைப்பு மூலம் அவசர அழைப்புகளைச் செய்ய முடியாது.
+அவசர அழைப்பைச் செய்ய சாதனம் ஒரு செல்லுலார் பிணையத்திற்கு (2G/3G) தானியங்காக மாறும்.
+செல்லுலார் தொடர்பு எல்லைக்குட்பட்ட பகுதிகளில் மட்டுமே அவசர அழைப்புகளைச் செய்ய முடியும்."</string>
+    <string name="wfc_location_info_dialog_desc_txt">இட அமைப்பு செயல்பெறச் செய்யப்பட்டிருந்தாலும் இல்லாவிட்டாலும், WLAN அழைப்புகளைச் செய்யும் பொருட்டு, உங்கள் இடம் தொடர்பான தகவல்கள் Google மற்றும் உங்கள் ஆப்பரேட்டருக்கு அனுப்பப்படலாம்.</string>
+    <string name="wfc_provisioned_switch_string">வைஃபை அழைப்பு அமைக்கப்பட்டது</string>
+    <string name="wifi">வைஃபை</string>
+    <string name="wifi_advanced_settings_label">WLAN அமைப்புகள்</string>
+    <string name="wifi_ask_disable">வைஃபையை முடக்க %s விரும்புகிறது</string>
+    <string name="wifi_ask_enable">வைஃபையை இயக்க %s விரும்புகிறது</string>
+    <string name="wifi_auto_network_switch_setting_msg">WLAN பிணையம் மற்றும் மொபைல் பிணையம் இரண்டுமே கிடைக்கும்போது ஒரு விருப்பமான பிணையத்திற்கு தானியங்காக இடமாறுகிறது</string>
+    <string name="wifi_calling_link_to_register_emergency_address">WLAN அழைப்புக்குப் பதிவுசெய்ய அல்லது ஏற்கனவே உள்ள உங்களது அவசரகால முகவரியைப் புதுப்பிக்க இங்கே கிளிக் செய்யவும்</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">செல்லுலார் பிணையம் மூலம் அழை. செல்லுலார் பிணையம் கிடைக்கவில்லையெனில் WLAN -ஐப் பயன்படுத்து.</string>
+    <string name="wifi_calling_mode_wifi_only_summary">WLAN மூலம் அழை. WLAN இணைப்பு இழக்கப்பட்டால், அழைப்பை முடி.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">WLAN மூலம் அழை. WLAN கிடைக்கவில்லையெனில், செல்லுலார் பிணையத்தைப் பயன்படுத்து.</string>
+    <string name="wifi_calling_off_explanation">"மொபைல் பிணைய சேவைப்பரப்பு மோசமாக இருக்கும் இடங்களில் அழைப்புத் தரத்தை அதிகரிக்க WLAN அழைப்பைப் பயன்படுத்துங்கள்.
+
+கட்டணம்
+WLAN அழைப்புக்கான கட்டணங்கள் குறித்த தகவலுக்கு, உங்கள் சேவை வழங்குநரைத் தொடர்புகொள்ளவும்.
+
+WLAN அழைப்பு பற்றிய குறிப்புகள்
+WLAN அழைப்பில் தொடர்ந்து இருக்க, WLAN வரம்பில் தொடர்ந்து இருப்பதை உறுதிசெய்யவும்."</string>
+    <string name="wifi_calling_on_dialog_text">WLAN அழைப்பைப் பயன்படுத்த, மொபைல் தரவுக்கு விருப்பமான சிம்மை சிம் 1 -க்கு அமைக்கவும்</string>
+    <string name="wifi_calling_settings_title">வைஃபை அழைப்பு</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN சான்றிதழை மாற்ற</string>
+    <string name="wifi_data_template">^1 வைஃபை தரவு</string>
+    <string name="wifi_disabled_wifi_failure">வைஃபை இணைப்பில் தோல்வி</string>
+    <string name="wifi_dpp_add_device_to_wifi">“%1$s” இல் சாதனத்தைச் சேர்க்கவா?</string>
+    <string name="wifi_dpp_center_qr_code">“%1$s” இல் சாதனத்தைச் சேர்ப்பதற்குக் கீழேயுள்ள QR குறியீட்டை மையப்படுத்திக் காட்டவும்</string>
+    <string name="wifi_dpp_failure_not_supported">இந்தச் சாதனத்தில் இதைச் சேர்க்க இயலாது: %1$s</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">“%1$s” உடன் இணைக்க இந்த QR குறியீட்டை ஸ்கேன் செய்யவும்</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">“%1$s” இல் சாதனத்தை இணைப்பதற்குக் கீழேயுள்ள QR குறியீட்டை மையப்படுத்திக் காட்டவும்</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">“%1$s” உடன் இணைக்க இந்த QR குறியீட்டை ஸ்கேன் செய்து கடவுச்சொல்லைப் பகிரவும்</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">WLAN ஆன் ஆகியிருக்கும்போது கிடைக்கி. Passpoint பிணையங்களு. தானி.-இணை</string>
+    <string name="wifi_p2p_settings">WLAN Direct அமைப்புகள்</string>
+    <string name="wifi_scan_always_turnon_message">"இருப்பிடத்தைத் துல்லியமாக அறிவதற்கு மேம்படுத்த மற்றும் பிற காரணங்களுக்காக, வைஃபை முடக்கத்தில் இருக்கும்போதும் நெட்வொர்க்கை ஸ்கேன் செய்வதை இயக்கத்தில் வைக்க %1$s விரும்புகிறது.
+
+ஸ்கேன் செய்ய விரும்பும் எல்லா பயன்பாடுகளுக்கும் இதை அனுமதிக்கவா?"</string>
+    <string name="wifi_scan_notify_text_scanning_off">இருப்பிடத்தின் துல்லியத்தன்மையை மேம்படுத்த, LINK_BEGINஸ்கேனிங் அமைப்புகளில்LINK_END வைஃபை ஸ்கேனிங்கை இயக்கவும்.</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT உடன் பாதுகாக்கப்பட்டது</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK உடன் பாதுகாக்கப்பட்டது</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_setting_sleep_policy_title">உறக்கநிலையில் WLAN இயக்கு</string>
+    <string name="wifi_tether_settings_subtext">போர்ட்டபிள் WLAN ஹாட்ஸ்பாட்டை அமைத்து நிர்வகிக்கவும்</string>
+    <string name="wifi_tether_settings_text">கையட. WLAN ஹாட்ஸ்பா. அமை.</string>
+    <string name="wifi_tethering_warning_txt">மீடியா இடமாற்றம், தொலைபெசசி மென்பொருள் புதுப்பிப்பு, மறுபிரதி மற்றும் மீள்நிலை பெறுதல் போன்ற நிகழ்ந்து கொண்டிருக்கும் WLAN நடவடிக்கைகள் தடைசெய்யப்படும்.</string>
+    <string name="wifi_wps_category_title">WLAN நெட்வொர்க் அமைவு</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN துண்டிக்கப்பட்டது. அமைவு ரத்துசெய்யப்பட்டது.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"சாதன அமைப்புகளை சரிசெய்வதன் மூலம் பேட்டரி ஆற்றலை STAMINA பயன்முறை சேமிக்கிறது. உறக்கப் பயன்முறையின்போது குறைந்த செயல்படும்விதத்துடன் இயங்கும் பயன்பாடுகளை நீங்கள் தேர்வு செய்யலாம். (இது பேட்டரி ஆற்றலை சேமிக்க உங்களுக்கு உதவுகிறது, ஏனெனில் உறக்க பயன்முறையின்போதும் பெரும்பாலான பயன்பாடுகள் பேட்டரியை தீர்த்துக் கொண்டிருக்கும்.)
+
+தேர்ந்தெடுக்கப்பட்ட பயன்பாடுகளுக்கான செயல்முடக்கப்பட்டிருக்கும் செயல்பாடுகள்:
+- WLAN
+- மொபைல் தரவு
+- நேரங்காட்டி
+
+உறக்கப் பயன்முறையில் அறிவிப்பு ஒளி அனைத்து பயன்பாடுகளுக்கும் அதே அலைவரிசையில் அதே நிறத்தில் ஒளிரும்.
+
+சாதனத்தை நீங்கள் கட்டுப்படுத்தும்போது STAMINA பயன்முறை செயல்முடக்கப்பட்டிருக்கும்."</string>
+</resources>

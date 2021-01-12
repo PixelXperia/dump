@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ ଥିବା ଆପ୍‌ଗୁଡ଼ିକୁ ଆପଣଙ୍କର ଡିଭାଇସ୍‍ ନାମ ଦେଖାଯାଉଛି। ବ୍ଲୁଟୂଥ୍‍ ଡିଭାଇସ୍‍ ସହ ଯୋଡ଼ି ହେବାବେଳେ କିମ୍ୱା ଏକ ୱାଇ-ଫାଇ ହଟସ୍ପଟ୍ ସେଟ୍ କରିବା ସମୟରେ, ଏହା ଅନ୍ୟ ଲୋକମାନଙ୍କୁ ମଧ୍ୟ ଦେଖାଦେଇପାରେ।</string>
+    <string name="accessibility_no_wifi">ୱାଇଫାଇ ବିଚ୍ଛିନ୍ନ କରାଗଲା।</string>
+    <string name="accessibility_wifi_off">ୱାଇ-ଫାଇ ବନ୍ଦ।</string>
+    <string name="accessibility_wifi_one_bar">WLANର 1 ବାର</string>
+    <string name="accessibility_wifi_signal_full">ୱାଇ-ଫାଇର ସଙ୍କେତ ସର୍ବୋଚ୍ଚ।</string>
+    <string name="accessibility_wifi_three_bars">ୱାଇ-ଫାଇର ତିନୋଟି ବାର୍।</string>
+    <string name="accessibility_wifi_two_bars">ୱାଇ-ଫାଇର ଦୁଇଟି ବାର୍‌ ଅଛି।</string>
+    <string name="battery_action_wifi">WLAN ସେଟିଙ୍ଗ</string>
+    <string name="change_wifi_state_app_detail_summary">ୱାଇ-ଫାଇକୁ ଚାଲୁ କରିବା କିମ୍ବା ବନ୍ଦ କରିବା, ୱାଇ-ଫାଇ ନେଟୱର୍କକୁ ଖୋଜିବା ଓ କନେକ୍ଟ କରିବା, ନେଟୱର୍କକୁ ଯୋଡ଼ିବା କିମ୍ବା କାଢ଼ିଦେବା କିମ୍ବା କେବଳ ସୀମିତ କ୍ଷେତ୍ରରେ କାମ କରୁଥିବା ହଟସ୍ପଟ୍‌କୁ ଚାଲୁ କରିବା ପାଇଁ ଏହି ଆପ୍‌କୁ ଅନୁମତି ଦେବା</string>
+    <string name="change_wifi_state_app_detail_switch">ୱାଇ-ଫାଇକୁ ନିୟନ୍ତ୍ରଣ କରିବା ପାଇଁ ଆପ୍‌କୁ ଅନୁମତି ଦିଅନ୍ତୁ</string>
+    <string name="change_wifi_state_title">ୱାଇ-ଫାଇର ନିୟନ୍ତ୍ରଣ</string>
+    <string name="connected_via_app">%1$s ଦ୍ବାରା ସଂଯୋଗ କରାଯାଇଛି</string>
+    <string name="credential_for_wifi">ୱାଇ-ଫାଇ ପାଇଁ ଇନ୍‌ଷ୍ଟଲ୍‌ ହୋଇଛି</string>
+    <string name="data_usage_metered_wifi">WLAN ନେଟୱର୍କର ତାଲିକା</string>
+    <string name="data_usage_restrict_background_multiuser">"ମୋବାଇଲ ଡାଟା ପ୍ରତିବନ୍ଧିତ ହୋଇଥିଲେ, WLAN ସହ ସଂଯୋଗିତ ନହେବା ପର୍ଯ୍ୟନ୍ତ କିଛି ଏପ୍ସ ଓ ସେବା କାମ କରିବ ନାହିଁ।
+
+ଏହି ଫୋନର ଉପଯୋଗକର୍ତ୍ତାଙ୍କୁ ଏହି ସେଟିଙ୍ଗ ପ୍ରଭାବିତ କରିବ।"</string>
+    <string name="fullbackup_data_summary">"ଦୂରରୁ ଡିଭାଇସ୍‌ ଡାଟା (ଯେପରିକି ୱାଇ-ଫାଇ ପାସ୍‌ୱାର୍ଡ‌ ଏବଂ କଲ୍‌ର ଇତିବୃତି) ଏବଂ ଆପ୍‌ ଡାଟା (ଯେପରିକି ସେଟିଙ୍ଗ ଏବଂ ଆପ୍‌ ଦ୍ୱାରା ଷ୍ଟୋର୍‌ କରାଯାଇଥିବା ଫାଇଲ୍‌ଗୁଡ଼ିକ) ନିଜକୁ ନିଜ ବ୍ୟାକ୍‌ ଅପ୍‌ ନିଅନ୍ତୁ।
+
+ ନିଜକୁ ନିଜ ବ୍ୟାକ୍‌ଅପ୍‌ ଆପଣ ଚାଲୁ କରିବା ବେଳେ, ଡିଭାଇସ୍‌ ଏବଂ ଆପ୍‌ ଡାଟା ସମୟାନୁକ୍ରମେ ଦୂରରୁ ସେଭ୍ କରାଯାଇଥାଏ। ଆପ୍‌ ଡାଟା, ସମ୍ବେଦନଶୀଳ ଡାଟା ଯେପରିକି ସମ୍ପର୍କ, ବାର୍ତ୍ତା କିମ୍ବା ଫଟୋଗୁଡ଼ିକ ଅନ୍ତର୍ଭୂକ୍ତ କରି, ଯେକୌଣସି ଡାଟା ହୋଇପାରେ ଯାହା ଏକ ଆପ୍‌ ସଞ୍ଚୟ କରିଥାଏ (ଡେଭଲପର୍‌ ସେଟିଙ୍ଗକୁ ଆଧାର କରି)।"</string>
+    <string name="fullbackup_erase_dialog_message">ଡିଭାଇସ୍‌ ଡାଟା (ଯେପରି ୱାଇ-ଫାଇ ପାସ୍‌ୱର୍ଡ ଓ କଲ୍‌ ଇତିହାସ) ଓ ଆପ୍‌ ଡାଟା (ଯେପରି ଆପ୍‌ଗୁଡ଼ିକ ଦ୍ୱାରା ଷ୍ଟୋର୍‌ କରାଯାଇଥିବା ସେଟିଙ୍ଗ ଓ ଫାଇଲ୍‌ଗୁଡ଼ିକ)ର ବ୍ୟାକ୍‌ଅପ୍‌ ବନ୍ଦ କରି ରିମୋଟ୍‌ ସର୍ଭର୍‌ରୁ ସମସ୍ତ ନକଲ ଉଡ଼ାଇଦେବେ?</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN ସହାଯକ ପରିବର୍ତ୍ତନ କରିବେ?</string>
+    <string name="radio_info_ims_reg_status">"IMS ପଞ୍ଜିକରଣ: %1$s
+ଭଏସ୍‌ ଓଭର୍‌ LTE: %2$s
+ଭଏସ୍‌ ଓଭର୍‌ ୱାଇ-ଫାଇ: %3$s
+ଭିଡିଓ କଲିଙ୍ଗ: %4$s
+UT ଇଣ୍ଟର୍‌ଫେସ୍‌: %5$s"</string>
+    <string name="restriction_wifi_config_summary">WLAN ଏବଂ ମୋବାଇଲ୍‌ ସେଟିଙ୍ଗ ବଦଳାଇବା ଅନୁମତି ଦିଅନ୍ତୁ</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"ଆପଣଙ୍କ ବାହକ ଦ୍ୱାରା ୱାଇ-ଫାଇ କଲିଂରେ ଜରୁରୀକାଳୀନ କଲ୍ ଉପଲବ୍ଧ ନାହିଁ।
+ଏକ ଜରୁରୀକାଳୀନ କଲ୍ କରିବାକୁ ଡିଭାଇସ୍ ସ୍ୱଚାଳିତ ଭାବେ ମୋବାଇଲ୍ ନେଟ୍‌ୱାର୍କକୁ ପରିବର୍ତ୍ତନ ହୋଇଥାଏ।
+ଜରୁରୀକାଳୀନ କଲ୍ କେବଳ ମୋବାଇଲ୍ ନେଟ୍‌ୱାର୍କ ଥିବା ସ୍ଥାନଗୁଡ଼ିକରେ ସମ୍ଭବ।"</string>
+    <string name="wfc_provisioned_switch_string">WLAN କଲିଙ୍ଗ ପ୍ରାବଧାନ କରାଯାଇଛି</string>
+    <string name="wifi">ୱାଇ-ଫାଇ</string>
+    <string name="wifi_advanced_settings_label">IP ସେଟିଙ୍ଗ</string>
+    <string name="wifi_ask_disable">%s ୱାଇ-ଫାଇ ବନ୍ଦ କରିବାକୁ ଚାହୁଁଛି</string>
+    <string name="wifi_ask_enable">%s ୱାଇ-ଫାଇ ଅନ୍‌ କରିବାକୁ ଚାହାଁନ୍ତି</string>
+    <string name="wifi_calling_off_explanation">ୱାଇ-ଫାଇ କଲିଂ ଚାଲୁ ଥିବା ବେଳେ, ଆପଣଙ୍କ ଫୋନ୍ ଆପଣଙ୍କ ପସନ୍ଦ ଉପରେ ନିର୍ଭର କରି ତଥା ୱାଇ-ଫାଇ ନେଟ୍‍ୱର୍କ କିମ୍ବା ଆପଣଙ୍କ ବାହକର ନେଟ୍‍ୱର୍କ ମଧ୍ୟରେ ଦୃଢ଼ ଥିବା ସିଗ୍‍ନାଲ୍ ମାଧ୍ୟମରେ କଲ୍‌ଗୁଡ଼ିକ ରୁଟ୍ କରିପାରେ। ଏହି ବୈଶିଷ୍ଟ୍ୟ ଚାଲୁ କରିବା ପୂର୍ବରୁ, ଶୁଳ୍କ ତଥା ଅନ୍ୟାନ୍ୟ ବିବରଣୀ ପାଇଁ ଆପଣଙ୍କ ବାହକଙ୍କ ସହ ସମ୍ପର୍କ କରନ୍ତୁ।%1$s</string>
+    <string name="wifi_calling_settings_title">ୱାଇ-ଫାଇ କଲିଙ୍ଗ</string>
+    <string name="wifi_cellular_data_fallback_summary">WLANର ଇଣ୍ଟରନେଟ ଆକ୍ସେସ ନଥିବାବେଳେ ମୋବାଇଲ ଡାଟା ବ୍ୟବହାର କରନ୍ତୁ। ଡାଟା ବ୍ୟବହାର ଦେୟ ଲାଗୁ ହୋଇପାରେ।</string>
+    <string name="wifi_data_template">^1 ୱାଇ-ଫାଇ ଡାଟା</string>
+    <string name="wifi_disabled_wifi_failure">ୱାଇଫାଇ ସଂଯୋଗ ବିଫଳ ହୋଇଛି</string>
+    <string name="wifi_dpp_add_device_to_wifi">“%1$s”କୁ ଏହି ଡିିିିଭାଇସ୍‍ ଯୋଗ କରିିିବେ?</string>
+    <string name="wifi_dpp_center_qr_code">ଏହି “%1$s”ରେ ଡିଭାଇସ୍ ଯୋଗ କରିବା ପାଇଁ ନିମ୍ନରେ ଥିବା QR କୋଡ୍‍କୁ କେନ୍ଦ୍ରକୁ ଆଣନ୍ତୁ</string>
+    <string name="wifi_dpp_failure_not_supported">ଏହି ଡିଭାଇସ୍‍‍ରେ “%1$s” ଯୋଗ କରିବା ସମର୍ଥିତ ନୁହେଁ</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">“%1$s”କୁ ସଂଯୋଗ କରିବାକୁ ଏହି QR କୋଡ୍ ସ୍କାନ୍ କରନ୍ତୁ</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">“%1$s” ସହ ସଂଯୋଗ କରିବାକୁ ନିମ୍ନରେ ଥିବା କେନ୍ଦ୍ରକୁ ଆଣନ୍ତୁ</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">“%1$s” ସହ ସଂଯୋଗ କରିବାକୁ ଏହି QR କୋଡ୍ ସ୍କାନ୍ କରନ୍ତୁ ଏବଂ ପାସୱାର୍ଡ ସେୟାର୍ କରନ୍ତୁ</string>
+    <string name="wifi_empty_list_wifi_off">ଉପଲବ୍ଧ ନେଟୱାର୍କଗୁଡିକ ଦେଖିବାକୁ, WLAN ଅନ୍‌ କରନ୍ତୁ।</string>
+    <string name="wifi_scan_always_turnon_message">"ଲୋକେସନ୍‌ ସଠିକତା ବିକାଶ କରିବାକୁ ଏବଂ ଅନ୍ୟାନ୍ୟ ଉଦ୍ଦେଶ୍ୟ ପାଇଁ, %1$s ନେଟ୍‌ୱର୍କ ସ୍କାନିଙ୍ଗକୁ ଅନ୍‌ କରିବାକୁ ଚାହୁଁଛି, ୱାଇ-ଫାଇ ଅଫ୍‌ ଥିଲେ ମଧ୍ୟ।
+
+ସ୍କାନ୍‌ କରିବାକୁ ଚାହୁଁଥିବା ସମସ୍ତ ଆପ୍‌ଗୁଡ଼ିକ ପାଇଁ ଏହାକୁ ଅନୁମତି ଦେବେ?"</string>
+    <string name="wifi_scan_notify_text_scanning_off">ଲୋକେସନ୍‌ ସଠିକତାକୁ ଉନ୍ନତ କରିବା ପାଇଁ, LINK_BEGINସ୍କାନିଂ ସେଟିଂLINK_ENDରେ ୱାଇ-ଫାଇ ସ୍କାନିଂ ଚାଲୁ କରନ୍ତୁ।</string>
+    <string name="wifi_setting_on_during_sleep_title">ସୁପ୍ତ ବେଳେ WLAN ଅନ୍‌</string>
+</resources>

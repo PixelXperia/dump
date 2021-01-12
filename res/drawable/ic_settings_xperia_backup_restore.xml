@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:tint="?android:colorControlNormal" android:height="24.0dip" android:width="24.0dip" android:autoMirrored="true" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:name="phone1" android:fillColor="#66ffffff" android:pathData="M9,15v4H2V5h7v4h2V4c0-1.104-0.896-2-2-2H2C0.896,2,0,2.896,0,4v16c0,1.104,         0.896,2,2,2h7c1.104,0,2-0.896,2-2v-5H9z" />
+    <path android:name="phone2" android:fillColor="#ffffffff" android:pathData="M15,9V5h7v14h-7v-4h-2v5c0,1.104,0.896,2,2,2h7c1.104,0,2-0.896,         2-2V4c0-1.104-0.896-2-2-2h-7c-1.104,0-2,0.896-2,2v5H15z" />
+    <path android:name="arrow" android:fillColor="#ffffffff" android:pathData="M16,8v3c0,0-4.5,0-6,0c-1.25,0-5,0-5,0v2h11v3l4-4L16,8L16,8z" />
+</vector>

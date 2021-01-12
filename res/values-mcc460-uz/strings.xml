@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Telefoningizdagi barcha ilovalarga qurilma nomi ko‘rinadi. Qurilmalarga Bluetooth orqali ulanganingizda yoki WLAN hotspot sozlaganingizda boshqa foydalanuvchilarni ularni ko‘rishi mumkin.</string>
+    <string name="accessibility_no_wifi">WLAN o‘chiq.</string>
+    <string name="accessibility_wifi_off">WLAN o‘chiq.</string>
+    <string name="accessibility_wifi_one_bar">WLAN: bitta ustun</string>
+    <string name="accessibility_wifi_signal_full">WLAN: signal to‘liq</string>
+    <string name="accessibility_wifi_three_bars">WLAN: uchta ustun</string>
+    <string name="accessibility_wifi_two_bars">WLAN: ikkita ustun</string>
+    <string name="backup_data_summary">Ilova ma’lumotlari, WLAN parollari va boshqa sozlamalarning zaxira nusxasini Google serveriga saqlang</string>
+    <string name="backup_erase_dialog_message">WLAN parollari, xatcho‘plar, boshqa sozlamalar va ilova ma’lumotlarining zaxira nusxasini saqlash to‘xtatilib, ularning barcha nusxalari Google serveridan o‘chirib tashlansinmi?</string>
+    <string name="battery_action_wifi">WLAN sozlamalari</string>
+    <string name="battery_desc_wifi">WLAN sarflagan batareya</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">WLAN tarmog‘i mavjud bo‘lmasa yoki undan foydalanmayotgan vaqtda uni o‘chirib qo‘ying.</string>
+    <string name="bluetooth_on_time">WLAN o‘z vaqtida</string>
+    <string name="bluetooth_scanning_on_info_message">"Yaqin-atrofdagi Bluetooth qurilmalarga ulanish uchun Bluetooth aloqasini yoqing.
+
+Qurilmadan foydalanishni yaxshilash uchun istalgan vaqt ilova va xizmatlar hatto Bluetooth o‘chiq bo‘lsa ham WLAN tarmoqlarni qidirishi mumkin. Bundan joylashuv axborotiga asoslangan funksiya va xizmatlarni yaxshilashda foydalanish mumkin. Bu funksiyani "<annotation id="link">qidiruv sozlamalari</annotation> orqali o‘zgartirish mumkin.</string>
+    <string name="change_wifi_state_app_detail_summary">Bu ilovaga WLAN aloqasini yoqish yoki faolsizlantirish, WLAN tarmoqlarni aniqlash va ularga ulanish, tarmoqlar qo‘shish yoki olib tashlash yoki faqat mahalliy hotspot boshlash uchun ruxsat berish</string>
+    <string name="change_wifi_state_app_detail_switch">Ilovaga WLAN aloqasini boshqarish uchun ruxsat berish</string>
+    <string name="change_wifi_state_title">WLAN tarmoqlarni boshqarish</string>
+    <string name="condition_cellular_summary">Internet faqat WLAN orqali ishlaydi</string>
+    <string name="connected_via_app">%1$s orqali ulandi</string>
+    <string name="credential_for_wifi">WLAN uchun o‘rnatilgan</string>
+    <string name="data_usage_app_summary_title">Mobil internet va WLAN</string>
+    <string name="data_usage_disable_wifi_limit">WLAN trafik limitini o‘rnatish</string>
+    <string name="data_usage_menu_hide_wifi">WLAN trafik berkitilsin</string>
+    <string name="data_usage_menu_show_wifi">WLAN trafik ko‘rsatilsin</string>
+    <string name="data_usage_metered_wifi">Pulli WLAN tarmoqlari</string>
+    <string name="data_usage_metered_wifi_disabled">Pulli tarmoqlarni belgilash uchun WLAN aloqasini yoqing.</string>
+    <string name="data_usage_restrict_background">Agar orqa fonda mobil internetdan foydalanishni cheklab qo‘ysangiz, ba’zi ilova va xizmatlar WLAN tarmog‘iga ulanmaguningizcha ishlamaydi.</string>
+    <string name="data_usage_restrict_background_multiuser">"Agar orqa fonda mobil internetdan foydalanishni cheklab qo‘ysangiz, ba’zi ilova va xizmatlar WLAN tarmog‘iga ulanmaguningizcha ishlamaydi.
+
+Ushbu sozlama mazkur telefondagi barcha foydalanuvchilarga ta’sir qiladi."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">WLAN orqali ^1 ishlatilgan</string>
+    <string name="data_usage_wifi_title">WLAN trafik</string>
+    <string name="emergency_address_summary">WLAN orqali favqulodda chaqiruv amalga oshirilganda joylashuvingizdan foydalaniladi</string>
+    <string name="fullbackup_data_summary">"Qurilmadagi ma’lumotlar (m-n, WLAN parollari va qo‘ng‘iroqlar tarixi) va ilovalarga oid ma’lumotlar (m-n, sozlamalar va ilovalar tomonidan saqlangan fayllar) zaxira nusxasini Google Drive xizmatiga avtomatik saqlang.
+
+Agar avtomatik zaxiralash funksiyasi yoqilsa, qurilma va ilova ma’lumotlarining zaxira nusxasi vaqti-vaqti bilan Google Drive xizmatidagi shaxsiy jildga saqlab turiladi. Ilova ma’lumotlariga ilova tomonidan saqlangan har qanday ma’lumot (dasturchi sozlamalari asosida), jumladan, kontaktlar, xabar va rasmlar kabi maxfiy ma’lumotlar ham kiradi."</string>
+    <string name="fullbackup_erase_dialog_message">Qurilmadagi ma’lumotlar (m-n, WLAN parollari va qo‘ng‘iroqlar tarixi) va ilova ma’lumotlarining (m-n, sozlamalar va ilovalar tomonidan saqlangan fayllar) zaxira nusxasini saqlash to‘xtatililib, ularning olis serverlardagi barcha nusxalari o‘chirib tashlansinmi?</string>
+    <string name="keywords_change_wifi_state">WLAN, wi-fi, almashtirish, boshqarish</string>
+    <string name="keywords_hotspot_tethering">USB modem, Bluetooth mode, WLAN hotspot</string>
+    <string name="keywords_wifi">WLAN, WLAN, tarmoq aloqasi, Internet, simsiz, mobil internet, WLAN</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN bildirishnomasi, WLAN bildirishnoma</string>
+    <string name="location_neighborhood_level_wifi">WLAN orqali aniqlangan joylashuv</string>
+    <string name="location_network_based">WLAN &amp; uyali tarmoq joylashuvi</string>
+    <string name="location_scanning_screen_title">WLAN va Bluetooth qidirish</string>
+    <string name="location_scanning_wifi_always_scanning_description">WLAN yoniq emasligida ham ilovalar va xizmatlarga WLAN tarmoqlarni qidirish uchun ruxsat. Shunda joylashuv axborotiga asoslangan funksiya va xizmatlarning ishlashi yanada yaxshilanadi.</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN tarmoqlarni qidirish</string>
+    <string name="lost_internet_access_cancel">WLAN tarmog‘ida qoling</string>
+    <string name="lost_internet_access_text">Agar WLAN signali yomon bo‘lsa, istalgan vaqtda mobil internetga o‘tishingiz mumkin. Sarflangan trafik uchun haq olinishi mumkin.</string>
+    <string name="lost_internet_access_title">WLAN aloqasi bor, lekin Internetga ulanmagansiz</string>
+    <string name="mobile_data_always_on_summary">Mobil internet har doim yoniq tursin, hatto WLAN yoniq bo‘lsa ham (bir tarmoqdan ikkinchisiga tezroq o‘tish uchun).</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN yordamchisi o‘zgartirilsinmi?</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_controls_summary">WLAN, Bluetooth, parvoz rejimi, uyali tarmoqlar, &amp; VPN‘larni boshqarish</string>
+    <string name="radio_info_ims_reg_status">"IMS registratsiyasi: %1$s
+LTE orqali: %2$s
+WLAN orqali: %3$s
+Videoqo‘ng‘iroq: %4$s
+UT interfeysi: %5$s"</string>
+    <string name="reset_network_desc">"Bu barcha tarmoq sozlamalarini, jumladan, mazkur sozlamalarni asliga qaytaradi:
+
+"<li>WLAN</li>"
+"<li>Mobil internet</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">WLAN, mobil internet va Bluetooth parametrlarini tiklash</string>
+    <string name="restriction_wifi_config_summary">WLAN va uyali tarmoq sozlamalarini o‘zgartirishga ruxsat berish</string>
+    <string name="restriction_wifi_config_title">WLAN va uyali tarmoq</string>
+    <string name="scanning_status_text_wifi_off_ble_off">WLAN tarmoqlar va Bluetooth qurilmalarni qidirish yoqilmagan</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Bluetooth qurilmalanri tekshirish yoniq, WLAN tarmoqlarni tekshirish yoqilmagan</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN tarmoqlarni qidirish yoniq, Bluetooth qurilmalarni qidirish yoqilmagan</string>
+    <string name="scanning_status_text_wifi_on_ble_on">WLAN tarmoqlar va Bluetooth qurilmalarni qidirish yoniq</string>
+    <string name="status_wifi_mac_address">WLAN MAC manzili</string>
+    <string name="usage_type_data_wifi_recv">WLAN tarmog‘i paketlari qabul qilindi</string>
+    <string name="usage_type_data_wifi_send">WLAN tarmog‘i paketlari yuborildi</string>
+    <string name="usage_type_wifi_running">WLAN ishlamoqda</string>
+    <string name="user_add_user_message_long">"Bu qurilmadan bir necha kishi alohida foydalanuvchilar qo‘shib foydalanishi mumkin. Har bir foydalanuvchiga diskda joy ajratiladi, tayinlangan hajm ilovalar, ekran foni rasmi, va hokazolarga taqsimlanishi mumkin. Foydalanuvchilar WLAN kabi sozlamalarni o‘zgartirsa, qolganlarda ham aks etishi mumkin. 
+
+Yangi profil qo‘shilgach, uni sozlash lozim.
+
+Qurilmaning istalgan foydalanuvchisi ilovalarni barcha hisoblar uchun yangilashi mumkin. Maxsus imkoniyatlar sozlamalari va xizmatlar yangi foydalanuvchiga o‘tkazilmasligi mumkin."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Aloqa operatoringiz WLAN chaqiruvlar orqali Favqulodda qoʻngʻiroqlar uchun mos emas.
+Qurilma favqulodda qoʻngʻiroq bajarish uchun avtomatik ravishda mobil tarmoqdan foydalanadi.
+Favqulodda qoʻngʻiroqlar faqatgina mobil aloqa qamrovi ichida ishlaydi."</string>
+    <string name="wfc_provisioned_switch_string">WLAN qo‘ng‘iroqlar ta’minoti yoniq</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN tarmoqlari</string>
+    <string name="wifi_advanced_not_available">Ushbu foydalanuvchi WLAN kengaytirilgan sozlamalaridan foydalana olmaydi</string>
+    <string name="wifi_advanced_settings_label">IP sozlamalari</string>
+    <string name="wifi_ap_band_config">WLAN chastotalari diapazoni</string>
+    <string name="wifi_ap_band_select_one">WLAN hotspot uchun kamida bitta chastota tanlang:</string>
+    <string name="wifi_ask_disable">%s ilovasi WLAN tarmog‘ini o‘chirib qo‘ymoqchi</string>
+    <string name="wifi_ask_enable">%s ilovasi WLAN tarmog‘ini yoqmoqchi</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Agar mobil tarmoq ishlamasa, WLAN ishlating</string>
+    <string name="wifi_calling_mode_wifi_only_summary">WLAN orqali chaqiruv. Agar WLAN oʻchsa, chaqiruv tugatiladi.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Agar WLAN ishlamasa, mobil tarmoqdan foydalaning</string>
+    <string name="wifi_calling_not_supported">%1$s aloqa operatorida WLAN chaqiruv ishlamaydi</string>
+    <string name="wifi_calling_off_explanation">WLAN chaqiruv xizmati yoniqligida telefoningiz signal quvvatiga asoslanib WLAN tarmoqlari yoki mobil internet orqali chaqiruvlarni amalga oshiradi. Ushbu xizmatni yoqib qoʻyishdan oldin oʻz mobil operatoringizdan narxlar va tafsilotlarni surishtirib oling.%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">WLAN chaqiruvni faollashtiring</string>
+    <string name="wifi_calling_settings_title">WLAN qo‘ng‘iroq</string>
+    <string name="wifi_calling_suggestion_summary">Qamrovni kengaytirish uchun WLAN chaqiruvni yoqing</string>
+    <string name="wifi_calling_suggestion_title">WLAN orqali chaqiruv qamrovini kengaytiring</string>
+    <string name="wifi_calling_summary">Chaqiruvlar sifatini oshirish uchun WLAN tarmoqdan foydalaning</string>
+    <string name="wifi_calling_turn_on">WLAN chaqiruvni yoqing</string>
+    <string name="wifi_carrier_connect">Aloqa operatorining WLAN tarmog‘i</string>
+    <string name="wifi_cellular_data_fallback_summary">WLAN orqali Internet aloqasi yo‘qligida mobil internetdan foydalanish. Sarflangan trafik uchun haq olinishi mumkin.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN avtomatik ulanmaydi</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN avtomatik tarzda qayta yoqiladi</string>
+    <string name="wifi_configure_settings_preference_title">WLAN sozlamalari</string>
+    <string name="wifi_data_template">WLAN orqali sarflangan trafik: ^1</string>
+    <string name="wifi_data_usage">WLAN trafik sarfi</string>
+    <string name="wifi_disabled_wifi_failure">WLAN ulanishini o‘rnatib bo‘lmadi</string>
+    <string name="wifi_dpp_add_device_to_wifi">Bu qurilma ”%1$s“ nomli tarmoqqa kiritilsinmi?</string>
+    <string name="wifi_dpp_center_qr_code">Qurilmani “%1$s” nomli tarmoqqa ulash uchun quyidagi QR kodni kameraga qarating</string>
+    <string name="wifi_dpp_failure_not_supported">“%1$s” nomli tarmoq bu qurilma bilan mos emas</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">“%1$s” nomli tarmoqqa ulanish uchun mazkur QR kodni skanerlang</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Qurilmani “%1$s” nomli tarmoqqa ulash uchun quyidagi QR kodni kameraga qarating</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">WLAN tarmoqqa QR kodni skanerlab ulanish</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">“%1$s” nomli tarmoqqa ulanish va parolni ulashish uchun mazkur QR kodni skanerlang</string>
+    <string name="wifi_dpp_share_wifi">WLAN tarmoqni ulashish</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">WLAN bu qurilma bilan ulashilmoqda…</string>
+    <string name="wifi_dpp_wifi_password">WLAN paroli: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">Qurilmaga WLAN ulashildi</string>
+    <string name="wifi_empty_list_user_restricted">Sizda WLAN tarmog‘ini o‘zgartirishga ruxsatingiz yo‘q.</string>
+    <string name="wifi_empty_list_wifi_off">Mavjud tarmoqlarni ko‘rish uchun WLAN aloqasini yoqing.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN tarmoqlarini qidirmoqda…</string>
+    <string name="wifi_hotspot_ap_band_title">WLAN chastotalari diapazoni</string>
+    <string name="wifi_hotspot_auto_off_summary">Hech qanday qurilma ulanmasa, WLAN hotspot faolsizlantiriladi</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN hotspot</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN ulanish nuqtasini sozlash</string>
+    <string name="wifi_hotspot_footer_info_regular">Boshqa qurilmalaringiz uchun WLAN tarmoq yaratish uchun hotspotdan foydalaning. Hotspot mobil internetingizni tarqatadi. Mobil internet uchun qo‘shimcha to‘lovlar olinishi mumkin.</string>
+    <string name="wifi_limit_optimizations_summary">Quvvat sarfini cheklash (WLAN)</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN o‘z vaqtida</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Beqaror internet aloqasida WLAN tarmoqqa ulanilmasin</string>
+    <string name="wifi_quick_toggle_summary">WLAN‘ni yoqish</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Bitta notanish ilova WLAN yoqilmagan paytda ham joylashuvni chuqur aniqlash va boshqa maqsadlarda tarmoqlarni tekshirib chiqmoqchi.
+
+Bu ruxsat tarmoqlarni tekshiradigan barcha ilovalarga berilsinmi?"</string>
+    <string name="wifi_scan_always_turnon_message">"Joylashuv aniqligini yana ham yaxshilash va boshqa maqsadlar uchun, WLAN o‘chirilgan bo‘lsada %1$s tarmoqlarni qidirish vazifasini yoqmoqchi.
+
+Bu ruxsat tarmoqlarni qidirishni istagan barcha ilovalarga berilsinmi?"</string>
+    <string name="wifi_scan_notify_text">Joylashuv aniqligini oshirish uchun istalgan vaqt ilova va xizmatlarga hatto WLAN o‘chiq bo‘lsa ham WLAN tarmoqlarni qidirishi mumkin. Siz bu funksiyani LINK_BEGINsozlamalarLINK_END orqali o‘zgartirishingiz mumkin.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Joylashuv axborotining aniqligini oshirish uchun LINK_BEGINsozlamalarLINK_END orqali WLAN tarmoqlarni qidirish xususiyatini yoqing.</string>
+    <string name="wifi_scan_throttling">WLAN tarmoqni taqsimlab skanlash</string>
+    <string name="wifi_select_network">WLAN tarmog‘ini tanlash</string>
+    <string name="wifi_setting_on_during_sleep_title">Uyqu rejimida WLAN yoniq tursin</string>
+    <string name="wifi_setting_sleep_policy_title">Uyqu rejimida WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN sozlamalari</string>
+    <string name="wifi_settings_master_switch_title">WLAN ishlatish</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN tarmoqlarni qidirish funksiyasi yoqildi</string>
+    <string name="wifi_settings_scanning_required_info">WLAN tarmoqlarni qidirish funksiyasi ilova va xizmatlarga hatto WLAN yoniq emasligida ham WLAN tarmoqlarni qidirish uchun ruxsat beradi. Bu joylashuv axborotiga asoslangan funksiya va xizmatlar sifatini yaxshilashda ishlatilishi mumkin.</string>
+    <string name="wifi_settings_scanning_required_summary">WLAN avtomatik yoqilishi uchun avval WLAN tarmoqlarni qidirish funksiyasi yoqilishi lozim.</string>
+    <string name="wifi_settings_scanning_required_title">WLAN tarmoqlarni qidirish funksiyasi yoqilsinmi?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN yoqilmoqda…</string>
+    <string name="wifi_stopping">WLAN o‘chirilmoqda…</string>
+    <string name="wifi_suspend_optimizations">WLAN optimallashuvi</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN yoqilganda batareya sarfini kamaytirish</string>
+    <string name="wifi_switch_away_when_unvalidated">Agar WLAN da internet uzilib qolsa, mobil internetga ulansin.</string>
+    <string name="wifi_tether_configure_ap_text">WLAN ulanish nuqtasini sozlash</string>
+    <string name="wifi_tether_failed_subtext">WLAN ulanish nuqtasi bilan bog‘liq xato</string>
+    <string name="wifi_turned_on_message">WLAN yoqildi</string>
+    <string name="wifi_verbose_logging">Batafsil WLAN jurnali</string>
+    <string name="wifi_verbose_logging_summary">WLAN ulanishini tanlashda har bir SSID uchun jurnalda ko‘rsatilsin</string>
+    <string name="wifi_wakeup">WLAN aloqasini avtomatik yoqish</string>
+    <string name="wifi_wakeup_summary">Saqlab olingan tarmoqlar ichidan signali yaxshisi chiqsa, WLAN avtomatik yonadi (masalan, uyda)</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">WLAN tarmoqlarni qidirish yoniq emasligi uchun ishlamaydi</string>
+</resources>

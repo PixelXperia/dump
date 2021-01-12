@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2">
+        <item>ವೈ-ಫೈ</item>
+        <item>ಮೊಬೈಲ್</item>
+        <item>ವೈ-ಫೈ ಮಾತ್ರ</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>ವೈ-ಫೈ</item>
+        <item>ಮೊಬೈಲ್</item>
+    </string-array>
+</resources>

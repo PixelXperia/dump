@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Ime uređaja vide aplikacije na telefonu. Mogu da ga vide i drugi ljudi kad se povežete sa Bluetooth uređajima ili podesite WLAN hotspot.</string>
+    <string name="accessibility_no_wifi">WLAN veza je prekinuta.</string>
+    <string name="accessibility_wifi_off">WLAN je isključen.</string>
+    <string name="accessibility_wifi_one_bar">WLAN signal ima jednu crtu.</string>
+    <string name="accessibility_wifi_signal_full">WLAN signal je najjači.</string>
+    <string name="accessibility_wifi_three_bars">WLAN signal ima tri crte.</string>
+    <string name="accessibility_wifi_two_bars">WLAN signal ima dve crte.</string>
+    <string name="backup_data_summary">Pravi rezervne kopije podataka o aplikacijama, WLAN lozinki i drugih podešavanja na Google serverima</string>
+    <string name="backup_erase_dialog_message">Želite li da zaustavite pravljenje rezervnih kopija WLAN lozinki, obeleživača, ostalih podešavanja i podataka o aplikacijama, kao i da izbrišete sve kopije na Google serverima?</string>
+    <string name="battery_action_wifi">WLAN podešavanja</string>
+    <string name="battery_desc_wifi">Baterija koju koristi WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Isključite WLAN kada ga ne koristite ili kada nije dostupan</string>
+    <string name="bluetooth_on_time">Vreme od uključivanja WLAN mreže</string>
+    <string name="change_wifi_state_app_detail_summary">Omogućite da ova aplikacija uključi ili isključi WLAN, traži i povezuje se na WLAN mreže, dodaje i uklanja mreže ili pokreće samo lokalni hotspot</string>
+    <string name="change_wifi_state_app_detail_switch">Omogućite da aplikacija kontroliše WLAN</string>
+    <string name="change_wifi_state_title">Kontrola WLAN veze</string>
+    <string name="condition_cellular_summary">Internet je dostupan samo preko WLAN mreže</string>
+    <string name="connected_via_app">Povezano preko: %1$s</string>
+    <string name="credential_for_wifi">Instalirano za WLAN</string>
+    <string name="data_usage_app_summary_title">Mobilni podaci i WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Ograniči WLAN podatke</string>
+    <string name="data_usage_menu_hide_wifi">Sakrij WLAN</string>
+    <string name="data_usage_menu_show_wifi">Prikaži WLAN</string>
+    <string name="data_usage_metered_wifi">WLAN mreže sa ograničenjem</string>
+    <string name="data_usage_metered_wifi_disabled">Da biste izabrali mreže sa ograničenjem, uključite WLAN.</string>
+    <string name="data_usage_restrict_background">Ako ograničite mobilne pozadinske podatke, neke aplikacije i usluge neće funkcionisati ako niste povezani sa WLAN-jem.</string>
+    <string name="data_usage_restrict_background_multiuser">"Ako ograničite mobilne pozadinske podatke, neke aplikacije i usluge neće funkcionisati ako niste povezani sa WLAN-jem.
+
+Ovo podešavanje utiče na sve korisnike na ovom telefonu."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 potrošeno na WLAN mreže</string>
+    <string name="data_usage_wifi_title">WLAN podaci</string>
+    <string name="emergency_address_summary">Koristi se kao vaša lokacija kada uputite hitni poziv pomoću WLAN-ja</string>
+    <string name="fullbackup_data_summary">"Automatski pravite rezervne kopije podataka uređaja (poput WLAN lozinki i istorije poziva) i podataka aplikacija (poput podešavanja i datoteka sačuvanih u aplikacijama) daljinski.
+
+Kada uključite automatsko pravljenje rezervnih kopija, podaci uređaja i aplikacija se povremeno čuvaju daljinski. Podaci aplikacija mogu da budu bilo koji podaci koje je aplikacija sačuvala (na osnovu podešavanja programera), uključujući potencijalno osetljive podatke kao što su kontakti, poruke i slike."</string>
+    <string name="fullbackup_erase_dialog_message">Želite li da zaustavite pravljenje rezervnih kopija podataka uređaja (poput WLAN lozinki i istorije poziva) i podataka aplikacija (poput podešavanja i datoteka sačuvanih u aplikacijama) i izbrišete sve kopije na udaljenim serverima?</string>
+    <string name="keywords_wifi_calling">WLAN, WLAN, poziv, pozivanje</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN obaveštenje, wifi obaveštenje</string>
+    <string name="location_neighborhood_level_wifi">Lokacija se određuje pomoću WLAN-ja</string>
+    <string name="location_network_based">Lokac. na osnovu WLAN i mob. mreže</string>
+    <string name="location_scanning_screen_title">WLAN i Bluetooth skeniraju</string>
+    <string name="location_scanning_wifi_always_scanning_description">Dozvolite aplikacijama i uslugama da traže WLAN mreže u bilo kom trenutku, čak i kada je WLAN isključen. Ovo može da se koristi, na primer, za poboljšanje funkcija i usluga zasnovanih na lokaciji.</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN skeniranje</string>
+    <string name="lost_internet_access_cancel">Ostani na WLAN-ju</string>
+    <string name="lost_internet_access_text">Možete da pređete na mobilnu mrežu kad god je WLAN veza loša. Može da vam bude naplaćena potrošnja podataka.</string>
+    <string name="lost_internet_access_title">WLAN mreža nije povezana na internet</string>
+    <string name="mobile_data_always_on_summary">Neka mobilni podaci uvek budu aktivni, čak i kada je WLAN aktivan (radi brze promene mreže).</string>
+    <string name="network_scorer_change_active_dialog_title">Želite da promenite WLAN assistant-a?</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_controls_summary">Upravljanje WLAN mrežom, Bluetooth-om, režimom rada u avionu, mobilnim mrežama i VPN-om</string>
+    <string name="radio_info_ims_reg_status">"Registracija usluge za razmenu trenutnih poruka: %1$s
+Glas preko LTE-a: %2$s
+Glas preko WLAN-ja: %3$s
+Video poziv: %4$s
+UT interfejs: %5$s"</string>
+    <string name="reset_network_desc">"Ovim resetujete sva podešavanja mreže, uključujući:
+
+"<li>WLAN</li>"
+"<li>Mobilne podatke</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Resetuj WLAN, mobilnu mrežu i Bluetooth</string>
+    <string name="restriction_wifi_config_summary">Dozvolite izmenu WLAN podešavanja i podešavanja za mobilne uređaje</string>
+    <string name="restriction_wifi_config_title">WLAN i mobilni uređaji</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Isključeno je WLAN i Bluetooth skeniranje</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Bluetooth skeniranje je uključeno, WLAN skeniranje je isključeno</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN skeniranje je uključeno, Bluetooth skeniranje je isključeno</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Uključeno je WLAN i Bluetooth skeniranje</string>
+    <string name="status_wifi_mac_address">WLAN MAC adresa</string>
+    <string name="usage_type_data_wifi_recv">Primljeni WLAN paketi</string>
+    <string name="usage_type_data_wifi_send">Poslati WLAN paketi</string>
+    <string name="usage_type_wifi_running">WLAN je aktivan</string>
+    <string name="user_add_user_message_long">"Ovaj uređaj možete da delite sa drugim ljudima ako napravite još korisnika. Svaki korisnik ima sopstveni prostor, koji može da prilagođava pomoću aplikacija, pozadine i slično. Korisnici mogu da prilagođavaju i podešavanja uređaja koja utiču na svakoga, poput WLAN-ja.
+
+Kada dodate novog korisnika, ta osoba treba da podesi sopstveni prostor.
+
+Svaki korisnik može da ažurira aplikacije za sve ostale korisnike. Podešavanja i usluge pristupačnosti ne mogu da se prenose na novog korisnika."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Mobilni operater ne podržava hitne pozive pomoću funkcije Pozivanje preko WLAN-ja.
+Uređaj automatski prelazi na mobilnu mrežu da bi uputio hitan poziv.
+Hitni pozivi su mogući samo u oblastima pokrivenim mobilnom mrežom."</string>
+    <string name="wfc_provisioned_switch_string">Pozivanje preko WLAN veze je dodeljeno</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN mreže</string>
+    <string name="wifi_advanced_not_available">Napredna podešavanja WLAN mreže nisu dostupna za ovog korisnika</string>
+    <string name="wifi_advanced_settings_label">IP podešavanja</string>
+    <string name="wifi_advanced_titlebar">Napredna WLAN podešavanja</string>
+    <string name="wifi_ap_band_select_one">Izaberite barem jedan opseg za WLAN hotspot:</string>
+    <string name="wifi_ask_disable">%s želi da isključi WLAN</string>
+    <string name="wifi_ask_enable">%s želi da uključi WLAN</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Ako mobilna mreža nije dostupna, koristi WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Pozivanje preko WLAN-ja. Ako se WLAN veza izgubi, poziv će se završiti.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Ako je WLAN nedostupan, koristite mobilnu mrežu</string>
+    <string name="wifi_calling_not_supported">Pozivanje preko WLAN-ja nije podržano za %1$s</string>
+    <string name="wifi_calling_off_explanation">Kada je pozivanje preko WLAN-ja uključeno, telefon može da preusmerava pozive preko WLAN mreža ili mreže mobilnog operatera u zavisnosti od toga koje ste podešavanje izabrali i koji signal je jači. Pre nego što uključite ovu funkciju, informišite se kod mobilnog operatera o naknadama i drugim detaljima.%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">Aktivirajte Pozivanje preko WLAN-ja</string>
+    <string name="wifi_calling_settings_title">Pozivanje preko WLAN-ja</string>
+    <string name="wifi_calling_suggestion_summary">Uklj. pozivanje preko WLAN-ja da proširite pokrivenost</string>
+    <string name="wifi_calling_suggestion_title">Produžite pozive pomoću WLAN-ja</string>
+    <string name="wifi_calling_summary">Koristite WLAN za pozive da biste poboljšali kvalitet</string>
+    <string name="wifi_calling_turn_on">Uključite pozivanje preko WLAN-ja</string>
+    <string name="wifi_carrier_connect">WLAN mreža mobilnog operatera</string>
+    <string name="wifi_cellular_data_fallback_summary">Koristite mobilne podatke kada WLAN nema pristup internetu. Može da vam bude naplaćena potrošnja podataka.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN se ne uključuje ponovo automatski</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN se automatski uključuje ponovo</string>
+    <string name="wifi_configure_settings_preference_title">Podešavanja WLAN-ja</string>
+    <string name="wifi_data_template">^1 WLAN podataka</string>
+    <string name="wifi_data_usage">Potrošnja WLAN podataka</string>
+    <string name="wifi_disabled_wifi_failure">WLAN veza je otkazala</string>
+    <string name="wifi_dpp_add_device_to_wifi">Želite li da dodate ovaj uređaj na mrežu „%1$s“?</string>
+    <string name="wifi_dpp_center_qr_code">Postavite QR kôd u nastavku da biste dodali uređaj na mrežu „%1$s“</string>
+    <string name="wifi_dpp_failure_not_supported">Ovaj uređaj ne podržava dodavanje mreže „%1$s“</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Skenirajte ovaj QR kôd da biste se pridružili mreži „%1$s“</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Postavite QR kôd u nastavku da biste dodali uređaj na mrežu „%1$s“</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Povežite se na WLAN mrežu tako što ćete skenirati QR kôd</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Skenirajte ovaj QR kôd da biste se povezali sa „%1$s“ i delili lozinku</string>
+    <string name="wifi_dpp_share_wifi">Deli WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Deli se WLAN sa ovim uređajem…</string>
+    <string name="wifi_dpp_wifi_password">Lozinka za WLAN: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN se deli sa uređajem</string>
+    <string name="wifi_empty_list_user_restricted">Nemate dozvolu da menjate WLAN mrežu.</string>
+    <string name="wifi_empty_list_wifi_off">Da biste videli dostupne mreže, uključite WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Traženje WLAN mreža...</string>
+    <string name="wifi_hotspot_auto_off_summary">WLAN hotspot će se isključiti ako nijedan uređaj nije povezan</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN hotspot</string>
+    <string name="wifi_hotspot_configure_ap_text">Podešavanje WLAN hotspota</string>
+    <string name="wifi_hotspot_footer_info_regular">Koristite hotspot da biste napravili WLAN mrežu za druge uređaje. Hotspot pruža internet pomoću veze za mobilne podatke. Možda će važiti dodatne tarife za mobilne podatke.</string>
+    <string name="wifi_limit_optimizations_summary">Ogran. bat. koju koristi WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">Vreme od uključivanja WLAN mreže</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Ne koristi WLAN mrežu ako nema dobru internet vezu</string>
+    <string name="wifi_quick_toggle_summary">Uključivanje WLAN-ja</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Radi poboljšanja preciznosti lokacije i u druge svrhe, nepoznata aplikacija želi da uključi skeniranje mreže čak i kada je WLAN isključen.
+
+Želite da dozvolite ovo za sve aplikacije koje žele da skeniraju?"</string>
+    <string name="wifi_scan_always_turnon_message">"Zbog poboljšanja preciznosti lokacije i u druge svrhe, %1$s želi da uključi skeniranje mreže čak i kada je WLAN isključen.
+
+Želite li da dozvolite ovo za sve aplikacije koje žele da skeniraju?"</string>
+    <string name="wifi_scan_notify_text">Da bi poboljšale preciznost lokacije, aplikacije i usluge mogu i dalje da traže WLAN mreže u bilo kom trenutku, čak i kada je WLAN isključen. Ovo može da se koristi, na primer, za poboljšanje funkcija i usluga zasnovanih na lokaciji. Ovo možete da promenite u LINK_BEGINpodešavanjima pretraživanjaLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Da biste poboljšali preciznost lokacije, uključite WLAN skeniranje u LINK_BEGINpodešavanjima skeniranjaLINK_END.</string>
+    <string name="wifi_scan_throttling">Usporavanje WLAN skeniranja</string>
+    <string name="wifi_select_network">Izaberi WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN je uključen tokom spavanja</string>
+    <string name="wifi_setting_sleep_policy_title">Ne isključuj WLAN tokom spavanja</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN podešavanja</string>
+    <string name="wifi_settings_master_switch_title">Koristi WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN skeniranje je uključeno</string>
+    <string name="wifi_settings_scanning_required_info">WLAN skeniranje omogućava aplikacijama i uslugama da traže WLAN mreže u bilo kom trenutku, čak i kada je WLAN isključen. Ovo, na primer, može da se koristi za poboljšanje funkcija i usluga zasnovanih na lokaciji.</string>
+    <string name="wifi_settings_scanning_required_summary">Da bi se automatski uključivao WLAN, prvo treba da uključite WLAN skeniranje.</string>
+    <string name="wifi_settings_scanning_required_title">Želite li da uključite WLAN skeniranje?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Uključivanje WLAN-ja...</string>
+    <string name="wifi_stopping">Isključivanje WLAN-ja...</string>
+    <string name="wifi_suspend_optimizations">WLAN optimizacija</string>
+    <string name="wifi_suspend_optimizations_summary">Smanji korišćenje baterije kada je WLAN uključen</string>
+    <string name="wifi_switch_away_when_unvalidated">Pređi na mobilne podatke ako WLAN izgubi pristup internetu.</string>
+    <string name="wifi_tether_configure_ap_text">Podesi WLAN hotspot</string>
+    <string name="wifi_tether_failed_subtext">Greška prenosnog WLAN hotspota</string>
+    <string name="wifi_tether_settings_subtext">Podešavanje prenosive WLAN pristupne tačke i upravljanje njome</string>
+    <string name="wifi_tether_settings_text">Podešavanja WLAN pristupne tačke</string>
+    <string name="wifi_turned_on_message">WLAN je uključen</string>
+    <string name="wifi_verbose_logging">Omogući detaljniju evidenciju za WLAN</string>
+    <string name="wifi_verbose_logging_summary">Povećava nivo evidentiranja za WLAN. Prikaz po SSID RSSI-u u biraču WLAN mreže</string>
+    <string name="wifi_wakeup">Automatski uključi WLAN</string>
+    <string name="wifi_wakeup_summary">WLAN će se ponovo uključiti u blizini sačuvanih mreža visokog kvaliteta, kao što je kućna mreža</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Nedostupno je jer je isključeno WLAN skeniranje</string>
+</resources>

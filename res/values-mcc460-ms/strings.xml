@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Nama peranti anda kelihatan kepada apl pada telefon anda. Nama ini mungkin dapat dilihat oleh orang lain juga apabila anda menyambung ke peranti Bluetooth atau menyediakan tempat liputan WLAN.</string>
+    <string name="accessibility_no_wifi">WLAN diputuskan sambungannya.</string>
+    <string name="accessibility_wifi_off">WLAN dimatikan.</string>
+    <string name="accessibility_wifi_one_bar">WLAN satu bar.</string>
+    <string name="accessibility_wifi_signal_full">Isyarat WLAN penuh.</string>
+    <string name="accessibility_wifi_three_bars">WLAN tiga bar.</string>
+    <string name="accessibility_wifi_two_bars">WLAN dua bar.</string>
+    <string name="backup_data_summary">Sandarkan data apl, kata laluan WLAN dan tetapan lain ke pelayan Google</string>
+    <string name="backup_erase_dialog_message">Berhenti membuat sandaran kata laluan WLAN anda, penanda halaman, tetapan lain dan data apl serta padamkan semua salinan pada pelayan Google?</string>
+    <string name="battery_action_wifi">Tetapan WLAN</string>
+    <string name="battery_desc_wifi">Bateri yang digunakan oleh WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Matikan WLAN apabila tidak menggunakannya atau apabila tidak tersedia</string>
+    <string name="battery_usm_desc">"Mod Ultra STAMINA akan melanjutkan hayat bateri dengan ketara. Sila ambil perhatian bahawa fungsi seperti penyegerakan data dan panggilan WLAN akan menjadi tidak tersedia kerana sambungan Internet menerusi WLAN dan data Mudah alih akan dinyahdayakan. Skrin Laman Utama anda akan ditukar kepada Laman Utama mod Ultra STAMINA.
+
+Aplikasi yang tersedia dalam mod Ultra STAMINA"</string>
+    <string name="battery_usm_desc_variable">"Mod Ultra STAMINA akan melanjutkan masa bateri dengan ketara. Sila ambil perhatian, memandangkan sambungan Internet menerusi WLAN dan Data mudah alih akan dinyahdayakan, fungsi seperti penyegerakan data dan %s akan menjadi tidak tersedia. Skrin Laman Utama anda akan ditukar ke Laman Utama mod Ultra STAMINA.
+
+Aplikasi yang tersedia dalam mod Ultra STAMINA"</string>
+    <string name="bluetooth_on_time">Masa hidup WLAN</string>
+    <string name="bs_feature_wifi">WLAN dimatikan</string>
+    <string name="change_wifi_state_app_detail_summary">Benarkan apl ini menghidupkan atau mematikan WLAN, mengimbas dan menyambung ke rangkaian WLAN, menambah atau mengalih keluar rangkaian atau memulakan tempat liputan setempat sahaja</string>
+    <string name="change_wifi_state_app_detail_switch">Benrakan apl mengawal WLAN</string>
+    <string name="change_wifi_state_title">Kawalan WLAN</string>
+    <string name="condition_bg_data_summary">Data latar belakang hanya tersedia melalui WLAN. Perkara ini mungkin menjejaskan beberapa apl atau perkhidmatan apabila WLAN tidak tersedia.</string>
+    <string name="condition_cellular_summary">Internet hanya tersedia melalui WLAN</string>
+    <string name="connected_via_app">Disambungkan melalui %1$s</string>
+    <string name="credential_for_wifi">Dipasang untuk WLAN</string>
+    <string name="ct_wifi_connected_text">WLAN Telekom China dismbgkn</string>
+    <string name="cw_network_notification">Dayakan makluman WLAN CT</string>
+    <string name="cw_network_priority">Utamakan WLAN Telekom China</string>
+    <string name="cw_network_priority_summary">Rangkaian WLAN Telekom China akan diberi keutamaan melangkaui rangkaian WLAN lain dalam sambungan</string>
+    <string name="data_service_except_mms_disabled_warning_txt">Anda tidak akan dapat menggunakan Internet, E-mel atau aplikasi lain yang memerlukan sambungan data kecuali anda menggunakan WLAN. Matikan sambungan data mudah alih?</string>
+    <string name="data_traffic_disabled_text">Tidak dapat bersambung ke rangkaian WLAN Telekom China kerana trafik data dinyahdayakan. Dayakan trafik data sekarang?</string>
+    <string name="data_usage_app_summary_title">Data mudah alih &amp; WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Tetapkan had data WLAN</string>
+    <string name="data_usage_menu_hide_wifi">Sembunyikan WLAN</string>
+    <string name="data_usage_menu_show_wifi">Tunjukkan WLAN</string>
+    <string name="data_usage_metered_wifi">Rangkaian WLAN bermeter</string>
+    <string name="data_usage_metered_wifi_disabled">Untuk memilih rangkaian bermeter, hidupkan WLAN.</string>
+    <string name="data_usage_restrict_background">Jika anda mengehadkan data mudah alih latar belakang, sesetengah apl dan perkhidmatan tidak akan berfungsi melainkan anda dihubungkan ke rangkaian WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Jika anda mengehadkan data mudah alih latar belakang, sesetengah apl dan perkhidmatan tidak akan berfungsi melainkan anda bersambung ke rangkaian WLAN.
+
+Tetapan ini melibatkan semua pengguna pada telefon ini."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 digunakan pada WLAN</string>
+    <string name="data_usage_wifi_title">Data WLAN</string>
+    <string name="dialog_message_hint">"Mod STAMINA meliputi:
+
+• Tunggu sedia lanjutan
+Menyimpan kuasa apabila skrin dimatikan secara sementara menyahdayakan WLAN dan data mudah alih. Kebanyakan aplikasi akan menjadi tidak aktif.
+Semasa skrin HIDUP, telefon anda akan berfungsi secara normal.
+Jika anda mahu mengekalkan beberapa apl aktif semasa tunggu sedia Lanjutan HIDUP, tambah apl ke senarai APL AKTIF SEDANG TUNGGU SEDIA.
+
+• Penggunaan lanjutan
+Menyimpan kuasa semasa peranti anda sedang digunakan dengan mengehadkan prestasi perisian.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Apakah mod STAMINA?</u>"
+Mod STAMINA ialah fungsi penjimatan kuasa Sony. Mod ini memanjangkan hayat bateri apabila paparan dimatikan.
+
+"<u>Kegunaan asas</u>"
+Untuk mengaktifkan mod STAMINA, ketik butang pada skrin.
+Apabila skrin dimatikan, WLAN dan data mudah alih akan dilumpuhkan buat sementara waktu dan kebanyakan aplikasi akan menjadi tidak aktif, untuk menjimatkan hayat bateri.
+Apabila skrin dihidupkan, telefon anda akan berfungsi seperti biasa.
+
+"<u>Kegunaan lanjutan</u>"
+Jika anda mahu memastikan beberapa aplikasi aktif semasa STAMINA dihidupkan, sila tambah aplikasi ke senarai APPS ACTIVE IN STANDBY.
+Aplikasi mungkin tidak berfungsi dengan betul jika ia tidak ditambah ke senarai.
+
+"<u>Nota</u>"
+Jika aplikasi tidak berfungsi dengan betul, sila daftar apl dalam APPS ACTIVE IN STANDBY atau matikan mod STAMINA."</string>
+    <string name="emergency_address_summary">Digunakan sebagai lokasi anda apabila anda membuat panggilan kecemasan melalui WLAN</string>
+    <string name="fullbackup_data_summary">"Sandarkan data peranti (seperti kata laluan WLAN dan sejarah panggilan) dan data apl (seperti tetapan dan fail yang disimpan mengikut apl) dari jauh secara automatik.
+
+Apabila anda menghidupkan sandaran automatik, data peranti dan apl disimpan secara berkala dari jauh. Data apl boleh terdiri daripada sebarang data yang telah disimpan oleh apl (berdasarkan tetapan pembangun), termasuk data yang berkemungkinan sensitif, seperti kenalan, mesej dan foto."</string>
+    <string name="fullbackup_erase_dialog_message">Berhenti menyandarkan data peranti (seperti kata laluan WLAN dan sejarah panggilan) dan data apl (seperti tetapan dan fail yang disimpan oleh apl), serta padamkan semua salinan pada pelayan jauh?</string>
+    <string name="install_wapi_certs">Pasang sijil WLAN</string>
+    <string name="keywords_hotspot_tethering">penambatan usb, penambatan bluetooth, tempat liputan WLAN</string>
+    <string name="keywords_wifi_notify_open_networks">Pemberitahuan WLAN, pemberitahuan wifi</string>
+    <string name="l_dialog_message_hint">"Mod STAMINA termasuk:
+
+• Tunggu sedia lanjutan
+Menjimatkan kuasa apabila skrin mati dengan menyahdayakan WLAN secara sementara. Kebanyakan aplikasi akan menjadi tidak aktif.
+Apabila skrin hidup, peranti anda akan berfungsi secara normal.
+Jika anda ingin mengekalkan beberapa aplikasi aktif sementara Tunggu sedia lanjutan didayakan, tambah aplikasi ke senarai Aplikasi aktif dalam tunggu sedia.
+
+• Penggunaan lanjutan
+Menjimatkan kuasa apabila peranti anda sedang digunakan dengan mengehadkan prestasi perkakasan."</string>
+    <string name="location_based_wifi">WLAN berdasarkan lokasi</string>
+    <string name="location_neighborhood_level_wifi">Lokasi ditentukan oleh WLAN</string>
+    <string name="location_network_based">Lokasi WLAN &amp; rangkaian mudah alih</string>
+    <string name="location_scanning_screen_title">Pengimbasan WLAN dan Bluetooth</string>
+    <string name="location_scanning_wifi_always_scanning_description">Benarkan apl dan perkhidmatan mengimbas untuk mengesan rangkaian WLAN pada bila-bila masa, meskipun apabila WLAN dimatikan. Ini dapat digunakan, contohnya, untuk meningkatkan ciri berasaskan lokasi dan perkhidmatan.</string>
+    <string name="location_scanning_wifi_always_scanning_title">Pengimbasan WLAN</string>
+    <string name="lost_internet_access_cancel">Gunakan WLAN</string>
+    <string name="lost_internet_access_text">Anda boleh beralih ke rangkaian mudah alih setiap kali sambungan WLAN tidak bagus. Caj penggunaan data boleh dikenakan.</string>
+    <string name="lost_internet_access_title">WLAN tidak disambungkan ke Internet</string>
+    <string name="mobile_data_always_on_summary">Pastikan data mudah alih sentiasa aktif, walaupun WLAN aktif (untuk penukaran rangkaian yang pantas).</string>
+    <string name="network_scorer_change_active_dialog_title">Tukar pembantu WLAN?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Untuk berkongsi rangkaian WLAN semasa anda, pilih pilihan \"Kongsi maklumat WLAN\" dalam tetapan.</string>
+    <string name="nfc_wifi_share_checkbox">Kongsi maklumat WLAN</string>
+    <string name="nfc_wifi_share_title_txt">Kongsi maklumat WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Auto Sambung ke Hotspot WLAN AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">Auto smbg WLAN AT&amp;T</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">Anda tidak akan dapat menggunakan Internet, E-mel atau aplikasi lain yang memerlukan sambungan data kecuali anda menggunakan WLAN. Matikan sambungan data mudah alih?</string>
+    <string name="powersaver_feature_wifi">WLAN dimatikan</string>
+    <string name="radio_controls_summary">Urus WLAN, Bluetooth, mod pesawat, rangkaian mudah alih &amp; VPN</string>
+    <string name="radio_info_ims_reg_status">"Pendaftaran IMS: %1$s
+Suara melalui LTE: %2$s
+Suara melalui WLAN: %3$s
+Panggilan Video: %4$s
+Antara Muka UT: %5$s"</string>
+    <string name="reset_network_desc">"Tindakan ini akan menetapkan semula semua tetapan rangkaian, termasuk:
+
+"<li>WLAN</li>"
+"<li>Data mudah alih</li>"
+"<li>Bluetooth</li></string>
+    <string name="restriction_wifi_config_summary">Benarkan pengubahsuaian tetapan WLAN dan Mudah Alih</string>
+    <string name="restriction_wifi_config_title">WLAN dan Mudah Alih</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Pengimbasan WLAN dan Bluetooth dimatikan</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Pengimbasan Bluetooth dihidupkan, pengimbasan WLAN dimatikan</string>
+    <string name="scanning_status_text_wifi_on_ble_off">Pengimbasan WLAN dihidupkan, pengimbasan Bluetooth dimatikan</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Pengimbasan WLAN dan Bluetooth dihidupkan</string>
+    <string name="somc_backup_failed_no_wifi_summary">Menunggu sambungan WLAN</string>
+    <string name="somc_wifi_turned_on_info">WLAN dihidupkan. Pilih rangkaian anda dalam senarai.</string>
+    <string name="stamina_xssm_summary">Menyahdayakan data mudah alih dan WLAN semasa skrin dimatikan</string>
+    <string name="status_wifi_mac_address">Alamat MAC WLAN</string>
+    <string name="tethering_no_sim_warning_txt">Sila masukkan kad SIM untuk berkongsi sambungan data telefon anda dengan peranti lain menggunakan Hotspot WLAN Mudah Alih atau penambatan USB untuk akses Internet.</string>
+    <string name="usage_type_data_wifi_recv">Paket WLAN diterima</string>
+    <string name="usage_type_data_wifi_send">Paket WLAN dihantar</string>
+    <string name="usage_type_wifi_running">WLAN berjalan</string>
+    <string name="user_add_user_message_long">"Anda boleh berkongsi peranti ini dengan orang lain dengan membuat pengguna tambahan. Setiap pengguna mempunyai ruang mereka sendiri, yang boleh diperibadikan dengan apl, kertas dinding dan sebagainya. Pengguna juga boleh melaraskan tetapan peranti seperti WLAN yang akan memberi kesan kepada semua orang.
+
+Apabila anda menambah pengguna baharu, orang itu perlu menyediakan ruang mereka.
+
+Mana-mana pengguna boleh mengemas kini apl untuk semua pengguna lain. Tetapan dan perkhidmatan kebolehaksesan tidak boleh dipindahkan kepada pengguna baharu."</string>
+    <string name="usm_descr">"Mod Ultra STAMINA akan melanjutkan jangka hayat bateri dengan ketara. Ia boleh digunakan apabila anda tidak boleh mengecas peranti anda untuk masa yang lama.
+
+Hanya beberapa fungsi asas, seperti Telefon dan Pemesejan akan tersedia. Ketik \"Maklumat lanjut\" untuk butiran lanjut.
+
+Sila ambil perhatian bahawa sambungan Internet melalui WLAN dan data Mudah Alih akan dinyahdayakan."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Panggilan kecemasan adalah mustahil melalui Panggilan WLAN.
+Peranti bertukar secara automatik ke rangkaian selular (2G/3G) untuk membuat panggilan kecemasan.
+Panggilan kecemasan hanya boleh dilakukan di kawasan dengan liputan selular."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">Panggilan kecemasan melalui panggilan WLAN</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Panggilan WLAN Vodafone</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"Untuk menghidupkan panggilan WLAN, anda perlu menghidupkan Lokasi dan memilih mod Ketepatan tinggi atau Penjimatan bateri.
+
+Sila pastikan Lokasi kekal dihidupkan semasa panggilan WLAN."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Panggilan kecemasan adalah mustahil melalui Panggilan WLAN.
+Peranti bertukar secara automatik ke rangkaian selular (2G/3G) untuk membuat panggilan kecemasan.
+Panggilan kecemasan hanya boleh dilakukan di kawasan dengan liputan selular."</string>
+    <string name="wfc_location_info_dialog_desc_txt">Maklumat berkaitan lokasi anda boleh dihantar kepada Google dan operator anda bagi mewujudkan panggilan WLAN, sama ada tetapan Lokasi didayakan atau tidak.</string>
+    <string name="wfc_provisioned_switch_string">Panggilan WLAN Diperuntukkan</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">Rangkaian WLAN</string>
+    <string name="wifi_advanced_not_available">Tetapan terperinci WLAN tidak tersedia untuk pengguna ini</string>
+    <string name="wifi_advanced_settings_label">Tetapan WLAN</string>
+    <string name="wifi_advanced_titlebar">WLAN Lanjutan</string>
+    <string name="wifi_ap_band_select_one">Pilih sekurang-kurangnya satu jalur untuk tempat liputan WLAN:</string>
+    <string name="wifi_ask_disable">%s mahu mematikan WLAN</string>
+    <string name="wifi_ask_enable">%s mahu menghidupkan WLAN</string>
+    <string name="wifi_auto_network_switch_setting_msg">Tukar ke rangkaian pilihan secara automatik apabila kedua-dua rangkaian WLAN dan rangkaian mudah alih tersedia</string>
+    <string name="wifi_calling_link_to_register_emergency_address">Klik di sini untuk mendaftar Panggilan WLAN atau mengemas kini Alamat Kecemasan anda yang sedia ada</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Jika rangkaian mudah alih tidak tersedia, gunakan WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Panggil melalui WLAN. Jika WLAN terputus, panggilan akan ditamatkan.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Jika WLAN tidak tersedia, gunakan rangkaian mudah alih</string>
+    <string name="wifi_calling_not_supported">Panggilan WLAN tidak disokong untuk %1$s</string>
+    <string name="wifi_calling_off_explanation">"Gunakan panggilan WLAN untuk meningkatkan kualiti panggilan di tempat liputan rangkaian mudah alih teruk.
+
+Kos
+Untuk maklumat mengenai caj panggilan WLAN, sila hubungi pembekal perkhidmatan anda.
+
+Nota mengenai panggilan WLAN
+Untuk kekal pada panggilan WLAN, pastikan anda kekal dalam julat WLAN."</string>
+    <string name="wifi_calling_on_dialog_text">Untuk menggunakan Panggilan WLAN, tetapkan SIM Diutamakan untuk Data mudah alih kepada SIM 1</string>
+    <string name="wifi_calling_settings_activation_instructions">Aktifkan Panggilan WLAN</string>
+    <string name="wifi_calling_settings_title">Panggilan WLAN</string>
+    <string name="wifi_calling_suggestion_summary">Hidupkan panggilan WLAN untuk meluaskan liputan</string>
+    <string name="wifi_calling_suggestion_title">Luaskan liputan panggilan dengan WLAN</string>
+    <string name="wifi_calling_summary">Gunakan WLAN untuk panggilan untuk meningkatkan kualiti</string>
+    <string name="wifi_calling_turn_on">Hidupkan panggilan WLAN</string>
+    <string name="wifi_carrier_connect">Rangkaian WLAN pembawa</string>
+    <string name="wifi_cellular_data_fallback_summary">Gunakan data mudah alih apabila WLAN tiada akses Internet. Caj penggunaan data mungkin dikenakan.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN tidak dihidupkan kembali secara automatik</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN dihidupkan kembali secara automatik</string>
+    <string name="wifi_configure_settings_preference_title">Pilihan WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Tukar Sijil WLAN</string>
+    <string name="wifi_data_template">^1 data WLAN</string>
+    <string name="wifi_data_usage">Penggunaan data WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Kegagalan Sambungan WLAN</string>
+    <string name="wifi_dpp_add_device_to_wifi">Tambahkan peranti ini pada “%1$s”?</string>
+    <string name="wifi_dpp_center_qr_code">Tengahkan kod QR di bawah untuk menambahkan peranti pada “%1$s”</string>
+    <string name="wifi_dpp_failure_not_supported">Penambahan “%1$s” tidak disokong oleh peranti ini</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Imbas kod QR ini untuk menyambung ke “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Tengahkan kod QR di bawah untuk menyambung ke “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Sertai WLAN dengan mengimbas kod QR</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Imbas kod QR ini untuk menyambung ke “%1$s” dan kongsikan kata laluan</string>
+    <string name="wifi_dpp_share_wifi">Kongsi WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Berkongsi WLAN dengan peranti ini…</string>
+    <string name="wifi_dpp_wifi_password">Kata laluan WLAN: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN dikongsi dengan peranti</string>
+    <string name="wifi_empty_list_user_restricted">Anda tiada kebenaran untuk menukar rangkaian WLAN.</string>
+    <string name="wifi_empty_list_wifi_off">Untuk melihat rangkaian yang tersedia, hidupkan WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Mencari rangkaian WLAN...</string>
+    <string name="wifi_hotspot_auto_off_summary">Tempat liputan WLAN akan dimatikan jika tiada peranti disambungkan</string>
+    <string name="wifi_hotspot_configure_ap_text">Persediaan tmpt liputan WLAN</string>
+    <string name="wifi_hotspot_footer_info_regular">Gunakan tempat liputan untuk membuat rangkaian WLAN bagi peranti anda yang lain. Tempat liputan menyediakan Internet menggunakan sambungan data mudah alih anda. Caj data mudah alih tambahan mungkin dikenakan.</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Sambung auto ke rangkaian Passpoint tersedia apabila WLAN hidup</string>
+    <string name="wifi_limit_optimizations_summary">Had bateri yg digunakan WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Langsung</string>
+    <string name="wifi_on_time">Masa hidup WLAN</string>
+    <string name="wifi_p2p_settings">Tetapan WLAN Direct</string>
+    <string name="wifi_p2p_settings_title">WLAN Langsung</string>
+    <string name="wifi_poor_network_detection_summary">Jangan gunakan rangkaian WLAN melainkan sambungan Internet rangkaian adalah stabil</string>
+    <string name="wifi_quick_toggle_summary">Hidupkan WLAN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Untuk memperbaik ketepatan lokasi dan untuk tujuan lain, apl tidak diketahui ingin menghidupkan pengimbasan rangkaian, meskipun WLAN dimatikan.
+
+Benarkan hal ini untuk semua apl yang ingin mengimbas?"</string>
+    <string name="wifi_scan_always_turnon_message">"Untuk memperbaik ketepatan lokasi dan untuk tujuan lain, %1$s ingin menghidupkan imbasan rangkaian, walaupun semasa WLAN dimatikan.
+
+Benarkan fungsi ini untuk semua apl yang ingin mengimbas?"</string>
+    <string name="wifi_scan_notify_text">Untuk meningkatkan ketepatan lokasi, apl dan perkhidmatan masih dapat mengimbas untuk mengesan rangkaian WLAN pada bila-bila masa, meskipun apabila WLAN dimatikan. Ini dapat digunakan, contohnya, untuk meningkatkan ciri dan perkhidmatan berasaskan lokasi. Anda boleh menukar tetapan ini dalam LINK_BEGINtetapan pengimbasanLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Untuk meningkatkan ketepatan lokasi, hidupkan pengimbasan WLAN dalam LINK_BEGINtetapan pengimbasanLINK_END.</string>
+    <string name="wifi_scan_throttling">Pendikitan pengimbasan WLAN</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">Dilindungi oleh WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Dilindungi oleh WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">Pilih WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN aktif semasa tidur</string>
+    <string name="wifi_setting_sleep_policy_title">Biarkan WLAN aktif semasa tidur</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Tetapan WLAN</string>
+    <string name="wifi_settings_master_switch_title">Gunakan WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">Pengimbasan WLAN dihidupkan</string>
+    <string name="wifi_settings_scanning_required_info">Pengimbasan WLAN membenarkan apl dan perkhidmatan mengimbas untuk mengesan rangkaian WLAN pada bila-bila masa, meskipun apabila WLAN dimatikan. Ini dapat digunakan, contohnya, untuk meningkatkan ciri dan perkhidmatan berasaskan lokasi.</string>
+    <string name="wifi_settings_scanning_required_summary">Untuk menghidupkan WLAN secara automatik, anda perlu menghidupkan pengimbasan WLAN dahulu.</string>
+    <string name="wifi_settings_scanning_required_title">Hidupkan pengimbasan WLAN?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Menghidupkan WLAN…</string>
+    <string name="wifi_stopping">Mematikan WLAN…</string>
+    <string name="wifi_suspend_optimizations">Pengoptimuman WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Minimumkan penggunaan bateri apabila WLAN dihidupkan</string>
+    <string name="wifi_switch_away_when_unvalidated">Beralih kepada data mudah alih jika WLAN kehilangan akses Internet.</string>
+    <string name="wifi_tether_settings_subtext">Sediakan &amp; uruskan hotspot WLAN mudah alih</string>
+    <string name="wifi_tether_settings_text">Tetapan hotspot WLAN mudah alih</string>
+    <string name="wifi_tethering_warning_txt">Sebarang operasi WLAN yang sedang berjalan seperti pemindahan media, kemas kini perisian telefon, sandaran dan pemulihan akan terganggu.</string>
+    <string name="wifi_turned_on_message">WLAN dihidupkan</string>
+    <string name="wifi_verbose_logging">Dayakan Pengelogan Berjela-jela WLAN</string>
+    <string name="wifi_verbose_logging_summary">Tingkatkan tahap pengelogan WLAN, tunjuk setiap SSID RSSI dalam Pemilih WLAN</string>
+    <string name="wifi_wakeup">Hidupkan WLAN secara automatik</string>
+    <string name="wifi_wakeup_summary">WLAN akan dihidupkan kembali berdekatan dengan rangkaian disimpan yang berkualiti tinggi, seperti rangkaian rumah</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Tidak tersedia kerana pengimbasan WLAN dimatikan</string>
+    <string name="wifi_wps_category_title">Sediakan rangkaian WLAN</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN terputus sambungan. Persediaan terbatal.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"Mod STAMINA menjimatkan kuasa bateri dengan melaras tetapan peranti. Anda boleh memilih aplikasi untuk dijalankan dengan kefungsian dikurangkan semasa mod tidur. (Ini membantu anda menjimatkan kuasa bateri kerana kebanyakan apl terus menghabiskan bateri walaupun semasa mod tidur.)
+
+Fungsi dinyahdayakan untuk apl yang dipilih:
+- WLAN
+- Data mudah alih
+- Pemasa
+
+Lampu pemberitahuan untuk semua aplikasi berkelip warna yang sama pada frekuensi yang sama semasa mod tidur.
+
+Mod STAMINA dinyahaktifkan semasa anda mengawal peranti."</string>
+</resources>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Түзмөгүңүздүн аталышы телефонуңуздагы колдонмолорго көрүнүктүү. Bluetooth түзмөктөрүнө туташканыңызда же WLAN туташуу түйүнүн жөндөгөнүңүздө, аны башка адамдар да көрүшү мүмкүн.</string>
+    <string name="accessibility_no_wifi">WLAN туташуусу жок.</string>
+    <string name="accessibility_wifi_off">WLAN өчүк.</string>
+    <string name="accessibility_wifi_one_bar">WLAN: бир таякча.</string>
+    <string name="accessibility_wifi_signal_full">WLAN: күчтүү сигнал.</string>
+    <string name="accessibility_wifi_three_bars">WLAN: үч таякча.</string>
+    <string name="accessibility_wifi_two_bars">WLAN: эки таякча.</string>
+    <string name="backup_data_summary">"Колдонмолордун берилиштерин, WLAN сырсөздөрүн жана башка тууралоолорду Google'дун серверине сактап коюу."</string>
+    <string name="backup_erase_dialog_message">"Колдонмолордун берилиштерин, WLAN сырсөздөрүн, бүктөмөлөрдү, жана башка тууралоолорду, колдономолордун берилиштерин Google'дун серверине сактоо токтотулуп, бардык көчүрмөлөр жок кылынсынбы?"</string>
+    <string name="battery_action_wifi">WLAN тууралоолору</string>
+    <string name="battery_desc_wifi">"WLAN'дын батарейди пайдалануусу"</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Колдонулбаса же жеткисиз болсо, WLAN өчүрүлсүн</string>
+    <string name="bluetooth_on_time">Өз убагындагы WLAN</string>
+    <string name="change_wifi_state_app_detail_summary">"Бул колдонмого WLAN'ды өчүрүп же күйгүзүүгө, WLAN тармактарын издеп, аларга туташууга, тармактарды кошуп же алып салууга же жергиликтүү туташуу түйүнүн иштетүүгө уруксат берүү"</string>
+    <string name="change_wifi_state_app_detail_switch">"Колдонмого WLAN'ды көзөмөлдөөгө уруксат берүү"</string>
+    <string name="change_wifi_state_title">"WLAN'ды көзөмөлдөө"</string>
+    <string name="condition_cellular_summary">Интернетке WLAN аркылуу гана кирүү мүмкүн</string>
+    <string name="connected_via_app">%1$s аркылуу туташты</string>
+    <string name="credential_for_wifi">WLAN үчүн орнотулган</string>
+    <string name="data_usage_app_summary_title">Мобилдик Интернет жана WLAN</string>
+    <string name="data_usage_disable_wifi_limit">WLAN траффикке чек коюу.</string>
+    <string name="data_usage_menu_hide_wifi">WLAN жашырылсын</string>
+    <string name="data_usage_menu_show_wifi">WLAN көрсөтүлсүн</string>
+    <string name="data_usage_metered_wifi">Тарифтелген WLAN тармактары</string>
+    <string name="data_usage_metered_wifi_disabled">Тарифтелген тармактарды тандоо үчүн, WLAN күйгүзүңүз.</string>
+    <string name="data_usage_restrict_background">"Фондук режимдеги мобилдик дайындарга чек коюлганда, айрым колдонмолор жана кызматтар WLAN'га туташмайынча иштебейт."</string>
+    <string name="data_usage_restrict_background_multiuser">"Фондук режимдеги мобилдик дайындарга чек коюлганда, айрым колдонмолор жана кызматтар WLAN'га туташмайынча иштебейт.
+
+Бул жөндөө ушул телефондогу бардык колдонуучуларга таасирин тийгизет."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">"WLAN'да ^1 колдонулду"</string>
+    <string name="data_usage_wifi_title">WLAN дайындары</string>
+    <string name="emergency_address_summary">WLAN аркылуу өзгөчө кырдаалдар кызматынын номерине чалганыңызда куткаруучуларга жайгашкан жериңиз катары көрсөтүлөт</string>
+    <string name="fullbackup_data_summary">"Түзмөктөгү дайындардын (мисалы, WLAN тармагынын сырсөздөрү жана чалуулар таржымалы) жана колдонмонун дайындарынын (мисалы жөндөөлөр жана файлдар) камдык көчүрмөсү алыстан автоматтык түрдө сакталат.
+
+Камдык көчүрмөнү автоматтык түрдө сактоо мүмкүнчүлүгү иштетилгенде, түзмөктүн жана колдонмонун дайындары маалы менен автоматтык түрдө сакталып турат. Иштеп чыгуучунун жөндөөлөрүнө ылайык колдонмодо сакталган дайындарда байланыштар, билдирүүлөр, сүрөттөр сыяктуу купуя маалыматтар камтылышы мүмкүн."</string>
+    <string name="fullbackup_erase_dialog_message">Түзмөктөгү дайындардын (мисалы, WLAN тармагынын сырсөздөрү жана чалуулар таржымалы) жана колдонмонун дайындарынын (мисалы жөндөөлөр жана файлдар) камдык көчүрмөсү мындан ары сакталбай, аралыктагы серверлердеги бардык көчүрмөлөр жок кылынат. Уланта бересизби?</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN билдирме, wifi билдирме</string>
+    <string name="location_neighborhood_level_wifi">Жайгашуу WLAN аркылуу аныкталды</string>
+    <string name="location_network_based">WLAN ж-а мобилдик жайгаштыруу</string>
+    <string name="location_scanning_screen_title">WLAN жана Bluetooth менен издөө</string>
+    <string name="location_scanning_wifi_always_scanning_description">WLAN өчүп турса да, колдонмолор менен кызматтарга WLAN тармактарын издегенге уруксат бересиз. Бул параметр менен жайгашкан жерди тагыраак аныктоого болот.</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN издөө</string>
+    <string name="lost_internet_access_cancel">WLAN тармагында калуу</string>
+    <string name="lost_internet_access_text">WLAN байланышы начар болгондо, ар дайым мобилдик тармакка өтө аласыз. Дайындардын өткөрүлгөндүгү үчүн акы алынышы мүмкүн.</string>
+    <string name="lost_internet_access_title">WLAN Интернет тармагына туташкан эмес</string>
+    <string name="mobile_data_always_on_summary">WLAN иштеп турганда да дайындар мобилдик тармак аркылуу өткөрүлө берет (бир тармактан экинчисине тезирээк которулуу үчүн).</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN жардамчысы өзгөрүлсүнбү?</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_controls_summary">"WLAN, Bluetooth, учак тартибин, мобилдик түйүндөрдү жана VPN'дерди башкаруу"</string>
+    <string name="radio_info_ims_reg_status">"IMS каттоосу: %1$s
+LTE аркылуу аудио чалуу: %2$s
+WLAN аркылуу аудио чалуу: %3$s
+Видео чалуу: %4$s
+UT интерфейс: %5$s"</string>
+    <string name="reset_network_desc">"Ушуну менен тармактын бардык жөндөөлөрү баштапкы абалга келет. Тактап айтканда: 
+
+"<li>WLAN</li>"
+"<li>Мобилдик Интернет</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">"WLAN'ды, мобилдик түзмөктү жана Bluetooth'ду баштапкы абалга келтирүү"</string>
+    <string name="restriction_wifi_config_summary">WLAN жана мобилдик тууралоолорду өзгөртүүгө уруксат берүү</string>
+    <string name="restriction_wifi_config_title">WLAN жана мобилдик түйүн</string>
+    <string name="scanning_status_text_wifi_off_ble_off">WLAN жана Bluetooth´ду издөө өчүк</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Bluetooth түзмөктөрүн издөө күйүк, WLAN тармактарын издөө өчүк</string>
+    <string name="scanning_status_text_wifi_on_ble_off">"WLAN'ды издөө күйүк, Bluetooth’ду издөө өчүк"</string>
+    <string name="scanning_status_text_wifi_on_ble_on">WLAN тармактарын жана Bluetooth түзмөктөрүн издөө күйүк</string>
+    <string name="status_wifi_mac_address">WLAN MAC дареги</string>
+    <string name="tether_settings_title_wifi">WLAN байланыш түйүнү</string>
+    <string name="usage_type_data_wifi_recv">Кабыл алынган WLAN берилиштери</string>
+    <string name="usage_type_data_wifi_send">Жөнөтүлгөн WLAN пакеттери</string>
+    <string name="usage_type_wifi_running">WLAN иштеп турат</string>
+    <string name="user_add_user_message_long">"Эгер түзмөгүңүздү дагы бир адам колдонуп жаткан болсо, кошумча профилдерди түзүп коюңуз. Профилдин ээси аны өзү каалагандай жөндөп, тушкагаздарды коюп, керектүү колдонмолорду орнотуп алат. Мындан тышкары, колдонуучулар түзмөктүн WLAN´ды өчүрүү/күйгүзүү сыяктуу жалпы жөндөөлөрүн өзгөртө алат.
+
+Профиль түзүлгөндөн кийин, аны жөндөп алуу керек.
+
+Жалпы колдонмолорду баары жаңырта алат, бирок атайын мүмкүнчүлүктөр өз-өзүнчө жөндөлөт."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Операторуңуз WLAN аркылуу шашылыш чалууларды колдоого албайт.
+Түзмөгүңүз шашылыш чалууну аткаруу үчүн автоматтык түрдө мобилдик тармакка которулат.
+Шашылык чалууларды мобилдик тармак иштеген аймактарда гана аткарууга болот."</string>
+    <string name="wfc_provisioned_switch_string">WLAN аркылуу чалуу камсыздалган</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN түйүндөрү</string>
+    <string name="wifi_advanced_not_available">Бул колдонуучу үчүн WLAN өздөштүрүлгөн жөндөөлөрү жеткиликсиз</string>
+    <string name="wifi_advanced_settings_label">IP жөндөөлөрү</string>
+    <string name="wifi_advanced_titlebar">Илгерилетилген WLAN</string>
+    <string name="wifi_ap_band_config">WLAN жыштыгынын диапазону</string>
+    <string name="wifi_ap_band_select_one">WLAN туташуу түйүнүн иштетүү үчүн кеминде бир жыштыкты тандаңыз:</string>
+    <string name="wifi_ask_disable">"%s бул түзмөктө WLAN'ды өчүргөнү жатат"</string>
+    <string name="wifi_ask_enable">"%s бул түзмөктө WLAN'ды күйгүзгөнү жатат"</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Мобилдик тармак жеткиликсиз болсо, WLAN’ды колдонуңуз</string>
+    <string name="wifi_calling_mode_wifi_only_summary">WLAN аркылуу чалуу. WLAN жоголуп кетсе, чалуу үзүлөт.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">WLAN жеткиликсиз болсо, мобилдик тармакты колдонуу</string>
+    <string name="wifi_calling_not_supported">%1$s байланыш операторунда WLAN аркылуу чалууга болбойт</string>
+    <string name="wifi_calling_off_explanation">WLAN аркылуу чалуу күйгүзүлгөндө, телефонуңуз, жеке жөндөөлөрүңүзгө жана сигналдын күчтүүлүгүнө жараша, чалууларды WLAN тармактары же операторуңуздун тармагы аркылуу багыттай алат. Бул функцияны күйгүзүүдөн мурда, төлөмдөрү жана башка маалымат боюнча операторуңузга кайрылыңыз.%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">WLAN аркылуу чалууну жандыруу</string>
+    <string name="wifi_calling_settings_title">WLAN чалуу</string>
+    <string name="wifi_calling_suggestion_summary">Байланыш аймагын кеңейтүү үчүн WLAN аркылуу чалууну күйгүзүңүз</string>
+    <string name="wifi_calling_suggestion_title">Байланыш аймагын кеңейтүү үчүн WLAN аркылуу чалуу</string>
+    <string name="wifi_calling_summary">Чалуунун сапатын жогорулатуу үчүн WLAN тармагына туташыңыз</string>
+    <string name="wifi_calling_turn_on">WLAN аркылуу чалууну күйгүзүү</string>
+    <string name="wifi_carrier_connect">Оператордун WLAN тармагы</string>
+    <string name="wifi_cellular_data_fallback_summary">WLAN аркылуу Интернетке туташуу мүмкүнчүлүгү жок болгондо, мобилдик дайындар колдонулсун. Дайындардын колдонулгандыгы үчүн акы алынышы мүмкүн.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN тармагы автоматтык түрдө күйбөйт</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN тармагы автоматтык түрдө өзү күйөт</string>
+    <string name="wifi_configure_settings_preference_title">WLAN жеке жөндөөлөрү</string>
+    <string name="wifi_data_template">^1 WLAN дайындары</string>
+    <string name="wifi_data_usage">WLAN трафиги</string>
+    <string name="wifi_disabled_wifi_failure">WLAN туташуусу бузулду</string>
+    <string name="wifi_dpp_add_device_to_wifi">Бул түзмөк \"%1$s\" тармагына кошулсунбу?</string>
+    <string name="wifi_dpp_center_qr_code">QR кодду борборго жайгаштырып, түзмөктү \"%1$s\" тармагына кошуңуз</string>
+    <string name="wifi_dpp_failure_not_supported">\"%1$s\" тармагын бул түзмөккө кошууга болбойт</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">\"%1$s\" тармагына туташуу үчүн, бул QR кодун скандаңыз</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">QR кодду борборго жайгаштырып, түзмөктү \"%1$s\" тармагына туташтырыңыз</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">"QR кодун скандоо менен WLAN'га кошулуңуз"</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">\"%1$s\" тармагына туташып, сырсөз менен бөлүшүү үчүн, бул QR кодун скандаңыз</string>
+    <string name="wifi_dpp_share_wifi">"WLAN'ды бөлүшүү"</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">WLAN бул түзмөк менен бөлүшүлүүдө…</string>
+    <string name="wifi_dpp_wifi_password">WLAN сырсөзү: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN тармагы түзмөк менен бөлүшүлдү</string>
+    <string name="wifi_empty_list_user_restricted">WLAN түйүнүн алмаштырууга урукатыңыз жок.</string>
+    <string name="wifi_empty_list_wifi_off">"Жеткиликтүү тармактарды көрүү үчүн WLAN'ды иштетиңиз."</string>
+    <string name="wifi_empty_list_wifi_on">WLAN түйүндөрү изделүүдө…</string>
+    <string name="wifi_hotspot_ap_band_title">WLAN жыштыктарынын диапазону</string>
+    <string name="wifi_hotspot_auto_off_summary">Бир дагы түзмөк туташпаса, WLAN байланыш түйүнү автоматтык түрдө өчүп калат</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN байланыш түйүнү</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN байланыш түйүнүн жөндөө</string>
+    <string name="wifi_hotspot_footer_info_regular">Байланыш түйүнү аркылуу WLAN тармагын түзүңүз. Анын жардамы менен башка түзмөктөр мобилдик Интернетке туташа алышат. Мобилдик Интернет үчүн кошумча акы алынышы мүмкүн.</string>
+    <string name="wifi_limit_optimizations_summary">"WLAN'дн батаряны пайдалн чект"</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN өз учурунда</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Жакшы Интернет байланышы болмоюнча, WLAN тармагы колдонулбасын</string>
+    <string name="wifi_quick_toggle_summary">"WLAN'ды жандыруу"</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Жайгашкан жерди аныктоо жана башка функциялар тагыраак иштеши үчүн, WLAN өчүк болсо да, белгисиз колдонмолор тармактарды издей алышы керек.
+
+Бардык колдонмолорго уруксат бересизби?"</string>
+    <string name="wifi_scan_always_turnon_message">"Жайгаштыруунун тактыгын жогорулатуу жана башка максаттарда, WLAN өчүк болсо да, %1$s желелерди скандагысы келет.
+
+Бардык скандоону кааалаган колдонмолорго уруксат берелсинби?"</string>
+    <string name="wifi_scan_notify_text">Кайда жүргөнүңүздү тагыраак аныктоо үчүн, WLAN өчүп турса да, колдонмолор менен кызматтар зымсыз тармактарды издей беришет. Бул режим жайгашкан жерди аныктоо функцияларын жакшыртууга мүмкүнчүлүк берет. Аны LINK_BEGINWLAN тармактарын издөө жөндөөлөрүнөнLINK_END өчүрүп койсоңуз болот.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Кандайдыр бир жерди тагыраак аныктоо үчүн LINK_BEGINиздөө жөндөөлөрүнөнLINK_END WLAN издөө дегенди күйгүзүңүз.</string>
+    <string name="wifi_scan_throttling">WLAN тармактарын издөөнү жөнгө салуу</string>
+    <string name="wifi_select_network">"WLAN'ды тандаңыз"</string>
+    <string name="wifi_setting_on_during_sleep_title">Уктап жатканда WLAN күйүк</string>
+    <string name="wifi_setting_sleep_policy_title">Уктап жатканда WLAN иштей берсин</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN тууралоолору</string>
+    <string name="wifi_settings_master_switch_title">"WLAN'ды колдонуу"</string>
+    <string name="wifi_settings_scanning_required_enabled">"WLAN'ды издөө күйгүзүлдү"</string>
+    <string name="wifi_settings_scanning_required_info">Бул функция аркылуу Интернет байланышы жок болсо да, колдонмолор менен кызматтар WLAN тармактарын издей алышат. Жайгашкан жерди аныктоо функциясын жана кызматтарды жакшырткыңыз келсе, аны иштетиңиз.</string>
+    <string name="wifi_settings_scanning_required_summary">WLAN тармактарына автоматтык түрдө туташуу үчүн, WLAN издөө функциясын иштетишиңиз керек.</string>
+    <string name="wifi_settings_scanning_required_title">WLAN издөөнү күйгүзөсүзбү?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN жандырылууда…</string>
+    <string name="wifi_stopping">WLAN өчүрүлүүдө…</string>
+    <string name="wifi_suspend_optimizations">WLAN оптималдаштыруу</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN иштегенде батарейди пайдаланууну минималдаштыруу</string>
+    <string name="wifi_switch_away_when_unvalidated">WLAN тармагы үзгүлтүккө учураганда, мобилдик Интернет колдонулсун.</string>
+    <string name="wifi_tether_configure_ap_text">WLAN байланыш түйүнүн жөндөө</string>
+    <string name="wifi_tether_failed_subtext">Көчмө WLAN түйүнүнө туташууда ката кетти</string>
+    <string name="wifi_turned_on_message">WLAN күйгүзүлдү</string>
+    <string name="wifi_verbose_logging">WLAN дайын-даректүү журналы</string>
+    <string name="wifi_verbose_logging_summary">WLAN тандалганда ар бир SSID үчүн RSSI көрүнүп турат</string>
+    <string name="wifi_wakeup">WLAN автоматтык түрдө күйсүн</string>
+    <string name="wifi_wakeup_summary">Байланыш сигналы күчтүү сакталган тармактарга (мисалы, үйүңүздөгү) жакындаганда, WLAN автоматтык түрдө күйөт</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">WLAN издөө функциясы өчүрүлгөндүктөн, бул опция иштебейт</string>
+</resources>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Puhelimen sovellukset näkevät laitteesi nimen. Muut voivat myös nähdä nimen, kun muodostat Bluetooth-yhteyden laitteisiin tai aktivoit WLAN-hotspotin.</string>
+    <string name="accessibility_no_wifi">Ei WLAN-yhteyttä</string>
+    <string name="accessibility_wifi_off">WLAN pois käytöstä</string>
+    <string name="accessibility_wifi_one_bar">WLAN-signaali – yksi palkki</string>
+    <string name="accessibility_wifi_signal_full">Vahva WLAN-signaali</string>
+    <string name="accessibility_wifi_three_bars">WLAN-signaali – kolme palkkia</string>
+    <string name="accessibility_wifi_two_bars">WLAN-signaali – kaksi palkkia</string>
+    <string name="backup_data_summary">Varmuuskopioi sovelluksen tiedot, WLAN-salasanat ja muut asetukset Googlen palvelimille</string>
+    <string name="backup_erase_dialog_message">Haluatko lopettaa WLAN-salasanojen, kirjanmerkkien, muiden asetuksien ja sovellustietojen varmuuskopioinnin ja poistaa kaikki kopiot Googlen palvelimilta?</string>
+    <string name="battery_action_wifi">WLAN-asetukset</string>
+    <string name="battery_desc_wifi">WLAN-yhteyden käyttämä akku</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Poista WLAN käytöstä, kun sitä ei käytetä tai kun yhteys ei ole käytettävissä</string>
+    <string name="battery_usm_desc">"Ultra STAMINA -tila pidentää akun kestoa merkittävästi. Ota huomioon, että Internet-yhteyttä ei voi käyttää WLAN-verkon tai mobiilidatayhteyden kautta tilan ollessa käytössä, joten synkronoinnin ja WLAN-puheluiden kaltaiset toiminnot eivät ole käytettävissä. Aloitusnäytöksesi vaihdetaan Ultra STAMINA -tilan aloitusnäyttö.
+
+Ultra STAMINA -tilassa käytettävissä olevat sovellukset"</string>
+    <string name="battery_usm_desc_variable">"Ultra STAMINA -tila pidentää akun kestoa merkittävästi. Ota huomioon, että Internet-yhteyttä ei voi käyttää WLAN-verkon tai mobiilidatayhteyden avulla, joten datasynkronointi ja %s eivät ole käytettävissä. Aloitusnäytöksesi vaihdetaan Ultra STAMINA -tilan aloitusnäyttö.
+
+Ultra STAMINA -tilassa käytettävissä olevat sovellukset"</string>
+    <string name="bluetooth_on_time">WLAN-yhteyden käytössäoloaika</string>
+    <string name="bs_feature_wifi">WLAN poissa käytöstä</string>
+    <string name="change_wifi_state_app_detail_summary">Anna sovelluksen asettaa WLAN päälle ja pois päältä, hakea WLAN-verkkoja ja yhdistää niihin, lisätä ja poistaa verkkoja ja käynnistää paikallisen hotspotin.</string>
+    <string name="change_wifi_state_app_detail_switch">Anna sovelluksen hallita WLANä</string>
+    <string name="change_wifi_state_title">WLANn hallinta</string>
+    <string name="condition_bg_data_summary">Taustatiedonsiirto on käytettävissä vain WLAN-yhteyden kautta. Tämä voi vaikuttaa joidenkin sovellusten tai palvelujen toimintaan, kun et käytä WLAN-yhteyttä.</string>
+    <string name="condition_cellular_summary">Vain WLAN-yhteys internetiin saatavilla</string>
+    <string name="connected_via_app">Yhdistetty (%1$s)</string>
+    <string name="credential_for_wifi">Asennettu WLANä varten</string>
+    <string name="ct_wifi_connected_text">China Telecomin WLAN yhdistetty</string>
+    <string name="cw_network_notification">Ota CT:n WLAN-ilmoitus käyt.</string>
+    <string name="cw_network_priority">Priorisoi China Telecomin WLAN</string>
+    <string name="cw_network_priority_summary">China Telecomin WLAN-verkot priorisoidaan muiden yhdistettyjen WLAN-verkkojen edelle</string>
+    <string name="data_service_except_mms_disabled_warning_txt">Jos WLAN ei ole käytössä, et voi käyttää Internetiä, sähköpostia etkä muita sovelluksia, jotka edellyttävät datayhteyttä. Poistetaanko mobiilidatayhteys käytöstä?</string>
+    <string name="data_traffic_disabled_text">Yhteyttä China Telecomin WLAN-verkkoihin ei voitu muodostaa, sillä tietoliikenne on poistettu käytöstä. Otetaanko tietoliikenne käyttöön nyt?</string>
+    <string name="data_usage_app_summary_title">Mobiilidata ja WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Aseta WLAN-tiedons.raja</string>
+    <string name="data_usage_menu_hide_wifi">Piilota WLAN</string>
+    <string name="data_usage_menu_show_wifi">Näytä WLAN</string>
+    <string name="data_usage_metered_wifi">Käytön mukaan laskutettavat WLAN-verkot</string>
+    <string name="data_usage_metered_wifi_disabled">Ota WLAN käyttöön, niin voit valita käytön mukaan laskutettavat verkot.</string>
+    <string name="data_usage_restrict_background">Jos rajoitat taustalla tapahtuvaa mobiilitiedonsiirtoa, osa sovelluksista ja palveluista toimii vain kun käytät WLAN-yhteyttä.</string>
+    <string name="data_usage_restrict_background_multiuser">"Jos rajoitat taustalla tapahtuvaa mobiilitiedonsiirtoa, osa sovelluksista ja palveluista toimii vain kun käytät WLAN-yhteyttä.
+
+Asetus vaikuttaa tämän puhelimen kaikkiin käyttäjiin."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 käytetty WLANllä</string>
+    <string name="data_usage_wifi_title">WLAN-data</string>
+    <string name="dialog_message_hint">"STAMINA-tila sisältää seuraavaa:
+
+• Laajennettu valmiustila
+Säästää virtaa, kun näyttö on sammutettuna, poistamalla WLAN-verkon ja mobiilidatan tilapäisesti käytöstä. Useimmat sovellukset eivät ole käytössä.
+Kun näyttö on päällä, puhelin toimii normaalisti.
+Jos haluat pitää joitakin sovelluksia aktiivisina, kun laajennettu valmiustila on käytössä, lisää sovellukset VALMIUSTILASSA AKTIIVISET SOVELLUKSET -luetteloon.
+
+• Laajennettu käyttö
+Säästää virtaa, kun laite on käytössä, rajoittamalla laitteiston suorituskykyä.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Mikä on STAMINA-tila?</u>"
+STAMINA-tila on Sonyn virransäästötoiminto. Se pidentää akun kestoa, kun näyttö on sammutettu.
+
+"<u>Peruskäyttö</u>"
+Voit ottaa STAMINA-tilan käyttöön napauttamalla näytössä olevaa painiketta.
+Kun näyttö on sammutettu, WLAN ja mobiilidata poistetaan käytöstä tilapäisesti, ja useimmat sovellukset eivät ole käytössä, jotta akkuvirtaa säästyy.
+Kun näyttö on päällä, puhelin toimii normaalisti.
+
+"<u>Kehittynyt käyttö</u>"
+Jos haluat pitää joitakin sovelluksia käynnissä, kun STAMINA-tila on käytössä, lisää sovellukset VALMIUSTILASSA AKTIIVISET SOVELLUKSET -luetteloon.
+Sovellukset eivät ehkä toimi oikein, jos niitä ei ole lisätty luetteloon.
+
+"<u>Huomautus</u>"
+Jos sovellus ei toimi oikein, lisää se VALMIUSTILASSA AKTIIVISET SOVELLUKSET -luetteloon tai poista STAMINA-tila käytöstä."</string>
+    <string name="emergency_address_summary">Sijaintisi, kun soitat hätäpuhelun WLANllä</string>
+    <string name="fullbackup_data_summary">"Varmuuskopioi laitteen tiedot (kuten WLAN-salasanat ja soittohistoria) sekä sovellusten tiedot (kuten asetukset ja sovellusten tallentamat tiedostot) automaattisesti etäyhteyden kautta.
+
+Kun otat automaattisen varmuuskopioinnin käyttöön, laitteen ja sovellusten tiedot varmuuskopioidaan säännöllisesti etäyhteyden kautta. Sovellusten tietoihin voi sisältyä mitä tahansa tietoja, joita sovellukset ovat tallentaneet (kehittäjien asetuksien perusteella). Ne saattavat sisältää myös arkaluontoisia tietoja, kuten yhteystietoja, viestejä ja valokuvia."</string>
+    <string name="fullbackup_erase_dialog_message">Lopetetaanko laitteen tietojen (kuten WLAN-salasanojen ja soittohistorian) ja sovellusten tietojen (kuten asetusten ja sovellusten tallentamien tiedostojen) automaattinen varmuuskopiointi? Myös vanhat varmuuskopiot poistetaan etäpalvelimilta.</string>
+    <string name="install_wapi_certs">Asenna WLAN-varmenteet</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN ilmoitus, wifi ilmoitus</string>
+    <string name="l_dialog_message_hint">"STAMINA-tila sisältää seuraavaa:
+
+• Laajennettu valmiustila
+Säästää virtaa, kun näyttö on sammutettu, poistamalla WLAN-verkon tilapäisesti käytöstä. Useimmat sovellukset eivät toimi.
+Kun näyttö on päällä, laite toimii normaalisti.
+Jos haluat pitää joitakin sovelluksia aktiivisina, kun laajennettu valmiustila on käytössä, lisää sovellukset luetteloon valmiustilassa.
+
+• Laajennettu käyttö
+Säästää virtaa, kun laite on käytössä, rajoittamalla laitteiston tehoa."</string>
+    <string name="location_based_wifi">Sijaintipohjainen WLAN</string>
+    <string name="location_neighborhood_level_wifi">Sijainti on määritetty WLAN-yhteyden perusteella</string>
+    <string name="location_network_based">WLAN- ja mobiiliverkkosijainti</string>
+    <string name="location_scanning_screen_title">WLAN- ja Bluetooth-haku</string>
+    <string name="location_scanning_wifi_always_scanning_description">Salli sovellusten ja palvelujen hakea WLAN-verkkoja aina, vaikka WLAN olisi pois käytöstä. Näin voidaan esimerkiksi kehittää sijaintiin perustuvia ominaisuuksia ja palveluja.</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN-haku</string>
+    <string name="lost_internet_access_cancel">Jatka WLAN-yhteydellä</string>
+    <string name="lost_internet_access_text">Jos WLAN-signaali on heikko, voit käyttää mobiilidataa. Datan käytöstä voi aiheutua maksuja.</string>
+    <string name="lost_internet_access_title">WLAN-yhteyttä ei voi muodostaa.</string>
+    <string name="mobile_data_always_on_summary">Pidä mobiilidata aina käytössä, vaikka WLAN olisi aktiivinen. Tämä mahdollistaa nopeamman vaihtelun verkkojen välillä.</string>
+    <string name="network_scorer_change_active_dialog_title">Vaihdetaanko WLAN Assistant?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Jos haluat jakaa nykyisen WLAN-verkon, valitse asetus \"Jaa WLAN-tiedot\".</string>
+    <string name="nfc_wifi_share_checkbox">Jaa WLAN-tiedot</string>
+    <string name="nfc_wifi_share_title_txt">Jaa WLAN-tiedot</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Muodosta yhteys operaattorin WLAN-alueeseen automaattisesti</string>
+    <string name="operator_auto_connect_hotspot_txt">Automaatt. WLAN-yhteys</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">Jos WLAN ei ole käytössä, et voi käyttää Internetiä, sähköpostia etkä muita sovelluksia, jotka edellyttävät datayhteyttä. Poistetaanko mobiilidatayhteys käytöstä?</string>
+    <string name="powersaver_feature_wifi">WLAN poissa käytöstä</string>
+    <string name="radio_controls_summary">Hallinnoi WLAN- ja Bluetooth-yhteyksiä, lentokonetilaa ja mobiili- ja VPN-verkkoja</string>
+    <string name="radio_info_ims_reg_status">"IMS-rekisteröinti: %1$s
+LTE-äänipuhelut: %2$s
+WLAN-äänipuhelut: %3$s
+Videopuhelut: %4$s
+UT-käyttöliittymä: %5$s"</string>
+    <string name="reset_network_desc">"Tämä nollaa kaikki verkkoasetukset, esimerkiksi seuraavat:
+
+"<li>WLAN</li>"
+"<li>Mobiilidata</li>"
+"<li>Bluetooth</li></string>
+    <string name="restriction_wifi_config_summary">Salli WLAN- ja mobiiliverkkoasetuksien muokkaaminen</string>
+    <string name="restriction_wifi_config_title">WLAN- ja mobiiliverkko</string>
+    <string name="scanning_status_text_wifi_off_ble_off">WLAN- ja Bluetooth-haku eivät ole käytössä.</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Bluetooth-haku on käytössä, WLAN-haku ei ole käytössä</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN-haku on käytössä, Bluetooth-haku ei ole käytössä</string>
+    <string name="scanning_status_text_wifi_on_ble_on">WLAN- ja Bluetooth-haku ovat käytössä.</string>
+    <string name="somc_backup_failed_no_wifi_summary">Odotetaan WLAN-yhteyttä</string>
+    <string name="somc_wifi_turned_on_info">WLAN on käytössä. Valitse verkkosi luettelosta.</string>
+    <string name="stamina_xssm_summary">Poistaa mobiilidatan ja WLAN-verkon käytöstä, kun näyttö on poissa päältä</string>
+    <string name="status_wifi_mac_address">WLAN-yhteyden MAC-osoite</string>
+    <string name="tethering_no_sim_warning_txt">Aseta SIM-kortti paikalleen, jotta voit jakaa puhelimen datayhteyden muiden laitteiden kanssa Mobile WLAN Hotspot -palvelun tai Internet-käyttöön tarkoitetun USB-verkkosidonnan kautta.</string>
+    <string name="usage_type_data_wifi_recv">Vastaanotetut WLAN-paketit</string>
+    <string name="usage_type_data_wifi_send">Lähetetyt WLAN-paketit</string>
+    <string name="usage_type_wifi_running">WLAN on käytössä</string>
+    <string name="user_add_user_message_long">"Voit jakaa tämän laitteen muiden kanssa luomalla lisää käyttäjiä. Kullakin käyttäjällä on oma tilansa, jota he voivat muokata esimerkiksi omilla sovelluksilla ja taustakuvilla. Käyttäjät voivat myös muokata laiteasetuksia, kuten WLAN-asetuksia, jotka vaikuttavat laitteen kaikkiin käyttäjiin.
+
+Kun lisäät uuden käyttäjän, hänen tulee määrittää oman tilansa asetukset.
+
+Kaikki käyttäjät voivat päivittää muiden käyttäjien sovelluksia. Esteettömyysominaisuuksia tai ‑palveluita ei välttämättä siirretä uudelle käyttäjälle."</string>
+    <string name="usm_descr">"Ultra STAMINA -tila pidentää akun käyttöaikaa merkittävästi. Sitä voi käyttää, kun et voi ladata laitetta pitkään aikaan.
+
+Vain muutamat perustoiminnot, kuten puhelin ja viestit, ovat käytettävissä. Saat lisätietoja napauttamalla \"Lisätietoja\".
+
+Huomaa, että Internet-yhteys WLAN-verkon mobiilidatan kautta poistetaan käytöstä."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Hätäpuhelut eivät ole mahdollisia WLAN-soiton kautta.
+Laite vaihtaa automaattisesti matkapuhelinverkkoon (2G/3G) hätäpuhelun soittoa varten.
+Hätäpuhelut ovat mahdollisia vain alueilla, joissa on matkapuhelinverkko."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">Hätäpuhelut WLAN-soiton kautta</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone WLAN -soitto</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"Jos haluat käyttää WLAN-puheluita, sinun täytyy ottaa sijaintitoiminto käyttöön ja valita sen asetukseksi Suuri tarkkuus tai Virransäästötila.
+
+Muista pitää sijaintitoiminto käytössä WLAN-puheluiden aikana."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Hätäpuhelut eivät ole mahdollisia WLAN-soiton kautta.
+Laite vaihtaa automaattisesti matkapuhelinverkkoon (2G/3G) hätäpuhelun soittoa varten.
+Hätäpuhelut ovat mahdollisia vain alueilla, joissa on matkapuhelinverkko."</string>
+    <string name="wfc_location_info_dialog_desc_txt">Sijaintiisi liittyvät tiedot voidaan lähettää Googlelle ja operaattorillesi riippumatta siitä, ovatko sijaintipalvelut käytössä vai eivät, jotta voit soittaa WLAN-puheluita.</string>
+    <string name="wfc_provisioned_switch_string">WLAN-puhelukäyttäjiä hallitaan</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN-verkot</string>
+    <string name="wifi_advanced_not_available">WLAN-lisäasetukset eivät ole tämän käyttäjän käytettävissä.</string>
+    <string name="wifi_advanced_settings_label">WLAN-asetukset</string>
+    <string name="wifi_advanced_titlebar">WLAN-lisäasetukset</string>
+    <string name="wifi_ap_band_select_one">Valitse vähintään yksi kaista WLAN-hotspotille:</string>
+    <string name="wifi_ask_disable">%s haluaa poistaa WLANn käytöstä.</string>
+    <string name="wifi_ask_enable">%s haluaa ottaa WLANn käyttöön.</string>
+    <string name="wifi_auto_network_switch_setting_msg">Vaihda ensisijaiseen verkkoon automaattisesti, kun käytettävissä on sekä matkapuhelinverkko että WLAN-verkko</string>
+    <string name="wifi_calling_link_to_register_emergency_address">Rekisteröi WLAN-puhelut tai päivitä nykyinen hätäosoitteesi napsauttamalla tätä</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Jos mobiiliverkkoa ei ole saatavilla, käytä WLAN-yhteyttä.</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Soita WLAN-yhteyden kautta. Jos WLAN-yhteys katkeaa, puhelu päättyy.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Jos WLAN-yhteys ei ole käytettävissä, käytä mobiiliverkkoa</string>
+    <string name="wifi_calling_not_supported">%1$s ei tue WLAN-puheluja</string>
+    <string name="wifi_calling_off_explanation">"WLAN-puheluiden avulla voit parantaa puheluiden laatua alueilla, joissa matkapuhelinverkon kuuluvuus on heikko.
+
+Hinnat
+Saat lisätietoja WLAN-puheluiden hinnoista ottamalla yhteyttä palveluntarjoajaasi.
+
+Huomautuksia WLAN-puheluista
+Varmista, että pysyt WLAN-puhelun aikana WLAN-verkon alueella."</string>
+    <string name="wifi_calling_on_dialog_text">Jos haluat käyttää WLAN-puheluita, määritä mobiilidatan SIM-kortiksi SIM 1</string>
+    <string name="wifi_calling_settings_activation_instructions">Aktivoi WLAN-puhelut</string>
+    <string name="wifi_calling_settings_title">WLAN-puhelut</string>
+    <string name="wifi_calling_suggestion_summary">Paranna tavoittavuutta ottamalla WLAN-puhelut käyttöön</string>
+    <string name="wifi_calling_suggestion_title">Laajenna puhelumahdollisuuksia WLANllä</string>
+    <string name="wifi_calling_summary">Soita puhelut WLANllä parantaaksesi laatua</string>
+    <string name="wifi_calling_turn_on">Ota WLAN-puhelut käyttöön</string>
+    <string name="wifi_carrier_connect">Operaattorin WLAN-verkko</string>
+    <string name="wifi_cellular_data_fallback_summary">Vaihda mobiilidataan, jos WLAN-yhteyttä ei voi muodostaa. Datan käytöstä voi aiheutua maksuja.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLANä ei oteta uudelleen käyttöön automaattisesti.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN otetaan uudelleen käyttöön automaattisesti.</string>
+    <string name="wifi_configure_settings_preference_title">WLAN-asetukset</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Vaihda WLAN-varmenne</string>
+    <string name="wifi_data_template">^1 WLAN-dataa</string>
+    <string name="wifi_data_usage">WLAN-datan käyttö</string>
+    <string name="wifi_disabled_wifi_failure">WLAN-yhteysvirhe</string>
+    <string name="wifi_dpp_add_device_to_wifi">Lisätäänkö laite verkkoon %1$s?</string>
+    <string name="wifi_dpp_center_qr_code">Lisää laite verkkoon %1$s keskittämällä alla olevaan QR-koodiin.</string>
+    <string name="wifi_dpp_failure_not_supported">Tämä laite ei tue %1$s:n lisäämistä</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Yhdistä %1$s skannaamalla tämä QR-koodi</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Yhdistä verkkoon %1$s keskittämällä alla olevaan QR-koodiin</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Yhdistä WLAN-verkkoon lukemalla QR-koodi.</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Yhdistä %1$s ja jaa salasana lukemalla tämä QR-koodi.</string>
+    <string name="wifi_dpp_share_wifi">Jaa WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Jaetaan WLAN-yhteys tämän laitteen kanssa…</string>
+    <string name="wifi_dpp_wifi_password">WLAN-verkon salasana: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN jaettu laitteen kanssa</string>
+    <string name="wifi_empty_list_user_restricted">Käyttöoikeutesi eivät riitä WLAN-verkon muuttamiseen.</string>
+    <string name="wifi_empty_list_wifi_off">Näet käytössä olevat verkot ottamalla WLANn käyttöön.</string>
+    <string name="wifi_empty_list_wifi_on">Haetaan WLAN-verkkoja…</string>
+    <string name="wifi_hotspot_auto_off_summary">WLAN-hotspot poistetaan käytöstä, jos laitteita ei ole yhdistetty.</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN-hotspotin määritys</string>
+    <string name="wifi_hotspot_footer_info_regular">Hotspot-ominaisuudella voit luoda muille laitteillesi WLAN-verkon. Ominaisuus jakaa internetyhteyden muille laitteille mobiilidatayhteydellä. Lisämaksuja mobiilidatan käytöstä voidaan periä.</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Yhdistä autom. käyt. oleviin Passpoint-verkkoihin, kun WLAN käytössä</string>
+    <string name="wifi_limit_optimizations_summary">Rajoita WLANn akun käyttöä</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN-yhteyden käytössäoloaika</string>
+    <string name="wifi_p2p_settings">WLAN Direct -asetukset</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Älä käytä WLAN-verkkoa, jos sen internetyhteys on heikko</string>
+    <string name="wifi_quick_toggle_summary">Ota WLAN käyttöön</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Tuntematon sovellus haluaa parantaa sijainnin tarkkuutta ja suorittaa muita toimintoja etsimällä verkkoja, vaikka WLAN-yhteys ei ole käytössä.
+
+Annetaanko lupa kaikille hakua yrittäville sovelluksille?"</string>
+    <string name="wifi_scan_always_turnon_message">"%1$s haluaa parantaa sijainnin tarkkuutta ja suorittaa muita toimintoja ottamalla verkon etsinnän käyttöön, vaikka WLAN-yhteys ei ole käytössä.
+
+Annetaanko tämä lupa kaikille sovelluksille, jotka haluavat etsiä verkkoja?"</string>
+    <string name="wifi_scan_notify_text">Sijainnin tarkkuuden parantamiseksi sovellukset ja palvelut voivat hakea WLAN-verkkoja myös silloin, kun WLAN on pois käytöstä. Näin voidaan esimerkiksi kehittää sijaintiin perustuvia ominaisuuksia ja palveluja. Voit muokata tätä asetusta LINK_BEGINhakuasetuksissaLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Paranna sijainnin tarkkuutta ottamalla käyttöön WLAN-verkkojen etsiminen LINK_BEGINetsintäasetuksissaLINK_END.</string>
+    <string name="wifi_scan_throttling">WLAN-haun rajoitus</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT -suojattu</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK -suojattu</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">Valitse WLAN-verkko</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN virransäästön aikana</string>
+    <string name="wifi_setting_sleep_policy_title">Pidä WLAN käytössä virransäästötilassa</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN-asetukset</string>
+    <string name="wifi_settings_master_switch_title">Käytä WLANä</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN-haku on käytössä</string>
+    <string name="wifi_settings_scanning_required_info">WLAN-haku sallii sovellusten ja palvelujen hakea WLAN-verkkoja aina, vaikka WLAN olisi pois käytöstä. Näin voidaan esimerkiksi kehittää sijaintiin perustuvia ominaisuuksia ja palveluja.</string>
+    <string name="wifi_settings_scanning_required_summary">Jos haluat käynnistää WLANn automaattisesti, ota ensin WLAN-haku käyttöön.</string>
+    <string name="wifi_settings_scanning_required_title">Otetaanko WLAN-haku käyttöön?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN-yhteyttä otetaan käyttöön…</string>
+    <string name="wifi_stopping">Poistetaan WLAN-yhteyttä käytöstä…</string>
+    <string name="wifi_suspend_optimizations">WLAN-optimointi</string>
+    <string name="wifi_suspend_optimizations_summary">Vähennä akun kulutusta, kun WLAN on käytössä</string>
+    <string name="wifi_switch_away_when_unvalidated">Vaihda mobiilidataan, jos WLAN-yhteys katkeaa</string>
+    <string name="wifi_tether_settings_subtext">Määritä ja hallinnoi siirrettävää WLAN-aluetta</string>
+    <string name="wifi_tether_settings_text">Siirrettävän WLAN-alueen asetukset</string>
+    <string name="wifi_tethering_warning_txt">Kaikki käynnissä olevat WLAN-toiminnot keskeytetään (esimerkiksi mediasisällön siirto, puhelimen ohjelmistopäivitys, varmuuskopiointi tai palautus).</string>
+    <string name="wifi_turned_on_message">WLAN on käytössä</string>
+    <string name="wifi_verbose_logging">Käytä WLANn laajennettua lokikirjausta</string>
+    <string name="wifi_verbose_logging_summary">Lisää WLANn lokikirjaustasoa, näytä SSID RSSI -kohtaisesti WLAN-valitsimessa.</string>
+    <string name="wifi_wakeup">Ota WLAN käyttöön automaattisesti</string>
+    <string name="wifi_wakeup_summary">WLAN otetaan automaattisesti käyttöön, kun lähistöllä on kotiverkkosi tai muita laadukkaita tallennettuja verkkoja.</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Ei käytettävissä, koska WLAN-haku on pois päältä.</string>
+    <string name="wifi_wps_category_title">Määritä WLAN-verkon aset.</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN-yhteys katkaistu. Asennus peruutettu.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINA-tila säästää akkuvirtaa säätämällä laiteasetuksia. Voit valita rajoitetusti lepotilassa suoritettavat sovellukset. (Tämä auttaa säästämään akkuvirtaa, koska useimmat sovellukset kuluttavat akkua lepotilassakin.)
+
+Valikoiduissa sovelluksissa käytöstä poistettavat toiminnot:
+- WLAN
+- Mobiilidata
+- Ajastin
+
+Kaikkien sovellusten ilmoitusvalo vilkkuu lepotilassa samanvärisenä samalla tiheydellä.
+
+STAMINA-tilan aktivointi poistetaan, kun ohjaat laitetta."</string>
+</resources>

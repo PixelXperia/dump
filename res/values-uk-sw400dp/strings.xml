@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usb_direct_settings_hi_res_audio_title_txt">Аудіо високої роздільної здатності через USB</string>
+    <string name="wifi_tether_settings_text">Установки портативної точки доступу Wi-Fi</string>
+</resources>

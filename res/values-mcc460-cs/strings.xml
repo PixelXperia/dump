@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Název vašeho zařízení je viditelný pro aplikace v telefonu. Mohou ho vidět také ostatní uživatelé, když se připojíte k zařízení Bluetooth nebo hotspotu WLAN.</string>
+    <string name="accessibility_no_wifi">Síť WLAN je odpojena.</string>
+    <string name="accessibility_wifi_off">Síť WLAN je vypnuta.</string>
+    <string name="accessibility_wifi_one_bar">WLAN – jedna čárka.</string>
+    <string name="accessibility_wifi_signal_full">WLAN – plný signál.</string>
+    <string name="accessibility_wifi_three_bars">WLAN – tři čárky.</string>
+    <string name="accessibility_wifi_two_bars">WLAN – dvě čárky.</string>
+    <string name="backup_data_summary">Zálohovat data aplikací, hesla sítí WLAN a další nastavení na serverech Google</string>
+    <string name="backup_erase_dialog_message">Chcete přestat zálohovat hesla sítí WLAN, záložky, další nastavení, data aplikací a vymazat všechny kopie ze serverů Google?</string>
+    <string name="battery_action_wifi">Nastavení WLAN</string>
+    <string name="battery_desc_wifi">Využití baterie modulem WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Pokud síť WLAN nepoužíváte nebo na daném místě není k dispozici, vypněte modul WLAN.</string>
+    <string name="battery_usm_desc">"Režim Ultra STAMINA výrazně prodlouží výdrž na baterii. Upozorňujeme, že připojení k Internetu prostřednictvím WLAN a mobilních dat bude zakázáno, takže funkce jako synchronizace dat a volání WLAN nebudou k dispozici. Vaše obrazovka Plocha bude přepnuta do režimu Ultra STAMINA.
+
+Aplikace dostupné v režimu Ultra STAMINA"</string>
+    <string name="battery_usm_desc_variable">"Režim Ultra STAMINA výrazně prodlouží výdrž na baterii. Upozorňujeme, že připojení k Internetu prostřednictvím WLAN a mobilních dat bude zakázáno, takže funkce jako synchronizace a %s nebudou k dispozici. Vaše obrazovka Plocha bude přepnuta do režimu Ultra STAMINA.
+
+Aplikace dostupné v režimu Ultra STAMINA"</string>
+    <string name="bluetooth_on_time">Doba provozu modulu WLAN</string>
+    <string name="bs_feature_wifi">WLAN - vypnuto</string>
+    <string name="change_wifi_state_app_detail_summary">Povolte této aplikaci zapínat a vypínat WLAN, vyhledávat sítě WLAN a připojovat se k nim, přidávat nebo odstraňovat sítě nebo nastavit místní hotspot</string>
+    <string name="change_wifi_state_app_detail_switch">Povolit aplikaci ovládat WLAN</string>
+    <string name="change_wifi_state_title">Ovládání sítí WLAN</string>
+    <string name="condition_bg_data_summary">Data na pozadí jsou dostupná pouze prostřednictvím WLAN. Tato skutečnost může mít vliv na některé aplikace a služby, pokud síť WLAN není k dispozici.</string>
+    <string name="condition_cellular_summary">Internet je k dispozici jen přes WLAN</string>
+    <string name="connected_via_app">Připojeno přes %1$s</string>
+    <string name="credential_for_wifi">Nainstalování pro síť WLAN</string>
+    <string name="ct_wifi_connected_text">Připojeno WLAN China Telecom</string>
+    <string name="cw_network_notification">Povolit oznámení CT WLAN</string>
+    <string name="cw_network_priority">Upřednostňovat WLAN CT</string>
+    <string name="cw_network_priority_summary">Sítě WLAN společnosti China Telecom budou při připojení upřednostňovány před jinými sítěmi WLAN</string>
+    <string name="data_service_except_mms_disabled_warning_txt">Pokud nepoužijete WLAN, nebudete moci používat internet, e-mail ani jiné aplikace využívající datové připojení. Chcete vypnout mobilní data?</string>
+    <string name="data_traffic_disabled_text">Nelze se připojit k sítím WLAN společnosti China Telecom, protože přenos dat je vypnut. Chcete ho nyní povolit?</string>
+    <string name="data_usage_app_summary_title">Mobilní data a WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Datový limit WLAN</string>
+    <string name="data_usage_menu_hide_wifi">Skrýt použití WLAN</string>
+    <string name="data_usage_menu_show_wifi">Zobrazit využití WLAN</string>
+    <string name="data_usage_metered_wifi">Měřené sítě WLAN</string>
+    <string name="data_usage_metered_wifi_disabled">Chcete-li vybrat měřené sítě, zapněte připojení WLAN.</string>
+    <string name="data_usage_restrict_background">Pokud omezíte využití mobilních dat na pozadí, některé aplikace a služby nebudou fungovat, dokud se nepřipojíte k síti WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Pokud omezíte využití mobilních dat na pozadí, některé aplikace a služby nebudou fungovat, dokud se nepřipojíte k síti WLAN.
+
+Toto nastavení ovlivní všechny uživatele tohoto telefonu."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">Přes WLAN použito ^1</string>
+    <string name="data_usage_wifi_title">Data přes WLAN</string>
+    <string name="dialog_message_hint">"Režim STAMINA zahrnuje:
+
+• Rozšířený pohotovostní režim
+Je-li obrazovka vypnuta, bude dočasně vypnuto připojení k WLAN i mobilní data. Většina aplikací nebude aktivní.
+Je-li obrazovka zapnuta, zařízení pracuje normálně.
+Pokud chcete, aby některá aplikace byla aktivní i v rozšířeném pohotovostním režimu, přidejte ji do seznamu aplikací aktivních v pohotovostním režimu.
+
+• Rozšířené využití
+Úspora energie během používání zařízení díky omezení výkonu.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Co je režim STAMINA?</u>"
+Režim STAMINA je funkce úspory energie společnosti Sony. Prodlužuje výdrž baterie, když je obrazovka vypnuta.
+
+"<u>Základní použití</u>"
+Chcete-li režim STAMINA aktivovat, použijte přepínač na další obrazovce.
+Je-li obrazovka vypnuta, bude dočasně zakázána síť WLAN a mobilní data a většina aplikací bude neaktivních, aby se šetřila baterie.
+Je-li obrazovka zapnuta, telefon pracuje normálně.
+
+"<u>Rozšířené použití</u>"
+Chcete-li, aby v režimu STAMINA zůstaly některé aplikace aktivní, přidejte je do seznamu APLIKACE AKTIVNÍ V POHOTOVOSTNÍM REŽIMU.
+Bez přidání na seznam nemusí aplikace pracovat správně.
+
+"<u>Poznámka</u>"
+Pokud aplikace nepracuje správně, přidejte ji do seznamu APLIKACE AKTIVNÍ V POHOTOVOSTNÍM REŽIMU, a pokud to nepomůže, vypněte režim STAMINA."</string>
+    <string name="emergency_address_summary">Použije se jako vaše poloha, pokud uskutečníte tísňové volání přes WLAN</string>
+    <string name="fullbackup_data_summary">"Automaticky vzdáleně zálohujte data zařízení (jako jsou hesla sítí WLAN a historie volání) a data aplikací (jako jsou nastavení a soubory uložené aplikacemi).
+
+Když zapnete automatické zálohování, data zařízení a aplikací se budou pravidelně ukládat do vzdáleného úložiště. Data aplikací mohou zahrnovat data, která uložila aplikace (v závislosti na nastavení vývojáře), včetně potenciálně citlivých dat, jako jsou kontakty, zprávy a fotky."</string>
+    <string name="fullbackup_erase_dialog_message">Zastavit zálohování dat zařízení (jako jsou hesla sítí WLAN a historie volání) a dat aplikací (jako jsou nastavení a soubory uložené aplikacemi) a vymazat všechny kopie na vzdálených serverech?</string>
+    <string name="install_wapi_certs">Instalovat certifikáty WLAN</string>
+    <string name="keywords_wifi_notify_open_networks">Oznámení WLAN, oznámení wifi</string>
+    <string name="l_dialog_message_hint">"Režim STAMINA zahrnuje:
+
+• Rozšířený pohotovostní režim
+Šetří energii dočasným vypnutím připojení k WLAN, je-li obrazovka vypnuta. Většina aplikací nebude aktivní.
+Je-li obrazovka zapnuta, vaše zařízení pracuje normálně.
+Pokud chcete, aby některé aplikace byly aktivní i v rozšířeném pohotovostním režimu, přidejte je do seznamu aplikací aktivních v pohotovostním režimu.
+
+• Rozšířené použití
+Úspora energie během používání zařízení díky omezení výkonu hardwaru."</string>
+    <string name="location_based_wifi">WLAN podle místa</string>
+    <string name="location_neighborhood_level_wifi">Poloha určená sítí WLAN</string>
+    <string name="location_network_based">Poloha WLAN a mobilní sítě</string>
+    <string name="location_scanning_screen_title">Vyhledávání sítí WLAN a Bluetooth</string>
+    <string name="location_scanning_wifi_always_scanning_description">Povolit aplikacím a službám vyhledávat sítě WLAN, i když je připojení k sítím WLAN vypnuté. Tuto funkci lze využít například ke zlepšení funkcí a služeb založených na poloze.</string>
+    <string name="location_scanning_wifi_always_scanning_title">Vyhledávání WLAN</string>
+    <string name="lost_internet_access_cancel">Zůstat na WLAN</string>
+    <string name="lost_internet_access_text">Při špatném připojení WLAN můžete přepnout na mobilní síť. Mohou být účtovány poplatky za data.</string>
+    <string name="lost_internet_access_title">Síť WLAN nemá přístup k internetu</string>
+    <string name="mobile_data_always_on_summary">Mobilní data budou vždy ponechána aktivní, i když bude aktivní WLAN (za účelem rychlého přepínání sítí).</string>
+    <string name="network_scorer_change_active_dialog_title">Změnit nastavení Google WLAN Assistant?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Chcete-li sdílet svou aktuální síť WLAN, vyberte v nastavení možnost Sdílet informace o WLAN.</string>
+    <string name="nfc_wifi_share_checkbox">Sdílet informace o WLAN</string>
+    <string name="nfc_wifi_share_title_txt">Sdílet informace o WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Automaticky připojit k přístupovému bodu WLAN AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">Aut. připoj. WLAN AT&amp;T</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">Pokud nepoužijete WLAN, nebudete moci používat internet, e-mail ani jiné aplikace využívající datové připojení. Chcete vypnout mobilní data?</string>
+    <string name="powersaver_feature_wifi">WLAN - vypnuto</string>
+    <string name="radio_controls_summary">Spravovat WLAN, Bluetooth, režim Letadlo, mobilní sítě a sítě VPN</string>
+    <string name="radio_info_ims_reg_status">"Registrace IMS: %1$s
+Volání přes LTE: %2$s
+Volání přes WLAN: %3$s
+Videohovory: %4$s
+Rozhraní UT: %5$s"</string>
+    <string name="reset_network_desc">"Budou resetována nastavení všech sítí, včetně následujících:
+
+"<li>WLAN</li>"
+"<li>Mobilní data</li>"
+"<li>Bluetooth</li></string>
+    <string name="restriction_wifi_config_summary">Povolit úpravu nastavení sítí WLAN a mobilních sítí</string>
+    <string name="restriction_wifi_config_title">Sítě WLAN a mobilní sítě</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Vyhledávání WLAN a Bluetooth jsou vypnuta</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Vyhledávání Bluetooth je zapnuté, vyhledávání WLAN je vypnuté</string>
+    <string name="scanning_status_text_wifi_on_ble_off">Vyhledávání WLAN je zapnuté, vyhledávání Bluetooth je vypnuté</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Vyhledávání WLAN a Bluetooth jsou zapnuta</string>
+    <string name="somc_backup_failed_no_wifi_summary">Čekání na připojení WLAN</string>
+    <string name="somc_wifi_turned_on_info">WLAN je zapnuta. Vyberte svou síť v seznamu.</string>
+    <string name="stamina_xssm_summary">Zakáže mobilní data a WLAN při vypnutí obrazovky.</string>
+    <string name="status_wifi_mac_address">Adresa MAC sítě WLAN</string>
+    <string name="tethering_no_sim_warning_txt">Vložte kartu SIM, chcete-li sdílet datové připojení telefonu s dalšími zařízeními pomocí funkce mobilního přístupového bodu sítě WLAN nebo sdílení připojení pomocí USB.</string>
+    <string name="usage_type_data_wifi_recv">Přijaté pakety – WLAN</string>
+    <string name="usage_type_data_wifi_send">Odeslané pakety – WLAN</string>
+    <string name="usage_type_wifi_running">WLAN je aktivní</string>
+    <string name="user_add_user_message_long">"Vytvořením dalších uživatelů můžete toto zařízení sdílet s jinými lidmi. Každý uživatel má svůj prostor, který si může přizpůsobit instalací aplikací, přidáním tapety apod. Uživatelé také mohou upravit nastavení zařízení (např. WLAN), která ovlivní všechny uživatele.
+
+Každý nově přidaný uživatel si musí nastavit vlastní prostor.
+
+Každý uživatel může aktualizovat aplikace všech ostatních uživatelů."</string>
+    <string name="usm_descr">"Režim Ultra STAMINA výrazně prodlouží výdrž na baterii. Použijte jej, pokud nebudete mít delší dobu možnost zařízení nabít.
+
+K dispozici bude pouze několik základních funkcí, například Telefon a Zasílání zpráv. Další informace získáte ťuknutím na tlačítko Další informace.
+
+Upozorňujeme, že připojení k internetu prostřednictvím WLAN a mobilní data budou zakázána."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Nouzová volání nejsou s funkcí Volání WLAN k dispozici.
+Při nouzovém volání zařízení automaticky přepne na mobilní síť (2G/3G).
+Nouzová volání jsou k dispozici pouze v oblastech s mobilním signálem."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">Nouzová volání prostřednictvím Volání WLAN</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Volání WLAN Vodafone</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"Chcete-li zapnout funkci Volání WLAN, musíte zapnout funkci Poloha a vybrat režim Vysoká přesnost nebo Úspora baterie.
+
+Během používání funkce Volání WLAN je nutné mít funkci Poloha stále zapnutou."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Nouzová volání nejsou s funkcí Volání WLAN k dispozici.
+Při nouzovém volání zařízení automaticky přepne na mobilní síť (2G/3G).
+Nouzová volání jsou k dispozici pouze v oblastech s mobilním signálem."</string>
+    <string name="wfc_location_info_dialog_desc_txt">Vaše informace o poloze mohou být odesílány společnosti Google a vašemu operátorovi pro účely volání WLAN bez ohledu na to, zda je nastavení Poloha povoleno, či nikoli.</string>
+    <string name="wfc_provisioned_switch_string">Zajištění volání přes WLAN</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">Sítě WLAN</string>
+    <string name="wifi_advanced_not_available">Rozšířená nastavení sítě WLAN nejsou pro tohoto uživatele dostupná.</string>
+    <string name="wifi_advanced_settings_label">Nastavení WLAN</string>
+    <string name="wifi_ap_band_select_one">Vyberte alespoň jedno pásmo pro hotspot WLAN:</string>
+    <string name="wifi_ask_disable">Aplikace %s chce vypnout WLAN</string>
+    <string name="wifi_ask_enable">Aplikace %s chce zapnout WLAN</string>
+    <string name="wifi_auto_network_switch_setting_msg">Je-li k dispozici síť WLAN i mobilní síť, automaticky přepnout na upřednostňovanou síť</string>
+    <string name="wifi_calling_link_to_register_emergency_address">Kliknutím sem se zaregistrujete k volání WLAN nebo aktualizujete stávající adresu pro nouzové situace</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Pokud mobilní síť nebude k dispozici, použít WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Volání přes WLAN. Pokud bude signál WLAN ztracen, hovor skončí.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Pokud WLAN není k dispozici, použít mobilní síť</string>
+    <string name="wifi_calling_not_supported">Volání přes WLAN operátor %1$s nepodporuje</string>
+    <string name="wifi_calling_off_explanation">"Použijte Volání WLAN ke zvýšení kvality hovoru v místech se slabým signálem mobilní sítě.
+
+Náklady
+Informace o poplatcích za Volání WLAN vám poskytne váš poskytovatel služby.
+
+Poznámky k Volání WLAN
+Chcete-li využívat Volání WLAN, musíte se nacházet v dosahu WLAN."</string>
+    <string name="wifi_calling_on_dialog_text">Chcete-li použít Volání přes WLAN, nastavte upřednostňovanou kartu SIM pro mobilní data na SIM 1</string>
+    <string name="wifi_calling_settings_activation_instructions">Aktivujte volání přes WLAN</string>
+    <string name="wifi_calling_settings_title">Volání přes WLAN</string>
+    <string name="wifi_calling_suggestion_summary">Chcete-li rozšířit pokrytí, zapněte volání přes WLAN</string>
+    <string name="wifi_calling_suggestion_title">Rozšiřte volání pomocí WLAN</string>
+    <string name="wifi_calling_summary">Používat k volání připojení WLAN s cílem zvýšit kvalitu</string>
+    <string name="wifi_calling_turn_on">Zapněte volání přes WLAN</string>
+    <string name="wifi_carrier_connect">Síť WLAN operátora</string>
+    <string name="wifi_cellular_data_fallback_summary">Když WLAN nebude mít přístup k internetu, použije se mobilní datové připojení. Za využití dat mohou být účtovány poplatky.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN se nezapíná automaticky znovu</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN se zapíná automaticky znovu</string>
+    <string name="wifi_configure_settings_preference_title">Předvolby WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Změnit certifikát WLAN</string>
+    <string name="wifi_data_template">Data přes WLAN: ^1</string>
+    <string name="wifi_data_usage">Využití dat přes WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Selhání připojení WLAN</string>
+    <string name="wifi_dpp_add_device_to_wifi">Přidat toto zařízení do sítě %1$s?</string>
+    <string name="wifi_dpp_center_qr_code">Chcete-li zařízení přidat do sítě %1$s, níže vycentrujte QR kód</string>
+    <string name="wifi_dpp_failure_not_supported">Toto zařízení neumožňuje přidání sítě %1$s</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Chcete-li se připojit k síti %1$s, naskenujte tento QR kód</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Chcete-li se připojit k síti %1$s, níže vycentrujte QR kód</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Naskenováním QR kódu se připojíte k síti WLAN</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Chcete-li se připojit k síti %1$s, naskenujte tento QR kód a sdílejte heslo</string>
+    <string name="wifi_dpp_share_wifi">Sdílení sítě WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Sdílení WLAN s tímto zařízením…</string>
+    <string name="wifi_dpp_wifi_password">Heslo k WLAN: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN se sdílí se zařízením</string>
+    <string name="wifi_empty_list_user_restricted">Nemáte oprávnění ke změně sítě WLAN.</string>
+    <string name="wifi_empty_list_wifi_off">Chcete-li zobrazit dostupné sítě, zapněte WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Vyhledávání sítí WLAN…</string>
+    <string name="wifi_hotspot_auto_off_summary">Pokud nebudou připojena žádná zařízení, hotspot WLAN se vypne</string>
+    <string name="wifi_hotspot_configure_ap_text">Nastavení WLAN hotspotu</string>
+    <string name="wifi_hotspot_footer_info_regular">Pomocí hotspotu můžete vytvořit síť WLAN pro další zařízení. Hotspot poskytuje připojení k internetu pomocí vašeho mobilního datového připojení. Mohou být účtovány dodatečné poplatky za mobilní data.</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Automaticky se připojit k dostupným sítím Passpoint, je-li zapnuto WLAN</string>
+    <string name="wifi_limit_optimizations_summary">Omezit využití baterie sítí WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">Doba provozu WLAN</string>
+    <string name="wifi_p2p_settings">Nastavení WLAN Direct</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Nepoužívat síť WLAN, pokud nemá dostatečně kvalitní internetové připojení</string>
+    <string name="wifi_quick_toggle_summary">Zapnout WLAN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Neznámá aplikace chce zapnout vyhledávání sítí (kvůli lepšímu určení polohy a dalším účelům) i v případě, že je vypnutá WLAN. 
+
+Chcete tuto možnost povolit všem aplikacím, které chtějí vyhledávat sítě?"</string>
+    <string name="wifi_scan_always_turnon_message">"Aplikace %1$s chce zapnout vyhledávání sítí (kvůli lepšímu určení polohy i kvůli jiným účelům) a hledat sítě i v případě, že je vypnut modul WLAN.
+
+Chcete tuto možnost povolit všem aplikacím, které chtějí vyhledávat sítě?"</string>
+    <string name="wifi_scan_notify_text">Za účelem zlepšení přesnosti polohy mohou aplikace a služby vyhledávat sítě WLAN, i když je připojení WLAN vypnuté. Lze tak vylepšit funkce a služby závislé na poloze. Toto chování můžete změnit v LINK_BEGINnastavení vyhledáváníLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Chcete-li zpřesnit určování polohy, zapněte vyhledávání WLAN v LINK_BEGINnastavení vyhledáváníLINK_END.</string>
+    <string name="wifi_scan_throttling">Přibrždění vyhledávání WLAN</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">Zabezpečeno WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Zabezpečeno WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">Vyberte síť WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN aktivní i v režimu spánku</string>
+    <string name="wifi_setting_sleep_policy_title">WLAN aktivní i v režimu spánku</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Nastavení WLAN</string>
+    <string name="wifi_settings_master_switch_title">Používat WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">Vyhledávání WLAN je zapnuto</string>
+    <string name="wifi_settings_scanning_required_info">Vyhledávání WLAN umožňuje aplikacím a službám vyhledávat sítě WLAN kdykoli, i když je připojení WLAN vypnuté. Lze tak například zlepšit funkce a služby závislé na poloze.</string>
+    <string name="wifi_settings_scanning_required_summary">Chcete-li automaticky zapínat WLAN, nejprve zapněte vyhledávání WLAN.</string>
+    <string name="wifi_settings_scanning_required_title">Zapnout vyhledávání WLAN?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Zapínání WLAN…</string>
+    <string name="wifi_stopping">Vypínání WLAN…</string>
+    <string name="wifi_suspend_optimizations">Optimalizace WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Minimalizovat využívání baterie při zapnuté síti WLAN</string>
+    <string name="wifi_switch_away_when_unvalidated">Pokud síť WLAN ztratí přístup k internetu, přepnout na mobilní data</string>
+    <string name="wifi_tether_settings_subtext">Vytvoření a správa přístupového bodu WLAN</string>
+    <string name="wifi_tether_settings_text">Nastavení přístupového bodu WLAN</string>
+    <string name="wifi_tethering_warning_txt">Probíhající operace WLAN, například přenos médií, aktualizace softwaru telefonu, zálohování a obnova, budou přerušeny.</string>
+    <string name="wifi_turned_on_message">Připojení WLAN je zapnuto</string>
+    <string name="wifi_verbose_logging">Podrobné protokolování WLAN</string>
+    <string name="wifi_verbose_logging_summary">Zvýšit úroveň protokolování WLAN zobrazenou v SSID a RSSI při výběru sítě WLAN.</string>
+    <string name="wifi_wakeup">Zapínat WLAN automaticky</string>
+    <string name="wifi_wakeup_summary">V dosahu kvalitních uložených sítí, jako je například vaše domácí síť, se WLAN znovu zapne</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Nedostupné, protože je vypnuto vyhledávání WLAN</string>
+    <string name="wifi_wps_category_title">Nastavit síť WLAN</string>
+    <string name="wps_strings_wifi_disconnected_txt">Síť WLAN je odpojena. Instalace byla zrušena.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"Režim STAMINA šetří energii baterie úpravou nastavení zařízení. Můžete vybrat aplikace, které budou v režimu spánku spuštěny s omezenými funkcemi. (Ušetříte tak energii baterie, protože většina aplikací ji spotřebovává i v režimu spánku.)
+
+Pro vybrané aplikace budou zakázány následující funkce:
+- WLAN
+- Mobilní data
+- Časovač
+
+V režimu spánku indikátor pro všechny aplikace bliká stejnou barvou a se stejnou frekvencí.
+
+Režim STAMINA je během ovládání zařízení deaktivován."</string>
+</resources>

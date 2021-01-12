@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:key="xperia_diagnostic" settings:after="my_device_info_header" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.support" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.support.startDiagnostics" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:persistent="false" android:key="maintenancemenu" settings:after="firmware_version" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonyericsson.maintenancemenu" android:targetClass="com.sonyericsson.maintenancemenu.batteryhealthcheck.BatteryHealthCheckActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="imei_barcode" settings:after="imei_info" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:action="com.sonymobile.action.DISPLAY_IMEI_BARCODE" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="usage_info_settings" settings:after="regulatory_info" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.anondata" android:action="com.sonyericsson.intent.action.GET_PREFERENCE" android:targetClass="com.sonymobile.anondata.ui.Settings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="detailed_diagnostics" settings:after="regulatory_info" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.datadisclaimer" android:action="com.sonyericsson.intent.action.GET_PREFERENCE" android:targetClass="com.sonymobile.datadisclaimer.ui.Settings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:persistent="false" android:key="kddiremotesimlock" settings:after="sim_status" settings:dependOnIsValidIntent="true" settings:dependOnResource="@bool/config_addKddiRemoteSimlock" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.simlock.kddiremotesimlock" android:targetClass="com.sonymobile.simlock.kddiremotesimlock.MainActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.MovePreference settings:after="sim_status" settings:moveTargetKey="brand_alpha" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="softbank_fota_settings" settings:after="my_device_info_header" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.redbend.dmClient" android:targetClass="com.sonymobile.fota.ui.UserRequestMenuList" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnResource="@bool/config_showCertificatesInSystem" settings:targetKey="regulatory_info" />
+</PreferenceScreen>

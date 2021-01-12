@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Jina la kifaa chako litaonekana kwenye programu zilizo katika simu yako. Pia linaweza kuonekana kwa watu wengine wakati unaunganisha vifaa vya Bluetooth au kuweka mtandaopepe wa WLAN.</string>
+    <string name="accessibility_no_wifi">WLAN imeondolewa.</string>
+    <string name="accessibility_wifi_off">WLAN imezimwa.</string>
+    <string name="accessibility_wifi_one_bar">Kipima mtandao kimoja cha WLAN.</string>
+    <string name="accessibility_wifi_signal_full">Nguvu kamili ya mtandao wa WLAN.</string>
+    <string name="accessibility_wifi_three_bars">Vipima mtandao vitatu vya WLAN.</string>
+    <string name="accessibility_wifi_two_bars">Vipima mtandao viwili vya WLAN.</string>
+    <string name="backup_data_summary">Hifadhi nakala ya data ya programu, manenosiri ya WLAN na mipangilio mingine kwenye seva za Google</string>
+    <string name="backup_erase_dialog_message">Ungependa kuacha kuhifadhi nakala za manenosiri, alamisho, mipangilio mingine na data ya programu ya WLAN, na ufute nakala zote kwenye seva za Google?</string>
+    <string name="battery_action_wifi">Mipangilio ya WLAN</string>
+    <string name="battery_desc_wifi">Betri imetumiwa na WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Zima WLAN wakati huitumii au wakati haipatikani</string>
+    <string name="bluetooth_on_time">WLAN wakati unaofaa</string>
+    <string name="change_wifi_state_app_detail_summary">Ruhusu programu hii iwashe au izime WLAN, itafute na iunganishe kwenye mitandao ya WLAN, iongeze au iondoe mitandao, au ianzishe mtandao pepe wa eneo mahususi</string>
+    <string name="change_wifi_state_app_detail_switch">Ruhusu programu idhibiti WLAN</string>
+    <string name="change_wifi_state_title">Kudhibiti WLAN</string>
+    <string name="condition_cellular_summary">Intaneti inapatikana kupitia WLAN pekee</string>
+    <string name="connected_via_app">Imeunganishwa kupitia %1$s</string>
+    <string name="credential_for_wifi">Imesakinishwa kwa ajili ya WLAN</string>
+    <string name="data_usage_app_summary_title">WLAN na data ya mtandao wa simu</string>
+    <string name="data_usage_disable_wifi_limit">Weka kikomo data cha WLAN</string>
+    <string name="data_usage_menu_hide_wifi">Ficha WLAN</string>
+    <string name="data_usage_menu_show_wifi">Onyesha WLAN</string>
+    <string name="data_usage_metered_wifi">Mitandao ya WLAN inayopima data</string>
+    <string name="data_usage_metered_wifi_disabled">Ili uchague mitandao inayopima matumizi ya data, washa WLAN.</string>
+    <string name="data_usage_restrict_background">Ukidhibiti matumizi ya chini chini ya data ya mitandao ya simu, baadhi ya programu na huduma hazitafanya kazi mpaka uunganishe kwenye WLAN tena.</string>
+    <string name="data_usage_restrict_background_multiuser">"Ukidhibiti matumizi ya chini chini ya data ya mitandao ya simu, baadhi ya programu na huduma hazitafanya kazi mpaka uunganishe kwenye WLAN.
+
+Mipangilio hii itaathiri watumiaji wote wa simu hii."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">Imetumia ^1 kwenye WLAN</string>
+    <string name="data_usage_wifi_title">Data ya WLAN</string>
+    <string name="emergency_address_summary">Inatumika kama anwani ya mahali ulipo ikiwa utapiga simu ukitumia WLAN</string>
+    <string name="fullbackup_data_summary">"Hifadhi nakala ya data ya kifaa kiotomatiki (kama vile manenosiri ya WLAN na rekodi ya simu zilizopigwa) na data ya programu (kama vile mipangilio na faili zilizohifadhiwa na programu) kwa mbali. 
+
+Unapowasha kuhifadhi nakala kiotomatiki, data ya kifaa na programu huhifadhiwa mara kwa mara kiotomatiki kwa mbali. Data ya programu inaweza kuwa data yoyote ambayo programu imehifadhi (kulingana na mipangilio ya msanidi programu), ikiwa ni pamoja na data inayoweza kuwa nyeti kama vile anwani, ujumbe na picha."</string>
+    <string name="fullbackup_erase_dialog_message">Je, ungependa kuacha kuhifadhi nakala ya data ya kifaa (kama vile manenosiri ya WLAN na rekodi ya simu zilizopigwa) na data ya programu (kama vile mipangilio na faili zilizohifadhiwa na programu), na vile vile ufute nakala zote zilizo kwenye seva za mbali?</string>
+    <string name="header_category_wireless_networks">WLAN na mitandao mingine</string>
+    <string name="keywords_change_wifi_state">WLAN, wi-fi, geuza, dhibiti</string>
+    <string name="keywords_wifi_notify_open_networks">Arifa ya WLAN, arifa ya wifi</string>
+    <string name="location_neighborhood_level_wifi">Eneo limethibitishwa na WLAN</string>
+    <string name="location_network_based">Eneo la mtandao wa WLAN na wa simu</string>
+    <string name="location_scanning_screen_title">Utafutaji WLAN na Bluetooth</string>
+    <string name="location_scanning_wifi_always_scanning_description">Ruhusu programu na huduma zitafute mitandao ya WLAN wakati wowote, hata wakati umezima WLAN. Hali hii inaweza kutumika, kwa mfano, kuboresha huduma na vipengele vinavyohusiana na mahali.</string>
+    <string name="location_scanning_wifi_always_scanning_title">Kutafuta WLAN</string>
+    <string name="lost_internet_access_cancel">Endelea kutumia WLAN</string>
+    <string name="lost_internet_access_text">Unaweza kutumia data ya mtandao wa simu wakati wowote WLAN inapokuwa na muunganisho dhaifu. Huenda ukalipia ada ya kutumia data.</string>
+    <string name="lost_internet_access_title">Muunganisho wa WLAN umekatika</string>
+    <string name="mobile_data_always_on_summary">Washa data ya kifaa cha mkononi kila wakati, hata kama WLAN inatumika (ili kubadili mtandao kwa haraka).</string>
+    <string name="network_scorer_change_active_dialog_title">Ungependa kubadili kisaidizi cha WLAN?</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_controls_summary">Dhibiti WLAN, Bluetooth, hali ya ndegeni, mitandao ya simu za mkononi na VPN</string>
+    <string name="radio_info_ims_reg_status">"Usajili wa IMS: %1$s
+Huduma ya kupiga simu kupitia LTE: %2$s
+Huduma ya kupiga simu kupitia WLAN: %3$s
+Kupiga simu ya video: %4$s
+Kiolesura cha UT: %5$s"</string>
+    <string name="reset_network_desc">"Hatua hii itabadilisha mipangilio yote ya mtandao ikiwa ni pamoja:
+
+"<li>WLAN</li>"
+"<li>Data ya simu</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Badilisha mipangilio ya WLAN, data ya simu na Bluetooth</string>
+    <string name="restriction_wifi_config_summary">Ruhusu marekebisho ya mipangilio ya WLAN na Vifaa vya Mkononi</string>
+    <string name="restriction_wifi_config_title">WLAN na Vifaa vya Mkononi</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Kipengele cha kutafuta WLAN na Bluetooth kimezimwa</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Kipengele cha kutafuta Bluetooth kimewashwa, kipengele cha kutafuta WLAN kimezimwa</string>
+    <string name="scanning_status_text_wifi_on_ble_off">Kipengele cha kutafuta WLAN kimewashwa, cha kutafuta Bluetooth kimezimwa</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Mipangilio ya kutafuta WLAN na Bluetooth imewashwa</string>
+    <string name="status_wifi_mac_address">Anwani ya WLAN ya MAC</string>
+    <string name="usage_type_data_wifi_recv">Data za mtandao wa WLAN zimepokelewa</string>
+    <string name="usage_type_data_wifi_send">Data za mtandao wa WLAN zimetumwa</string>
+    <string name="usage_type_wifi_running">Inaendesha WLAN</string>
+    <string name="user_add_user_message_long">"Unaweza kutumia kifaa hiki pamoja na watu wengine kwa kuongeza watumiaji wa ziada. Kila mtumiaji ana nafasi yake mwenyewe, ambayo anaweza kuweka programu, mandhari na vipengee vingine anavyopenda. Watumiaji pia wanaweza kurekebisha mipangilio ya kifaa inayoathiri kila mtu kama vile WLAN.
+
+Unapomwongeza mtumiaji mpya, mtu huyo anahitaji kujitayarishia nafasi yake.
+
+Mtumiaji yeyote anaweza kuwasasishia watumiaji wengine wote programu. Huenda mipangilio na huduma za walio na matatizo ya kuona na kusikia zisihamishiwe mtumiaji mgeni."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Mtoa huduma wako hakuruhusu kupiga simu za dharura kupitia WLAN.
+Kifaa hubadili kiotomatiki na kutumia mtandao wa simu ya mkononi ili kupiga simu ya dharura.
+Unaweza kupiga simu za dharura katika maeneo yaliyo na mtandao wa simu ya mkononi pekee."</string>
+    <string name="wfc_provisioned_switch_string">Inaruhusu Kupiga Simu kupitia WLAN</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">Mitandao ya WLAN</string>
+    <string name="wifi_advanced_not_available">Mtumiaji huyu haruhusiwi kubadilisha mipangilio ya kina ya WLAN</string>
+    <string name="wifi_advanced_settings_label">Mipangilio ya IP</string>
+    <string name="wifi_advanced_titlebar">WLAN mahiri</string>
+    <string name="wifi_ap_band_select_one">Chagua angalau bendi moja ya mtandaopepe wa WLAN:</string>
+    <string name="wifi_ask_disable">%s inataka kuzima WLAN</string>
+    <string name="wifi_ask_enable">%s inataka kuwasha WLAN</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Ikiwa mtandao wa simu haupatikani, tumia WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Piga simu kupitia WI-FI. Ikiwa WLAN haipatikani, simu itakatika.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Ikiwa WLAN haipatikani, tumia mtandao wa simu</string>
+    <string name="wifi_calling_not_supported">Kipengele cha kupiga simu kupitia WLAN hakitumiki kwenye %1$s</string>
+    <string name="wifi_calling_off_explanation">Wakati kipengele cha kupiga simu kupitia WLAN kimewashwa, simu yako inaweza kuelekeza simu kupitia mitandao ya WLAN au mtandao wa kampuni inayokupa huduma za simu, kutegemea mapendeleo yako na mawimbi yaliyo thabiti zaidi. Kabla ya kuwasha kipengele hiki, angalia ada na maelezo mengine kutoka kwenye kampuni inayokupa huduma za simu.%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">Washa Huduma ya Kupiga Simu kupitia WLAN</string>
+    <string name="wifi_calling_settings_title">Kupiga simu kupitia WLAN</string>
+    <string name="wifi_calling_suggestion_summary">Washa kupiga simu kupitia WLAN ili upanue eneo la huduma</string>
+    <string name="wifi_calling_suggestion_title">Panua eneo la huduma kwa kupiga simu kupitia WLAN</string>
+    <string name="wifi_calling_summary">Tumia WLAN kupiga na kupokea simu ili kuboresha hali ya mawasiliano</string>
+    <string name="wifi_calling_turn_on">Washa kipengele cha kupiga simu kupitia WLAN</string>
+    <string name="wifi_carrier_connect">Mtandao wa mtoa huduma wa WLAN</string>
+    <string name="wifi_cellular_data_fallback_summary">Tumia data ya mtandao wa simu wakati WLAN haina muunganisho wa intaneti. Huenda ukalipia data utakayotumia.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">Hutaunganishwa tena kwenye WLAN kiotomatiki</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN hutumika tena kiotomatiki</string>
+    <string name="wifi_configure_settings_preference_title">Mapendeleo ya WLAN</string>
+    <string name="wifi_data_template">Data ya WLAN ^1</string>
+    <string name="wifi_data_usage">Matumizi ya data ya WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Haikuweza Kuunganisha kwenye WLAN</string>
+    <string name="wifi_dpp_add_device_to_wifi">Ungependa kuongeza kifaa hiki kwenye “%1$s”?</string>
+    <string name="wifi_dpp_center_qr_code">Weka katikati msimbo wa QR ulio hapa chini ili uongeze kifaa kwenye “%1$s”</string>
+    <string name="wifi_dpp_failure_not_supported">Huwezi kuongeza “%1$s” kwenye kifaa hiki</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Changanua msimbo huu wa QR ili uunganishe kwenye “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Weka katikati msimbo wa QR ulio hapa chini ili uunganishe kwenye “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Unganisha kwenye WLAN kwa kuchanganua msimbo wa QR</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Changanua msimbo huu wa QR ili uunganishe kwenye “%1$s” na ushiriki nenosiri</string>
+    <string name="wifi_dpp_share_wifi">Shiriki WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Inashiriki WLAN na kifaa hiki…</string>
+    <string name="wifi_dpp_wifi_password">Nenosiri la WLAN: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN imeshirikiwa na kifaa</string>
+    <string name="wifi_empty_list_wifi_off">Ili kutazama mitandao inayopatikana, washa WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Inatafuta mitandao ya WLAN...</string>
+    <string name="wifi_hotspot_auto_off_summary">Mtandaopepe wa WLAN utazimwa ikiwa hakuna vifaa vilivyounganishwa</string>
+    <string name="wifi_hotspot_checkbox_text">Mtandaopepe wa WLAN</string>
+    <string name="wifi_hotspot_configure_ap_text">Kuweka mtandaopepe wa WLAN</string>
+    <string name="wifi_hotspot_footer_info_regular">Tumia kipengele cha mtandaopepe kuunda mtandao wa WLAN kwa ajili ya vifaa vyako vingine. Mtandaopepe hutoa huduma ya intaneti ikitumia muunganisho wa data ya simu za mkononi. Huenda ukalipia ada za kutumia data ya mtandao wa simu.</string>
+    <string name="wifi_limit_optimizations_summary">Dhibiti betri inayotumiwa na WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Moja kwa Moja</string>
+    <string name="wifi_on_time">WLANa kwa wakati unaofaa</string>
+    <string name="wifi_p2p_settings_title">WLAN Moja kwa moja</string>
+    <string name="wifi_poor_network_detection_summary">Usitumie mtandao wa WLAN isipokuwa uwe na muunganisho thabiti wa intaneti</string>
+    <string name="wifi_quick_toggle_summary">Washa WLAN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Ili kuboresha usahihi wa mahali na kwa madhumuni mengine, programu isiyojulikana inataka kuwasha utafutaji wa mtandao, hata wakati WLAN imezimwa.
+
+Utatoa ruhusa kwa programu zinazotaka kutafuta?"</string>
+    <string name="wifi_scan_always_turnon_message">"Ili kuboresha usahihi wa mahali na kwa madhumuni mengine, %1$s inataka kuwasha ukaguaji mitandao, hata wakati WLAN imezimwa.
+
+Je, ungependa kuruhusu programu zote ambazo zingependa kukagua ziweza kufanya hivyo?"</string>
+    <string name="wifi_scan_notify_text">Ili uboreshe usahihi wa kutambua mahali, programu na huduma zinaweza kutafuta mitandao ya WLAN wakati wowote, hata wakati umezima WLAN. Hali hii inaweza kutumika, kwa mfano, kuboresha huduma na vipengee vinavyohusiana na mahali. Unaweza kubadilisha hali hii katika LINK_BEGINmipangilio ya utafutajiLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Ili kuboresha usahihi wa data ya mahali, washa kipengele cha kutafuta WLAN katika LINK_BEGINmipangilio ya utafutajiLINK_END.</string>
+    <string name="wifi_scan_throttling">Kudhibiti utafutaji wa WLAN</string>
+    <string name="wifi_select_network">Chagua WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN iwashwe hata katika hali tuli</string>
+    <string name="wifi_setting_sleep_policy_title">WLAN ikae ikiwa imewashwa wakati kifaa kiko katika hali tuli</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Mipangilio ya WLAN</string>
+    <string name="wifi_settings_master_switch_title">Tumia WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">Umewasha utafutaji wa WLAN</string>
+    <string name="wifi_settings_scanning_required_info">Utafutaji wa WLAN huruhusu programu na huduma zitafute mitandao ya WLAN wakati wowote, hata wakati umezima WLAN. Hali hii inaweza kutumika, kwa mfano, kuboresha huduma na vipengele vinavyohusiana na mahali.</string>
+    <string name="wifi_settings_scanning_required_summary">Ili uwashe WLAN kiotomatiki, unatakiwa kuwasha kipengele cha kutafuta WLAN kwanza.</string>
+    <string name="wifi_settings_scanning_required_title">Ungependa kuwasha kipengele cha kutafuta WLAN?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Inawasha WLAN...</string>
+    <string name="wifi_stopping">Inazima WLAN...</string>
+    <string name="wifi_suspend_optimizations">Uboreshaji wa WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Punguza matumizi ya betri wakati WLAN imewashwa</string>
+    <string name="wifi_switch_away_when_unvalidated">Tumia data ya mtandao wa simu wakati muunganisho wa WLAN umekatika.</string>
+    <string name="wifi_tether_configure_ap_text">Weka intaneti ya WLAN ya kusambazwa</string>
+    <string name="wifi_tether_failed_subtext">Hitilafu ya mtandaopepe wa WLAN</string>
+    <string name="wifi_turned_on_message">Umewasha WLAN</string>
+    <string name="wifi_verbose_logging">Washa Uwekaji kumbukumbu za WLAN kutumia Sauti</string>
+    <string name="wifi_verbose_logging_summary">Ongeza hatua ya uwekaji kumbukumbu ya WLAN, onyesha kwa kila SSID RSSI kwenye Kichukuzi cha WLAN</string>
+    <string name="wifi_wakeup">Washa WLAN kiotomatiki</string>
+    <string name="wifi_wakeup_summary">WLAN itaanza kutumika tena mitandao iliyohifadhiwa ya ubora wa juu itakapopatikana, kama vile mtandao wa nyumbani</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Hakipatikani kwa sababu utafutaji wa WLAN umezimwa</string>
+</resources>

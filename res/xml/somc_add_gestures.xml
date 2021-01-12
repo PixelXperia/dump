@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:key="sidesense" settings:before="first" settings:dependOnIsValidIntent="true" settings:hasMetaData="true" settings:valueOfSettingsSystem="somc.side_sense">
+        <intent android:targetPackage="com.sonymobile.sidesenseapp" android:action="com.sonymobile.sidesenseapp.action.LAUNCH_SETTINGS" android:targetClass="com.sonymobile.sidesenseapp.common.settings.SettingsTopActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="onehand" settings:before="first" settings:dependOnIsValidIntent="true" settings:hasMetaData="true" settings:valueOfSettingsSystem="com.sonymobile.onehand.onehanded_mode">
+        <intent android:targetPackage="com.sonymobile.onehand" android:targetClass="com.sonymobile.onehand.OneHandGuidance" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="intelligent_backlight" settings:before="first" settings:dependOnIsValidIntent="true" settings:hasMetaData="true" settings:valueOfSettingsSystem="intelligent_backlight">
+        <intent android:targetPackage="com.sonymobile.intelligent.backlight" android:targetClass="com.sonymobile.intelligent.backlight.SmartBacklightGuidance" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.MovePreference settings:after="gesture_system_navigation_input_summary" settings:moveTargetKey="power_button_option" />
+    <com.sonymobile.settings.preference.RemovePreference settings:targetKey="gesture_double_tap_power_input_summary" />
+    <com.sonymobile.settings.preference.RemovePreference settings:targetKey="gesture_pick_up_input_summary" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="ambient_display_settings" settings:after="power_button_option" settings:dependOnIsValidIntent="true" settings:dependOnResource="@bool/config_showAmbientSettings" settings:hasMetaData="true">
+        <intent android:action="com.sonymobile.settings.intent.action.LOCKSCREEN_AMBIENT" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.SwitchPreference android:title="@string/lockscreen_double_tap_to_lock_screen_title_txt" android:key="double_tap_to_lockscreen" android:summary="@string/lockscreen_double_tap_to_lock_screen_summary_txt" android:defaultValue="false" settings:after="power_button_option" settings:dependOnResource="@bool/config_showDoubleTapToLockscreenSettings" settings:valueOfSettingsSecure="double_tap_to_lockscreen_setting" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="phone_gesture_setting" settings:after="power_button_option" settings:dependOnIsValidIntent="true" settings:hasMetaData="true" settings:valueOfSettingsSystem="phone_gesture_setting">
+        <intent android:targetPackage="com.sonymobile.intelligent.gesture" android:targetClass="com.sonymobile.intelligent.gesture.PhoneGestureHelpActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

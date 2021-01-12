@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">ຊື່ອຸປະກອນຂອງທ່ານຈະສາມາດເບິ່ງເຫັນໄດ້ໂດຍແອັບຢູ່ໂທລະສັບຂອງທ່ານ. ນອກຈາກນັ້ນ, ຄົນອື່ນອາດຈະເຫັນມັນໄດ້ເມື່ອທ່ານເຊື່ອມຕໍ່ຫາອຸປະກອນ Bluetooth ຫຼື ຕັ້ງ WLAN ຮັອດສະປອດ.</string>
+    <string name="accessibility_no_wifi">ຕັດການເຊື່ອມຕໍ່ WLAN ແລ້ວ.</string>
+    <string name="accessibility_wifi_off">WLAN ປິດຢູ່.</string>
+    <string name="accessibility_wifi_one_bar">ສັນຍານ WLAN ນຶ່ງຂີດ.</string>
+    <string name="accessibility_wifi_signal_full">ສັນຍານ WLAN ເຕັມ</string>
+    <string name="accessibility_wifi_three_bars">WLAN ສາມຂີດ.</string>
+    <string name="accessibility_wifi_two_bars">ສັນຍານ WLAN ສອງຂີດ.</string>
+    <string name="backup_data_summary">ສຳຮອງຂໍ້ມູນແອັບຯ, ລະຫັດຜ່ານ​ WLAN ແລະການຕັ້ງຄ່າອື່ນໆ ໃສ່ເຊີບເວີຂອງ Google</string>
+    <string name="backup_erase_dialog_message">ຢຸດການສຳຮອງຂໍ້ມູນລະຫັດຜ່ານ WLAN, ບຸກມາກ, ການຕັ້ງຄ່າອື່ນໆ ແລະຂໍ້ມູນແອັບຯ ຂອງທ່ານ ຮວມທັງລຶບສຳເນົາທັງໝົດໃນເຊີບເວີຂອງ Google ບໍ່?</string>
+    <string name="battery_action_wifi">ການຕັ້ງຄ່າ WLAN</string>
+    <string name="battery_desc_wifi">ແບັດເຕີຣີທີ່ໃຊ້ໂດຍ WLAN</string>
+    <string name="battery_sugg_wifi">ປິດ WLAN ເມື່ອບໍ່ໄດ້ໃຊ້ ຫຼືບໍ່ສາມາດໃຊ້ໄດ້</string>
+    <string name="ble_scan_notify_text">ເພື່ອ​ປັບ​ປຸງ​ຄວາມ​ແມ່ນຍຳຂອງ​ສະຖານທີ່, ແອັບ ແລະ ການ​ບໍ​ລິ​ການຍັງ​ຄົງສາ​ມາດສະ​ແກນ​ຫາເຄືອ​ຂ່າຍ WLAN ໄດ້. ທ່ານ​ສາ​ມາດ​ປ່ຽນ​ແປງ​ໄດ້​ຢູ່​ໃນ LINK_BEGINການ​ຕັ້ງ​ຄ່າ​ການ​ສະ​ແກນLINK_END.</string>
+    <string name="bluetooth_on_time">ໄລຍະເວລາການໃຊ້ WLAN</string>
+    <string name="change_wifi_state_app_detail_summary">ອະນຸຍາດໃຫ້ແອັບນີ້ເປີດ ຫຼື ປິດ WLAN, ສະແກນ ແລະ ເຊື່ອມຕໍ່ຫາເຄືອຂ່າຍ WLAN, ເພີ່ມ ຫຼື ລຶບເຄືອຂ່າຍ ຫຼື ເລີ່ມຮັອດສະປອດສະເພາະພື້ນທີ່</string>
+    <string name="change_wifi_state_app_detail_switch">ອະນຸຍາດໃຫ້ແອັບຄວບຄຸມ WLAN</string>
+    <string name="change_wifi_state_title">ການຄວບຄຸມ WLAN</string>
+    <string name="condition_cellular_summary">ສາມາດໃຊ້ອິນເຕີເນັດຜ່ານ WLAN ເທົ່ານັ້ນ</string>
+    <string name="connected_via_app">ເຊື່ອມ​ຕໍ່​ຜ່ານ %1$s ແລ້ວ</string>
+    <string name="credential_for_wifi">ຕິດຕັ້ງສຳລັບ WLAN ແລ້ວ</string>
+    <string name="data_usage_app_summary_title">ອິນເຕີເນັດມືຖື ແລະ WLAN</string>
+    <string name="data_usage_disable_wifi_limit">ຈຳກັດການໃຊ້ຂໍ້ມູນ WLAN</string>
+    <string name="data_usage_menu_hide_wifi">ເຊື່ອງ WLAN</string>
+    <string name="data_usage_menu_show_wifi">​ສະ​ແດງ WLAN</string>
+    <string name="data_usage_metered_wifi">​ເຄືອ​ຂ່າຍ​ WLAN ທີ່​ຖືກ​ນັບ​ຂໍ້​ມູນ​</string>
+    <string name="data_usage_metered_wifi_disabled">ເພື່ອ​ເລືອກ​ເຄືອ​ຂ່າຍ​ທີ່​ຖືກ​ນັບ​ຂໍ້​ມູນ​, ໃຫ້​ເປີດ​ໃຊ້ WLAN ກ່ອນ.</string>
+    <string name="data_usage_restrict_background">ຫາກທ່ານຈຳກັດການນຳໃຊ້ອິນເຕີເນັດມືຖືໃນພື້ນຫຼັງ, ບາງແອັບ ແລະ ບາງບໍລິການຈະບໍ່ເຮັດວຽກຈົນກວ່າທ່ານຈະເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"ຫາກທ່ານຈຳກັດການນຳໃຊ້ອິນເຕີເນັດມືຖືໃນພື້ນຫຼັງ, ບາງແອັບ ແລະ ບາງບໍລິການຈະບໍ່ເຮັດວຽກຈົນກວ່າທ່ານຈະເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ WLAN.
+
+ການຕັ້ງຄ່ານີ້ຈະມີຜົນກັບຜູ້ໃຊ້ທຸກຄົນໃນໂທລະສັບນີ້."</string>
+    <string name="data_usage_wifi_format">ໃຊ້ໄປແລ້ວ ^1 ຢູ່ WLAN</string>
+    <string name="data_usage_wifi_title">ອິນເຕີເນັດ WLAN</string>
+    <string name="emergency_address_summary">ໃຊ້ເປັນສະຖານທີ່ຂອງທ່ານເມື່ອທ່ານໂທສຸກເສີນຜ່ານທາງ WLAN</string>
+    <string name="fullbackup_data_summary">"ສຳ​ຮອງ​ຂໍ້​ມູນ​ອຸ​ປະ​ກອນໂດຍ​ອັດ​ຕະ​ໂນ​ມັດ (ເຊັ່ນ ລະ​ຫັດ​ຜ່ານ WLAN ແລະ​ປະ​ຫວັດ​ການ​ໂທ) ແລະ​ຂໍ້​ມູນ​ແອັບ (ເຊັ່ນ ການ​ຕັ້ງ​ຄ່າ ແລະ ໄຟ​ລ໌​ທີ່​ແອັບ​ເກັບ​ໄວ້) ໂດຍ​ທາງ​ໄກ.
+
+ເມື່ອ​ທ່ານ​ເປີດ​ການ​ສຳ​ຮອງ​ອັດ​ຕະ​ໂນ​ມັດ, ຂໍ້​ມູນ​ອຸ​ປະ​ກອນ ແລະ​ແອັບຈະ​ຖືກ​ບັນ​ທຶກ​ເປັນ​ໄລ​ຍະ​ໂດຍ​ທາງ​ໄກ. ຂໍ້​ມູນ​ແອັບ​ສາ​ມາດ​ເປັນ​ຂໍ້​ມູນ​ໃດ​ໜຶ່ງ​ທີ່​ແອັບ​ບັນ​ທຶກ​ໄວ້ (ອີງ​ຕາມ​ການ​ຕັ້ງ​ຄ່າ​ຜູ້​ພັດ​ທະ​ນາ), ລວມ​ທັງ​ຂໍ້​ມູນ​ທີ່​ອາດ​ຈະ​ລະ​ອຽດ​ອ່ອນ​ເຊັ່ນ: ລາຍ​ຊື່, ຂໍ້​ຄວາມ, ແລະ​ຮູບ."</string>
+    <string name="fullbackup_erase_dialog_message">ຢຸດ​ການ​ສຳ​ຮອງ​ຂໍ້​ມູນ​ອຸ​ປະ​ກອນ (ເຊັ່ນ ລະ​ຫັດ​ຜ່ານ WLAN ແລະ​ປະ​ຫວັດ​ການ​ໂທ) ແລະ​ຂໍ້​ມູນ​ແອັບ (ເຊັ່ນ ການ​ຕັ້ງ​ຄ່າ ແລະ ໄຟ​ລ໌​ທີ່​ແອັບ​ເກັບ​ໄວ້), ບວກ​ໃສ່​ລຶບ​ທຸກ​ສຳ​ເນົາ​ຢູ່​ໃນເຊີບ​ເວີ​ທາງ​ໄກບໍ?</string>
+    <string name="keywords_wifi_notify_open_networks">ການແຈ້ງເຕືອນ WLAN, ການແຈ້ງເຕືອນ wifi</string>
+    <string name="location_neighborhood_level_wifi">ສະຖານທີ່ທີ່ລະບຸໂດຍ WLAN</string>
+    <string name="location_network_based">WLAN &amp; ສະຖານທີ່ເຄືອຂ່າຍມືຖື</string>
+    <string name="location_scanning_screen_title">ການສະແກນ WLAN ແລະ Bluetooth</string>
+    <string name="location_scanning_wifi_always_scanning_description">ອະນຸຍາດໃຫ້ແອັບ ແລະ ບໍລິການຕ່າງໆສະແກນຫາເຄືອຂ່າຍ WLAN ໄດ້ທຸກເວລາ, ເຖິງແມ່ນວ່າຈະປິດ WLAN ໄວ້ກໍຕາມ. ຄຸນສົມບັດນີ້ສາມາດໃຊ້ເພື່ອປັບປຸງຄຸນສົມບັດ ແລະ ບໍລິການທີ່ອ້າງອີງສະຖານທີ່ໄດ້.</string>
+    <string name="location_scanning_wifi_always_scanning_title">ການ​ສະ​ແກນ WLAN</string>
+    <string name="lost_internet_access_cancel">ໃຊ້ WLAN ຕໍ່ໄປ</string>
+    <string name="lost_internet_access_text">ທ່ານສາມາດສະຫຼັບໄປໃຊ້ເຄືອຂ່າຍມືຖືໃນເວລາທີ່ WLAN ສັນຍານບໍ່ໄດ້ດີ. ອາດມີການຮຽກເກັບຄ່າບໍລິການ.</string>
+    <string name="lost_internet_access_title">WLAN ບໍ່ໄດ້ເຊື່ອມຕໍ່ອິນເຕີເນັດ</string>
+    <string name="mobile_data_always_on_summary">ເປີດໃຊ້ອິນເຕີເນັດມືຖືໄວ້ຕະຫຼອດ, ເຖິງແມ່ນວ່າ WLAN ຈະເຮັດວຽກຢູ່ກໍຕາມ (ສຳລັບການສະຫຼັບເຄືອຂ່າຍແບບໄວ).</string>
+    <string name="network_scorer_change_active_dialog_title">ປ່ຽນ​ WLAN Assistant ບໍ່?</string>
+    <string name="radio_controls_summary">ຈັດການ WLAN, Bluetooth, ຮູບແບບເທິງຍົນ, ເຄືອຂ່າຍມືຖື &amp; VPNs</string>
+    <string name="radio_info_ims_reg_status">"ການລົງທະບຽນ IMS: %1$s
+ການໂທຜ່ານ LTE: %2$s
+ການໂທຜ່ານ WLAN: %3$s
+ການໂທວິດີໂອ: %4$s
+ສ່ວນຕິດຕໍ່ UT: %5$s"</string>
+    <string name="reset_network_desc">"ນີ້ຈະເປັນການຣີເຊັດການຕັ້ງຄ່າເຄືອຂ່າຍທັງໝົດ, ຮວມເຖິງ:
+
+"<li>WLAN</li>"
+"<li>ອິນເຕີເນັດມືຖື</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">ຣີເຊັດ WLAN, ມືຖື ແລະ Bluetooth</string>
+    <string name="restriction_wifi_config_summary">ອະນຸຍາດໃຫ້ມີການແກ້ໄຂການຕັ້ງຄ່າ WLAN ແລະມືຖື</string>
+    <string name="scanning_status_text_wifi_off_ble_off">ປິດການສະແກນທັງ WLAN ແລະ Bluetooth ແລ້ວ</string>
+    <string name="scanning_status_text_wifi_off_ble_on">ເປີດໃຊ້ການສະແກນ Bluetooth, ປິດການສະແກນ WLAN</string>
+    <string name="scanning_status_text_wifi_on_ble_off">ເປີດການສະແກນ WLAN, ປິດການສະແກນ Bluetooth</string>
+    <string name="scanning_status_text_wifi_on_ble_on">ເປີດໃຊ້ທັງ WLAN ແລະ Bluetooth ແລ້ວ</string>
+    <string name="status_wifi_mac_address">ທີ່ຢູ່ WLAN MAC</string>
+    <string name="usage_type_data_wifi_recv">ກຸ່ມຂໍ້ມູນ WLAN ທີ່ໄດ້ຮັບ</string>
+    <string name="usage_type_data_wifi_send">ກຸ່ມຂໍ້ມູນ WLAN ທີ່ສົ່ງໄປ</string>
+    <string name="usage_type_wifi_running">ການນຳໃຊ້ WLAN</string>
+    <string name="user_add_user_message_long">"ທ່ານສາມາດໃຊ້ອຸປະກອນນີ້ຮ່ວມກັບຄົນອື່ນໄດ້ໂດຍການສ້າງຜູ້ໃຊ້ເພີ່ມເຕີມ. ຜູ້ໃຊ້ແຕ່ລະຄົນຈະມີພື້ນທີ່ຂອງຕົວເອງ, ເຊິ່ງເຂົາເຈົ້າສາມາດປັບແຕ່ງແອັບ, ຮູບພື້ນຫຼັງ ແລະ ອື່ນໆໄດ້. ຜູ້ໃຊ້ຕ່າງໆ ສາມາດປັບແຕ່ງການຕັ້ງຄ່າອຸປະກອນໄດ້ ເຊັ່ນ: WLAN ທີ່ມີຜົນກະທົບທຸກຄົນ.
+
+ເມື່ອທ່ານເພີ່ມຜູ້ໃຊ້ໃໝ່, ບຸກຄົນນັ້ນຈະຕ້ອງຕັ້ງຄ່າພື້ນທີ່ຂອງເຂົາເຈົ້າກ່ອນ.
+
+ຜູ້ໃຊ້ໃດກໍຕາມສາມາດອັບເດດແອັບສຳລັບຜູ້ໃຊ້ຄົນອື່ນທັງໝົດໄດ້. ການຕັ້ງຄ່າການຊ່ວຍເຂົ້າເຖິງອາດບໍ່ຖືກໂອນຍ້າຍໄປໃຫ້ຜູ້ໃຊ້ໃໝ່."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"ຜູ້ໃຫ້ບໍລິການຂອງທ່ານບໍ່ຮອງຮັບການໂທສຸກເສີນຜ່ານ WLAN.
+ອຸປະກອນຈະສະຫຼັບໄປໃຊ້ເຄືອຂ່າຍມືຖືໂດຍອັດຕະໂນມັດເພື່ອໂທສຸກເສີນ.
+ທ່ານສາມາດໂທສຸກເສີນໄດ້ສະເພາະໃນເວລາທີ່ຢູ່ໃນພື້ນທີ່ທີ່ມີສັນຍານໂທລະສັບມືຖືເທົ່ານັ້ນ."</string>
+    <string name="wfc_provisioned_switch_string">ຈັດຫາການໂທດ້ວຍ WLAN ແລ້ວ</string>
+    <string name="wifi">Wi​-Fi</string>
+    <string name="wifi_access_points">ເຄືອຂ່າຍ WLAN</string>
+    <string name="wifi_advanced_not_available">ບໍ່ສາມາດໃຊ້ການຕັ້ງຄ່າ WLAN ຂັ້ນສູງກັບຜູ້ໃຊ້ນີ້ໄດ້</string>
+    <string name="wifi_advanced_settings_label">ການຕັ້ງຄ່າ IP</string>
+    <string name="wifi_advanced_titlebar">WLAN ຂັ້ນສູງ</string>
+    <string name="wifi_ap_band_select_one">ເລືອກແຖບຄວາມຖີ່ຢ່າງໜ້ອຍໜຶ່ງອັນສຳລັບ WLAN:</string>
+    <string name="wifi_ask_disable">%s ຕ້ອງການປິດ WLAN</string>
+    <string name="wifi_ask_enable">%s ຕ້ອງການເປີດໃຊ້ WLAN</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">ຫາກເຄືອຂ່າຍມືຖືບໍ່ສາມາດໃຊ້ໄດ້, ໃຫ້ໃຊ້ WLAN ແທນ</string>
+    <string name="wifi_calling_mode_wifi_only_summary">ໂທຜ່ານ WLAN. ຫາກໃຊ້ WLAN ບໍ່ໄດ້, ການໂທຈະສິ້ນສຸດລົງ.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">ຫາກບໍ່ສາມາດໃຊ້ WLAN ໄດ້, ໃຫ້ໃຊ້ເຄືອຂ່າຍມືຖືແທນ</string>
+    <string name="wifi_calling_not_supported">ບໍ່ຮອງຮັບການໂທ WLAN ສຳລັບ %1$s</string>
+    <string name="wifi_calling_off_explanation">ເມື່ອເປີດໃຊ້ການໂທ WLAN, ໂທລະສັບຂອງທ່ານຈະສາມາດໂທຜ່ານເຄືອຂ່າຍ WLAN ຫຼື ເຄືອຂ່າຍຜູ້ໃຫ້ບໍລິການຂອງທ່ານກໍໄດ້, ຂຶ້ນກັບການຕັ້ງຄ່າຂອງທ່ານ ແລະ ຂຶ້ນກັບວ່າສັນຍານເຄືອຂ່າຍໃດແຮງກວ່າ. ກ່ອນການເປີດໃຊ້ຄຸນສົມບັດນີ້, ກະລຸນາກວດສອບກັບຜູ້ໃຫ້ບໍລິການຂອງທ່ານກ່ຽວກັບຄ່າທຳນຽມ ແລະ ລາຍລະອຽດອື່ນໆ.%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">ກຳລັງເປີດໃຊ້ການໂທ WLAN</string>
+    <string name="wifi_calling_settings_title">ການ​ໂທ WLAN</string>
+    <string name="wifi_calling_suggestion_summary">ເປີດໃຊ້ການໂທ WLAN ເພື່ອຂະຫຍາບຄວາມຄອບຄຸມ</string>
+    <string name="wifi_calling_suggestion_title">ຂະຫຍາຍການໂທດ້ວຍ WLAN</string>
+    <string name="wifi_calling_summary">ໃຊ້ WLAN ສຳລັບການໂທເພື່ອປັບປຸງຄຸນນະພາບ</string>
+    <string name="wifi_calling_turn_on">ເປີດໃຊ້ການໂທ WLAN</string>
+    <string name="wifi_carrier_connect">ເຄືອຂ່າຍ WLAN ຜູ້ໃຫ້ບໍລິການ</string>
+    <string name="wifi_cellular_data_fallback_summary">ໃຊ້ອິນເຕີເນັດມືຖືເມື່ອ WLAN ຂາດການເຊື່ອມຕໍ່ອິນເຕີເນັດ. ອາດມີການຮຽກເກັບຄ່າບໍລິການ.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN ບໍ່ເປີດເອງໂດຍອັດຕະໂນມັດ</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN ເປີດເອງໂດຍອັດຕະໂນມັດ</string>
+    <string name="wifi_configure_settings_preference_title">ການຕັ້ງຄ່າ WLAN</string>
+    <string name="wifi_data_template">ຂໍ້ມູນ WLAN ^1</string>
+    <string name="wifi_data_usage">ການໃຊ້ອິນເຕີເນັດ WLAN</string>
+    <string name="wifi_disabled_wifi_failure">​ການ​ເຊື່ອມ​ຕໍ່ WLAN ລົ້ມ​ເຫຼວ</string>
+    <string name="wifi_dpp_add_device_to_wifi">ເພີ່ມອຸປະກອນນີ້ໃສ່ “%1$s” ບໍ?</string>
+    <string name="wifi_dpp_center_qr_code">ວາງລະຫັດ QR ລຸ່ມນີ້ໄວ້ທາງກາງເພື່ອເພີ່ມອຸປະກອນຫາ “%1$s”</string>
+    <string name="wifi_dpp_failure_not_supported">ອຸປະກອນນີ້ບໍ່ຮອງຮັບການເພີ່ມ “%1$s”</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">ສະແກນລະຫັດ QR ນີ້ເພື່ອເຊື່ອມຕໍ່ຫາ “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">ວາງລະຫັດ QR ໄວ້ທາງກາງຢູ່ລຸ່ມເພື່ອເຊື່ອມຕໍ່ຫາ “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">ເຂົ້າຮ່ວມ WLAN ໂດຍການສະແກນລະຫັດ QR</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">ສະແກນລະຫັດ QR ນີ້ເພື່ອເຊື່ອມຕໍ່ຫາ “%1$s” ແລະ ແບ່ງປັນລະຫັດຜ່ານ</string>
+    <string name="wifi_dpp_share_wifi">ແບ່ງປັນ WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">ກຳລັງແບ່ງປັນ WLAN ກັບອຸປະກອນນີ້…</string>
+    <string name="wifi_dpp_wifi_password">ລະຫັດຜ່ານ WLAN: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">ແບ່ງປັນ WLAN ກັບອຸປະກອນແລ້ວ</string>
+    <string name="wifi_empty_list_user_restricted">ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ປ່ຽນເຄືອຂ່າຍ WLAN ໄດ້.</string>
+    <string name="wifi_empty_list_wifi_off">ເພື່ອເບິ່ງເຄືອຂ່າຍທີ່ສາມາດໃຊ້ໄດ້, ໃຫ້ເປີດ WLAN ກ່ອນ.</string>
+    <string name="wifi_empty_list_wifi_on">ກຳລັງຊອກຫາເຄືອຂ່າຍ WLAN...</string>
+    <string name="wifi_hotspot_auto_off_summary">WLAN ຮັອດສະປອດຈະປິດຫາກບໍ່ມີອຸປະກອນເຊື່ອມຕໍ່</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN ຮັອດ​ສະ​ປອດ</string>
+    <string name="wifi_hotspot_configure_ap_text">ການ​ຕັ້ງ​ຄ່າ WLAN ຮັອດ​ສະ​ປອດ</string>
+    <string name="wifi_hotspot_footer_info_regular">ໃຊ້ຮັອດສະປອດເພື່ອສ້າງເຄືອຂ່າຍ WLAN ສຳລັບອຸປະກອນອື່ນຂອງທ່ານ. ຮັອດສະປອດຈະສະໜອງອິນເຕີເນັດໂດຍໃຊ້ການເຊື່ອມຕໍ່ອິນເຕີເນັດມືຖືຂອງທ່ານ. ອາດມີການຮຽກເກັບຄ່າອິນເຕີເນັດມືຖືເພີ່ມເຕີມໄດ້.</string>
+    <string name="wifi_limit_optimizations_summary">ຈຳ​ກັດ​ການ​ນຳ​ໃຊ້​ແບັດ​ເຕີ​ຣີ​ຂອງ WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">ເວລາເປີດໃຊ້ WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">ຢ່າເຄືອຂ່າຍ WLAN ຍົກເວັ້ນໃນກໍລະນີທີ່ມັນມີການເຊື່ອມຕໍ່ອິນເຕີເນັດທີ່ດີ</string>
+    <string name="wifi_quick_toggle_summary">ເປີດໃຊ້ WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"ເພື່ອປັບປຸງຄວາມຖືກຕ້ອງຂອງສະຖານທີ່ ແລະ ເພື່ອຈຸດປະສົງອື່ນໆ, ແອັບທີ່ບໍ່ຮູ້ຈັກຕ້ອງການເປີດນຳໃຊ້ການສະແກນເຄືອຂ່າຍ, ເຖິງແມ່ນວ່າ WLAN ຈະປິດກໍຕາມ.
+
+ອະນຸຍາດການດຳເນີນການນີ້ ໃຫ້ກັບທຸກແອັບທີ່ຕ້ອງການສະແກນບໍ່?"</string>
+    <string name="wifi_scan_always_turnon_message">"ເພື່ອປັບປຸງຄວາມຖືກຕ້ອງຂອງສະຖານທີ່ ແລະເພື່ອຈຸດປະສົງອື່ນໆ, %1$s ຕ້ອງການເປີດນຳໃຊ້ການສະແກນເຄືອຂ່າຍ ເຖິງແມ່ນວ່າ WLAN ຈະປິດກໍຕາມ.
+
+ອະນຸຍາດການດຳເນີນການນີ້ ໃຫ້ກັບທຸກແອັບຯທີ່ຕ້ອງການສະແກນບໍ່?"</string>
+    <string name="wifi_scan_notify_text">ເພື່ອປັບປຸງຄວາມຖືກຕ້ອງສະຖານທີ່, ແອັບ ແລະ ບໍລິການຍັງຄົງສາມາດສະແກນຫາເຄືອຂ່າຍ WLAN ໄດ້ທຸກເວລາ, ເຖິງແມ່ນວ່າປິດ WLAN ໄວ້ກໍຕາມ. ນີ້ສາມາດໃຊ້ເພື່ອປັບປຸງຄຸນສົມບັດ ແລະ ບໍລິການທີ່ອ້າງອີງສະຖານທີ່ໄດ້. ທ່ານສາມາດປ່ຽນຄຸນສົມບັດນີ້ໄດ້ໃນ LINK_BEGINການຕັ້ງຄ່າການສະແກນLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">ເພື່ອປັບປຸງຄວາມຖືກຕ້ອງຂອງສະຖານທີ່, ໃຫ້ເປີດໃຊ້ການສະແກນ WLAN ໃນ LINK_BEGINການຕັ້ງຄ່າການສະແກນLINK_END.</string>
+    <string name="wifi_scan_throttling">ການຈຳກັດການສະແກນ WLAN</string>
+    <string name="wifi_select_network">ເລືອກ WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">ເປີດ WLAN ໃນ​ລະ​ຫວ່າງ​ໜ້າ​ຈ​ໍ​ປິດ​ຢູ່</string>
+    <string name="wifi_setting_sleep_policy_title">ເປີດໃຊ້ WLAN ໃນຂະນະໜ້າຈໍປິດ</string>
+    <string name="wifi_settings_master_switch_title">ໃຊ້ WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">ເປີດການສະແກນ WLAN ແລ້ວ</string>
+    <string name="wifi_settings_scanning_required_info">ການສະແກນ WLAN ຈະເຮັດໃຫ້ແອັບ ແລະ ບໍລິການຕ່າງໆສາມາດສະແກນຫາເຄືອຂ່າຍ WLAN ໄດ້ທຸກເວລາ, ເຖິງແມ່ນວ່າຈະປິດ WLAN ໄວ້ກໍຕາມ. ຄຸນສົມບັດນີ້ສາມາດໃຊ້ເພື່ອປັບປຸງຄຸນສົມບັດ ແລະ ບໍລິການທີ່ອ້າງອີງສະຖານທີ່ໄດ້.</string>
+    <string name="wifi_settings_scanning_required_summary">ເພື່ອເປີດໃຊ້ WLAN ອັດຕະໂນມັດ, ທ່ານຈະຕ້ອງເປີດການສະແກນ WLAN ກ່ອນ.</string>
+    <string name="wifi_settings_scanning_required_title">ເປີດໃຊ້ການສະແກນ WLAN ບໍ?</string>
+    <string name="wifi_starting">ກຳລັງເປີດ WLAN...</string>
+    <string name="wifi_stopping">ກຳລັງປິດ WLAN...</string>
+    <string name="wifi_suspend_optimizations">ການປັບແຕ່ງ WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">ຫຼຸດການນຳໃຊ້ແບັດເຕີຣີເມື່ອເປີດໃຊ້ WLAN</string>
+    <string name="wifi_switch_away_when_unvalidated">ສະຫຼັບໄປໃຊ້ອິນເຕີເນັດມືຖືຖ້າ WLAN ເຊື່ອມຕໍ່ອິນເຕີເນັດບໍ່ໄດ້.</string>
+    <string name="wifi_tether_configure_ap_text">ຕັ້ງຄ່າ WLAN ຮັອດສະປອດ</string>
+    <string name="wifi_tether_failed_subtext">WLAN ຮັອດສະປອດເຄື່ອນທີ່ເກີດຄວາມຜິດພາດ</string>
+    <string name="wifi_turned_on_message">ເປີດໃຊ້ WLAN ແລ້ວ</string>
+    <string name="wifi_verbose_logging">​ເປີດ​ນຳ​ໃຊ້ການ​ເກັບ​ປະ​ຫວັດ​ Verbose WLAN</string>
+    <string name="wifi_verbose_logging_summary">ເພີ່ມ​ລະ​ດັບ​ການ​ເກັບ​ປະ​ຫວັດ WLAN, ສະ​ແດງ​ຕໍ່ SSID RSSI ​ໃນ​ WLAN Picker</string>
+    <string name="wifi_wakeup">ເປີດໃຊ້ WLAN ອັດຕະໂນມັດ</string>
+    <string name="wifi_wakeup_summary">WLAN ຈະກັບມາເປີດໃຊ້ຫາກຢູ່ໃກ້ເຄືອຂ່າຍຄຸນນະພາບສູງທີ່ບັນທຶກໄວ້ ເຊັ່ນ: ເຄືອຂ່າຍເຮືອນ</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">ບໍ່ສາມາດໃຊ້ໄດ້ເນື່ອງຈາກການສະແກນ WLAN ປິດຢູ່</string>
+</resources>

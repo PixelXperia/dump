@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">As aplicacións do teu teléfono poden consultar o nome do teu dispositivo. Tamén poden velo outros usuarios cando te conectes a dispositivos Bluetooth ou configures zonas wifi.</string>
+    <string name="accessibility_no_wifi">WLAN desconectada.</string>
+    <string name="accessibility_wifi_off">WLAN desactivada.</string>
+    <string name="accessibility_wifi_one_bar">Unha barra de wifi.</string>
+    <string name="accessibility_wifi_signal_full">Sinal completo de wifi.</string>
+    <string name="accessibility_wifi_three_bars">Tres barras de wifi.</string>
+    <string name="accessibility_wifi_two_bars">Dúas barras de wifi.</string>
+    <string name="change_wifi_state_app_detail_summary">Permite que esta aplicación active ou desactive a wifi, busque redes wifi e se conecte a elas, engada ou elimine redes, ou ben inicie unha zona wifi local</string>
+    <string name="change_wifi_state_app_detail_switch">Permitir que a aplicación controle a wifi</string>
+    <string name="change_wifi_state_title">Control da wifi</string>
+    <string name="connected_via_app">WLAN conectada a través de %1$s</string>
+    <string name="credential_for_wifi">Instalada para a wifi</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="fullbackup_data_summary">"Crea automaticamente copias de seguranza dos datos do dispositivo de forma remota, como os contrasinais das redes wifi e o historial de chamadas, e dos datos das aplicacións, como a configuración e os ficheiros almacenados polas aplicacións.
+
+Ao activar a copia de seguranza automática, os datos do dispositivo e das aplicacións gárdanse periodicamente de forma remota. Os datos das aplicacións poden ser os datos que gardou unha aplicación segundo a configuración do programador, incluídos os datos potencialmente sensibles, como os contactos, as mensaxes e as fotos."</string>
+    <string name="fullbackup_erase_dialog_message">Queres deixar de crear copias de seguranza dos datos do dispositivo (como os contrasinais das redes wifi e o historial de chamadas) e dos datos das aplicacións (como a configuración e os ficheiros almacenados polas aplicacións), e borrar todas as copias presentes nos servidores remotos?</string>
+    <string name="keywords_wifi_notify_open_networks">notificación WLAN, notificación wifi</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_info_ims_reg_status">"Rexistro de IMS: %1$s
+Voz por LTE: %2$s
+Voz por wifi: %3$s
+Videochamada: %4$s
+Interface de UT: %5$s"</string>
+    <string name="reset_network_desc">"Con esta selección, restableceranse todas as opcións de configuración de rede, entre elas as referentes a:
+
+"<li>WLAN</li>"
+"<li>Datos móbiles</li>"
+"<li>Bluetooth</li></string>
+    <string name="restriction_wifi_config_title">WLAN e móbil</string>
+    <string name="usage_type_wifi_running">WLAN en funcionamento</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Este operador non admite as chamadas de emerxencia por wifi.
+O dispositivo cambia automaticamente a unha rede de telefonía móbil para facer unha chamada de emerxencia.
+Só se poden realizar chamadas de emerxencia en áreas con cobertura móbil."</string>
+    <string name="wfc_provisioned_switch_string">Chamadas por wifi activadas</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_advanced_settings_label">Configuración IP</string>
+    <string name="wifi_advanced_titlebar">WLAN avanzada</string>
+    <string name="wifi_ask_disable">%s quere desactivar a wifi</string>
+    <string name="wifi_ask_enable">%s quere activar a wifi</string>
+    <string name="wifi_calling_off_explanation">Cando está activada a función Chamadas por wifi, o teléfono pode enviar as túas chamadas a través de redes wifi ou da rede do teu operador, dependendo das túas preferencias e de cal teña o sinal máis forte. Antes de activar esta función, consulta co teu operador as tarifas e outra información.%1$s</string>
+    <string name="wifi_calling_settings_title">Chamadas por wifi</string>
+    <string name="wifi_data_template">Datos da wifi: ^1</string>
+    <string name="wifi_disabled_wifi_failure">Erro na conexión wifi</string>
+    <string name="wifi_dpp_add_device_to_wifi">Queres engadir este dispositivo a “%1$s”?</string>
+    <string name="wifi_dpp_center_qr_code">Centra o código QR que aparece debaixo para engadir o dispositivo a “%1$s”</string>
+    <string name="wifi_dpp_failure_not_supported">Este dispositivo non permite engadir “%1$s”</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Escanea este código QR para conectarte a “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Centra o código QR que aparece debaixo para establecer conexión con “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Escanea este código QR para conectarte a “%1$s” e compartir o contrasinal</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turnon_message">"Para mellorar a precisión da localización e para outros fins, %1$s quere activar a busca de redes, aínda que a wifi estea desactivada.
+
+Queres permitilo para todas as aplicacións que queren buscar redes?"</string>
+    <string name="wifi_scan_notify_text_scanning_off">Para mellorar a precisión de localización, activa a busca de redes wifi na LINK_BEGINconfiguración de buscaLINK_END.</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN activada na suspensión</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_tether_settings_subtext">Configurar e administrar punto de conexión WLAN portátil</string>
+    <string name="wifi_tether_settings_text">Axustes pto. conexión WLAN portátil</string>
+</resources>

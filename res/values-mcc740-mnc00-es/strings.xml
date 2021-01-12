@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_mode_dialog_title">Modo de Voz WiFi</string>
+    <string name="wifi_calling_off_explanation">"Utilice Voz WiFi para mejorar la calidad de las llamadas en aquellos lugares donde la cobertura de la red es deficiente.
+ 
+Costo
+Para obtener información sobre los cargos de Voz WiFi, comuníquese con su proveedor de servicio.
+ 
+Notas sobre Voz WiFi
+Para continuar con Voz WiFi, asegúrese de permanecer dentro del rango de Wi-Fi."</string>
+    <string name="wifi_calling_settings_title">Voz WiFi</string>
+</resources>

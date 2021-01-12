@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_calling_mode_choices_v2">
+        <item>ਵਾਈ-ਫਾਈ</item>
+        <item>ਮੋਬਾਈਲ</item>
+        <item>ਸਿਰਫ਼ ਵਾਈ-ਫਾਈ</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>ਵਾਈ-ਫਾਈ</item>
+        <item>ਮੋਬਾਈਲ</item>
+    </string-array>
+</resources>

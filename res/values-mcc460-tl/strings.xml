@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Nakikita ang pangalan ng iyong device sa mga app sa iyong telepono. Maaari rin itong makita ng ibang tao kapag kumonekta ka sa mga Bluetooth device o nag-set up ka ng WLAN hotspot.</string>
+    <string name="accessibility_no_wifi">Nakadiskonekta ang WLAN.</string>
+    <string name="accessibility_wifi_off">Naka-off ang WLAN.</string>
+    <string name="accessibility_wifi_one_bar">May isang bar ang WLAN.</string>
+    <string name="accessibility_wifi_signal_full">Puno ang signal ng WLAN.</string>
+    <string name="accessibility_wifi_three_bars">May tatlong bar ang WLAN.</string>
+    <string name="accessibility_wifi_two_bars">May dalawang bar ang WLAN.</string>
+    <string name="backup_data_summary">Mag-back up ng data ng app, mga password ng WLAN at iba pang mga setting sa mga server ng Google</string>
+    <string name="backup_erase_dialog_message">Ihinto ang pagba-back up ng iyong mga password ng WLAN, mga bookmark, iba pang mga setting at data ng app, at burahin ang lahat ng kopya sa mga server ng Google?</string>
+    <string name="battery_action_wifi">Mga setting ng WLAN</string>
+    <string name="battery_desc_wifi">Bateryang ginamit ng WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">I-off ang WLAN kapag hindi ito ginagamit o kapag hindi ito available</string>
+    <string name="battery_usm_desc">"Lubos na papahabain ng Ultra STAMINA mode ang tagal ng baterya. Tandaang dahil idi-disable ang koneksyon sa internet sa pamamagitan ng WLAN at Mobile data, hindi magiging available ang mga function na gaya ng pagsi-synchronize ng data at pagtawag sa WLAN. Ang iyong Home screen ay iliipat sa Ultra STAMINA mode Home.
+
+Mga available na app sa Ultra STAMINA mode"</string>
+    <string name="battery_usm_desc_variable">"Lubos na papahabain ng Ultra STAMINA mode ang tagal ng baterya. Tandaang dahil idi-disable ang koneksyon sa internet sa pamamagitan ng WLAN at Mobile data, hindi magiging available ang mga function na gaya ng pagsi-synchronize ng data at %s. Ang iyong Home screen ay iliipat sa Ultra STAMINA mode Home.
+
+Mga available na app sa Ultra STAMINA mode"</string>
+    <string name="bluetooth_on_time">WLAN na nasa oras</string>
+    <string name="bs_feature_wifi">Naka-off ang WLAN</string>
+    <string name="change_wifi_state_app_detail_summary">Payagan ang app na ito na i-on o i-off ang WLAN, mag-scan at kumonekta sa mga WLAN network, magdagdag o magtanggal ng mga network, o magsimula ng lokal lang na hotspot</string>
+    <string name="change_wifi_state_app_detail_switch">Payagan ang app na kontrolin ang WLAN</string>
+    <string name="change_wifi_state_title">Pagkontrol sa WLAN</string>
+    <string name="condition_bg_data_summary">Available lang ang data ng background kapag may WLAN. Maaari itong makaapekto sa ilang app o serbisyo kapag hindi available ang WLAN.</string>
+    <string name="condition_cellular_summary">Available lang ang Internet sa pamamagitan ng WLAN</string>
+    <string name="connected_via_app">Nakakonekta sa pamamagitan ng %1$s</string>
+    <string name="credential_for_wifi">Na-install para sa WLAN</string>
+    <string name="ct_wifi_connected_text">Konektado China Telecom WLAN</string>
+    <string name="cw_network_notification">Pagana CT WLAN pagpapaalam</string>
+    <string name="cw_network_priority">I-prioritize China Telecom WLAN</string>
+    <string name="cw_network_priority_summary">Ipa-prioritize ang mga China Telecom WLAN network kaysa ibang mga WLAN na nakakonekta</string>
+    <string name="data_service_except_mms_disabled_warning_txt">Maliban kung gumagamit ka ng WLAN, hindi mo na magagamit ang Internet, Email o iba pang apps na nangangailangan ng koneksyon ng data. Isara ang koneksyon ng data sa mobile?</string>
+    <string name="data_traffic_disabled_text">Hindi makakonekta sa mga China Telecom WLAN network dahil hindi pinagana ang trapiko ng data. Paganahin ngayon ang trapiko ng data?</string>
+    <string name="data_usage_app_summary_title">Mobile data at WLAN</string>
+    <string name="data_usage_disable_wifi_limit">I-set ang WLAN data limit</string>
+    <string name="data_usage_menu_hide_wifi">Itago ang WLAN</string>
+    <string name="data_usage_menu_show_wifi">Ipakita ang WLAN</string>
+    <string name="data_usage_metered_wifi">Mga nakametrong WLAN network</string>
+    <string name="data_usage_metered_wifi_disabled">Upang pumili ng mga nakametrong network, i-on ang WLAN.</string>
+    <string name="data_usage_restrict_background">Kung paghihigpitan mo ang mobile data sa background, maaaring hindi gumana ang ilang app at serbisyo maliban na lang kung nakakonekta ka sa WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Kung paghihigpitan mo ang mobile data sa background, maaaring hindi gumana ang ilang app at serbisyo maliban na lang kung nakakonekta ka sa WLAN.
+
+Nakakaapekto ang setting na ito sa lahat ng user sa teleponong ito."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 ang nagamit sa WLAN</string>
+    <string name="data_usage_wifi_title">WLAN data</string>
+    <string name="dialog_message_hint">"Kasama sa STAMINA mode ang:
+
+• Pinahabang standby
+Nakakatipid ng power kapag naka-off ang screen sa pamamagitan ng pansamantalang hindi pagpapagana sa WLAN at mobile data. Hindi magiging aktibo ang karamihan ng mga application.
+Kapag NAKA-ON ang screen, gagana nang normal ang iiyong telepono.
+Kung gusto mong panatilihing aktibo ang ilang apps habang NAKA-ON ang Pinahabang standby, idagdag ang apps sa listahan ng APPS NA AKTIBO KAPAG NAKA-STANDBY.
+
+• Pinahabang paggamit
+Nakakatipid ng power kapag ginagamit ang iyong device sa pamamagitan ng paglimita sa pagganap ng hardware.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Ano ang STAMINA mode?</u>"
+Ang STAMINA mode ay isang power save function ng Sony. Pinapahaba nito ang tagal ng baterya kapag naka-off ang screen.
+
+"<u>Pangunahing paggamit</u>"
+Upang i-on ang STAMINA mode, tapikin ang button sa screen.
+Kapag naka-off ang screen, upang mapatagal ang tagal ng baterya, pansamantalang hindi pagaganahin ang WLAN at mobile data, at gagawing hindi aktibo ang karamihan ng application.
+Kapag naka-on ang screen, gagana nang normal ang iyong telepono.
+
+"<u>Advanced na paggamit</u>"
+Kung gusto mong panatilihing aktibo ang ilang app habang naka-on ang STAMINA, pakidagdag ang mga app sa listahan ng MGA APP NA AKTIBIO SA STANDBY.
+Maaaring hindi gumana nang ayos ang mga application kung hindi iyon idinagdag sa listahan.
+
+"<u>Tandaan</u>"
+Kung hindi gumagana nang ayos ang isang application, pakirehistro ang app sa MGA APP NA AKTIBO SA STANDBY o i-off ang STAMINA mode."</string>
+    <string name="emergency_address_summary">Ginagamit bilang iyong lokasyon kapag nagsagawa ka ng pang-emergency na tawag sa pamamagitan ng WLAN</string>
+    <string name="fullbackup_data_summary">"Awtomatikong i-back up ang data ng device (tulad ng mga password sa WLAN at history ng tawag) at data ng app (tulad ng mga setting at mga file na inimbak ng mga app) nang malayuan.
+
+Kapag i-on mo ang awtomatikong pag-backup, pana-panahong sine-save nang malayuan ang data ng device at app. Ang data ng app ay maaaring anumang data na na-save ng app (batay sa mga setting ng developer), kabilang ang potensyal na sensitibong data tulad ng mga contact, mensahe at larawan."</string>
+    <string name="fullbackup_erase_dialog_message">Gusto mo bang ihinto ang pagba-back up sa data ng device (gaya ng mga password sa WLAN at history ng pagtawag) at data ng app (gaya ng mga setting at file na naimbak ng mga app), at burahin ang lahat ng kopya sa mga remote server?</string>
+    <string name="install_wapi_certs">Install WLAN certificates</string>
+    <string name="keywords_wifi_notify_open_networks">Notification sa WLAN, notification sa wifi</string>
+    <string name="l_dialog_message_hint">"Kasama sa STAMINA mode ang:
+
+• Pinatagal na standby
+Nakakatipid ng power kapag naka-off ang screen sa pamamagitan ng pansamantalang hindi pagpapagana sa WLAN. Hindi magiging aktibo ang karamihan ng mga application.
+Kapag naka-on ang screen, normal na gagana ang iyong device.
+Kung gusto mong panatilihing aktibo ang ilang apps habang pinapagana ang Pinatagal na standby, idagdag ang apps sa listahan ng Apps na aktibo sa standby.
+
+• Pinatagal na paggamit
+Nakakatipid ng power kapag ginagamit ang iyong device sa pamamagitan ng paglilimita sa pagganap ng hardware."</string>
+    <string name="location_based_wifi">WLAN na nakabatay sa lokasyon</string>
+    <string name="location_neighborhood_level_wifi">Natukoy ng WLAN ang lokasyon</string>
+    <string name="location_network_based">Lokasyon ng WLAN, mobile network</string>
+    <string name="location_scanning_screen_title">Pag-scan ng WLAN at Bluetooth</string>
+    <string name="location_scanning_wifi_always_scanning_description">Payagan ang mga app at serbisyo na mag-scan ng mga WLAN network anumang oras, kahit na naka-off ang WLAN. Magagamit ito, halimbawa, para pahusayin ang mga feature at serbisyong batay sa lokasyon.</string>
+    <string name="location_scanning_wifi_always_scanning_title">pag-scan ng WLAN</string>
+    <string name="lost_internet_access_cancel">Manatili sa WLAN</string>
+    <string name="lost_internet_access_text">Maaari kang lumipat sa mobile network sa tuwing mahina ang koneksyon sa WLAN. Maaaring may mga mailapat na bayarin sa paggamit ng data.</string>
+    <string name="lost_internet_access_title">Hindi nakakonekta ang WLAN sa internet</string>
+    <string name="mobile_data_always_on_summary">Palaging panatilihing aktibo ang mobile data, kahit na aktibo ang WLAN (para sa mabilis na paglipat ng network).</string>
+    <string name="network_scorer_change_active_dialog_title">Baguhin ang WLAN assistant?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Upang ibahagi ang kasalukuyan mong WLAN network, piliin ang opsyong \"Ibahagi ang info ng WLAN\" sa setting.</string>
+    <string name="nfc_wifi_share_checkbox">Ibahagi ang info ng WLAN</string>
+    <string name="nfc_wifi_share_title_txt">Ibahagi ang WLAN info</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Awtomatikong kumonekta sa AT&amp;T WLAN hotspot</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN auto connect</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">Maliban kung gumagamit ka ng WLAN, hindi mo na magagamit ang Internet, Email o iba pang apps na nangangailangan ng koneksyon ng data. Isara ang koneksyon ng data sa mobile?</string>
+    <string name="powersaver_feature_wifi">Naka-off ang WLAN</string>
+    <string name="radio_controls_summary">Pamahalaan ang WLAN, Bluetooth, airplane mode, mga mobile network at mga VPN</string>
+    <string name="radio_info_ims_reg_status">"Pagpaparehistro ng IMS: %1$s
+Voice sa pamamagitan ng LTE: %2$s
+Voice sa pamamagitan ng WLAN: %3$s
+Video Calling: %4$s
+UT Interface: %5$s"</string>
+    <string name="reset_network_desc">"Ire-reset nito ang lahat ng setting ng network, kasama ang:
+
+"<li>WLAN</li>"
+"<li>Mobile data</li>"
+"<li>Bluetooth</li></string>
+    <string name="restriction_wifi_config_summary">Payagan ang pagbago sa mga setting ng WLAN at Mobile</string>
+    <string name="restriction_wifi_config_title">WLAN at Mobile</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Parehong naka-off ang pag-scan ng WLAN at Bluetooth</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Naka-on ang pag-scan ng Bluetooth, naka-off ang pag-scan ng WLAN</string>
+    <string name="scanning_status_text_wifi_on_ble_off">Naka-on ang pag-scan ng WLAN, naka-off ang pag-scan ng Bluetooth</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Parehong naka-on ang pag-scan ng WLAN at Bluetooth</string>
+    <string name="somc_backup_failed_no_wifi_summary">Naghihintay ng koneksyon sa WLAN</string>
+    <string name="somc_wifi_turned_on_info">Naka-on ang WLAN. Piliin ang iyong network sa listahan.</string>
+    <string name="stamina_xssm_summary">Hindi pinapagana ang mobile data at WLAN kapag naka-off ang screen</string>
+    <string name="status_wifi_mac_address">MAC address ng WLAN</string>
+    <string name="tethering_no_sim_warning_txt">Mangyaring maglagay ng SIM card upang ibahagi ang koneksyon sa data ng iyong telepono sa iba pang mga device gamit ang Mobile WLAN Hotspot o USB tethering para sa access sa Internet.</string>
+    <string name="usage_type_data_wifi_recv">Natanggap na mga WLAN packet</string>
+    <string name="usage_type_data_wifi_send">Ipinadalang mga WLAN packet</string>
+    <string name="usage_type_wifi_running">Tumatakbo ang WLAN</string>
+    <string name="user_add_user_message_long">"Pwede mong ibahagi ang device na ito sa ibang tao sa pamamagitan ng paggawa ng mga karagdagang user. May sariling espasyo ang bawat user na maaari nilang i-customize gamit ang mga app, wallpaper, at iba pa. Pwede ring isaayos ng mga user ang mga setting ng device tulad ng WLAN na nakakaapekto sa lahat.
+
+Kapag nagdagdag ka ng bagong user, kailangang i-set up ng taong iyon ang kanyang espasyo.
+
+Maaaring mag-update ng mga app ang sinumang user para sa lahat ng iba pang user. Maaaring hindi malipat sa bagong user ang mga setting at serbisyo sa pagiging naa-access."</string>
+    <string name="usm_descr">"Patatagalin ng Ultra STAMINA mode ang baterya. Magagamit ito kapag hindi mo ma-charge ang iyong device nang matagal.
+
+Kaunting pangunahing function lang, tulad ng Telepono at Pagmemensahe ang magiging available. Tapikin ang \"Higit pang info\" para sa higit pang mga detalye.
+
+Tandaan na hindi pagaganahin ang koneksyon sa Internet sa pamamagitan ng WLAN at data sa Mobile."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Hindi posible ang mga emergency na tawag sa pamamagitan ng Pagtawag sa WLAN.
+Awtomatikong nagpapalit ang device patungo sa isang cellular network (2G/3G) upang gumawa ng emergency na tawag.
+Posible lang ang mga emergency na tawag sa mga lugar na may signal ng telepono."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">Mga emergency na tawag gamit ang pagtawag sa WLAN</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone Pagtawag sa WLAN</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"Para i-on ang pagtawag gamit ang WLAN, kailangan mong i-on ang Lokasyon at piliin ang mode na Napakatumpak o Pagtitipid ng baterya.
+
+Pakitiyak na mananatiling naka-on ang Lokasyon habang tumatawag gamit ang WLAN."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Hindi posible ang mga emergency na tawag sa pamamagitan ng Pagtawag sa WLAN.
+Awtomatikong nagpapalit ang device patungo sa isang cellular network (2G/3G) upang gumawa ng emergency na tawag.
+Posible lang ang mga emergency na tawag sa mga lugar na may signal ng telepono."</string>
+    <string name="wfc_location_info_dialog_desc_txt">Ang iyong impormasyong nauugnay sa lokasyon ay maaaring ipadala sa Google at sa iyong operator para makapagkonekta ng mga tawag sa WLAN, naka-enable man o hindi ang setting ng Lokasyon.</string>
+    <string name="wfc_provisioned_switch_string">Naka-provision ang Pagtawag gamit ang WLAN</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">Mga WLAN network</string>
+    <string name="wifi_advanced_not_available">Hindi available para sa user na ito ang mga advanced na setting ng WLAN</string>
+    <string name="wifi_advanced_settings_label">Mga setting ng WLAN</string>
+    <string name="wifi_advanced_titlebar">Advanced na WLAN</string>
+    <string name="wifi_ap_band_select_one">Pumili ng kahit isang band para sa WLAN hotspot:</string>
+    <string name="wifi_ask_disable">Gustong i-off ng %s ang WLAN</string>
+    <string name="wifi_ask_enable">Gustong i-on ng %s ang WLAN</string>
+    <string name="wifi_auto_network_switch_setting_msg">Awtomatikong lumipat sa mas gustong network kapag parehong may WLAN at mobile network</string>
+    <string name="wifi_calling_link_to_register_emergency_address">Mag-click dito para magrehistro para sa Pagtawag sa WLAN o para i-update ang iyong umiiral na Emergency na Address</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Kung hindi available ang mobile network, gamitin ang WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Tumawag gamit ang WLAN. Kung mawawala ang WLAN, matatapos ang tawag.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Kung hindi available ang WLAN, gamitin ang mobile network</string>
+    <string name="wifi_calling_not_supported">Hindi sinusuportahan ang pagtawag gamit ang WLAN para sa %1$s</string>
+    <string name="wifi_calling_off_explanation">"Gumamit ng tawag sa WLAN para gumanda ang kalidad ng tawag sa mga lugar na mahina ang signal para sa mobile network.
+
+Halaga
+Para sa impormasyon tungkol sa mga singil para sa tawag sa WLAN, mangyaring makipag-ugnayan sa iyong service provider.
+
+Mga paunawa sa tawag sa WLAN
+Para manatili sa tawag sa WLAN, tiyaking manatili sa range ng WLAN."</string>
+    <string name="wifi_calling_on_dialog_text">Upang gamitin ang Pagtawag gamit ang WLAN, itakda ang Gustong SIM para sa Mobile data patungong SIM 1</string>
+    <string name="wifi_calling_settings_activation_instructions">I-activate ang Pagtawag gamit ang WLAN</string>
+    <string name="wifi_calling_settings_title">Pagtawag gamit ang WLAN</string>
+    <string name="wifi_calling_suggestion_summary">I-on ang pagtawag sa WLAN para i-extend ang saklaw</string>
+    <string name="wifi_calling_suggestion_title">I-extend ang mga tawag gamit ang WLAN</string>
+    <string name="wifi_calling_summary">Gumamit ng WLAN para sa mga tawag para mapahusay ang kalidad</string>
+    <string name="wifi_calling_turn_on">I-on ang pagtawag gamit ang WLAN</string>
+    <string name="wifi_carrier_connect">Carrier ng WLAN network</string>
+    <string name="wifi_cellular_data_fallback_summary">Gumamit ng mobile data kapag walang access sa internet ang WLAN. Maaaring may mailapat na singilin sa paggamit ng data.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">Hindi awtomatikong nag-o-on ulit ang WLAN</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">Awtomatikong nag-o-on muli ang WLAN</string>
+    <string name="wifi_configure_settings_preference_title">Mga kagustuhan sa WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Baguhin ang WLAN Certificate</string>
+    <string name="wifi_data_template">^1 na WLAN data</string>
+    <string name="wifi_data_usage">Paggamit ng WLAN data</string>
+    <string name="wifi_disabled_wifi_failure">Pagkabigo ng Koneksyon sa WLAN</string>
+    <string name="wifi_dpp_add_device_to_wifi">Idagdag ang device na ito sa “%1$s”?</string>
+    <string name="wifi_dpp_center_qr_code">Igitna ang QR code sa ibaba para maidagdag ang device sa “%1$s”</string>
+    <string name="wifi_dpp_failure_not_supported">Hindi sinusuportahan ng device na ito ang pagdaragdag ng “%1$s”</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">I-scan ang QR code na ito para kumonekta sa “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Igitna ang QR code sa ibaba para makakonekta sa “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Sumali sa WLAN sa pamamagitan ng pag-scan ng QR code</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">I-scan ang QR code na ito para kumonekta sa “%1$s” at ibahagi ang password</string>
+    <string name="wifi_dpp_share_wifi">Ibahagi ang WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Ibinabahagi ang WLAN sa device na ito…</string>
+    <string name="wifi_dpp_wifi_password">Password ng WLAN: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">Naibahagi ang WLAN sa device</string>
+    <string name="wifi_empty_list_user_restricted">Wala kang pahintulot na baguhin ang WLAN network.</string>
+    <string name="wifi_empty_list_wifi_off">Para sa mga available na network, i-on ang WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Naghahanap ng mga WLAN network...</string>
+    <string name="wifi_hotspot_auto_off_summary">Mag-o-off ang WLAN hotspot kung walang nakakonektang device</string>
+    <string name="wifi_hotspot_configure_ap_text">Pag-setup ng WLAN hotspot</string>
+    <string name="wifi_hotspot_footer_info_regular">Gamitin ang hotspot upang gumawa ng WLAN network para sa iyong iba pang device. Nagbibigay ng internet ang hotspot gamit ang iyong koneksyon ng mobile data. Maaaring may mailapat na karagdagang singilin sa mobile data.</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Awtomatikong ikonekta sa mga available na Passpoint network kapag naka-on ang WLAN</string>
+    <string name="wifi_limit_optimizations_summary">Limit bateryang gamit ng WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN na nasa oras</string>
+    <string name="wifi_p2p_settings">Mga setting ng WLAN Direct</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Huwag gumamit ng WLAN network maliban kung mayroon itong magandang koneksyon sa internet</string>
+    <string name="wifi_quick_toggle_summary">I-on ang WLAN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Para mapahusay ang katumpakan ng lokasyon at para sa ibang layunin, gustong i-on ng hindi kilalang app ang pag-scan ng network, kahit na naka-off ang WLAN.
+
+Payagan ito para sa app na gustong mag-scan?"</string>
+    <string name="wifi_scan_always_turnon_message">"Upang mapahusay ang katumpakan ng lokasyon at para sa iba pang mga layunin, gustong i-on ng %1$s ang pag-scan ng network, kahit na naka-off ang WLAN.
+
+Payagan ito para sa lahat ng apps na gustong mag-scan?"</string>
+    <string name="wifi_scan_notify_text">Para pahusayin ang katumpakan ng lokasyon, maaari pa ring mag-scan ng mga WLAN network ang mga app at serbisyo anumang oras, kahit habang naka-off ang WLAN. Magagamit ito, halimbawa, para pahusayin ang mga feature at serbisyong batay sa lokasyon. Mababago mo ito sa LINK_BEGINmga setting ng pag-scanLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Upang pahusayin ang katumpakan ng lokasyon, i-on ang pag-scan ng WLAN sa LINK_BEGINmga setting ng pag-scanLINK_END.</string>
+    <string name="wifi_scan_throttling">Pag-throttle ng pag-scan ng WLAN</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">Na-secure gamit ang WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Na-secure gamit ang WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">Pumili ng WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">Naka-on ang WLAN sa sleep</string>
+    <string name="wifi_setting_sleep_policy_title">Panatilihing naka-on ang WLAN habang naka-sleep</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Mga setting ng WLAN</string>
+    <string name="wifi_settings_master_switch_title">Gumamit ng WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">Na-on ang pag-scan ng WLAN</string>
+    <string name="wifi_settings_scanning_required_info">Nagbibigay-daan ang pag-scan ng WLAN sa mga app at serbisyo para mag-scan ng mga WLAN network anumang oras, kahit na naka-off ang WLAN. Magagamit ito, halimbawa, para pahusayin ang mga feature at serbisyong batay sa lokasyon.</string>
+    <string name="wifi_settings_scanning_required_summary">Para awtomatikong i-on ang WLAN, kailangan mo munang i-on ang pag-scan ng WLAN.</string>
+    <string name="wifi_settings_scanning_required_title">I-on ang pag-scan ng WLAN?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Ino-on ang WLAN…</string>
+    <string name="wifi_stopping">Ino-off ang WLAN...</string>
+    <string name="wifi_suspend_optimizations">Pag-optimize ng WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Bawasan ang paggamit ng baterya kapag naka-on ang WLAN</string>
+    <string name="wifi_switch_away_when_unvalidated">Lumipat sa mobile data kung mawawalan ang WLAN ng access sa internet.</string>
+    <string name="wifi_tether_settings_subtext">I-set up at pamahalaan ang portable na WLAN hotspot</string>
+    <string name="wifi_tether_settings_text">Setting ng Portable na WLAN hotspot</string>
+    <string name="wifi_tethering_warning_txt">Maaantala ang anumang kasalukuyang isinasagawang aktibidad sa WLAN gaya ng media transfer, pag-update sa software ng telepono, pag-backup at pag-restore.</string>
+    <string name="wifi_turned_on_message">Na-on ang WLAN</string>
+    <string name="wifi_verbose_logging">I-enable ang Pagla-log sa WLAN Verbose</string>
+    <string name="wifi_verbose_logging_summary">Pataasin ang antas ng WLAN logging, ipakita sa bawat SSID RSSI sa WLAN Picker</string>
+    <string name="wifi_wakeup">Awtomatikong i-on ang WLAN</string>
+    <string name="wifi_wakeup_summary">Mag-o-on ulit ang WLAN kapag malapit sa mga naka-save na network na may mataas na kalidad, gaya ng iyong home network</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Hindi available dahil naka-off ang pag-scan ng WLAN</string>
+    <string name="wifi_wps_category_title">I-set up ang WLAN network</string>
+    <string name="wps_strings_wifi_disconnected_txt">Nadiskonekta ang WLAN. Nakansela ang setup.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"Ang STAMINA mode ay nakatitipid ng power ng baterya sa pamamagitan ng pagsasaayos sa mga setting ng device. Maaari kang pumili ng mga application na pagaganahin nang may mababang functionality habang nasa sleep mode. (Makakatulong ito sa iyo na makatipid ng power ng baterya dahil ang karamihan sa mga app ay umuubos ng baterya kahit nasa sleep mode.)
+
+Naka-disable ang mga function para sa mga napiling app:
+- WLAN
+- Mobile data
+- Timer
+
+Ang ilaw ng notification para sa lahat ng app ay nagpa-flash na iisa ang kulay at sa iisang frequency habang nasa sleep mode.
+
+Made-deactivate ang STAMINA mode habang kinoknotrol mo ang device."</string>
+</resources>

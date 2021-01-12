@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Navnet på din enhed er synligt for apps på din telefon. Det kan muligvis også ses af andre, når du opretter forbindelse til Bluetooth-enheder eller konfigurerer et WLAN-hotspot.</string>
+    <string name="accessibility_no_wifi">WLAN er afbrudt.</string>
+    <string name="accessibility_wifi_off">WLAN er slået fra.</string>
+    <string name="accessibility_wifi_one_bar">WLAN har én bjælke.</string>
+    <string name="accessibility_wifi_signal_full">WLAN har fuldt signal.</string>
+    <string name="accessibility_wifi_three_bars">WLAN har tre bjælker.</string>
+    <string name="accessibility_wifi_two_bars">WLAN har to bjælker.</string>
+    <string name="backup_data_summary">Sikkerhedskopiér appdata, WLAN-adgangskoder og andre indstillinger på Googles servere</string>
+    <string name="backup_erase_dialog_message">Vil du stoppe sikkerhedskopieringen af dine WLAN-adgangskoder, bogmærker, andre indstillinger og appdata samt slette alle kopier på Googles servere?</string>
+    <string name="battery_action_wifi">Indstillinger for WLAN</string>
+    <string name="battery_desc_wifi">Batteri brugt af WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Deaktiver WLAN, når det ikke er i brug eller tilgængeligt</string>
+    <string name="battery_usm_desc">"Ultra STAMINA-tilstand forlænger batteritiden i væsentlig grad. Bemærk, at da internetforbindelsen via WLAN og mobildata deaktiveres, er funktioner som datasynkronisering og WLAN-opkald ikke tilgængelige. Din startskærm ændres til startskærmen for Ultra STAMINA-tilstand.
+
+Tilgængelige apps i Ultra STAMINA-tilstand"</string>
+    <string name="battery_usm_desc_variable">"I Ultra STAMINA-tilstand forlænges batteritiden i væsentlig grad. Bemærk, at da internetforbindelsen via WLAN og mobildata deaktiveres, er funktioner som datasynkronisering og %s ikke tilgængelige. Din startskærm ændres til startskærmen for Ultra STAMINA-tilstand.
+
+Tilgængelige apps i Ultra STAMINA-tilstand"</string>
+    <string name="bluetooth_on_time">WLAN til tiden</string>
+    <string name="bs_feature_wifi">WLAN fra</string>
+    <string name="change_wifi_state_app_detail_summary">Giv denne app tilladelse til at aktivere og deaktivere WLAN, søge efter og oprette forbindelse til WLAN-netværk, tilføje og fjerne netværk eller starte et lokalt hotspot</string>
+    <string name="change_wifi_state_app_detail_switch">Giv appen tilladelse til at styre WLAN</string>
+    <string name="change_wifi_state_title">Styring af WLAN</string>
+    <string name="condition_bg_data_summary">Baggrundsdata er kun tilgængelig via WLAN. Dette kan påvirke nogle apps eller tjenester, når WLAN er ikke tilgængelig.</string>
+    <string name="condition_cellular_summary">Der er kun internetadgang via WLAN</string>
+    <string name="connected_via_app">Forbundet via %1$s</string>
+    <string name="credential_for_wifi">Installeret til WLAN</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN forbundet</string>
+    <string name="cw_network_notification">Aktiver CT WLAN-meddelelse</string>
+    <string name="cw_network_priority">Prioriter China Telecom WLAN</string>
+    <string name="cw_network_priority_summary">China Telecom WLAN-netværk vil blive prioriteret i forhold til andre WLAN-netværk ved forbindelse</string>
+    <string name="data_service_except_mms_disabled_warning_txt">Medmindre du bruger WLAN, kan du ikke længere bruge internettet, mail eller andre apps, der kræver en dataforbindelse. Vil du slå den mobile dataforbindelse fra?</string>
+    <string name="data_traffic_disabled_text">Kunne ikke oprette forbindelse til China Telecom WLAN-netværk, da datatrafik er deaktiveret. Aktiver datatrafik nu?</string>
+    <string name="data_usage_app_summary_title">Mobildata og WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Angiv grænse for WLAN-data</string>
+    <string name="data_usage_menu_hide_wifi">Skjul WLAN</string>
+    <string name="data_usage_menu_show_wifi">Se WLAN</string>
+    <string name="data_usage_metered_wifi">Forbrugsbaserede WLAN-netværk</string>
+    <string name="data_usage_metered_wifi_disabled">Hvis du vil vælge forbrugsbaserede netværk, skal du slå WLAN til.</string>
+    <string name="data_usage_restrict_background">Hvis du begrænser mobildata, der kører i baggrunden, vil nogle apps og tjenester ikke fungere, medmindre du har forbindelse til et WLAN-netværk.</string>
+    <string name="data_usage_restrict_background_multiuser">"Hvis du begrænser mobildata, der kører i baggrunden, vil nogle apps og tjenester ikke fungere, medmindre du har forbindelse til et WLAN-netværk.
+
+Denne indstilling påvirker alle brugere af denne telefon."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 brugt via WLAN</string>
+    <string name="data_usage_wifi_title">WLAN-data</string>
+    <string name="dialog_message_hint">"STAMINA-tilstand omfatter:
+
+• Udvidet standby
+Sparer strøm, når skærmen er slukket, ved at deaktivere WLAN og mobildata midlertidigt. De fleste programmer vil være inaktive.
+Når skærmen er TÆNDT, fungerer din telefon normalt.
+Hvis nogle apps skal være aktive, mens Udvidet tilstand er slået TIL, skal du føje appsene til listen APPS AKTIVE I STANDBY.
+
+• Udvidet brug
+Sparer strøm, når din enhed er i brug, ved at begrænse hardwarens ydeevne.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Hvad er STAMINA-tilstand?</u>"
+STAMINA-tilstand er Sonys strømsparetilstand. Den forlænger batteriets levetid, når skærmen er slukket.
+
+"<u>Basisbrug</u>"
+Hvis du vil slå STAMINA-tilstanden til, skal du tappe på knappen på skærmen.
+Når skærmen er slukket, er WLAN- og mobildata midlertidigt deaktiveret, og de fleste programmer er inaktive for at spare på batteriet.
+Når skærmen er tændt, fungerer din telefon normalt.
+
+"<u>Avanceret brug</u>"
+Hvis nogle af dine apps skal være aktive, mens STAMINA er slået til, skal du tilføje disse apps på listen APPS AKTIVE I STANDBY.
+Programmer fungerer måske ikke korrekt, hvis de ikke er føjet til listen.
+
+"<u>Bemærk!</u>"
+Hvis et program ikke fungerer korrekt, skal du registrere appen i APPS AKTIVE I STANDBY eller slå STAMINA-tilstanden fra."</string>
+    <string name="emergency_address_summary">Anvendes som din placering, hvis du foretager et nødopkald via WLAN</string>
+    <string name="fullbackup_data_summary">"Foretag automatisk ekstern backup af enhedsdata (f.eks. WLAN-adgangskoder og opkaldshistorik) og appdata (f.eks. indstillinger og filer, der er gemt i apps).
+
+ Når du slår automatisk backup til, gemmes enheds- og appdata med jævne mellemrum eksternt. Appdata kan være alle former for data, som en app har gemt (afhængigt af udviklerens indstillinger), f.eks. potentielt følsomme data, såsom kontaktpersoner, beskeder og billeder."</string>
+    <string name="fullbackup_erase_dialog_message">Vil du stoppe med at sikkerhedskopiere enhedsdata (f.eks. WLAN-adgangskoder og opkaldshistorik) og appdata (f.eks. indstillinger og filer, som apps har gemt) og slette alle kopier på fjernservere?</string>
+    <string name="install_wapi_certs">Installér WLAN-certifikater</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN-notifikation, wifi-notifikation</string>
+    <string name="l_dialog_message_hint">"STAMINA-tilstand omfatter:
+
+• Udvidet standby
+I denne tilstand spares der strøm, når skærmen er slukket, ved midlertidigt at deaktivere WLAN. De fleste programmer vil være inaktive.
+Når skærmen er tændt, fungerer din enhed normalt.
+Hvis nogle af dine apps skal være aktive, mens Udvidet standby er aktiveret, skal du føje disse apps til listen Apps aktive i standby.
+
+• Udvidet brug
+I denne tilstand spares der strøm, når din enhed er i brug, ved at begrænse hardwarens ydelse."</string>
+    <string name="location_based_wifi">Placeringsbaseret WLAN</string>
+    <string name="location_neighborhood_level_wifi">Placeringen fastlægges af WLAN</string>
+    <string name="location_network_based">Placering af WLAN- og mobilnet.</string>
+    <string name="location_scanning_screen_title">WLAN- og Bluetooth-scanning</string>
+    <string name="location_scanning_wifi_always_scanning_description">Tillad, at apps og tjenester altid kan søge efter WLAN-netværk, også selvom WLAN er deaktiveret. Dette kan f.eks. bruges til at forbedre placeringsbaserede funktioner og tjenester.</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN-scanning</string>
+    <string name="lost_internet_access_cancel">Bliv på WLAN</string>
+    <string name="lost_internet_access_text">Du kan skifte til mobilnetværket, hvis WLAN-forbindelsen er dårlig. Du kan blive opkrævet betaling for dataforbruget.</string>
+    <string name="lost_internet_access_title">Der er ikke internetadgang via WLAN</string>
+    <string name="mobile_data_always_on_summary">Hold altid mobildata aktiveret, selv når WLAN er aktiveret (for at skifte hurtigt mellem netværk).</string>
+    <string name="network_scorer_change_active_dialog_title">Vil du skifte WLAN-assistent?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Hvis du vil dele dit aktuelle WLAN-netværk, skal du vælge indstillingen \"Del WLAN-oplysninger\" under Indstillinger.</string>
+    <string name="nfc_wifi_share_checkbox">Del WLAN-oplysninger</string>
+    <string name="nfc_wifi_share_title_txt">Del WLAN-oplysninger</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Automatisk forbindelse til AT&amp;T WLAN-hotspot</string>
+    <string name="operator_auto_connect_hotspot_txt">Auto. forbind. til AT&amp;T WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">Medmindre du bruger WLAN, kan du ikke længere bruge internettet, mail eller andre apps, der kræver en dataforbindelse. Vil du slå den mobile dataforbindelse fra?</string>
+    <string name="powersaver_feature_wifi">WLAN fra</string>
+    <string name="radio_controls_summary">Administrer WLAN, Bluetooth, flytilstand, mobilnetværk og VPN-netværk</string>
+    <string name="radio_info_ims_reg_status">"IMS-registrering: %1$s
+VoLTE: %2$s
+VoWLAN: %3$s
+Videoopkald: %4$s
+UT-grænseflade: %5$s"</string>
+    <string name="reset_network_desc">"Denne handling nulstiller alle netværksindstillinger, bl.a.:
+
+"<li>WLAN</li>"
+"<li>Mobildata</li>"
+"<li>Bluetooth</li></string>
+    <string name="restriction_wifi_config_summary">Tillad ændring af WLAN- og mobilindstillinger</string>
+    <string name="restriction_wifi_config_title">WLAN og mobil</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Både WLAN- og Bluetooth-scanning er slået fra</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Bluetooth-scanning er slået til. WLAN-scanning er slået fra</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN-scanning er slået til. Bluetooth-scanning er slået fra</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Både WLAN- og Bluetooth-scanning er slået til</string>
+    <string name="somc_backup_failed_no_wifi_summary">Venter på en WLAN-forbindelse</string>
+    <string name="somc_wifi_turned_on_info">WLAN er slået til. Vælg dit netværk på listen.</string>
+    <string name="stamina_xssm_summary">Deaktiverer mobildata og WLAN, når skærmen er slukket</string>
+    <string name="status_wifi_mac_address">MAC-adresse for WLAN</string>
+    <string name="tethering_no_sim_warning_txt">Isæt et SIM-kort for at dele din telefons dataforbindelse med andre enheder ved hjælp af Mobile WLAN Hotspot eller USB-internetdeling for at få adgang til internettet.</string>
+    <string name="usage_type_data_wifi_recv">Data om WLAN-netværk er modtaget</string>
+    <string name="usage_type_data_wifi_send">Data om WLAN-netværk er sendt</string>
+    <string name="usage_type_wifi_running">WLAN aktiv</string>
+    <string name="user_add_user_message_long">"Du kan dele denne enhed med andre ved at oprette ekstra brugere. Hver bruger har sin egen plads, som kan tilpasses med apps, baggrund osv. Brugerne kan også justere enhedsindstillinger, som for eksempel WLAN, som påvirker alle.
+
+Når du tilføjer en ny bruger, skal vedkommende konfigurere sin plads.
+
+Enhver bruger kan opdatere apps for alle andre brugere. Indstillinger og tjenester for hjælpefunktioner overføres muligvis ikke til den nye bruger."</string>
+    <string name="usm_descr">"I Ultra STAMINA-tilstand forlænges batteriets levetid væsentligt. Tilstanden kan bruges, når du ikke kan oplade din enhed i længere tid.
+
+Kun få grundlæggende funktioner som Telefon og Beskeder vil være tilgængelige. Tap på \"Flere oplysninger\" for at få flere detaljer.
+
+Bemærk, at internetforbindelse via WLAN og mobildata vil blive deaktiveret."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Der kan ikke foretages nødopkald via WLAN-opkald.
+Enheden skifter automatisk til et mobilnetværk (2G/3G) for at foretage et nødopkald.
+Der kan kun foretages nødopkald i områder med mobildækning."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">Nødopkald via WLAN-opkald</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">WLAN-opkald via Vodafone</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"Hvis du vil slå WLAN-opkald til, skal du slå Placering til og vælge tilstanden Høj nøjagtighed eller Batteribesparende.
+
+Sørg for, at Placering er slået til, mens du foretager WLAN-opkald."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Der kan ikke foretages nødopkald via WLAN-opkald.
+Enheden skifter automatisk til et mobilnetværk (2G/3G) for at foretage et nødopkald.
+Der kan kun foretages nødopkald i områder med mobildækning."</string>
+    <string name="wfc_location_info_dialog_desc_txt">Dine placeringsrelaterede oplysninger kan sendes til Google og din operatør, så der kan oprettes WLAN-opkald, uanset om placeringsindstillingen er aktiveret eller ej.</string>
+    <string name="wfc_provisioned_switch_string">WLAN-opkald aktiveret</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN-netværk</string>
+    <string name="wifi_advanced_not_available">Avancerede WLAN-indstillinger er ikke tilgængelige for denne bruger</string>
+    <string name="wifi_advanced_settings_label">WLAN-indstillinger</string>
+    <string name="wifi_advanced_titlebar">Avanceret WLAN</string>
+    <string name="wifi_ap_band_select_one">Vælg mindst ét frekvensbånd til WLAN-hotspottet:</string>
+    <string name="wifi_ask_disable">%s ønsker at deaktivere WLAN</string>
+    <string name="wifi_ask_enable">%s ønsker at aktivere WLAN</string>
+    <string name="wifi_auto_network_switch_setting_msg">Skift automatisk til et foretrukket netværk, når der både er et tilgængeligt WLAN-netværk og mobilnetværk</string>
+    <string name="wifi_calling_link_to_register_emergency_address">Klik her for at tilmelde dig WLAN-opkald eller for at opdatere din eksisterende nødadresse</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Brug WLAN, hvis mobilnetværket ikke er tilgængeligt</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Ring via WLAN. Opkaldet afsluttes, hvis WLAN-forbindelsen afbrydes.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Brug mobilnetværk, hvis der ikk er nogen WLAN-forbindelse</string>
+    <string name="wifi_calling_not_supported">WLAN-opkald understøttes ikke for %1$s</string>
+    <string name="wifi_calling_off_explanation">"Brug WLAN-opkald til at forbedre opkaldskvaliteten på steder, hvor den mobile netværksdækning er dårlig.
+
+Pris
+Du kan få oplysninger om gebyrer for WLAN-opkald ved at kontakte din tjenesteudbyder.
+
+Bemærkning om WLAN-opkald
+Hvis du vil forblive i et WLAN-opkald, skal du sørge for at blive i WLAN-området."</string>
+    <string name="wifi_calling_on_dialog_text">Hvis du vil bruge Opkald via WLAN, skal du angive det foretrukne SIM-kort for mobildata til SIM 1</string>
+    <string name="wifi_calling_settings_activation_instructions">Aktivér WLAN-opkald</string>
+    <string name="wifi_calling_settings_title">Opkald via WLAN</string>
+    <string name="wifi_calling_suggestion_summary">Aktivér WLAN-opkald for at udvide dækningen</string>
+    <string name="wifi_calling_suggestion_title">Udvid opkaldsdækningen med WLAN</string>
+    <string name="wifi_calling_summary">Brug WLAN til opkald for at få en bedre kvalitet</string>
+    <string name="wifi_calling_turn_on">Aktivér WLAN-opkald</string>
+    <string name="wifi_carrier_connect">WLAN-netværk for mobilselskab</string>
+    <string name="wifi_cellular_data_fallback_summary">Brug mobildata, når du ikke har internetadgang via WLAN. Du skal muligvis betale for dataforbrug.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN aktiveres ikke igen automatisk</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN aktiveres igen automatisk</string>
+    <string name="wifi_configure_settings_preference_title">WLAN-præferencer</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Skift WLAN-certifikat</string>
+    <string name="wifi_data_template">^1 WLAN-data</string>
+    <string name="wifi_data_usage">Dataforbrug via WLAN</string>
+    <string name="wifi_disabled_wifi_failure">WLAN-forbindelsesfejl</string>
+    <string name="wifi_dpp_add_device_to_wifi">Vil du føje denne enhed til \"%1$s\"?</string>
+    <string name="wifi_dpp_center_qr_code">Centrer QR-koden nedenfor for at føje enheden til \"%1$s\"</string>
+    <string name="wifi_dpp_failure_not_supported">Tilføjelse af “%1$s\" understøttes ikke på denne enhed</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Scan denne QR-kode for at oprette forbindelse til \"%1$s\"</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Centrer QR-koden nedenfor for at oprette forbindelse til \"%1$s\"</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Opret forbindelse til WLAN-netværket ved at skanne en QR-kode</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Scan denne QR-kode for at oprette forbindelse til \"%1$s\" og dele adgangskoden</string>
+    <string name="wifi_dpp_share_wifi">Del WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Deler WLAN med denne enhed…</string>
+    <string name="wifi_dpp_wifi_password">Adgangskode til WLAN-netværk: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN blev delt med enheden</string>
+    <string name="wifi_empty_list_user_restricted">Du har ikke tilladelse til at ændre WLAN-netværket.</string>
+    <string name="wifi_empty_list_wifi_off">Se tilgængelige netværk ved at aktivere WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Søger efter WLAN-netværk...</string>
+    <string name="wifi_hotspot_auto_off_summary">WLAN-hotspot deaktiveres, hvis der ikke er nogen forbundne enheder</string>
+    <string name="wifi_hotspot_configure_ap_text">Konfiguration af WLAN-hotspot</string>
+    <string name="wifi_hotspot_footer_info_regular">Brug hotspot til at oprette et WLAN-netværk til dine andre enheder. Hotspot leverer internet via din mobildataforbindelse. Yderligere mobildatagebyrer kan forekomme.</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Opret automatisk forbindelse til tilgængelige Passpoint-netværk, når WLAN er slået til</string>
+    <string name="wifi_limit_optimizations_summary">Begræns batteri brugt af WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN til tiden</string>
+    <string name="wifi_p2p_settings">WLAN Direct-indstillinger</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Brug kun WLAN-netværk, hvis det har en god internetforbindelse</string>
+    <string name="wifi_quick_toggle_summary">Slå WLAN til</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"For bl.a. at kunne angive en mere nøjagtig placering vil en ukendt app gerne aktivere netværkssøgning, selv når WLAN er deaktiveret.
+
+Vil du tillade dette for alle apps, der gerne vil søge?"</string>
+    <string name="wifi_scan_always_turnon_message">"For bl.a. at kunne angive en mere nøjagtig placering vil %1$s gerne aktivere netværkssøgning, selv når WLAN er deaktiveret.
+
+Vil du tillade dette for alle apps, der gerne vil søge?"</string>
+    <string name="wifi_scan_notify_text">For at gøre placeringen mere nøjagtig kan apps og tjenester stadig til enhver tid søge efter WLAN-netværk, også selvom WLAN er deaktiveret. Dette kan f.eks. bruges til at forbedre stedbaserede funktioner og tjenester. Du kan ændre dette i LINK_BEGINindstillingerne for scanningLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Hvis du vil forbedre nøjagtigheden af placeringer, skal du slå WLAN-scanning til i LINK_BEGINscanningsindstillingerneLINK_END.</string>
+    <string name="wifi_scan_throttling">Begrænsning af WLAN-scanning</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">Sikret med WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Sikret med WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">Vælg WLAN-netværk</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN aktiveret i dvaletilstand</string>
+    <string name="wifi_setting_sleep_policy_title">Hold WLAN aktiveret i dvale</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Indstillinger for WLAN</string>
+    <string name="wifi_settings_master_switch_title">Brug WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN-scanning blev aktiveret</string>
+    <string name="wifi_settings_scanning_required_info">WLAN-scanning tillader, at apps og tjenester til enhver tid kan søge efter WLAN-netværk, også selvom WLAN er deaktiveret. Dette kan f.eks. bruges til at forbedre stedbaserede funktioner og tjenester.</string>
+    <string name="wifi_settings_scanning_required_summary">Hvis du vil aktivere WLAN automatisk, skal du først aktivere WLAN-scanning.</string>
+    <string name="wifi_settings_scanning_required_title">Vil du aktivere WLAN-scanning?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Aktiverer WLAN...</string>
+    <string name="wifi_stopping">Deaktiverer WLAN...</string>
+    <string name="wifi_suspend_optimizations">WLAN-optimering</string>
+    <string name="wifi_suspend_optimizations_summary">Minimer batteribrug, når WLAN er aktiveret</string>
+    <string name="wifi_switch_away_when_unvalidated">Skift til mobildata, hvis internetadgangen via WLAN mistes.</string>
+    <string name="wifi_tether_settings_subtext">Konfigurer og administrer bærbart WLAN-hotspot</string>
+    <string name="wifi_tether_settings_text">Indstill. for bærbart WLAN-hotspot</string>
+    <string name="wifi_tethering_warning_txt">Alle igangværende WLAN-handlinger, såsom medieoverførsel, opdatering af telefonsoftware, sikkerhedskopiering og gendannelse, afbrydes.</string>
+    <string name="wifi_turned_on_message">WLAN er slået til</string>
+    <string name="wifi_verbose_logging">Aktivér detaljeret WLAN-logføring</string>
+    <string name="wifi_verbose_logging_summary">Øg mængden af WLAN-logføring. Vis opdelt efter SSID RSSI i WLAN-vælgeren</string>
+    <string name="wifi_wakeup">Aktivér WLAN automatisk</string>
+    <string name="wifi_wakeup_summary">WLAN aktiveres igen, når du er i nærheden af gemte netværk af høj kvalitet, f.eks dit hjemmenetværk</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Ikke tilgængelig, fordi WLAN-scanning er slået fra</string>
+    <string name="wifi_wps_category_title">Installer WLAN-netværk</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN-forbindelsen er afbrudt. Opsætningen er annulleret.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINA-tilstanden sparer på batteriforbruget ved at justere enhedsindstillinger. Du kan vælge programmer, der skal køre med reduceret funktionalitet, mens enheden er i slumretilstand. Derved sparer du på batteriet, da de fleste apps forbruger batteri, også selvom enheden er i slumretilstand.
+
+Funktioner, der er deaktiveret for valgte apps:
+- WLAN
+- Mobildata
+- Timer
+
+Meddelelseslyset for alle apps blinker i samme farve med samme hyppighed, når enheden er i slumretilstand.
+
+STAMINA-tilstand er deaktiveret, når du styrer enheden."</string>
+</resources>

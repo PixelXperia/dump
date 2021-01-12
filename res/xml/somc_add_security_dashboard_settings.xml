@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.PreferenceCategory android:title="@string/find_my_device" android:key="find_my_device" settings:before="device_admin_category">
+        <com.sonymobile.settings.preference.IntentPreference android:key="find_my_xperia" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+            <intent android:targetPackage="com.sonymobile.mx.android" android:targetClass="com.sonymobile.mx.android.ui.StatusActivity" />
+        </com.sonymobile.settings.preference.IntentPreference>
+    </com.sonymobile.settings.preference.PreferenceCategory>
+    <com.sonymobile.settings.preference.SwitchPreference android:title="@string/nfc_osaifu_keitai_lock_title" android:key="nfc_screen_sync_setting" android:summary="@string/summary_placeholder" settings:before="lock_screen_category" settings:dependOnIsValidIntent="true" settings:dependOnSystemProperty="ro.sys.sync_setting_on_security" settings:valueOfSettingsSecure="somc.nfc_screen_sync_enabled">
+        <intent android:targetPackage="com.sonymobile.nfc.clfstate" android:action="com.sonymobile.nfc.action.NOTIFY_SCREEN_SYNC_SETTING_CHANGED" android:targetClass="com.sonymobile.nfc.clfstate.ScreenLockSyncSettingReceiver" />
+    </com.sonymobile.settings.preference.SwitchPreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnIsValidIntent="true" settings:targetKey="nfc_screen_sync_setting">
+        <intent android:targetPackage="jp.softbank.mb.nfclockap" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.nfc.lock.sbm.LockSettings" />
+    </com.sonymobile.settings.preference.RemovePreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="nfc_lock_setting" settings:before="security_category_profile" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="jp.softbank.mb.nfclockap" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.nfc.lock.sbm.LockSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/settings_docomo_uim_lock_title" android:key="docomo_uim_lock_settings" android:summary="@string/settings_docomo_uim_lock_summary" settings:after="sim_lock_settings" settings:dependOnIsValidIntent="true">
+        <intent android:targetPackage="com.nttdocomo.android.uimlockcontrol" android:targetClass="com.nttdocomo.android.uimlockcontrol.UimLockControl" />
+    </com.sonymobile.settings.preference.IntentPreference>
+</PreferenceScreen>

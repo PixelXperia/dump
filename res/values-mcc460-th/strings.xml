@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">แอปในโทรศัพท์จะเห็นชื่อของอุปกรณ์ และคนอื่นก็อาจเห็นเช่นกันหากคุณเชื่อมต่อกับอุปกรณ์บลูทูธหรือตั้งค่าฮอตสปอต WLAN</string>
+    <string name="accessibility_no_wifi">ไม่ได้เชื่อมต่อ WLAN</string>
+    <string name="accessibility_wifi_off">WLAN ปิดอยู่</string>
+    <string name="accessibility_wifi_one_bar">สัญญาณ WLAN 1 ขีด</string>
+    <string name="accessibility_wifi_signal_full">สัญญาณ WLAN เต็ม</string>
+    <string name="accessibility_wifi_three_bars">สัญญาณ WLAN 3 ขีด</string>
+    <string name="accessibility_wifi_two_bars">สัญญาณ WLAN 2 ขีด</string>
+    <string name="backup_data_summary">สำรองข้อมูลแอปพลิเคชัน รหัสผ่าน WLAN และการตั้งค่าอื่นๆ ลงในเซิร์ฟเวอร์ของ Google</string>
+    <string name="backup_erase_dialog_message">หยุดการสำรองข้อมูลรหัสผ่าน WLAN, บุ๊กมาร์ก, การตั้งค่าอื่นๆ และข้อมูลแอปพลิเคชัน รวมทั้งลบสำเนาทั้งหมดบนเซิร์ฟเวอร์ของ Google หรือไม่</string>
+    <string name="battery_action_wifi">การตั้งค่า WLAN</string>
+    <string name="battery_desc_wifi">แบตเตอรี่ที่ใช้โดย WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">ปิด WLAN เมื่อไม่ได้ใช้หรือเมื่อใช้งานไม่ได้</string>
+    <string name="battery_usm_desc">"โหมด Ultra STAMINA จะยืดเวลาการใช้งานของแบตเตอรี่ได้มาก ทั้งนี้ ฟังก์ชันต่างๆ เช่น การซิงค์ข้อมูลและการโทรผ่าน WLAN จะไม่สามารถใช้ได้เนื่องจากจะปิดการเชื่อมต่ออินเทอร์เน็ตผ่าน WLAN และอินเทอร์เน็ตมือถือ หน้าจอหลักจะเปลี่ยนไปเป็นหน้าจอในโหมด Ultra STAMINA
+
+แอปที่ใช้ในโหมด Ultra STAMINA ได้"</string>
+    <string name="battery_usm_desc_variable">"โหมด Ultra STAMINA จะยืดเวลาการใช้งานของแบตเตอรี่ได้มาก ทั้งนี้ ฟังก์ชันต่างๆ เช่น การซิงค์ข้อมูลและ %s จะไม่สามารถใช้ได้เนื่องจากจะปิดการเชื่อมต่ออินเทอร์เน็ตผ่าน WLAN และอินเทอร์เน็ตมือถือ หน้าจอหลักจะเปลี่ยนไปเป็นหน้าจอในโหมด Ultra STAMINA
+
+แอปที่ใช้ในโหมด Ultra STAMINA ได้"</string>
+    <string name="bluetooth_on_time">เวลาเปิดใช้ WLAN</string>
+    <string name="bs_feature_wifi">ปิด WLAN</string>
+    <string name="change_wifi_state_app_detail_summary">อนุญาตให้แอปนี้เปิดหรือปิด WLAN, สแกนหาและเชื่อมต่อเครือข่าย WLAN, เพิ่มหรือนำเครือข่ายออก หรือเริ่มฮอตสปอตในพื้นที่เท่านั้น</string>
+    <string name="change_wifi_state_app_detail_switch">อนุญาตให้แอปควบคุม WLAN</string>
+    <string name="change_wifi_state_title">การควบคุม WLAN</string>
+    <string name="condition_bg_data_summary">สามารถใช้ข้อมูลแบ็กกราวด์ผ่าน WLAN ได้เท่านั้น ซึ่งอาจส่งผลกระทบต่อแอปหรือบริการบางอย่างเมื่อไม่มี WLAN</string>
+    <string name="condition_cellular_summary">ใช้อินเทอร์เน็ตได้ผ่าน WLAN เท่านั้น</string>
+    <string name="connected_via_app">เชื่อมต่อแล้วผ่าน %1$s</string>
+    <string name="credential_for_wifi">ติดตั้งแล้วสำหรับ WLAN</string>
+    <string name="ct_wifi_connected_text">เชื่อมต่อ China Telecom WLAN</string>
+    <string name="cw_network_notification">เปิดใช้งานการแจ้งเตือน CT WLAN</string>
+    <string name="cw_network_priority">ให้ China Telecom WLAN สำคัญ</string>
+    <string name="cw_network_priority_summary">เครือข่าย WLAN ของ China Telecom มีความสำคัญเหนือเครือข่าย WLAN อื่นๆ ในการเชื่อมต่อ</string>
+    <string name="data_service_except_mms_disabled_warning_txt">คุณจะไม่สามารถใช้อินเทอร์เน็ต อีเมล หรือแอปอื่นๆ ที่ต้องใช้การเชื่อมต่อข้อมูลได้เว้นแต่ว่าคุณจะใช้ WLAN ปิดการเชื่อมต่อข้อมูลโทรศัพท์เคลื่อนที่?</string>
+    <string name="data_traffic_disabled_text">"ไม่สามารถเชื่อมต่อกับเครือข่าย WLAN ของ China Telecom เนื่องจากการรับส่งข้อมูลถูกปิด
+ใช้งาน เปิดใช้การรับส่งข้อมูล
+ตอนนี้?"</string>
+    <string name="data_usage_app_summary_title">เน็ตมือถือและ WLAN</string>
+    <string name="data_usage_disable_wifi_limit">ตั้งค่าขีดจำกัดข้อมูล WLAN</string>
+    <string name="data_usage_menu_hide_wifi">ซ่อน WLAN</string>
+    <string name="data_usage_menu_show_wifi">แสดง WLAN</string>
+    <string name="data_usage_metered_wifi">เครือข่าย WLAN ที่วัดข้อมูล</string>
+    <string name="data_usage_metered_wifi_disabled">เปิด WLAN เพื่อเลือกเครือข่ายที่มีการวัดปริมาณข้อมูล</string>
+    <string name="data_usage_restrict_background">หากคุณจำกัดอินเทอร์เน็ตมือถือในพื้นหลัง แอปและบริการบางอย่างจะไม่ทำงานเว้นแต่คุณจะเชื่อมต่อ WLAN</string>
+    <string name="data_usage_restrict_background_multiuser">"หากคุณจำกัดอินเทอร์เน็ตมือถือในพื้นหลัง แอปและบริการบางอย่างจะไม่ทำงานเว้นแต่คุณจะเชื่อมต่อ WLAN
+
+การตั้งค่านี้ส่งผลต่อผู้ใช้โทรศัพท์นี้ทุกราย"</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">ใช้ไป ^1 จาก WLAN</string>
+    <string name="data_usage_wifi_title">อินเทอร์เน็ตจาก WLAN</string>
+    <string name="dialog_message_hint">"โหมด STAMINA ประกอบด้วย
+
+• ยืดระยะเวลาใช้งานขณะเตรียมพร้อม
+ประหยัดพลังงานเมื่อหน้าจอดับลงโดยการปิดใช้งาน WLAN และข้อมูลระบบเคลื่อนที่ไว้ชั่วคราว แอปพลิเคชันโดยส่วนใหญ่จะไม่ทำงาน
+เมื่อหน้าจอเปิดขึ้น โทรศัพท์ของคุณจะทำงานตามปกติ
+หากคุณต้องการให้แอปพลิเคชันบางตัวทำงานในขณะที่ใช้ \"ยืดระยะเวลาใช้งานขณะเตรียมพร้อม\" ให้เพิ่มแอปพลิเคชันลงในรายการ \"แอปพลิเคชันที่ทำงานขณะเตรียมพร้อม\"
+
+• ยืดระยะเวลาขณะใช้งาน
+ประหยัดพลังงานขณะใช้งานอุปกรณ์โดยการจำกัดประสิทธิภาพการทำงานของฮาร์ดแวร์
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>โหมด STAMINA คืออะไร</u>"
+โหมด STAMINA เป็นฟังก์ชันประหยัดพลังงานของ Sony ที่ช่วยให้ใช้แบตเตอรี่ได้นานขึ้นเมื่อหน้าจอปิดอยู่
+
+"<u>การใช้งานขั้นพื้นฐาน</u>"
+หากต้องการเปิดใช้งานโหมด STAMINA ให้แตะปุ่มบนหน้าจอ
+เมื่อหน้าจอปิดอยู่ WLAN และข้อมูลเครือข่ายจะปิดใช้งานชั่วคราว และแอปพลิเคชันส่วนใหญ่ของคุณจะไม่ทำงานเพื่อประหยัดแบตเตอรี่
+เมื่อหน้าจอเปิดขึ้นมา โทรศัพท์ของคุณจะทำงานตามปกติ
+
+"<u>การใช้งานขั้นสูง</u>"
+หากคุณต้องการให้แอปพลิเคชันบางรายการยังคงทำงานอยู่ขณะเปิดโหมด STAMINA ให้เพิ่มแอปในรายการ แอปที่ทำงานขณะเตรียมพร้อม
+แอปพลิเคชันอาจทำงานผิดพลาดหากไม่ถูกเพิ่มในรายการ
+
+"<u>หมายเหตุ</u>"
+หากแอปพลิเคชันทำงานผิดพลาด ให้ลงทะเบียนแอปใน \"แอปที่ทำงานขณะเตรียมพร้อม\" หรือปิดใช้งานโหมด STAMINA"</string>
+    <string name="emergency_address_summary">ใช้เป็นตำแหน่งของคุณเมื่อโทรหาหมายเลขฉุกเฉินผ่าน WLAN</string>
+    <string name="fullbackup_data_summary">"สำรองข้อมูลในอุปกรณ์ (เช่น รหัสผ่าน WLAN และประวัติการโทร) และข้อมูลแอป (เช่น การตั้งค่าและไฟล์ที่แอปจัดเก็บไว้) ลงใน Google ไดร์ฟจากระยะไกลโดยอัตโนมัติ
+
+เมื่อคุณเปิดเปิดการสำรองข้อมูลอัตโนมัติ ระบบจะบันทึกข้อมูลอุปกรณ์และข้อมูลแอปไปยังโฟลเดอร์ส่วนตัวใน Google ไดรฟ์เป็นระยะๆ ข้อมูลแอปอาจเป็นข้อมูลใดๆ ก็ตามที่แอปบันทึกไว้ (ตามการตั้งค่าของนักพัฒนาซอฟต์แวร์) ซึ่งรวมถึงข้อมูลที่อาจมีความละเอียดอ่อน เช่น รายชื่อติดต่อ ข้อความ และรูปภาพ"</string>
+    <string name="fullbackup_erase_dialog_message">หยุดการสำรองข้อมูลอุปกรณ์ (เช่น รหัสผ่าน WLAN และประวัติการโทร) และข้อมูลแอป (เช่น การตั้งค่าและไฟล์ที่แอปจัดเก็บไว้) พร้อมทั้งลบสำเนาทั้งหมดบนเซิร์ฟเวอร์ระยะไกลไหม</string>
+    <string name="install_wapi_certs">ติดตั้งใบรับรอง WLAN</string>
+    <string name="keywords_wifi_notify_open_networks">การแจ้งเตือน WLAN การแจ้งเตือน wifi</string>
+    <string name="l_dialog_message_hint">"โหมด STAMINA ประกอบด้วย
+
+• เพิ่มเวลาสแตนด์บาย
+ประหยัดพลังงานขณะหน้าจอดับลงโดยปิดใช้ WLAN ชั่วคราว แอปพลิเคชันส่วนใหญ่จะไม่ทำงาน
+เมื่อหน้าจอเปิดขึ้น อุปกรณ์จะทำงานตามปกติ
+หากคุณต้องการให้แอปบางแอปทำงานต่อไปขณะเปิดเพิ่มเวลาสแตนด์บาย ให้เพิ่มแอปลงในรายการแอปที่ทำงานขณะสแตนด์บาย
+
+• เพิ่มเวลาใช้งาน
+ประหยัดพลังงานขณะใช้งานอุปกรณ์โดยจำกัดประสิทธิภาพการทำงานของฮาร์ดแวร์"</string>
+    <string name="location_based_wifi">WLAN ตามตำแหน่งที่ตั้ง</string>
+    <string name="location_neighborhood_level_wifi">ตำแหน่งที่กำหนดโดย WLAN</string>
+    <string name="location_network_based">ตำแหน่ง WLAN และเครือข่าย</string>
+    <string name="location_scanning_screen_title">การสแกนหา WLAN และบลูทูธ</string>
+    <string name="location_scanning_wifi_always_scanning_description">อนุญาตให้แอปและบริการต่างๆ สแกนหาเครือข่าย WLAN ตลอดเวลาแม้ WLAN จะปิดอยู่ การตั้งค่านี้ใช้เพื่อปรับปรุงสิ่งต่างๆ เช่น ฟีเจอร์และบริการตามสถานที่</string>
+    <string name="location_scanning_wifi_always_scanning_title">การสแกนหา WLAN</string>
+    <string name="lost_internet_access_cancel">ใช้ WLAN ต่อไป</string>
+    <string name="lost_internet_access_text">คุณสลับไปใช้เครือข่ายมือถือได้เมื่อใดก็ตามที่การเชื่อมต่อ WLAN มีสัญญาณไม่ดี อาจมีค่าบริการจากการใช้อินเทอร์เน็ตมือถือ</string>
+    <string name="lost_internet_access_title">WLAN ไม่ได้เชื่อมต่ออินเทอร์เน็ต</string>
+    <string name="mobile_data_always_on_summary">เปิดใช้เน็ตมือถือเสมอ แม้ในเวลาที่ใช้งาน WLAN ได้ (เพื่อเปลี่ยนเครือข่ายได้อย่างรวดเร็ว)</string>
+    <string name="network_scorer_change_active_dialog_title">เปลี่ยน WLAN Assistant ใช่ไหม</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">หากต้องการแชร์เครือข่าย WLAN ป้จจุบัน ให้เลือกตัวเลือก \"แชร์ข้อมูล WLAN\" ในการตั้งค่า</string>
+    <string name="nfc_wifi_share_checkbox">แชร์ข้อมูล WLAN</string>
+    <string name="nfc_wifi_share_title_txt">แชร์ข้อมูล WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">เชื่อมต่ออัตโนมัติไปยังฮอตสปอต WLAN ของ AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">ต่อ AT&amp;T WLAN อัตโนมัติ</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">คุณจะไม่สามารถใช้อินเทอร์เน็ต อีเมล หรือแอปอื่นๆ ที่ต้องใช้การเชื่อมต่อข้อมูลได้เว้นแต่ว่าคุณจะใช้ WLAN ปิดการเชื่อมต่อข้อมูลโทรศัพท์เคลื่อนที่?</string>
+    <string name="powersaver_feature_wifi">ปิด WLAN</string>
+    <string name="radio_controls_summary">จัดการ WLAN, บลูทูธ, โหมดใช้งานบนเครื่องบิน, เครือข่ายมือถือ และ VPN</string>
+    <string name="radio_info_ims_reg_status">"การลงทะเบียน IMS: %1$s
+การสื่อสารทางเสียงผ่าน LTE: %2$s
+การสื่อสารทางเสียงผ่าน WLAN: %3$s
+การโทรแบบวิดีโอคอล: %4$s
+อินเทอร์เฟซ UT: %5$s"</string>
+    <string name="reset_network_desc">"การดำเนินการนี้จะรีเซ็ตการตั้งค่าเครือข่ายทั้งหมด รวมถึง:
+
+"<li>WLAN</li>"
+"<li>อินเทอร์เน็ตมือถือ</li>"
+"<li>บลูทูธ</li></string>
+    <string name="restriction_wifi_config_summary">อนุญาตให้แก้ไขการตั้งค่า WLAN และมือถือ</string>
+    <string name="restriction_wifi_config_title">WLAN และมือถือ</string>
+    <string name="scanning_status_text_wifi_off_ble_off">การสแกนหาทั้ง WLAN และบลูทูธปิดอยู่</string>
+    <string name="scanning_status_text_wifi_off_ble_on">การสแกนหาบลูทูธเปิดอยู่ การสแกนหา WLAN ปิดอยู่</string>
+    <string name="scanning_status_text_wifi_on_ble_off">การสแกนหา WLAN เปิดอยู่ การสแกนหาบลูทูธปิดอยู่</string>
+    <string name="scanning_status_text_wifi_on_ble_on">การสแกนหาทั้ง WLAN และบลูทูธเปิดอยู่</string>
+    <string name="somc_backup_failed_no_wifi_summary">กำลังรอการเชื่อมต่อ WLAN</string>
+    <string name="somc_wifi_turned_on_info">WLAN เปิดอยู่ เลือกเครือข่ายของคุณในรายการ</string>
+    <string name="stamina_xssm_summary">ปิดใช้ข้อมูลอุปกรณ์เคลื่อนที่และ WLAN เมื่อปิดหน้าจอ</string>
+    <string name="status_wifi_mac_address">ที่อยู่ MAC ของ WLAN</string>
+    <string name="tethering_no_sim_warning_txt">เสียบ SIM การ์ดเพื่อใช้การเชื่อมต่อข้อมูลของโทรศัพท์ของคุณร่วมกับอุปกรณ์อื่นโดยใช้ Mobile WLAN Hotspot หรือการเชื่อมต่ออินเทอร์เน็ตผ่าน USB เพื่อเข้าใช้งานอินเทอร์เน็ต</string>
+    <string name="usage_type_data_wifi_recv">แพ็กเก็ต WLAN ที่ได้รับ</string>
+    <string name="usage_type_data_wifi_send">แพ็กเก็ต WLAN ที่ส่ง</string>
+    <string name="usage_type_wifi_running">การใช้งาน WLAN</string>
+    <string name="user_add_user_message_long">"คุณจะแชร์อุปกรณ์นี้กับผู้อื่นได้โดยการสร้างผู้ใช้เพิ่มเติม ผู้ใช้แต่ละคนจะมีพื้นที่ของตนเองซึ่งจะปรับใช้กับแอป วอลล์เปเปอร์ และรายการอื่นๆ ได้ อีกทั้งยังปรับการตั้งค่าอุปกรณ์ เช่น WLAN ซึ่งจะมีผลกับทุกคนได้ด้วย
+
+เมื่อคุณเพิ่มผู้ใช้ใหม่ ผู้ใช้ดังกล่าวจะต้องตั้งค่าพื้นที่ของตน
+
+ผู้ใช้ทุกคนจะอัปเดตแอปสำหรับผู้ใช้รายอื่นๆ ทั้งหมดได้ การตั้งค่าและบริการสำหรับการเข้าถึงพิเศษอาจโอนไปยังผู้ใช้ใหม่ไม่ได้"</string>
+    <string name="usm_descr">"โหมด Ultra STAMINA จะเพิ่มระยะเวลาการใช้งานแบตเตอรี่ให้ยาวนานขึ้น ซึ่งสามารถใช้ได้ในกรณีที่คุณไม่สามารถชาร์จอุปกรณ์ของคุณได้เป็นเวลานาน
+
+จะสามารถใช้งานได้เพียงบางฟังก์ชันพื้นฐาน เช่น โทรศัพท์และข้อความ แตะ \"ข้อมูลเพิ่มเติม\" เพื่อดูรายละเอียดเพิ่มเติม
+
+โปรดทราบว่าการเชื่อมต่ออินเทอร์เน็ตผ่าน WLAN และข้อมูลโทรศัพท์เคลื่อนที่จะถูกปิดใช้งาน"</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"ไม่สามารถโทรฉุกเฉินผ่านการโทรผ่าน WLAN ได้
+อุปกรณ์จะเปลี่ยนไปใช้เครือข่ายโทรศัพท์เคลื่อนที่ (2G/3G) โดยอัตโนมัติเพื่อโทรฉุกเฉิน
+การโทรฉุกเฉินใช้ได้ในพื้นที่ที่มีสัญญาณโทรศัพท์เคลื่อนที่เท่านั้น"</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">การโทรฉุกเฉินผ่านการโทรผ่าน WLAN</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">โทรผ่าน WLAN (Vodafone)</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"หากต้องการเปิดการโทรผ่าน WLAN คุณต้องเปิดตำแหน่ง แล้วเลือกโหมดความแม่นยำสูงหรือโหมดประหยัดแบตเตอรี่
+
+โปรดเปิดตำแหน่งในขณะโทรผ่าน WLAN"</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"ไม่สามารถโทรฉุกเฉินผ่านการโทรผ่าน WLAN ได้
+อุปกรณ์จะเปลี่ยนไปใช้เครือข่ายโทรศัพท์เคลื่อนที่ (2G/3G) โดยอัตโนมัติเพื่อโทรฉุกเฉิน
+การโทรฉุกเฉินใช้ได้ในพื้นที่ที่มีสัญญาณโทรศัพท์เคลื่อนที่เท่านั้น"</string>
+    <string name="wfc_location_info_dialog_desc_txt">อาจมีการส่งข้อมูลเกี่ยวกับตำแหน่งที่ตั้งไปให้ Google และผู้ให้บริการเครือข่ายเพื่อทำการโทรผ่าน WLAN ไม่ว่าการตั้งค่าตำแหน่งที่ตั้งจะเปิดหรือไม่ก็ตาม</string>
+    <string name="wfc_provisioned_switch_string">จัดสรรการโทรผ่าน WLAN แล้ว</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">เครือข่าย WLAN</string>
+    <string name="wifi_advanced_not_available">การตั้งค่า WLAN ขั้นสูงไม่พร้อมใช้งานสำหรับผู้ใช้รายนี้</string>
+    <string name="wifi_advanced_settings_label">การตั้งค่า WLAN</string>
+    <string name="wifi_advanced_titlebar">WLAN ขั้นสูง</string>
+    <string name="wifi_ap_band_select_one">เลือกอย่างน้อยหนึ่งย่านความถี่สำหรับฮอตสปอต WLAN:</string>
+    <string name="wifi_ask_disable">%s ต้องการปิด WLAN</string>
+    <string name="wifi_ask_enable">%s ต้องการเปิด WLAN</string>
+    <string name="wifi_auto_network_switch_setting_msg">สลับเป็นเครือข่ายที่ต้องการโดยอัตโนมัติเมื่อมีทั้งเครือข่าย WLAN และเครือข่ายโทรศัพท์เคลื่อนที่</string>
+    <string name="wifi_calling_link_to_register_emergency_address">คลิกที่นี่เพื่อลงทะเบียนการโทรผ่าน WLAN หรืออัปเดตที่อยู่ในกรณีฉุกเฉินเดิม</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">ใช้ WLAN หากเครือข่ายมือถือไม่พร้อมใช้งาน</string>
+    <string name="wifi_calling_mode_wifi_only_summary">โทรผ่าน WLAN สายจะตัดหากสัญญาณ WLAN ขาดหาย</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">ใช้เครือข่ายมือถือหาก WLAN ไม่พร้อมใช้งาน</string>
+    <string name="wifi_calling_not_supported">การโทรผ่าน WLAN ไม่รองรับใน %1$s</string>
+    <string name="wifi_calling_off_explanation">"ใช้การโทรผ่าน WLAN เพื่อเพิ่มคุณภาพการโทรในสถานที่ที่เครือข่ายโทรศัพท์เคลื่อนที่ครอบคลุมได้ไม่ดี
+
+ค่าใช้จ่าย
+โปรดติดต่อผู้ให้บริการของคุณเพื่อรับข้อมูลค่าใช้จ่ายในการโทรผ่าน WLAN ได้เพิ่มเติม
+
+หมายเหตุเกี่ยวกับการโทรผ่าน WLAN
+อยู่ในระยะสัญญาณ WLAN เพื่อให้สามารถโทรผ่าน WLAN ได้ต่อ"</string>
+    <string name="wifi_calling_on_dialog_text">หากต้องการโทรผ่าน WLAN ให้ตั้งค่า SIM การ์ดที่ต้องการสำหรับข้อมูลโทรศัพท์เคลื่อนที่เป็น SIM 1</string>
+    <string name="wifi_calling_settings_activation_instructions">เปิดใช้งานการโทรผ่าน WLAN</string>
+    <string name="wifi_calling_settings_title">การโทรผ่าน WLAN</string>
+    <string name="wifi_calling_suggestion_summary">เปิดการโทรผ่าน WLAN เพื่อขยายความครอบคลุม</string>
+    <string name="wifi_calling_suggestion_title">ขยายการโทรด้วย WLAN</string>
+    <string name="wifi_calling_summary">ใช้ WLAN สำหรับการโทรเพื่อคุณภาพที่ดีขึ้น</string>
+    <string name="wifi_calling_turn_on">เปิดการโทรผ่าน WLAN</string>
+    <string name="wifi_carrier_connect">เครือข่าย WLAN ของผู้ให้บริการ</string>
+    <string name="wifi_cellular_data_fallback_summary">ใช้เน็ตมือถือเมื่อ WLAN เชื่อมต่ออินเทอร์เน็ตไม่ได้ อาจมีค่าบริการจากปริมาณการใช้อินเทอร์เน็ต</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">ไม่เปิด WLAN อีกครั้งโดยอัตโนมัติ</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">เปิด WLAN อีกครั้งโดยอัตโนมัติ</string>
+    <string name="wifi_configure_settings_preference_title">ค่ากำหนด WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">เปลี่ยนใบรับรอง WLAN</string>
+    <string name="wifi_data_template">ข้อมูล WLAN ^1</string>
+    <string name="wifi_data_usage">การใช้อินเทอร์เน็ตผ่าน WLAN</string>
+    <string name="wifi_disabled_wifi_failure">การเชื่อมต่อ WLAN ล้มเหลว</string>
+    <string name="wifi_dpp_add_device_to_wifi">เพิ่มอุปกรณ์นี้ไปยัง “%1$s” ไหม</string>
+    <string name="wifi_dpp_center_qr_code">ถือให้โค้ด QR อยู่กลางช่องด้านล่างเพื่อเพิ่มอุปกรณ์ไปยัง “%1$s”</string>
+    <string name="wifi_dpp_failure_not_supported">อุปกรณ์เครื่องนี้ไม่รองรับการเพิ่ม “%1$s”</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">สแกนโค้ด QR นี้เพื่อเชื่อมต่อกับ “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">ถือให้โค้ด QR อยู่กลางช่องด้านล่างเพื่อเชื่อมต่อไปยัง “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">เข้าร่วม WLAN โดยการสแกนคิวอาร์โค้ด</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">สแกนโค้ด QR นี้เพื่อเชื่อมต่อกับ “%1$s” และแชร์รหัสผ่าน</string>
+    <string name="wifi_dpp_share_wifi">แชร์ WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">กำลังแชร์ WLAN กับอุปกรณ์เครื่องนี้…</string>
+    <string name="wifi_dpp_wifi_password">รหัสผ่าน WLAN: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">แชร์ WLAN กับอุปกรณ์แล้ว</string>
+    <string name="wifi_empty_list_user_restricted">คุณไม่ได้รับอนุญาตให้เปลี่ยนแปลงเครือข่าย WLAN</string>
+    <string name="wifi_empty_list_wifi_off">หากต้องการดูเครือข่ายที่ใช้ได้ ให้เปิด WLAN</string>
+    <string name="wifi_empty_list_wifi_on">กำลังค้นหาเครือข่าย WLAN…</string>
+    <string name="wifi_hotspot_auto_off_summary">ฮอตสปอต WLAN จะปิดถ้าไม่มีอุปกรณ์ที่เชื่อมต่อ</string>
+    <string name="wifi_hotspot_configure_ap_text">การตั้งค่าฮอตสปอต WLAN</string>
+    <string name="wifi_hotspot_footer_info_regular">ใช้ฮอตสปอตเพื่อสร้างเครือข่าย WLAN สำหรับอุปกรณ์อื่นๆ ฮอตสปอตจะแชร์อินเทอร์เน็ตโดยใช้การเชื่อมต่อเน็ตมือถือ อาจมีค่าบริการเน็ตมือถือเพิ่มเติม</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">เชื่อมต่อเครือข่าย Passpoint ที่ใช้งานได้โดยอัตโนมัติเมื่อเปิด WLAN</string>
+    <string name="wifi_limit_optimizations_summary">จำกัดแบตเตอรี่ที่ใช้โดย WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">เวลาเปิดใช้ WLAN</string>
+    <string name="wifi_p2p_settings">การตั้งค่า WLAN Direct</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">อย่าใช้เครือข่าย WLAN หากไม่มีการเชื่อมต่ออินเทอร์เน็ตที่สัญญาณแรงพอ</string>
+    <string name="wifi_quick_toggle_summary">เปิด WLAN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"แอปที่ไม่รู้จักต้องการเปิดการสแกนเครือข่ายแม้ WLAN จะปิดอยู่เพื่อปรับปรุงความแม่นยำของตำแหน่งและวัตถุประสงค์อื่นๆ
+
+อนุญาตการดำเนินการนี้สำหรับทุกแอปที่ต้องการสแกนไหม"</string>
+    <string name="wifi_scan_always_turnon_message">"เพื่อปรับปรุงความแม่นยำของตำแหน่ง และเพื่อวัตถุประสงค์อื่น ๆ %1$s ต้องการเปิดการสแกนเครือข่าย แม้ในขณะที่ไม่มี WLAN 
+ 
+ อนุญาตให้ดำเนินการนี้สำหรับแอปทั้งหมดที่ต้องการสแกนหรือไม่"</string>
+    <string name="wifi_scan_notify_text">เพื่อปรับปรุงความแม่นยำของตำแหน่ง แอปและบริการต่างๆ จะยังคงสแกนหาเครือข่าย WLAN ได้ทุกเมื่อ แม้ว่า WLAN จะปิดอยู่ การตั้งค่านี้ใช้เพื่อปรับปรุงสิ่งต่างๆ เช่น ฟีเจอร์และบริการตามสถานที่ คุณเปลี่ยนแปลงการตั้งค่านี้ได้ในLINK_BEGINการตั้งค่าการสแกนLINK_END</string>
+    <string name="wifi_scan_notify_text_scanning_off">เปิดการสแกน WLAN ในLINK_BEGINการตั้งค่าการสแกนLINK_ENDเพื่อปรับปรุงความแม่นยำของตำแหน่ง</string>
+    <string name="wifi_scan_throttling">การควบคุมการสแกนหา WLAN</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">รักษาความปลอดภัยด้วย WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">รักษาความปลอดภัยด้วย WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">เลือก WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">เปิด WLAN ระหว่างอยู่ในโหมดสลีป</string>
+    <string name="wifi_setting_sleep_policy_title">เปิด WLAN ขณะอยู่ในโหมดสลีป</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">การตั้งค่า WLAN</string>
+    <string name="wifi_settings_master_switch_title">ใช้ WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">เปิดการสแกนหา WLAN แล้ว</string>
+    <string name="wifi_settings_scanning_required_info">การสแกนหา WLAN อนุญาตให้แอปและบริการต่างๆ สแกนหาเครือข่าย WLAN ตลอดเวลาแม้ WLAN จะปิดอยู่ การตั้งค่านี้ใช้เพื่อปรับปรุงสิ่งต่างๆ เช่น ฟีเจอร์และบริการตามสถานที่</string>
+    <string name="wifi_settings_scanning_required_summary">คุณต้องเปิดการสแกนหา WLAN ก่อนจึงจะเปิด WLAN โดยอัตโนมัติได้</string>
+    <string name="wifi_settings_scanning_required_title">เปิดการสแกนหา WLAN ไหม</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">กำลังเปิด WLAN…</string>
+    <string name="wifi_stopping">กำลังปิด WLAN…</string>
+    <string name="wifi_suspend_optimizations">การเพิ่มประสิทธิภาพ WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">ลดการใช้แบตเตอรี่เมื่อ WLAN เปิดอยู่</string>
+    <string name="wifi_switch_away_when_unvalidated">สลับไปใช้เน็ตมือถือหาก WLAN เชื่อมต่ออินเทอร์เน็ตไม่ได้</string>
+    <string name="wifi_tether_settings_subtext">ตั้งค่าและจัดการ WLAN ฮอตสปอตแบบพกพา</string>
+    <string name="wifi_tether_settings_text">การตั้งค่า WLAN ฮอตสปอตแบบพกพา</string>
+    <string name="wifi_tethering_warning_txt">การใช้งาน WLAN ที่กำลังดำเนินการอยู่เช่น การถ่ายโอนมีเดีย การอัปเดตซอฟต์แวร์โทรศัพท์ การสำรองข้อมูล และการเรียกคืนจะถูกขัดจังหวะ</string>
+    <string name="wifi_turned_on_message">เปิด WLAN แล้ว</string>
+    <string name="wifi_verbose_logging">เปิดใช้การบันทึกรายละเอียด WLAN</string>
+    <string name="wifi_verbose_logging_summary">เพิ่มระดับการบันทึก WLAN แสดงต่อ SSID RSSI ในตัวเลือก WLAN</string>
+    <string name="wifi_wakeup">เปิด WLAN อัตโนมัติ</string>
+    <string name="wifi_wakeup_summary">WLAN จะเปิดอีกครั้งเมื่ออยู่ใกล้เครือข่ายคุณภาพสูงที่บันทึกไว้ เช่น เครือข่ายที่บ้านของคุณ</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">ไม่พร้อมใช้งานเพราะการสแกนหา WLAN ปิดอยู่</string>
+    <string name="wifi_wps_category_title">ตั้งค่าเครือข่าย WLAN</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN ถูกยกเลิกการเชื่อมต่อแล้ว การตั้งค่าถูกยกเลิก</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"โหมด STAMINA ประหยัดไฟแบตเตอรี่โดยปรับการตั้งค่าอุปกรณ์ คุณสามารถเลือกแอปพลิเคชันที่จะเรียกใช้โดยลดฟังก์ชั่นการทำงานลงขณะอยู่ในโหมดพักการทำงาน (ซึ่งจะช่วยให้คุณประหยัดไฟแบตเตอรี่เนื่องจากแอปส่วนใหญ่จะใช้ไฟแบตเตอรี่ตลอดเวลาแม้อยู่ในโหมดพักการทำงาน)
+
+ฟังก์ชั่นที่ปิดใช้งานสำหรับแอปที่เลือก:
+- WLAN
+- ข้อมูลมือถือ
+- นาฬิกาตั้งเวลา
+
+ไฟแจ้งแอปทั้งหมดจะกะพริบเป็นสีเดียวกันและด้วยความถี่เท่ากันขณะเข้าสู่โหมดพักการทำงาน
+
+โหมด STAMINA จะปิดใช้งานขณะที่คุณควบคุมอุปกรณ์"</string>
+</resources>

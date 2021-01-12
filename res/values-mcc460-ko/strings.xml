@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">휴대전화에 설치된 앱에 기기 이름이 표시됩니다. 기기 이름은 블루투스 기기에 연결하거나 WLAN 핫스팟을 설정할 때 다른 사용자에게 표시될 수도 있습니다.</string>
+    <string name="accessibility_no_wifi">WLAN 연결이 끊어졌습니다.</string>
+    <string name="accessibility_wifi_off">WLAN가 꺼져 있습니다.</string>
+    <string name="accessibility_wifi_one_bar">WLAN 신호 막대가 한 개입니다.</string>
+    <string name="accessibility_wifi_signal_full">WLAN 신호가 강합니다.</string>
+    <string name="accessibility_wifi_three_bars">WLAN 신호 막대가 세 개입니다.</string>
+    <string name="accessibility_wifi_two_bars">WLAN 신호 막대가 두 개입니다.</string>
+    <string name="backup_data_summary">앱 데이터, WLAN 비밀번호 및 기타 설정을 Google 서버에 백업</string>
+    <string name="backup_erase_dialog_message">WLAN 비밀번호, 북마크, 기타 설정 및 앱 데이터 백업을 중지하고 Google 서버에 있는 모든 사본을 지우시겠습니까?</string>
+    <string name="battery_action_wifi">WLAN 설정</string>
+    <string name="battery_desc_wifi">WLAN에서 배터리 사용</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">사용 중이 아니거나 사용할 수 없을 때 WLAN 끄기</string>
+    <string name="battery_usm_desc">"Ultra STAMINA 모드를 사용하면 배터리 시간이 상당히 늘어납니다. WLAN 및 모바일 데이터를 통한 인터넷 연결은 사용하지 않도록 설정되므로 데이터 동기화 및 WLAN 통화와 같은 기능을 사용할 수 없게 됩니다. 홈 화면은 Ultra STAMINA 모드 홈으로 전환됩니다.
+
+Ultra STAMINA 모드에서 사용 가능한 앱"</string>
+    <string name="battery_usm_desc_variable">"Ultra STAMINA 모드를 사용하면 배터리 시간이 상당히 늘어납니다. WLAN 및 모바일 데이터를 통한 인터넷 연결은 사용하지 않도록 설정되므로 데이터 동기화 및 %s와 같은 기능을 사용할 수 없게 됩니다. 홈 화면은 Ultra STAMINA 모드 홈으로 전환됩니다.
+
+Ultra STAMINA 모드에서 사용 가능한 앱"</string>
+    <string name="bluetooth_on_time">WLAN 사용 시간</string>
+    <string name="bs_feature_wifi">WLAN 끔</string>
+    <string name="change_wifi_state_app_detail_summary">이 앱에서 WLAN를 사용 또는 사용 중지하고, WLAN 네트워크를 검색 및 연결하고, 네트워크를 추가 또는 제거하며, 로컬 전용 핫스팟을 시작하도록 허용합니다.</string>
+    <string name="change_wifi_state_app_detail_switch">앱이 WLAN를 제어하도록 허용</string>
+    <string name="change_wifi_state_title">WLAN 제어</string>
+    <string name="condition_bg_data_summary">백그라운드 데이터는 WLAN를 통해서만 사용할 수 있습니다. WLAN를 사용할 수 없는 경우 일부 앱이나 서비스에 영향을 미칠 수 있습니다.</string>
+    <string name="condition_cellular_summary">WLAN를 통해서만 인터넷 사용 가능</string>
+    <string name="connected_via_app">%1$s을(를) 통해 연결됨</string>
+    <string name="credential_for_wifi">WLAN에 사용하도록 설치됨</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN에 연결됨</string>
+    <string name="cw_network_notification">CT WLAN 알림 사용하도록 설정</string>
+    <string name="cw_network_priority">China Telecom WLAN 우선 지정</string>
+    <string name="cw_network_priority_summary">연결 시 China Telecom WLAN는 기타 WLAN 네트워크보다 우선적으로 지정됨</string>
+    <string name="data_service_except_mms_disabled_warning_txt">WLAN를 사용하지 않으면 인터넷, 이메일 및 데이터 연결이 필요한 기타 앱을 더 이상 사용할 수 없게 됩니다. 모바일 데이터 연결을 끄시겠습니까?</string>
+    <string name="data_traffic_disabled_text">데이터 트래픽을 사용할 수 없어 China Telecom WLAN 네트워크에 연결할 수 없습니다. 데이터 트래픽을 사용하도록 설정하시겠습니까?</string>
+    <string name="data_usage_app_summary_title">모바일 데이터 및 WLAN</string>
+    <string name="data_usage_disable_wifi_limit">WLAN 데이터 제한 설정</string>
+    <string name="data_usage_menu_hide_wifi">WLAN 숨기기</string>
+    <string name="data_usage_menu_show_wifi">WLAN 표시</string>
+    <string name="data_usage_metered_wifi">종량제 WLAN 네트워크</string>
+    <string name="data_usage_metered_wifi_disabled">종량제 네트워크를 선택하려면 WLAN를 사용 설정합니다.</string>
+    <string name="data_usage_restrict_background">백그라운드 모바일 데이터를 제한하는 경우 WLAN에 연결되지 않으면 일부 앱과 서비스가 작동하지 않습니다.</string>
+    <string name="data_usage_restrict_background_multiuser">"백그라운드 모바일 데이터를 제한하는 경우 WLAN에 연결되지 않으면 일부 앱과 서비스가 작동하지 않습니다.
+
+이 설정은 이 휴대전화의 모든 사용자에게 영향을 미칩니다."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">WLAN 데이터 사용량: ^1</string>
+    <string name="data_usage_wifi_title">WLAN 데이터</string>
+    <string name="dialog_message_hint">"STAMINA 모드 포함 사항:
+
+• 확장된 대기
+일시적으로 WLAN와 모바일 데이터의 사용을 중지하여 화면이 꺼졌을 때 전원을 절약합니다. 응용프로그램 대부분이 비활성화됩니다.
+화면이 켜지면 휴대폰이 정상적으로 작동합니다.
+확장된 대기 모드가 켜진 동안 일부 앱을 활성화된 상태로 유지하려면 해당 앱을 대기 모드에서 활성화된 앱 목록에 추가합니다.
+
+• 확장된 사용
+하드웨어 성능을 제한하여 기기를 사용하고 있을 때 전원을 절약합니다.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>STAMINA 모드란 무엇입니까?</u>"
+STAMINA 모드는 Sony의 절전 기능입니다. 이 모드를 사용하면 화면이 꺼져 있을 때 배터리 수명이 연장됩니다.
+
+"<u>기본 사용법</u>"
+STAMINA 모드를 켜려면 화면에서 버튼을 누르세요.
+화면이 꺼지면 배터리 절약을 위해 WLAN 및 모바일 데이터가 일시적으로 사용하지 않도록 설정되고 대부분의 응용프로그램이 비활성화됩니다.
+화면이 켜지면 휴대폰이 정상적으로 작동합니다.
+
+"<u>고급 사용법</u>"
+STAMINA 모드가 켜져 있을 때 일부 응용프로그램을 활성화된 상태로 유지하려면 해당 응용프로그램을 APPS ACTIVE IN STANDBY 목록에 추가하세요.
+해당 응용프로그램이 이 목록에 추가되지 않은 경우 제대로 작동되지 않을 수 있습니다.
+
+"<u>참고</u>"
+응용프로그램이 제대로 작동하지 않으면 APPS ACTIVE IN STANDBY 목록에 추가하거나 STAMINA 모드를 끄세요."</string>
+    <string name="emergency_address_summary">WLAN를 통해 긴급 전화를 걸 때 내 위치로 사용됨</string>
+    <string name="fullbackup_data_summary">"기기 데이터(예: WLAN 비밀번호, 통화 기록)와 앱 데이터(예: 앱에서 저장한 설정 및 파일)를 원격으로 자동 백업합니다.
+
+자동 백업을 사용하도록 설정하면 기기 및 앱 데이터가 정기적으로 원격 저장됩니다. 앱 데이터는 연락처, 메시지, 사진과 같은 민감한 데이터를 포함하여 개발자 설정에 따라 앱에서 저장한 모든 데이터가 해당될 수 있습니다."</string>
+    <string name="fullbackup_erase_dialog_message">기기 데이터(예: WLAN 비밀번호, 통화 기록)와 앱 데이터(예: 앱에서 저장한 설정 및 파일) 백업을 중단하고 원격 서버에 있는 모든 사본을 삭제하시겠습니까?</string>
+    <string name="install_wapi_certs">WLAN 인증서 설치</string>
+    <string name="keywords_change_wifi_state">WLAN, WLAN, 전환, 제어</string>
+    <string name="keywords_hotspot_tethering">USB 테더링, 블루투스 테더링, WLAN 핫스팟</string>
+    <string name="keywords_wifi">wifi, WLAN, 네트워크 연결, 인터넷, 무선, 데이터, WLAN</string>
+    <string name="keywords_wifi_calling">WLAN, WLAN, 전화, 통화</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN 알림, WLAN 알림</string>
+    <string name="l_dialog_message_hint">"STAMINA 모드에 포함된 기능은 다음과 같습니다.
+
+• 확장된 대기
+WLAN를 일시적으로 사용하지 않도록 설정하여 화면이 꺼져 있을 때 전원을 절약합니다. 대부분의 응용프로그램이 비활성화됩니다.
+화면을 켜면 기기가 정상적으로 작동합니다.
+확장된 대기 기능이 사용하도록 설정되어 있을 때 일부 앱을 활성화된 상태로 유지하려면 대기 시 활성 앱 목록에 해당 앱을 추가합니다.
+
+• 확장된 사용
+하드웨어 성능을 제한하여 기기를 사용 중일 때 전원을 절약합니다."</string>
+    <string name="location_based_wifi">위치 기반 WLAN</string>
+    <string name="location_neighborhood_level_wifi">WLAN에서 측정된 위치</string>
+    <string name="location_network_based">WLAN 및 모바일 네트워크 위치</string>
+    <string name="location_scanning_screen_title">WLAN 및 블루투스 검색</string>
+    <string name="location_scanning_wifi_always_scanning_description">WLAN가 꺼져 있을 때도 항상 앱과 서비스에서 WLAN 네트워크를 검색하도록 허용합니다. 이 설정은 위치 기반 기능 및 서비스 개선 등에 사용될 수 있습니다.</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN 검색</string>
+    <string name="lost_internet_access_cancel">WLAN 계속 사용</string>
+    <string name="lost_internet_access_text">WLAN 연결 상태가 좋지 않다면 언제든지 모바일 네트워크로 전환할 수 있습니다. 데이터 사용 요금이 부과될 수도 있습니다.</string>
+    <string name="lost_internet_access_title">WLAN가 인터넷에 연결되어 있지 않음</string>
+    <string name="mobile_data_always_on_summary">WLAN가 활성화되어 있을 때에도 빠른 네트워크 전환을 위하여 항상 모바일 데이터를 활성 상태로 유지</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN 도우미를 변경하시겠습니까?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">현재 WLAN 네트워크를 공유하려면 설정에서 \"WLAN 정보 공유\" 옵션을 선택하세요.</string>
+    <string name="nfc_wifi_share_checkbox">WLAN 정보 공유</string>
+    <string name="nfc_wifi_share_title_txt">WLAN 정보 공유</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;T WLAN 핫스팟에 자동 연결</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN 자동 연결</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">WLAN를 사용하지 않으면 인터넷, 이메일 및 데이터 연결이 필요한 기타 앱을 더 이상 사용할 수 없게 됩니다. 모바일 데이터 연결을 끄시겠습니까?</string>
+    <string name="powersaver_feature_wifi">WLAN 끔</string>
+    <string name="radio_controls_summary">WLAN, 블루투스, 비행기 모드, 모바일 네트워크 및 VPN 관리</string>
+    <string name="radio_info_ims_reg_status">"IMS 등록: %1$s
+VoLTE: %2$s
+VoWLAN: %3$s
+화상 통화: %4$s
+UT 인터페이스: %5$s"</string>
+    <string name="reset_network_desc">"다음을 포함한 모든 네트워크 설정이 초기화됩니다.
+
+"<li>WLAN</li>"
+"<li>모바일 데이터</li>"
+"<li>블루투스</li></string>
+    <string name="restriction_wifi_config_summary">WLAN 및 모바일 설정을 수정하도록 허용</string>
+    <string name="restriction_wifi_config_title">WLAN 및 모바일</string>
+    <string name="scanning_status_text_wifi_off_ble_off">WLAN와 블루투스 검색 모두 꺼짐</string>
+    <string name="scanning_status_text_wifi_off_ble_on">블루투스 검색 켜짐, WLAN 검색 꺼짐</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN 검색 켜짐, 블루투스 검색 꺼짐</string>
+    <string name="scanning_status_text_wifi_on_ble_on">WLAN와 블루투스 검색 모두 켜짐</string>
+    <string name="somc_backup_failed_no_wifi_summary">WLAN 연결 대기 중</string>
+    <string name="somc_wifi_turned_on_info">WLAN가 켜졌습니다. 목록에서 네트워크를 선택합니다.</string>
+    <string name="stamina_xssm_summary">화면이 꺼졌을 때 모바일 데이터와 WLAN를 사용하지 않도록 설정</string>
+    <string name="status_wifi_mac_address">WLAN MAC 주소</string>
+    <string name="tethering_no_sim_warning_txt">인터넷에 접속하기 위해 모바일 WLAN 핫스팟 또는 USB 테더링을 사용하여 다른 기기와 휴대폰의 데이터 연결을 공유하려면 USIM 카드를 삽입하세요.</string>
+    <string name="usage_type_data_wifi_recv">WLAN 패킷 수신</string>
+    <string name="usage_type_data_wifi_send">WLAN 패킷 전송</string>
+    <string name="usage_type_wifi_running">WLAN 실행 중</string>
+    <string name="user_add_user_message_long">"추가 사용자를 만들어 다른 사용자와 기기를 공유할 수 있습니다. 각 사용자는 앱, 배경화면 등으로 맞춤설정할 수 있는 자신만의 공간을 갖게 됩니다. 또한 모든 사용자에게 영향을 미치는 WLAN와 같은 기기 설정도 조정할 수 있습니다.
+
+추가된 신규 사용자는 자신의 공간을 설정해야 합니다.
+
+모든 사용자가 앱을 업데이트할 수 있으며, 업데이트는 다른 사용자에게도 적용됩니다. 접근성 설정 및 서비스는 신규 사용자에게 이전되지 않을 수도 있습니다."</string>
+    <string name="usm_descr">"Ultra STAMINA 모드는 배터리 수명을 크게 늘립니다. 장시간 기기를 충전할 수 없을 때 이 모드를 사용할 수 있습니다.
+
+WLAN 및 모바일 데이터를 통한 인터넷 연결이 사용 중지됩니다.
+
+전화 및 메시징과 같은 몇 가지 기본 기능만 사용할 수 있습니다. 자세한 내용을 보려면 \"추가 정보\"를 누르세요."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"WLAN 통화로는 긴급 전화를 사용할 수 없습니다.
+긴급 전화를 걸기 위해 기기가 자동으로 무선 전화 네트워크(2G/3G)로 전환됩니다.
+긴급 전화는 무선 전화 범위 내에서만 가능합니다."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">WLAN 통화로 긴급 전화</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone WLAN 통화</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"WLAN 통화를 켜려면 위치를 켜고 높은 정확성 또는 배터리 절약 모드를 선택하세요.
+
+WLAN 통화 중에는 위치를 켜고 있어야 합니다."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"WLAN 통화로는 긴급 전화를 사용할 수 없습니다.
+긴급 전화를 걸기 위해 기기가 자동으로 무선 전화 네트워크(2G/3G)로 전환됩니다.
+긴급 전화는 무선 전화 범위 내에서만 가능합니다."</string>
+    <string name="wfc_location_info_dialog_desc_txt">위치 설정 사용 여부와 관계없이 위치 관련 정보를 Google 및 운영자에게 보내 WLAN 통화를 설정할 수 있습니다.</string>
+    <string name="wfc_provisioned_switch_string">WLAN 통화 프로비저닝됨</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN 네트워크</string>
+    <string name="wifi_advanced_not_available">이 사용자는 WLAN 고급 설정을 사용할 수 없습니다.</string>
+    <string name="wifi_advanced_settings_label">WLAN 설정</string>
+    <string name="wifi_advanced_titlebar">고급 WLAN</string>
+    <string name="wifi_ap_band_select_one">WLAN 핫스팟 대역을 한 개 이상 선택하세요.</string>
+    <string name="wifi_ask_disable">%s에서 WLAN를 사용 중지하려고 합니다.</string>
+    <string name="wifi_ask_enable">%s에서 WLAN를 사용 설정하려고 합니다.</string>
+    <string name="wifi_auto_network_switch_setting_msg">WLAN 네트워크와 모바일 네트워크가 둘 다 제공되는 경우 기본 네트워크로 자동 전환됨</string>
+    <string name="wifi_calling_link_to_register_emergency_address">여기를 클릭하여 WLAN 통화에 등록하거나 기존의 긴급 주소를 업데이트함</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">모바일 네트워크를 사용할 수 없는 경우 WLAN를 사용합니다.</string>
+    <string name="wifi_calling_mode_wifi_only_summary">WLAN를 통해 통화합니다. WLAN 연결이 끊기면 통화가 종료됩니다.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">WLAN를 사용할 수 없는 경우 모바일 네트워크를 사용하세요.</string>
+    <string name="wifi_calling_not_supported">%1$s에서는 WLAN 통화가 지원되지 않습니다.</string>
+    <string name="wifi_calling_off_explanation">"WLAN 통화를 사용하여 모바일 네트워크 연결이 안 좋은 곳에서 통화 품질을 높입니다.
+
+비용
+WLAN 통화 요금에 대한 자세한 내용은 해당 서비스 공급자에게 문의하세요.
+
+WLAN 통화에 관한 참고 사항
+WLAN 통화를 계속하려면 WLAN 범위 내에 있어야 합니다."</string>
+    <string name="wifi_calling_on_dialog_text">WLAN 통화를 사용하려면 모바일 데이터용 기본 USIM을 USIM 1로 설정</string>
+    <string name="wifi_calling_settings_activation_instructions">WLAN 통화 활성화</string>
+    <string name="wifi_calling_settings_title">WLAN 통화</string>
+    <string name="wifi_calling_suggestion_summary">WLAN 통화를 사용 설정하여 신호 범위 확장</string>
+    <string name="wifi_calling_suggestion_title">WLAN로 통화 가능 범위 확장</string>
+    <string name="wifi_calling_summary">통화에 WLAN를 사용하여 통화 품질을 개선합니다.</string>
+    <string name="wifi_calling_turn_on">WLAN 통화 사용 설정</string>
+    <string name="wifi_carrier_connect">이동통신사 WLAN 네트워크</string>
+    <string name="wifi_cellular_data_fallback_summary">WLAN 인터넷 액세스가 끊기면 모바일 데이터를 사용합니다. 데이터 사용 요금이 부과될 수 있습니다.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN가 자동으로 다시 사용 설정되지 않습니다.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN가 자동으로 다시 사용 설정됩니다.</string>
+    <string name="wifi_configure_settings_preference_title">WLAN 환경설정</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN 인증서 변경</string>
+    <string name="wifi_data_template">^1 WLAN 데이터</string>
+    <string name="wifi_data_usage">WLAN 데이터 사용량</string>
+    <string name="wifi_disabled_wifi_failure">WLAN 연결 실패</string>
+    <string name="wifi_dpp_add_device_to_wifi">"이 기기를 '%1$s'에 추가하시겠습니까?"</string>
+    <string name="wifi_dpp_center_qr_code">"'%1$s'에 기기를 추가하려면 아래 창의 가운데 부분에 QR 코드를 맞추세요."</string>
+    <string name="wifi_dpp_failure_not_supported">"'%1$s' 추가는 이 기기에서 지원되지 않습니다."</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">"이 QR 코드를 스캔하여 '%1$s'에 연결"</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">"'%1$s'에 연결하려면 아래 창의 가운데 부분에 QR 코드를 맞추세요."</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">QR 코드를 스캔하여 WLAN에 연결</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">"이 QR 코드를 스캔하여 '%1$s'에 연결하고 비밀번호를 공유하세요."</string>
+    <string name="wifi_dpp_share_wifi">WLAN 공유</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">이 기기와 WLAN 공유 중…</string>
+    <string name="wifi_dpp_wifi_password">WLAN 비밀번호: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN가 기기와 공유됨</string>
+    <string name="wifi_empty_list_user_restricted">WLAN 네트워크를 변경할 권한이 없습니다.</string>
+    <string name="wifi_empty_list_wifi_off">사용 가능한 네트워크를 보려면 WLAN를 켜세요.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN 네트워크를 찾는 중…</string>
+    <string name="wifi_hotspot_auto_off_summary">연결된 기기가 없으면 WLAN 핫스팟이 사용 중지됩니다.</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN 핫스팟 설정</string>
+    <string name="wifi_hotspot_footer_info_regular">핫스팟을 사용하여 다른 기기에서 사용할 수 있는 WLAN 네트워크를 만드세요. 핫스팟은 내 모바일 데이터 연결을 사용하여 인터넷을 제공합니다. 추가 모바일 데이터 요금이 부과될 수 있습니다.</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">WLAN가 켜져 있으면 사용 가능한 Passpoint 네트워크에 자동 연결</string>
+    <string name="wifi_limit_optimizations_summary">WLAN에 사용되는 배터리 제한</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN 사용 시간</string>
+    <string name="wifi_p2p_settings">WLAN Direct 설정</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">인터넷 연결이 원활하지 않은 경우 WLAN 네트워크를 사용하지 않습니다</string>
+    <string name="wifi_quick_toggle_summary">WLAN 사용</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"알 수 없는 앱에서 위치 정확성 개선 등의 목적으로 WLAN가 꺼져 있을 때도 네트워크 검색 기능을 사용 설정하려 합니다.
+
+기능을 요청하는 모든 앱에 네트워크 검색을 허용하시겠습니까?"</string>
+    <string name="wifi_scan_always_turnon_message">"위치 정확성 개선 등의 목적으로 %1$s에서 WLAN가 꺼져 있을 때에도 네트워크 검색을 사용하도록 설정하려 합니다.
+
+검색하려는 모든 앱에 대해 이를 허용하시겠습니까?"</string>
+    <string name="wifi_scan_notify_text">위치 정확도 개선을 위해 WLAN가 꺼져 있을 때도 앱과 서비스에서 WLAN 네트워크를 검색할 수 있습니다. 이 기능으로 위치 기반 기능 및 서비스를 개선할 수 있습니다. 이 설정은 LINK_BEGIN검색 설정LINK_END에서 변경할 수 있습니다.</string>
+    <string name="wifi_scan_notify_text_scanning_off">위치 정확도를 높이려면 LINK_BEGIN검색 설정LINK_END에서 WLAN 검색을 사용 설정하세요.</string>
+    <string name="wifi_scan_throttling">WLAN 검색 제한</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT로 보안</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK로 보안</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">WLAN 선택</string>
+    <string name="wifi_setting_on_during_sleep_title">절전 모드에서 WLAN 사용</string>
+    <string name="wifi_setting_sleep_policy_title">절전 모드 동안 WLAN 연결 유지</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN 설정</string>
+    <string name="wifi_settings_master_switch_title">WLAN 사용</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN 검색 사용 설정됨</string>
+    <string name="wifi_settings_scanning_required_info">WLAN 검색을 사용하면 WLAN가 꺼져 있을 때도 앱과 서비스에서 항상 WLAN 네트워크를 검색할 수 있습니다. 이 설정은 위치 기반 기능 및 서비스 개선 등에 사용할 수 있습니다.</string>
+    <string name="wifi_settings_scanning_required_summary">WLAN를 자동으로 켜려면 우선 WLAN 검색을 사용 설정해야 합니다.</string>
+    <string name="wifi_settings_scanning_required_title">WLAN 검색을 사용 설정하시겠습니까?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN 사용 설정 중...</string>
+    <string name="wifi_stopping">WLAN 사용 중지 중...</string>
+    <string name="wifi_suspend_optimizations">WLAN 최적화</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN가 사용 중일 때 배터리 사용량 최소화</string>
+    <string name="wifi_switch_away_when_unvalidated">WLAN 인터넷 액세스가 끊기면 모바일 데이터로 전환</string>
+    <string name="wifi_tether_settings_subtext">이동식 WLAN 핫스팟 설정 및 관리</string>
+    <string name="wifi_tether_settings_text">이동식 WLAN 핫스팟 설정</string>
+    <string name="wifi_tethering_warning_txt">미디어 전송, 휴대폰 소프트웨어 업데이트, 백업 및 복원 등 진행 중인 모든 WLAN 작업이 중단됩니다.</string>
+    <string name="wifi_turned_on_message">WLAN 사용 설정됨</string>
+    <string name="wifi_verbose_logging">WLAN 상세 로깅 사용</string>
+    <string name="wifi_verbose_logging_summary">WLAN 로깅 수준을 높이고, WLAN 선택도구에서 SSID RSSI당 값을 표시</string>
+    <string name="wifi_wakeup">자동으로 WLAN 사용 설정</string>
+    <string name="wifi_wakeup_summary">홈 네트워크 등의 저장된 고품질 네트워크가 가까이 있을 때 WLAN가 다시 사용 설정됨</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">WLAN 검색이 사용 중지되어 사용할 수 없습니다.</string>
+    <string name="wifi_wps_category_title">WLAN 네트워크 설정</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN 연결이 해제되어 설정이 취소되었습니다.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINA 모드는 기기 설정을 조정하여 배터리 전원을 절약합니다. 절전 모드 중에 기능이 축소된 상태로 실행할 응용프로그램을 선택할 수 있습니다. 이렇게 하면 절전 모드 중에도 대부분의 앱이 배터리를 소모하지 않아 배터리 전원을 절약할 수 있습니다.
+
+선택한 앱에서 사용할 수 없는 기능:
+- WLAN
+- 모바일 데이터
+- 타이머
+
+절전 모드 중에는 모든 앱의 알림 표시등이 같은 빈도와 색상으로 깜빡입니다.
+
+기기를 제어하는 중에는 STAMINA 모드가 비활성화됩니다."</string>
+</resources>

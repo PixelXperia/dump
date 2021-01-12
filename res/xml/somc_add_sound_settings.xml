@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.PreferenceCategory android:title="@string/settings_header_sound_quality_txt" android:key="quality_category" settings:before="first">
+        <com.sonymobile.settings.preference.IntentPreference android:key="audiosettings" settings:hasMetaData="true">
+            <intent android:targetPackage="com.sonyericsson.soundenhancement" android:action="android.intent.action.MAIN" android:targetClass="com.sonyericsson.soundenhancement.AudioEffectMenuForAudioActivity">
+                <extra android:name="android.media.extra.PACKAGE_NAME" android:value="com.android.settings" />
+                <extra android:name="com.sonyericsson.soundenhancement.EXTRA_START_TYPE" android:value="START_FOR_AUDIO" />
+            </intent>
+        </com.sonymobile.settings.preference.IntentPreference>
+        <com.sonymobile.settings.preference.IntentPreference android:key="dolbyaudiosettings" settings:hasMetaData="true">
+            <intent android:targetPackage="com.sonyericsson.soundenhancement" android:action="android.intent.action.MAIN" android:targetClass="com.sonyericsson.soundenhancement.AudioEffectMenuForDolbyAudioActivity">
+                <extra android:name="android.media.extra.PACKAGE_NAME" android:value="com.android.settings" />
+                <extra android:name="com.sonyericsson.soundenhancement.EXTRA_START_TYPE" android:value="START_FOR_AUDIO" />
+            </intent>
+        </com.sonymobile.settings.preference.IntentPreference>
+    </com.sonymobile.settings.preference.PreferenceCategory>
+    <com.sonymobile.settings.preference.PreferenceCategory android:title="@string/settings_header_volume_txt" android:key="volume_category" settings:before="media_volume" />
+    <com.sonymobile.settings.preference.PreferenceCategory android:title="@string/sound_settings" android:key="sound_category" settings:before="ringtone" />
+</PreferenceScreen>

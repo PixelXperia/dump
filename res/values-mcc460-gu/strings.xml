@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">તમારા ઉપકરણનું નામ તમારા ફોનની ઍપ પર જોઈ શકાય છે. તમે બ્લૂટૂથથી કનેક્ટ કરો અથવા વાઇ-ફાઇ હૉટસ્પૉટને સેટ કરો ત્યારે તે અન્ય લોકોને પણ દેખાઈ શકે છે.</string>
+    <string name="accessibility_no_wifi">WLAN ડિસ્કનેક્ટ થયું.</string>
+    <string name="accessibility_wifi_off">WLAN બંધ.</string>
+    <string name="accessibility_wifi_one_bar">WLAN એક બાર.</string>
+    <string name="accessibility_wifi_signal_full">પૂર્ણ WLAN સિગ્નલ.</string>
+    <string name="accessibility_wifi_three_bars">WLAN ત્રણ બાર.</string>
+    <string name="accessibility_wifi_two_bars">WLAN બે બાર.</string>
+    <string name="change_wifi_state_app_detail_summary">આ ઍપને વાઇ-ફાઇ ચાલુ અથવા બંધ કરવા, વાઇ-ફાઇ નેટવર્કને સ્કૅન અને કનેક્ટ કરવા, નેટવર્ક ઉમેરવા અથવા કાઢી નાખવા અથવા માત્ર-સ્થાનિક હૉટસ્પૉટ શરૂ કરવાની મંજૂરી આપો</string>
+    <string name="change_wifi_state_app_detail_switch">ઍપને વાઇ-ફાઇ નિયંત્રિત કરવાની મંજૂરી આપો</string>
+    <string name="change_wifi_state_title">વાઇ-ફાઇ નિયંત્રણ</string>
+    <string name="connected_via_app">%1$s દ્વારા કનેક્ટ થયેલ</string>
+    <string name="credential_for_wifi">વાઇ-ફાઇ માટે ઇન્સ્ટૉલ કરેલ</string>
+    <string name="data_usage_app_summary_title">મોબાઇલ ડેટા અને WLAN</string>
+    <string name="fullbackup_data_summary">"ઉપકરણ ડેટા (જેમ કે વાઇ-ફાઇ પાસવર્ડ્સ અને કૉલ ઇતિહાસ) અને ઍપ્લિકેશન ડેટા (જેમ કે સેટિંગ્સ અને ઍપ્લિકેશનો દ્વારા સંગ્રહિત ફાઇલો)નો રિમોટલી આપમેળે બેક અપ લો.
+
+જ્યારે તમે સ્વચલિત બેકઅપ ચાલુ કરો છો, ત્યારે ઉપકરણ અને ઍપ્લિકેશન ડેટા સમયાંતરે રિમોટલી સચવાય છે. ઍપ્લિકેશન ડેટા એવો કોઈપણ ડેટા હોઈ શકે જેને કોઈ ઍપ્લિકેશને સાચવ્યો હોય (વિકાસકર્તા સેટિંગ્સનાં આધારે) જેમાં સંપર્કો, સંદેશા અને ફોટો જેવા સંભવિતપણે સંવેદનશીલ ડેટાનો સમાવેશ થાય છે."</string>
+    <string name="fullbackup_erase_dialog_message">ઉપકરણ ડેટા (જેમ કે વાઇ-ફાઇ પાસવર્ડ્સ અને કૉલ ઇતિહાસ) અને ઍપ્લિકેશન ડેટા (જેમ કે સેટિંગ્સ અને ઍપ્લિકેશનો દ્વારા સંગ્રહિત ફાઇલો) નું બેકઅપ લેવાનું રોકીએ, ઉપરાંત રિમોટ સર્વર્સ પરની તમામ કૉપિઝ કાઢી નાખીએ?</string>
+    <string name="radio_info_ims_reg_status">"IMS નોંધણી: %1$s
+LTE પર વૉઇસ: %2$s
+WLAN પર વૉઇસ: %3$s
+વીડિઓ કૉલિંગ: %4$s
+UT ઇન્ટરફેસ: %5$s"</string>
+    <string name="reset_network_desc">"આ બધી નેટવર્ક સેટિંગ્સ ફરીથી સેટ કરશે, જેમાં સમાવિષ્ટ છે: 
+
+"<li>WLAN</li>"
+"<li>મોબાઇલ ડેટા</li>"
+"<li>Bluetooth</li></string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"વાઇ-ફાઇ કૉલિંગ પર ઇમર્જન્સી કૉલ કરવાની સુવિધા તમારા કૅરિઅર પર સમર્થિત નથી.
+ઇમર્જન્સી કૉલ કરવા માટે ડિવાઇસ ઑટોમૅટિક રીતે સેલ્યુલર નેટવર્ક પર સ્વિચ કરે છે.
+ઇમર્જન્સી કૉલ કરવાનું ફક્ત સેલ્યુલર કવરેજ ધરાવતા વિસ્તારમાં જ શક્ય છે."</string>
+    <string name="wfc_provisioned_switch_string">WLAN કૉલિંગની જોગવાઈ કરી</string>
+    <string name="wifi">વાઇ-ફાઇ</string>
+    <string name="wifi_advanced_settings_label">IP સેટિંગ્સ</string>
+    <string name="wifi_ask_disable">%s, વાઇ-ફાઇ બંધ કરવા માગે છે</string>
+    <string name="wifi_ask_enable">%s, વાઇ-ફાઇ ચાલુ કરવા માગે છે</string>
+    <string name="wifi_calling_off_explanation">જ્યારે વાઇ-ફાઇ કૉલિંગ ચાલુ હોય, ત્યારે તમારી પસંદગી અને કયા સિગ્નલ મજબૂત છે તેને આધારે, તમારો ફોન વાઇ-ફાઇ નેટવર્ક અથવા તમારા કૅરિઅરના નેટવર્ક મારફતે કૉલને રૂટ કરી શકે છે. આ સુવિધાને ચાલુ કરતાં પહેલાં, શુલ્ક અને અન્ય વિગતો માટે તમારા કૅરિઅર સાથે વાત કરો.%1$s</string>
+    <string name="wifi_calling_settings_title">વાઇ-ફાઇ કૉલિંગ</string>
+    <string name="wifi_data_template">^1 વાઇ-ફાઇ ડેટા</string>
+    <string name="wifi_disabled_wifi_failure">WLAN કનેક્શન નિષ્ફળ</string>
+    <string name="wifi_dpp_add_device_to_wifi">"આ ડિવાઇસને  “%1$s” પર ઉમેરીએ?"</string>
+    <string name="wifi_dpp_center_qr_code">ડિવાઇસને “%1$s” પર ઉમેરવા માટે QR કોડને નીચેની બાજુએ વચ્ચે રાખો</string>
+    <string name="wifi_dpp_failure_not_supported">“%1$s”ને ઉમેરવું આ ડિવાઇસ પર સમર્થિત નથી</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">“%1$s” સાથે કનેક્ટ કરવા માટે આ QR કોડને સ્કૅન કરો</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">“%1$s” સાથે કનેક્ટ કરવા માટે QR કોડને નીચેની બાજુએ વચ્ચે રાખો</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">“%1$s” સાથે કનેક્ટ કરવા માટે આ QR કોડને સ્કૅન કરો અને પાસવર્ડ શેર કરો</string>
+    <string name="wifi_scan_always_turnon_message">"સ્થાન સચોટતા બહેતર બનાવવા માટે અને અન્ય હેતુઓ માટે, વાઇ-ફાઇ બંધ હોય ત્યારે પણ %1$s નેટવર્ક સ્કેનિંગ ચાલુ કરવા માંગે છે.
+
+સ્કેન કરવા માંગે છે તે બધી ઍપ્લિકેશનો માટે આને મંજૂરી આપીએ?"</string>
+    <string name="wifi_scan_notify_text_scanning_off">સ્થાનની સચોટતા સુધારવા માટે, LINK_BEGINસ્કૅનીંગ સેટિંગ્સLINK_END માં જઈને વાઇ-ફાઇ સ્કૅનિંગ ચાલુ કરો.</string>
+    <string name="wifi_turned_on_message">WLAN ચાલુ કર્યું</string>
+</resources>

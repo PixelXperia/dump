@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/header_category_system" android:key="system_dashboard_screen" settings:initialExpandedChildrenCount="4"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <Preference android:icon="@drawable/ic_settings_gestures" android:title="@string/gesture_preference_title" android:key="gesture_settings" android:order="-250" android:fragment="com.android.settings.gestures.GestureSettings" settings:controller="com.android.settings.gestures.GesturesSettingPreferenceController" />
+    <Preference android:icon="@drawable/ic_restore" android:title="@string/reset_dashboard_title" android:key="reset_dashboard" android:summary="@string/reset_dashboard_summary" android:order="-50" android:fragment="com.android.settings.system.ResetDashboardFragment" settings:controller="com.android.settings.system.ResetPreferenceController" />
+    <Preference android:icon="@drawable/ic_settings_somc_backup" android:title="@string/somc_backup_section_title" android:key="somc_backup_category" android:summary="@string/somc_backup_section_summary" android:order="-50" settings:controller="com.android.settings.system.PrivacySettingsPreferenceController">
+        <intent android:action="com.sonyericsson.settings.BACKUP_AND_RESET_SETTINGS" />
+    </Preference>
+    <com.sonymobile.settings.preference.IntentPreference android:icon="@drawable/ic_settings_xperia_backup_restore" android:key="xperiatransfermobile" android:order="-40" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.xperiatransfermobile" android:action="com.sonymobile.xperiatransfermobile.intent.action.LAUNCH" android:targetClass="com.sonymobile.xperiatransfermobile.ui.CompatibilityCheckerActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <Preference android:icon="@drawable/ic_system_update" android:title="@string/system_update_settings_list_item_title" android:key="system_update_settings" android:summary="@string/summary_placeholder" android:order="-30" settings:controller="com.android.settings.system.SystemUpdatePreferenceController" settings:keywords="@string/keywords_system_update_settings">
+        <intent android:action="@string/intent_system_update_settings_entry" />
+    </Preference>
+    <Preference android:title="@string/additional_system_update_settings_list_item_title" android:key="additional_system_update_settings" android:order="-31" settings:controller="com.android.settings.system.AdditionalSystemUpdatePreferenceController">
+        <intent android:targetPackage="@string/additional_system_update" android:action="android.intent.action.MAIN" android:targetClass="@string/additional_system_update_menu" />
+    </Preference>
+    <com.sonymobile.settings.preference.IncludePreference settings:include="@xml/somc_add_system_dashboard_fragment" />
+</PreferenceScreen>

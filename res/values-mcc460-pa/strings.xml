@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">"ਤੁਹਾਡੇ ਡੀਵਾਈਸ ਦਾ ਨਾਮ ਤੁਹਾਡੇ ਫ਼ੋਨ 'ਤੇ ਐਪਾਂ ਨੂੰ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ। ਇਹ ਤੁਹਾਡੇ ਬਲੂਟੁੱਥ ਡੀਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਜਾਂ ਵਾਈ-ਫਾਈ ਹੌਟਸਪੌਟ ਸੈੱਟਅੱਪ ਕਰਨ 'ਤੇ ਹੋਰ ਲੋਕਾਂ ਵੱਲੋਂ ਵੀ ਦੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।"</string>
+    <string name="accessibility_no_wifi">WLAN ਡਿਸਕਨੈਕਟ ਕੀਤਾ।</string>
+    <string name="accessibility_wifi_off">WLAN ਬੰਦ।</string>
+    <string name="accessibility_wifi_one_bar">WLAN ਇੱਕ ਬਾਰ।</string>
+    <string name="accessibility_wifi_signal_full">WLAN ਸਿਗਨਲ ਪੂਰਾ।</string>
+    <string name="accessibility_wifi_three_bars">WLAN ਤਿੰਨ ਬਾਰ।</string>
+    <string name="accessibility_wifi_two_bars">WLAN ਦੋ ਬਾਰ।</string>
+    <string name="backup_data_summary">Google ਸਰਵਰਾਂ ਤੇ ਐਪ ਡਾਟਾ, WLAN ਪਾਸਵਰਡਾਂ ਅਤੇ ਹੋਰ ਸੈਟਿੰਗਾਂ ਬੈਕ ਅੱਪ ਲਓ</string>
+    <string name="change_wifi_state_app_detail_summary">ਇਸ ਐਪ ਨੂੰ ਵਾਈ-ਫਾਈ ਚਾਲੂ ਜਾਂ ਬੰਦ ਕਰਨ ਦਿਓ, ਵਾਈ-ਫਾਈ ਨੈੱਟਵਰਕਾਂ ਨੂੰ ਸਕੈਨ ਅਤੇ ਉਹਨਾਂ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦਿਓ, ਨੈੱਟਵਰਕ ਸ਼ਾਮਲ ਕਰਨ ਜਾਂ ਹਟਾਉਣ ਦਿਓ, ਜਾਂ ਇੱਕ ਸਿਰਫ਼-ਸਥਾਨਕ ਹੌਟਸਪੌਟ ਸ਼ੁਰੂ ਕਰਨ ਦਿਓ</string>
+    <string name="change_wifi_state_app_detail_switch">ਐਪ ਨੂੰ ਵਾਈ‑ਫਾਈ ਕੰਟਰੋਲ ਕਰਨ ਦਿਓ</string>
+    <string name="change_wifi_state_title">ਵਾਈ‑ਫਾਈ ਕੰਟਰੋਲ</string>
+    <string name="connected_via_app">%1$s ਰਾਹੀਂ ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ</string>
+    <string name="credential_for_wifi">ਵਾਈ-ਫਾਈ ਲਈ ਸਥਾਪਤ ਕੀਤਾ ਗਿਆ</string>
+    <string name="fullbackup_data_summary">"ਡੀਵਾਈਸ ਡਾਟਾ ਰਿਮੋਟ ਦੇ ਰੂਪ ਵਿੱਚ (ਜਿਵੇਂ ਕਿ ਵਾਈ-ਫਾਈ ਪਾਸਵਰਡ ਅਤੇ ਕਾਲ ਇਤਿਹਾਸ) ਅਤੇ ਐਪ ਡਾਟਾ (ਜਿਵੇਂ ਕਿ ਐਪਾਂ ਵੱਲੋਂ ਸਟੋਰ ਕੀਤੀਆਂ ਸੈਟਿੰਗਾਂ ਅਤੇ ਫ਼ਾਈਲਾਂ) ਦਾ ਸਵੈਚਲਿਤ ਬੈੱਕਅੱਪ ਲਓ।
+
+ਜਦੋਂ ਤੁਸੀਂ ਸਵੈਚਲਿਤ ਬੈਕਅੱਪ ਨੂੰ ਚਾਲੂ ਕਰਦੇ ਹੋ, ਤਾਂ ਡੀਵਾਈਸ ਅਤੇ ਐਪ ਡਾਟਾ ਨੂੰ ਰਿਮੋਟ ਦੇ ਰੂਪ ਵਿੱਚ ਅਵਧੀ ਅਨੁਸਾਰ ਰੱਖਿਅਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਐਪ ਡਾਟਾ ਕੋਈ ਵੀ ਡਾਟਾ ਹੋ ਸਕਦਾ ਹੈ ਜੋ ਸੰਪਰਕ, ਸੁਨੇਹੇ, ਅਤੇ ਫ਼ੋਟੋਆਂ ਵਰਗੇ ਸੰਭਾਵੀ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟਾ ਸਮੇਤ, ਕਿਸੇ ਐਪ ਨੇ ਰੱਖਿਅਤ ਕੀਤਾ ਹੁੰਦਾ ਹੈ (ਵਿਕਾਸਕਾਰ ਸੈਟਿੰਗਾਂ ਦੇ ਅਧਾਰ 'ਤੇ)।"</string>
+    <string name="fullbackup_erase_dialog_message">"ਕੀ ਡੀਵਾਈਸ ਡਾਟਾ (ਜਿਵੇਂ ਕਿ ਵਾਈ-ਫਾਈ ਪਾਸਵਰਡ ਅਤੇ ਕਾਲ ਇਤਿਹਾਸ) ਅਤੇ ਐਪ ਡਾਟਾ (ਜਿਵੇਂ ਕਿ ਐਪਾਂ ਦਾ ਸਟੋਰ ਕੀਤੀ ਸੈਟਿੰਗਾਂ ਅਤੇ ਫ਼ਾਈਲਾਂ) ਦੇ ਬੈੱਕਅੱਪ ਤੋਂ ਰੋਕਣਾ ਹੈ, ਅਤੇ ਇਸਦੇ ਨਾਲ-ਨਾਲ ਰਿਮੋਟ ਸਰਵਰ 'ਤੇ ਸਾਰੀਆਂ ਪ੍ਰਤੀਲਿਪੀਆਂ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?"</string>
+    <string name="radio_info_ims_reg_status">"IMS ਪੰਜੀਕਰਨ: %1$s
+LTE 'ਤੇ ਵੌਇਸ: %2$s
+WLAN 'ਤੇ ਵੌਇਸ: %3$s
+ਵੀਡੀਓ ਕਾਲਿੰਗ: %4$s
+UT ਇੰਟਰਫੇਸ: %5$s"</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"ਵਾਈ-ਫਾਈ ਕਾਲਿੰਗ ਰਾਹੀਂ ਸੰਕਟਕਾਲੀਨ ਕਾਲਾਂ ਕਰਨ ਦੀ ਸੁਵਿਧਾ ਤੁਹਾਡੇ ਕੈਰੀਅਰ ਵਿੱਚ ਨਹੀਂ ਹੈ।
+ਸੰਕਟਕਾਲੀਨ ਕਾਲ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਡੀਵਾਈਸ ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਸੈਲਿਊਲਰ ਨੈੱਟਵਰਕ 'ਤੇ ਬਦਲ ਜਾਂਦਾ ਹੈ।
+ਸੰਕਟਕਾਲੀਨ ਕਾਲਾਂ ਸਿਰਫ਼ ਸੈਲਿਊਲਰ ਕਵਰੇਜ ਵਾਲੇ ਖੇਤਰਾਂ ਵਿੱਚ ਸੰਭਵ ਹਨ।"</string>
+    <string name="wfc_provisioned_switch_string">WLAN ਕਾਲਿੰਗ ਦੀ ਪ੍ਰੋਵੀਜ਼ਨ ਕੀਤੀ ਗਈ</string>
+    <string name="wifi">ਵਾਈ-ਫਾਈ</string>
+    <string name="wifi_advanced_settings_label">IP ਸੈਟਿੰਗਾਂ</string>
+    <string name="wifi_ask_disable">%s ਵਾਈ-ਫਾਈ ਨੂੰ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੀ ਹੈ</string>
+    <string name="wifi_ask_enable">%s ਵਾਈ-ਫਾਈ ਨੂੰ ਚਾਲੂ ਕਰਨਾ ਚਾਹੁੰਦੀ ਹੈ</string>
+    <string name="wifi_calling_off_explanation">"ਜਦੋਂ ਵਾਈ-ਫਾਈ ਕਾਲਿੰਗ ਚਾਲੂ ਹੁੰਦੀ ਹੈ, ਤਾਂ ਤੁਹਾਡਾ ਫ਼ੋਨ ਤੁਹਾਡੀ ਤਰਜੀਹ ਅਤੇ ਕਿਹੜਾ ਸਿਗਨਲ ਵੱਧ ਮਜ਼ਬੂਤ ਹੈ, ਦੇ ਆਧਾਰ 'ਤੇ ਵਾਈ-ਫਾਈ ਨੈੱਟਵਰਕਾਂ ਜਾਂ ਤੁਹਾਡੇ ਕੈਰੀਅਰ ਦੇ ਨੈੱਟਵਰਕ ਰਾਹੀਂ ਕਾਲਾਂ ਰੂਟ ਕਰ ਸਕਦਾ ਹੈ। ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਨੂੰ ਚਾਲੂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ, ਫੀਸ ਅਤੇ ਹੋਰ ਵੇਰਵਿਆਂ ਲਈ ਆਪਣੇ ਕੈਰੀਅਰ ਨੂੰ ਸੰਪਰਕ ਕਰੋ।%1$s"</string>
+    <string name="wifi_calling_settings_title">ਵਾਈ-ਫਾਈ ਕਾਲਿੰਗ</string>
+    <string name="wifi_data_template">^1 ਵਾਈ-ਫਾਈ ਡਾਟਾ</string>
+    <string name="wifi_disabled_wifi_failure">WLAN ਕਨੈਕਸ਼ਨ ਅਸਫਲਤਾ</string>
+    <string name="wifi_dpp_add_device_to_wifi">ਕੀ ਇਸ ਡੀਵਾਈਸ ਨੂੰ “%1$s” ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਨਾ ਹੈ?</string>
+    <string name="wifi_dpp_center_qr_code">ਡੀਵਾਈਸ ਨੂੰ “%1$s” ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਨ ਲਈ QR ਕੋਡ ਨੂੰ ਹੇਠਾਂ ਵਿਚਾਲੇ ਰੱਖੋ</string>
+    <string name="wifi_dpp_failure_not_supported">ਇਸ ਡੀਵਾਈਸ ਰਾਹੀਂ “%1$s” ਨੂੰ ਸ਼ਾਮਲ ਕਰਨ ਦੀ ਸਹੂਲਤ ਨਹੀਂ ਹੈ</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">“%1$s” ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਲਈ ਇਹ QR ਕੋਡ ਸਕੈਨ ਕਰੋ</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">“%1$s” ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਲਈ QR ਕੋਡ ਨੂੰ ਹੇਠਾਂ ਵਿਚਾਲੇ ਰੱਖੋ</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">“%1$s” ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਲਈ ਇਹ QR ਕੋਡ ਸਕੈਨ ਕਰਕੇ ਪਾਸਵਰਡ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="wifi_scan_always_turnon_message">"ਟਿਕਾਣਾ ਸ਼ੁੱਧਤਾ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਅਤੇ ਹੋਰਾਂ ਮੰਤਵਾਂ ਲਈ, %1$s ਨੈੱਟਵਰਕ ਸਕੈਨਿੰਗ ਚਾਲੂ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹੈ, ਭਾਵੇਂ ਵਾਈ-ਫਾਈ ਬੰਦ ਹੋਵੇ। 
+
+ਕੀ ਇਸਨੂੰ ਸਾਰੀਆਂ ਐਪਾਂ ਲਈ ਆਗਿਆ ਦੇਣੀ ਹੈ ਜਿਹਨਾਂ ਨੂੰ ਸਕੈਨ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹੈ?"</string>
+    <string name="wifi_scan_notify_text_scanning_off">ਟਿਕਾਣੇ ਦੀ ਸਟੀਕਤਾ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ, LINK_BEGINਸਕੈਨਿੰਗ ਸੈਟਿੰਗਾਂLINK_END ਵਿੱਚ ਵਾਈ-ਫਾਈ ਸਕੈਨਿੰਗ ਨੂੰ ਚਾਲੂ ਕਰੋ।</string>
+    <string name="wifi_tether_settings_subtext">ਪੋਰਟੇਬਲ WLAN ਹੌਟਸਪੌਟ ਸਥਾਪਤ ਅਤੇ ਪ੍ਰਬੰਧਿਤ ਕਰੋ</string>
+    <string name="wifi_tether_settings_text">ਪੋਰਟੇਬਲ WLAN ਹੌਟਪਸੌਟ ਸੈਟਿੰਗ</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usb_direct_settings_hi_res_audio_title_txt">Âm thanh phân giải cao qua USB</string>
+    <string name="wifi_tether_settings_text">Cài đặt điểm phát sóng Wi-Fi di động</string>
+</resources>

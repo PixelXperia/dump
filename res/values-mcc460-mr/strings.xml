@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">तुमचे डिव्हाइस नाव तुमच्या फोनवरील अॅप्सना दृश्यमान आहे. तुम्ही ब्लूटूथ डिव्हाइसशी जोडता किंवा वाय-फाय हॉटस्पॉट सेट करता, तेव्हा हे इतर लोकांद्वारे देखील बघितले जाऊ शकते.</string>
+    <string name="accessibility_no_wifi">वाय फाय डिस्कनेक्ट झाले.</string>
+    <string name="accessibility_wifi_off">वाय फाय बंद.</string>
+    <string name="accessibility_wifi_one_bar">वाय फाय एक बार.</string>
+    <string name="accessibility_wifi_signal_full">वाय फाय सिग्नल संपूर्ण आहे.</string>
+    <string name="accessibility_wifi_three_bars">वाय फाय तीन बार.</string>
+    <string name="accessibility_wifi_two_bars">वाय फाय दोन बार.</string>
+    <string name="battery_usm_desc">"Ultra STAMINA मोड महत्वपूर्णरित्या बॅटरीचा कालावधी वाढवेल. WLAN द्वारे असणारी इंटरनेट जोडणी आणि मोबाईल डेटा अक्षम केला जाईल, डेटा समक्रमण आणि WLAN कॉलिंग सारखी कार्ये अनुपलब्ध होतील याची नोंद घ्या. आपली होम स्क्रीन Ultra STAMINA मोड होमवर स्विच केली जाईल.
+
+Ultra STAMINA मोडमधील उपलब्ध अनुप्रयोग"</string>
+    <string name="battery_usm_desc_variable">"Ultra STAMINA मोड महत्वपूर्णरित्या बॅटरीचा कालावधी वाढवेल. WLAN आणि मोबाईल डेटावरील इंटरनेट जोडणी अक्षम केली जाणार असल्याने, डेटा समक्रमण आणि %s या सारखी कार्ये अनुपलब्ध होतील याची नोंद घ्या. आपली होम स्क्रीन Ultra STAMINA मोड होमवर स्विच केली जाईल.
+
+Ultra STAMINA मोडमधील उपलब्ध अनुप्रयोग"</string>
+    <string name="bs_feature_wifi">WLAN बंद</string>
+    <string name="change_wifi_state_app_detail_summary">या अॅपला वाय-फाय चालू किंवा बंद करू द्या, वाय-फाय नेटवर्क स्कॅन करू द्या आणि त्याच्याशी कनेक्ट करू द्या, नेटवर्क जोडू किंवा काढू द्या किंवा केवळ-स्थानिक हॉटस्पॉट सुरू करू द्या</string>
+    <string name="change_wifi_state_app_detail_switch">अॅपला वाय-फाय नियंत्रित करू द्या</string>
+    <string name="change_wifi_state_title">वाय-फाय नियंत्रण</string>
+    <string name="connected_via_app">%1$s द्वारे कनेक्ट केले</string>
+    <string name="credential_for_wifi">वाय-फाय साठी इंस्टॉल केले</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN जोडले</string>
+    <string name="cw_network_notification">CT WLAN सूचनापत्र सक्षम करा</string>
+    <string name="cw_network_priority">China Telecom WLAN ला प्राधान्य द्या</string>
+    <string name="cw_network_priority_summary">China Telecom WLAN नेटवर्क्सना जोडणीतील इतर WLAN नेटवर्क्सपेक्षा अधिक प्राधान्य दिले जाईल</string>
+    <string name="data_service_except_mms_disabled_warning_txt">आपण WLAN वापरत नाही तोपर्यंत आपण डेटा जोडणीसाठी आवश्यक असणारे इंटरनेट, ईमेल किंवा अन्य अनुप्रयोग वापरू शकणार नाही. मोबाईल डेटा जोडणी बंद करायची?</string>
+    <string name="dialog_message_hint">"STAMINA मोड मध्ये खालील गोष्टींचा समावेश होतो:
+
+• विस्तारित राखीव
+पडदा बंद असताना WLAN आणि मोबाईल डेटा तात्पुरता निष्क्रिय करून वीज बचतीचे कार्य करतो. बहुतांश अनुप्रयोग निष्क्रिय राहतील.
+स्क्रीन चालू झाल्यावर, आपले उपकरण सामान्यपणे कार्य करेल.
+विस्तारित राखीव चालू असताना आपल्याला जर काही अनुप्रयोग सक्रिय ठेवायचे असतील तर, त्यांना राखीव मध्ये सक्रिय अनुप्रयोग यादीमध्ये सामील करा.
+
+• विस्तारित वापर
+आपले उपकरण वापरात असताना हार्डवेअर कामगिरीवर निर्बंध घालून वीजबचत करतो.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>STAMINA मोड म्हणजे काय?</u>"
+STAMINA मोड हे Sony चे वीज बचत कार्य आहे. हे कार्य, प्रदर्शन बंद असताना बॅटरी आयुष्य वाढवते.
+
+"<u>मुलभूत वापर</u>"
+STAMINA मोड चालू करण्यासाठी, स्क्रीन वरील बटण टॅप करा.
+जेव्हा स्क्रीन बंद असेल, तेव्हा बॅटरीची बचत करण्यासाठी सर्व WLAN आणि मोबाईल डेटा तात्पुरता अक्षम केला जाईल, आणि आपले बहुतांशी अनुप्रयोग निष्क्रिय राहतील.
+स्क्रीन चालू झाल्यावर, आपला फोन सामान्यपणे कार्य करेल.
+
+"<u>प्रगत वापर</u>"
+STAMINA मोड चालू असताना जर काही अनुप्रयोग सक्रिय ठेवायचे असतील तर, त्यांना APPS ACTIVE IN STANDBY सूचीमध्ये जोडा. 
+जर अनुप्रयोग सूचीमध्ये सामील केले नसतील तर ते योग्यरीतीने कार्य करू शकणार नाहीत.
+
+"<u>नोट</u>"
+जर अनुप्रयोग योग्यरीतीने कार्य करीत नसेल, तर APPS ACTIVE IN STANDBY मध्ये त्यांची नोंद करा किंवा STAMINA मोड बंद करा."</string>
+    <string name="fullbackup_data_summary">"आपोआप डिव्हाइस डेटाचा (जसे की वाय-फाय पासवर्ड आणि कॉल इतिहास) आणि अ‍ॅप डेटाचा (जसे की अ‍ॅप्‍स द्वारे स्टोअर केलेल्या सेटिंग्ज आणि फायली) दूरस्‍थपणे बॅकअप घ्‍या.
+
+तुम्ही स्वयंचलित बॅकअप चालू करता तेव्‍हा, डिव्हाइस आणि अ‍ॅप डेटा ठराविक कालावधीने दूरस्‍थपणे सेव्ह केला जातो. अ‍ॅप डेटा हा संपर्क, मेसेज आणि फोटो यासारख्‍या संभाव्य संवेदनशील डेटासह अ‍ॅपने सेव्ह केलेला (डेव्हलपरच्या सेटिंग्जवर आधारित) कोणताही डेटा असू शकतो."</string>
+    <string name="fullbackup_erase_dialog_message">डिव्हाइस डेटाचा (जसे की वाय-फाय पासवर्ड आणि कॉल इतिहास) आणि (अॅप्सद्वारे स्टोअर केलेल्या सेटिंग्ज आणि फायली यासारख्या) अॅप डेटाचा बॅकअप घेणे थांबवायचे, तसेच दूरस्थ सर्व्हर वरील सर्व प्रती मिटवायच्या?</string>
+    <string name="install_wapi_certs">WLAN प्रमाणपत्र इनस्टॉल करा</string>
+    <string name="l_dialog_message_hint">"STAMINA मोडमध्ये समाविष्ट आहे:
+
+•विस्तारित राखीव
+तात्पुरते WLAN अक्षम करून पडदा बंद केल्यावर विजेची बचत करते. बरेचसे अनुप्रयोग निष्क्रिय राहतील.
+पडदा चालू केल्यावर आपले उपकरण सामान्यपणे कार्य करेल.
+विस्तारित राखीव सक्षम केलेले असतांना आपण काही अनुप्रयोग सक्रिय ठेवू इच्छित असल्यास अनुप्रयोगांना राखीव मध्ये सक्रिय राहणारे अनुप्रयोग या यादी मध्ये सामील करा.
+
+• अतिरिक्त वापर
+आपले उपकरण वापरामध्ये असतांना हार्डवेयर कामगिरीवर निर्बंध घालून विजेची बचत करते."</string>
+    <string name="location_based_wifi">स्थान-आधारित WLAN</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">आपले WLAN नेटवर्क शेअर करण्यासाठी, सेटिंग मधील \"WLAN माहिती शेअर करा\" पर्याय निवडा.</string>
+    <string name="nfc_wifi_share_checkbox">WLAN माहिती शेअर करा</string>
+    <string name="nfc_wifi_share_title_txt">WLAN माहिती शेअर करा</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;T WLAN सोय स्थळास स्वयंचलित जोडा</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN स्वयंचलित जोड</string>
+    <string name="powersaver_feature_data_message">आपण WLAN वापरत नाही तोपर्यंत आपण डेटा जोडणीसाठी आवश्यक असणारे इंटरनेट, ईमेल किंवा अन्य अनुप्रयोग वापरू शकणार नाही. मोबाईल डेटा जोडणी बंद करायची?</string>
+    <string name="powersaver_feature_wifi">WLAN बंद</string>
+    <string name="radio_controls_summary">WLAN, Bluetooth, विमान मोड, मोबाईल नेटवर्क आणि VPN व्यवस्थापित करा</string>
+    <string name="radio_info_ims_reg_status">"IMS नोंदणी: %1$s
+LTE वरून व्हॉइस: %2$s
+वायफाय वरून व्हॉइस: %3$s
+व्हिडिओ कॉलिंग: %4$s
+UT इंटरफेस: %5$s"</string>
+    <string name="somc_backup_failed_no_wifi_summary">WLAN जोडणीसाठी प्रतीक्षा करत आहे</string>
+    <string name="somc_wifi_turned_on_info">WLAN चालू केले. सूचीमधील आपले नेटवर्क निवडा.</string>
+    <string name="stamina_xssm_summary">पडदा बंद असताना मोबाईल डेटा आणि WLAN अक्षम करतो</string>
+    <string name="tethering_no_sim_warning_txt">तुमच्या भ्रमणध्वनी फोनची डेटा जोडणी इतर उपकरणासोबत इंटरनेट प्रवेशासाठी मोबाईल WLAN सोय-स्थळ किंवा टेदर करत आहे यांचा उपयोग करून शेअर करण्यासाठी कृपया SIM कार्ड इन्सर्ट करा.</string>
+    <string name="usm_descr">"Ultra STAMINA मोड महत्वपूर्णरित्या बॅटरी आयुष्य वाढवेल. आपणास आपले उपकरण प्रदीर्घकाळ उर्जाभारीत करणे शक्य न झाल्यास याचा वापर शक्य होईल.
+
+केवळ काही मुलभूत कार्ये, जसे कि फोन आणि संदेशवहन उपलब्ध होतील. अधिक तपशिलासाठी \"अधिक माहिती\" वर टॅप करा.
+
+लक्षात असू द्या कि WLAN आणि मोबाईल डेटा द्वारे केलेली इंटरनेट जोडणी अक्षम केली जाईल."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"WLAN कॉलिंगद्वारे आणीबाणी कॉल्स शक्य नाही.
+आणीबाणी कॉल करण्यासाठी उपकरण स्वयंचलितपणे सेल्युलर नेटवर्क (2G/3G) वर स्विच होते.
+केवळ सेल्युलर कव्हरेज असणाऱ्या क्षेत्रांमध्ये आणीबाणी कॉल्स करणे शक्य होते"</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">WLAN कॉलिंगद्वारे आणीबाणी कॉल</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone WLAN कॉलिंग</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"WLAN कॉलिंग चालू करण्यासाठी, आपल्याला स्थान चालू करणे आणि उच्च अचूकता किंवा बॅटरी बचत मोड निवडणे आवश्यक आहे.
+
+WLAN कॉलिंग असताना कृपया स्थान चालू असल्याचे सुनिश्चित करा."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"WLAN कॉलिंगद्वारे आणीबाणी कॉल्स शक्य नाही.
+आणीबाणी कॉल करण्यासाठी उपकरण स्वयंचलितपणे सेल्युलर नेटवर्क (2G/3G) वर स्विच होते.
+केवळ सेल्युलर कव्हरेज असणाऱ्या क्षेत्रांमध्ये आणीबाणी कॉल्स करणे शक्य होते"</string>
+    <string name="wfc_location_info_dialog_desc_txt">स्थान सेटिग सक्षम असले वा नसले तरीही आपली स्थान-संबंधित माहिती Google आणि आपल्या चालकाला WLAN कॉल स्थापित करण्यासाठी पाठविली जाऊ शकते.</string>
+    <string name="wfc_provisioned_switch_string">वायफाय कॉलिंगची तरतूद केली</string>
+    <string name="wifi">वाय-फाय</string>
+    <string name="wifi_advanced_settings_label">WLAN सेटिंग्ज</string>
+    <string name="wifi_ask_disable">%s वाय-फाय बंद करू इच्छित आहे</string>
+    <string name="wifi_ask_enable">%s वाय-फाय चालू करू इच्छित आहे</string>
+    <string name="wifi_auto_network_switch_setting_msg">WLAN नेटवर्क आणि मोबाईल नेटवर्क हे दोन्ही उपलब्ध असताना पसंतीच्या नेटवर्कवर स्वयंचलितपणे स्विच करतो</string>
+    <string name="wifi_calling_link_to_register_emergency_address">WLAN कॉलिंगच्या नोंदणीसाठी किंवा आपला सध्याचा आणीबाणी पत्ता अद्ययावत करण्यासाठी येथे क्लिक करा</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">सेल्युलर नेटवर्कवरून कॉल करा. जर सेल्युलर नेटवर्क उपलब्ध नसेल तर WLAN वापरा.</string>
+    <string name="wifi_calling_mode_wifi_only_summary">WLAN वरून कॉल करा. जर WLAN जोडणी गमवली असेल तर कॉल समाप्त करा.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">WLAN वरून कॉल करा. जर WLAN उपलब्ध नसेल तर सेल्युलर नेटवर्क वापरा.</string>
+    <string name="wifi_calling_off_explanation">"जेथे मोबाईल नेटवर्क व्याप्ती कमजोर असेल तिथे कॉल गुणवत्ता वाढवण्यासाठी WLAN कॉलिंग वापरा.
+
+शुल्क
+WLAN कॉलिंगच्या शुल्काविषयीच्या अधिक माहितीसाठी कृपया आपल्या सेवा प्रदात्याशी संपर्क साधा.
+
+WLAN कॉलिंग विषयी नोट्स
+WLAN कॉलिंगवर राहण्यासाठी आपण WLAN परिक्षेत्रामध्ये असल्याची खात्री करून घ्या."</string>
+    <string name="wifi_calling_on_dialog_text">WLAN कॉलिंग वापरण्याकरिता, मोबाईल डेटासाठी असलेल्या प्रधान्यकृत SIM ला, SIM 1 वर सेट करा</string>
+    <string name="wifi_calling_settings_title">वाय-फाय कॉलिंग</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN प्रमाणपत्र बदला</string>
+    <string name="wifi_data_template">^1 वाय-फाय डेटा</string>
+    <string name="wifi_disabled_wifi_failure">WLAN कनेक्शन अयशस्वी</string>
+    <string name="wifi_dpp_add_device_to_wifi">हे डिव्हाइस “%1$s” वर जोडायचे?</string>
+    <string name="wifi_dpp_center_qr_code">“%1$s” वर डिव्हाइस जोडण्यासाठी QR कोड मध्यभागी येईल अशा पद्धतीने डिव्हाइस धरा</string>
+    <string name="wifi_dpp_failure_not_supported">या डिव्हाइसद्वारे “%1$s” जोडण्याला सपोर्ट करत नाही</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">“%1$s” शी कनेक्ट करण्यासाठी हा QR कोड स्कॅन करा</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">“%1$s” शी कनेक्ट करण्यासाठी खालील QR कोड मध्यभागी ठेवा</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">“%1$s” शी कनेक्ट करण्यासाठी हा QR कोड स्कॅन करा आणि पासवर्ड शेअर करा</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">WLAN चालू असतांना Passpoint नेटवर्क उपलब्ध करून देण्यासाठी स्वयं जोडणी</string>
+    <string name="wifi_p2p_settings">WLAN Direct सेटींग</string>
+    <string name="wifi_scan_always_turnon_message">"स्थान अचूकता सुधारण्यासाठी आणि इतर हेतूंसाठी, %1$s ला नेटवर्क स्कॅनिंग चालू करण्याची आवश्यकता आहे, वाय-फाय बंद असताना देखील.
+
+स्कॅन करू इच्छित सर्व अॅप्सना अनुमती द्यायची?"</string>
+    <string name="wifi_scan_notify_text_scanning_off">स्थान अचूकता वाढवण्यासाठी, LINK_BEGINस्कॅनिंग सेटिंग्जLINK_END मध्ये वाय-फाय स्कॅनिंग चालू करा.</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT ने सुरक्षित केलेले</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK ने सुरक्षित केलेले</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_tether_settings_subtext">पोर्टेबल WLAN सोय-स्थळ सेट अप करा आणि व्यवस्थापन करा</string>
+    <string name="wifi_tether_settings_text">पोर्टेबल WLAN सोय-स्थळ सेटिंग</string>
+    <string name="wifi_tethering_warning_txt">कोणतेही चालू असणारे WLAN परिचालन, जसे की मीडिया हस्तांतरण, फोन सॉफ्टवेअर अद्ययावत, राखीव प्रत आणि पुनर्स्थापना करा, यामध्ये अडथळा येईल.</string>
+    <string name="wifi_wps_category_title">WLAN नेटवर्क सेट अप करा</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN जोडणी रद्द झाली सेटअप रद्द झाला.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINA मोड उपकरण सेटिंग जुळवून बॅटरी पॉवरची बचत करतो. स्लीप मोडच्या दरम्यान घटविलेल्या कार्यक्षमतेसह अनुप्रयोग रन करण्याचा पर्याय आपण निवडू शकता. यामुळे बॅटरी पॉवरची बचत होते कारण बरेचसे अनुप्रयोग स्लीप मोडमध्ये असतानाही बॅटरी संपवितात.)
+
+निवडलेल्या अनुप्रयोगांसाठी निष्क्रिय केलेली कार्ये:
+- WLAN
+- मोबाईल डेटा
+- कालमापक
+
+स्लीप मोडच्या दरम्यान सर्व अनुप्रयोगांचा सूचना दीप समान रंगात आणि समान फ्रिक्वेन्सी मध्ये प्रदीप्त होतो.
+
+आपण अनुप्रयोग नियंत्रित करीत असताना STAMINA मोड निष्क्रिय केला गेला."</string>
+</resources>

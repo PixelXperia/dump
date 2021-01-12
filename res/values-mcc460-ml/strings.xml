@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">നിങ്ങളുടെ ഫോണിലെ അപ്ലിക്കേഷനുകൾക്ക് നിങ്ങളുടെ ഉപകരണത്തിന്റെ പേര് ദൃശ്യമാണ്. വൈഫൈ ഹോട്ട്‌സ്‌പോട്ട് സജ്ജീകരിക്കുമ്പോഴോ Bluetooth ഉപകരണങ്ങളുമായി കണക്‌റ്റ് ചെയ്യുമ്പോഴോ, ഇത് മറ്റ് ആളുകൾക്കും കാണാനായേക്കും.</string>
+    <string name="accessibility_no_wifi">വൈഫൈ വിച്ഛേദിച്ചു.</string>
+    <string name="accessibility_wifi_off">വൈഫൈ ഓഫാണ്.</string>
+    <string name="accessibility_wifi_one_bar">വൈഫൈ സിഗ്നൽ ഒരു ബാർ.</string>
+    <string name="accessibility_wifi_signal_full">വൈഫൈ മികച്ച സിഗ്‌നൽ.</string>
+    <string name="accessibility_wifi_three_bars">വൈഫൈ സിഗ്നൽ മൂന്ന് ബാറുകൾ.</string>
+    <string name="accessibility_wifi_two_bars">വൈഫൈ സിഗ്നൽ രണ്ട് ബാറുകൾ.</string>
+    <string name="battery_desc_wifi">WLAN-യുടെ ബാറ്ററി ഉപഭോഗം</string>
+    <string name="battery_usm_desc">"Ultra STAMINA മോഡ് നിങ്ങളുടെ ബാറ്ററി സമയം കാര്യമായി വർദ്ധിപ്പിക്കും. WLAN, മൊബൈൽ ഡാറ്റ എന്നിവ വഴിയുള്ള ഇന്റർനെറ്റ് കണക്ഷൻ പ്രവർത്തനരഹിതമാക്കുന്നതിനാൽ ഡാറ്റാ സമന്വയവും WLAN കോളിംഗും പോലുള്ള പ്രവർത്തനങ്ങൾ ലഭ്യമാകില്ലെന്ന കാര്യം ഓർക്കുക. നിങ്ങളുടെ ഹോം സ്ക്രീൻ Ultra STAMINA മോഡ് ഹോമിലേക്ക് മാറും.
+
+Ultra STAMINA മോഡിൽ ലഭ്യമായ ആപ്പുകൾ"</string>
+    <string name="battery_usm_desc_variable">"Ultra STAMINA മോഡ് ബാറ്ററി സമയം ഗണ്യമായി കൂട്ടും. WLAN, മൊബൈൽ ഡാറ്റ എന്നിവയിലൂടെയുള്ള ഇന്റർനെറ്റ് കണക്ഷൻ അപ്രാപ്തമാക്കപ്പെടും എന്നതിനാൽ ഡാറ്റ സമന്വയം, %s എന്നിവ പോലുള്ള പ്രവർത്തനങ്ങൾ ലഭ്യമാകില്ല. Ultra STAMINA മോഡ് ഹോമിലേക്ക് നിങ്ങളുടെ ഹോം സ്ക്രീൻ മാറും.
+
+Ultra STAMINA മോഡിൽ ലഭ്യമായ ആപ്പുകൾ"</string>
+    <string name="bs_feature_wifi">WLAN ഓഫ്</string>
+    <string name="change_wifi_state_app_detail_summary">വൈഫൈ ഓണോ ഓഫോ ആക്കാനോ വൈഫൈ നെറ്റ്‌വർക്കുകൾ സ്കാൻ ചെയ്യാനോ അവയിലേക്ക് കണക്‌റ്റ് ചെയ്യാനോ നെറ്റ്‌വർക്കുകൾ ചേർക്കാനോ നീക്കം ചെയ്യാനോ ഉപകരണം ഉള്ളിടത്ത് മാത്രം പ്രവർത്തിക്കുന്ന ഒരു ഹോട്ട്‌സ്പോട്ട് ആരംഭിക്കാനോ ഈ ആപ്പിനെ അനുവദിക്കുക</string>
+    <string name="change_wifi_state_app_detail_switch">വൈഫൈയെ നിയന്ത്രിക്കാൻ ആപ്പിനെ അനുവദിക്കുക</string>
+    <string name="change_wifi_state_title">വൈഫൈ നിയന്ത്രണം</string>
+    <string name="connected_via_app">%1$s മുഖേന കണക്‌റ്റ് ചെയ്‌തു</string>
+    <string name="credential_for_wifi">വൈഫൈ ഇൻസ്റ്റാൾ ചെയ്തു</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN കണക്.</string>
+    <string name="cw_network_notification">CT WLAN അറിയിപ്പ് പ്രവര്‍ത്ത.</string>
+    <string name="cw_network_priority">ചൈന ടെല. WLAN-യ്ക്ക് മുന്‍.</string>
+    <string name="cw_network_priority_summary">കണക്ഷനിലുള്ള മറ്റ് WLAN നെറ്റ്‌വര്‍ക്കുകളേക്കാള്‍ ചൈനാ ടെലികോം WLAN നെറ്റ്‌വര്‍ക്കുകള്‍ക്ക് മുന്‍ഗണന നല്‍കപ്പെടും</string>
+    <string name="data_service_except_mms_disabled_warning_txt">നിങ്ങൾ WLAN ഉപയോഗിക്കുന്നില്ലെങ്കിൽ, ഇന്റർനെറ്റോ ഇമെയിലോ ഡാറ്റാ കണക്ഷൻ ആവശ്യമുള്ള മറ്റ് ഡാറ്റാ സേവനങ്ങളോ ഉപയോഗിക്കാൻ നിങ്ങൾക്കാകില്ല. തുടരണോ?</string>
+    <string name="dialog_message_hint">"STAMINA മോഡിൽ ഉൾപ്പെടുന്നത്:
+
+• വിപുലമായ സ്റ്റാൻഡ്‌ബൈ
+സ്ക്രീന്‍ ഓഫ് ആയിരിക്കുമ്പോൾ, WLAN-യും മൊബൈൽ ഡാറ്റയും താല്‍ക്കാലികമായി പ്രവര്‍ത്തനരഹിതമാക്കി, പവർ ലാഭിക്കുന്നു.
+സ്ക്രീന്‍ ഓണ്‍ ആയിരിക്കുമ്പോൾ, നിങ്ങളുടെ ഉപകരണം സാധാരണ പോലെ പ്രവര്‍ത്തിക്കും.
+വിപുലമായ സ്റ്റാൻഡ്‌ബൈ ഓൺ ആയിരിക്കെ, ചില സജീവ ആപ്സ് സൂക്ഷിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുവെങ്കിൽ, സ്റ്റാൻഡ്‌ബൈയിലെ സജീവ ആപ്സ് ലിസ്റ്റിലേക്ക് ആപ്സ് കൂട്ടിച്ചേർക്കുക.
+
+• വിപുലമായ ഉപയോഗം
+നിങ്ങളുടെ ഉപകരണം ഉപയോഗത്തിൽ ആയിരിക്കുമ്പോൾ ഹാർഡ്‌വെയർ പ്രകടനശേഷി പരിമിതപ്പെടുത്തിക്കൊണ്ട് പവർ ലാഭിക്കുന്നു.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>എന്താണ് STAMINA മോഡ്?</u>"
+Sony-യുടെ പവര്‍ ലാഭിക്കൽ സവിശേഷതയാണ് STAMINA മോഡ്. ഡിസ്പ്ലേ ഓഫ് ആയിരിക്കുമ്പോള്‍ ഇത് ബാറ്ററിയുടെ ഈട് കൂട്ടുന്നു.
+
+"<u>അടിസ്ഥാന ഉപയോഗം</u>"
+STAMINA മോഡ് സജീവമാക്കുന്നതിന്, സ്ക്രീനിലെ ബട്ടൺ ടാപ് ചെയ്യുക.
+സ്ക്രീന്‍ ഓഫ് ആയിരിക്കുമ്പോൾ, ബാറ്ററി ലാഭിക്കുന്നതിനായി WLAN-യും മൊബൈൽ ഡാറ്റയും താല്‍ക്കാലം പ്രവര്‍ത്തനരഹിതമാക്കപ്പെടും, മിക്ക ആപ്ലിക്കേഷനുകളും നിര്‍ജ്ജീവമായിരിക്കും.
+സ്ക്രീന്‍ ഓണ്‍ ആകുമ്പോൾ, നിങ്ങളുടെ ഫോൺ സാധാരണ പോലെ പ്രവര്‍ത്തിക്കും.
+
+"<u>വിപുലമായ ഉപയോഗം</u>"
+STAMINA ഓൺ ആയിരിക്കുമ്പോള്‍ ചില ആപ്ലിക്കേഷനുകള്‍ സജീവമായി വയ്ക്കണമെങ്കിൽ, സ്റ്റാൻഡ്‌ബൈയിൽ സജീവമായ ആപ്ലിക്കേഷൻ ലിസ്റ്റിലേക്ക് അവ ചേര്‍ക്കുക.
+ലിസ്റ്റിലേക്ക് ചേർത്തിട്ടില്ലെങ്കിൽ ആപ്ലിക്കേഷൻ ശരിയായി പ്രവർത്തിച്ചേക്കില്ല.
+
+"<u>കുറിപ്പ്</u>"
+ആപ്ലിക്കേഷന്‍ ശരിയായി പ്രവര്‍ത്തിക്കുന്നില്ലെങ്കില്‍ സ്റ്റാൻഡ്‌ബൈയിൽ സജീവമായ ആപ്ലിക്കേഷൻ ലിസ്റ്റിലേക്ക് ചേര്‍ക്കുക / STAMINA മോഡ് നിര്‍ജ്ജീവമാക്കുക."</string>
+    <string name="fullbackup_data_summary">"ഉപകരണ വിവരവും (വൈഫൈ പാസ്‌വേഡുകളും കോൾ ചരിത്രവും പോലുള്ളവ) ആപ്പ് വിവരവും (ക്രമീകരണവും ആപ്പുകൾ സംഭരിച്ച ഫയലുകളും പോലുള്ളവ) വിദൂരമായി സ്വയമേവ ബാക്കപ്പെടുക്കുന്നു.
+
+നിങ്ങൾ സ്വയമേയുള്ള ബാക്കപ്പ് ഓണാക്കുമ്പോൾ, ഉപകരണ, ആപ്പ് വിവരം ഇടയ്‌ക്കിടെ വിദൂരമായി സംരക്ഷിക്കും. ആപ്പ് വിവരം എന്നത് കോൺടാക്റ്റുകൾ, സന്ദേശങ്ങൾ, ഫോട്ടോകൾ എന്നിവ പോലുള്ള രഹസ്യസ്വഭാവമുള്ളവ ഉൾപ്പെടെ ആപ്പ് സംരക്ഷിച്ചിട്ടുള്ള ഏതൊരു വിവരവും (ഡെവലപ്പർ ക്രമീകരണം അടിസ്ഥാനമാക്കി) ആകാം."</string>
+    <string name="fullbackup_erase_dialog_message">ഉപകരണ വിവരവും (വൈഫൈ പാസ്‌വേഡുകളും കോൾ ചരിത്രവും പോലുള്ളവ) ആപ്പ് വിവരവും (ആപ്പുകൾ സംഭരിച്ച ക്രമീകരണവും ഫയലുകളും പോലുള്ളവ) ബാക്കപ്പുചെയ്യുന്നത് നിർത്തുകയും വിദൂര സെർവറുകളിലെ എല്ലാ പകർപ്പുകളും മായ്‌ക്കുകയും ചെയ്യണോ?</string>
+    <string name="install_wapi_certs">WLAN സര്‍ട്ടിഫിക്കറ്റുകള്‍ ഇ. ചെ.</string>
+    <string name="l_dialog_message_hint">"STAMINA മോഡിൽ ഇവ ഉൾപ്പെടുന്നു:
+
+• വിപുലീകൃത സ്റ്റാൻഡ്‌ബൈ
+സ്ക്രീൻ ഓഫാകുമ്പോൾ WLAN താൽക്കാലികമായി അപ്രാപ്തമാക്കിക്കൊണ്ട് പവർ ലാഭിക്കുന്നു. മിക്ക ആപ്സും നിർജ്ജീവമാകും.
+സ്ക്രീൻ ഓൺ ആകുമ്പോൾ ഉപകരണം സാധാരണ പോലെ പ്രവർത്തിക്കും.
+വിപുലീകൃത സ്റ്റാൻഡ്‌ബൈ പ്രാപ്തമാക്കിയിരിക്കെ, ചില ആപ്സ് സജീവമാക്കി നിലനിർത്തണമെങ്കിൽ, സ്റ്റാൻഡ്‌ബൈയിലെ സജീവ ആപ്സ് എന്ന ലിസ്റ്റിലേക്ക് ആപ്സ് ചേർക്കുക.
+
+• വിപുലീകൃത ഉപയോഗം
+ഉപകരണം ഉപയോഗത്തിലായിരിക്കുമ്പോൾ, ഹാർഡ്‌വെയർ പ്രകടനം നിയന്ത്രിച്ചുകൊണ്ട് പവർ ലാഭിക്കുന്നു."</string>
+    <string name="location_based_wifi">സ്ഥാനാധിഷ്ഠിത WLAN</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">നിങ്ങളുടെ നിലവിലെ WLAN നെറ്റ്‌വർക്ക് പങ്കിടുന്നതിന്, ക്രമീകരണത്തിൽ \"WLAN വിവരം പങ്കിടുക\" ഐച്ഛികം തിരഞ്ഞെടുക്കുക.</string>
+    <string name="nfc_wifi_share_checkbox">WLAN വിവരം പങ്കിടുക</string>
+    <string name="nfc_wifi_share_title_txt">WLAN വിവരം പങ്കിടുക</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;T WLAN ഹോട്ട്‌സ്പോട്ടിലേക്ക് യാന്ത്രികമായി കണക്ടുചെയ്യുക</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN സ്വയ കണ.</string>
+    <string name="powersaver_feature_data_message">നിങ്ങൾ WLAN ഉപയോഗിക്കുന്നില്ലെങ്കിൽ, ഇന്റർനെറ്റോ ഇമെയിലോ ഡാറ്റാ കണക്ഷൻ ആവശ്യമുള്ള മറ്റ് ഡാറ്റാ സേവനങ്ങളോ ഉപയോഗിക്കാൻ നിങ്ങൾക്കാകില്ല. തുടരണോ?</string>
+    <string name="powersaver_feature_wifi">WLAN ഓഫ്</string>
+    <string name="radio_info_ims_reg_status">"IMS രജിസ്ട്രേഷൻ: %1$s
+LTE വഴി ശബ്ദം: %2$s
+WLAN വഴി ശബ്ദം: %3$s
+വീഡിയോ കോളിംഗ്: %4$s
+UT ഇന്റര്‍ഫേസ്: %5$s"</string>
+    <string name="restriction_wifi_config_summary">WLAN-യുടെയും മൊബൈൽ ക്രമീകരണങ്ങളുടെയും പരിഷ്‌ക്കരണം അനുവദിക്കുക</string>
+    <string name="restriction_wifi_config_title">WLAN-യും മൊബൈലും</string>
+    <string name="somc_backup_failed_no_wifi_summary">WLAN കണക്ഷനായി കാക്കുന്നു</string>
+    <string name="somc_wifi_turned_on_info">WLAN ഓണാണ്. പട്ടികയിൽ നെ.വ. തിര.</string>
+    <string name="stamina_xssm_summary">സ്ക്രീന്‍ ഓഫായിരിക്കുമ്പോള്‍ മൊബൈല്‍ ഡാറ്റയും WLAN-um പ്രവര്‍ത്തനരഹിതമാക്കുന്നു</string>
+    <string name="tethering_no_sim_warning_txt">ഇന്റര്‍നെറ്റ് അക്സസിനായി Mobile WLAN Hotspot അല്ലെങ്കില്‍ USB ടെതെറിംഗ് ഉപയോഗിച്ചുകൊണ്ട് മറ്റ് ഉപകരണങ്ങളുമൊത്ത് നിങ്ങളുടെ ഫോണിന്റെ ഡാറ്റ കണക്ഷന്‍ പങ്കുവയ്ക്കുന്നതിന് ദയവായി SIM കാര്‍ഡ് നല്‍കുക.</string>
+    <string name="usm_descr">"Ultra STAMINA മോഡ് ഗണ്യമായി ബാറ്ററിയുടെ ഈട് കൂട്ടും. നീണ്ട സമയം നിങ്ങളുടെ ഉപകരണം ചാർജ് ചെയ്യാൻ കഴിയില്ലെങ്കിൽ ഇത് ഉപയോഗിക്കാം.
+
+ഫോണും സന്ദേശമയയ്ക്കലും പോലെ കുറച്ച് അടിസ്ഥാന ഫംഗ്‌ഷനുകൾ മാത്രമേ ലഭ്യമാകൂ. വിശദാംശങ്ങൾക്ക് \"കൂടുതൽ വിവരങ്ങൾ\" ടാപ് ചെയ്യുക.
+
+WLAN, മൊബൈൽ ഡാറ്റ എന്നിവയിലൂടെയുള്ള ഇന്റർനെറ്റ് കണക്ഷൻ അപ്രാപ്തമാക്കപ്പെടും എന്ന് ശ്രദ്ധിക്കുക."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"WLAN കോളിംഗ് വഴിയുള്ള അടിയന്തര കോളുകൾ സാധ്യമല്ല.
+ഒരു അടിയന്തര കോൾ വിളിക്കാനായി ഉപകരണം സ്വയമേവ ഒരു സെല്ലുലാർ നെറ്റ്‌വർക്കിലേക്ക് (2G/3G) മാറുന്നു.
+സെല്ലുലാർ കവറേജുള്ള മേഖലകളിൽ മാത്രമേ അടിയന്തര കോളുകൾ സാധ്യമാകൂ."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">WLAN കോളിംഗ് വഴിയുള്ള അടിയന്തര കോളുകൾ</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone WLAN കോളിംഗ്</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"WLAN കോളിങ്ങ് ഓൺ ചെയ്യാൻ, നിങ്ങൾ സ്ഥാനം ഓൺ ചെയ്‌ത് 'ഉയർന്ന കൃത്യത' അല്ലെങ്കിൽ ബാറ്ററി ലാഭിക്കൽ മോഡ് തിരഞ്ഞെടുക്കേണ്ടതുണ്ട്.
+
+WLAN കോളിങ്ങിനിടെ സ്ഥാനം ഓൺ ചെയ്‌തിടുന്നത് ഉറപ്പുവരുത്തുക."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"WLAN കോളിംഗ് വഴിയുള്ള അടിയന്തര കോളുകൾ സാധ്യമല്ല.
+ഒരു അടിയന്തര കോൾ വിളിക്കാനായി ഉപകരണം സ്വയമേവ ഒരു സെല്ലുലാർ നെറ്റ്‌വർക്കിലേക്ക് (2G/3G) മാറുന്നു.
+സെല്ലുലാർ കവറേജുള്ള മേഖലകളിൽ മാത്രമേ അടിയന്തര കോളുകൾ സാധ്യമാകൂ."</string>
+    <string name="wfc_location_info_dialog_desc_txt">സ്ഥാന ക്രമീകരണം പ്രാപ്തമാക്കിയാലും ഇല്ലെങ്കിലും, WLAN സ്ഥാപിക്കുന്നതിന്, നിങ്ങളുടെ സ്ഥാനവുമായി ബന്ധപ്പെട്ട വിവരങ്ങൾ Google-ലേക്കും നിങ്ങളുടെ ഓപ്പറേറ്റർക്കും അയയ്ക്കപ്പെടും.</string>
+    <string name="wfc_provisioned_switch_string">വൈഫൈ കോളിംഗ് ഏർപ്പെടുത്തി</string>
+    <string name="wifi">വൈഫൈ</string>
+    <string name="wifi_advanced_settings_label">WLAN ക്രമീകരണം</string>
+    <string name="wifi_ask_disable">വൈഫൈ ഓഫാക്കാൻ %s താൽപ്പര്യപ്പെടുന്നു</string>
+    <string name="wifi_ask_enable">വൈഫൈ ഓഫാക്കാൻ %s താൽപ്പര്യപ്പെടുന്നു</string>
+    <string name="wifi_auto_network_switch_setting_msg">WLAN, മൊബൈൽ നെറ്റ്‌വർക്കുകൾ ലഭ്യമാകുമ്പോൾ ഇഷ്ടമുള്ള നെറ്റ്‌വർക്കിലേക്ക് സ്വയമേവ മാറുക.</string>
+    <string name="wifi_calling_link_to_register_emergency_address">WLAN കോളിംഗിനായി രജിസ്റ്റർ ചെയ്യാനോ നിലവിലെ എമർജൻസി വിലാസം നവീകരിക്കാനോ ഇവിടെ ക്ലിക്കുചെയ്യുക</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">സെല്ലുലാർ നെറ്റ്‌വർക്ക് മുഖേന വിളിക്കുക, സെല്ലുലാർ നെറ്റ്‌വർക്ക് ലഭ്യമല്ലെങ്കിൽ, WLAN ഉപയോഗിക്കുക</string>
+    <string name="wifi_calling_mode_wifi_only_summary">WLAN മുഖേന വിളിക്കുക. WLAN കണക്ഷൻ നഷ്‌ടപ്പെട്ടാൽ, കോൾ അവസാനിക്കുന്നു.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">WLAN മുഖേന വിളിക്കുക. WLAN ലഭ്യമല്ലെങ്കിൽ, സെല്ലുലാർ നെറ്റ്‌വർക്ക് ഉപയോഗിക്കുക.</string>
+    <string name="wifi_calling_off_explanation">"മൊബൈൽ നെറ്റ്‌വർക്ക് കവറേജ് മോശമായ ഇടങ്ങളിൽ കോൾ നിലവാരം വർദ്ധിപ്പിക്കാൻ WLAN കോളിംഗ് ഉപയോഗിക്കുക.
+
+ചിലവ്
+WLAN കോളിംഗ് നിരക്കുകളെക്കുറിച്ചുള്ള വിവരങ്ങൾക്ക്, സേവന ദാതാവിനെ ബന്ധപ്പെടുക.
+
+WLAN കോളിംഗിൽ ശ്രദ്ധിക്കേണ്ടവ
+WLAN കോളിംഗിൽ തുടരാൻ, WLAN പരിധിയ്ക്കുള്ളിൽ തുടരുന്നത് ഉറപ്പാക്കുക."</string>
+    <string name="wifi_calling_on_dialog_text">WLAN കോളിംഗ് ഉപയോഗിക്കാൻ, മൊബൈൽ ഡാറ്റയ്‌ക്കായി തിരഞ്ഞെടുത്ത SIM-നെ SIM 1 ആയി ക്രമീകരിക്കുക</string>
+    <string name="wifi_calling_settings_title">വൈഫൈ കോളിംഗ്</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN സര്‍ട്ടിഫിക്കേറ്റ് മാറ്റുക</string>
+    <string name="wifi_data_template">^1 വൈഫൈ ഡാറ്റ</string>
+    <string name="wifi_disabled_wifi_failure">WLAN കണക്ഷൻ പരാജയം</string>
+    <string name="wifi_dpp_add_device_to_wifi">ഈ ഉപകരണം “%1$s” എന്നതിലേക്ക് ചേർക്കണോ?</string>
+    <string name="wifi_dpp_center_qr_code">"“%1$s” എന്നതിലേക്ക് ഉപകരണം ചേർക്കാൻ,  ചുവടെയുള്ള QR കോഡിലേക്ക് കേന്ദ്രീകരിക്കുക"</string>
+    <string name="wifi_dpp_failure_not_supported">ഈ ഉപകരണം \"%1$s\" ചേർക്കുന്നതിനെ പിന്തുണയ്ക്കുന്നില്ല</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">“%1$s\" എന്നതിലേക്ക് കണക്‌റ്റ് ചെയ്യാൻ ഈ QR കോഡ് സ്‌കാൻ ചെയ്യുക</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">"“%1$s” എന്നതിലേക്ക് കണക്‌റ്റ് ചെയ്യാൻ,  ചുവടെയുള്ള QR കോഡിലേക്ക് കേന്ദ്രീകരിക്കുക"</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">“%1$s” എന്നതിലേക്ക് കണക്‌റ്റ് ചെയ്യാൻ ഈ QR കോഡ് സ്‌കാൻ ചെയ്യുകയും പാസ്‌വേഡ് പങ്കിടുകയും ചെയ്യുക</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">ഈ ഉപകരണവുമായി WLAN പങ്കിടുന്നു…</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">WLAN ഓൺ ആകുമ്പോൾ ലഭ്യമായ Passpoint നെ.വർക്കുകളിലേക്ക് സ്വയം കണ.ചെ.</string>
+    <string name="wifi_p2p_settings">WLAN Direct ക്രമീകരണങ്ങള്‍</string>
+    <string name="wifi_scan_always_turnon_message">"ലൊക്കേഷൻ കൃത്യത മെച്ചപ്പെടുത്തുന്നതിനും മറ്റ് ആവശ്യകതകൾക്കായും, വൈഫൈ ഓഫായിരിക്കുമ്പോൾപ്പോലും നെറ്റ്‌വർക്ക് സ്‌കാൻ ചെയ്യാൻ %1$s താൽപ്പര്യപ്പെടുന്നു.
+
+സ്‌കാൻ ചെയ്യാൻ താൽപ്പര്യപ്പെടുന്ന എല്ലാ അപ്ലിക്കേഷനുകൾക്കായും ഇത് അനുവദിക്കണോ?"</string>
+    <string name="wifi_scan_notify_text_scanning_off">ലൊക്കേഷൻ കൃത്യത മെച്ചപ്പെടുത്താൻ, LINK_BEGINസ്‌കാനിംഗ് ക്രമീകരണത്തിൽLINK_END വൈഫൈ സ്കാനിംഗ് ഓണാക്കുക.</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT-മൊത്ത് സുരക്ഷിതം</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK-മൊത്ത് സുരക്ഷിതം</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_tether_settings_subtext">പോര്‍ട്ടബിള്‍ WLAN ഹോട്സ്പോട്ട് ക്രമീകരിക്കുക, മാനേജ് ചെയ്യുക</string>
+    <string name="wifi_tether_settings_text">പോര്‍ട്ടബിള്‍ WLAN ഹോട്ട്. ക്രമീക.</string>
+    <string name="wifi_tethering_warning_txt">മീഡിയ ട്രാൻസ്ഫർ, ഫോൺ സോ.വെ. നവീകരണം, ബാക്കപ്പ്, പുനഃസ്ഥാപനം എന്നിവ പോലുള്ള, നടന്നുകൊണ്ടിരിക്കുന്ന WLAN പ്രവർത്തനങ്ങൾ തടസ്സപ്പെടും.</string>
+    <string name="wifi_wps_category_title">WLAN നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുക</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN വിച്ഛേദിക്കപ്പെട്ടു. ക്രമീകരണം റദ്ദാക്കി.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"ഉപകരണം ക്രമീകരണം ക്രമപ്പെടുത്തിക്കൊണ്ട് STAMINA മോഡ് ബാറ്ററി പവർ ലാഭിക്കും. സ്ലീപ്പ് മോഡ് വേളയിൽ കുറഞ്ഞ പ്രവർത്തനക്ഷമതയുമൊത്ത് പ്രവർത്തിക്കേണ്ട ആപ്സ് നിങ്ങൾക്ക് തിരഞ്ഞെടുക്കാൻ കഴിയുന്നതാണ്. (സ്ലീപ്പ് മോഡ് വേളയിൽ പോലും മിക്ക ആപ്സും ബാറ്ററി തീർക്കുന്നതിനാൽ ബാറ്ററി പവർ ലാഭിക്കാൻ ഇത് നിങ്ങളെ സഹായിക്കും.)
+
+തിരഞ്ഞെടുത്ത ആപ്സിനായി അപ്രാപ്തമാക്കിയ ഫംഗ്ഷനുകൾ:
+- WLAN
+- മൊബൈൽ ഡാറ്റ
+- ടൈമർ
+
+സ്ലീപ്പ് മോഡ് സമയത്ത് എല്ലാ ആപ്സിനുമായുള്ള അറിയിപ്പ് വെളിച്ചം ഒരേ ആവൃത്തിയിലും ഒരേ നിറത്തിലും തെളിയുന്നതാണ്.
+
+നിങ്ങൾ ഉപകരണം നിയന്ത്രിക്കുന്നതിനിടെ STAMINA മോഡ് നിർജ്ജീവമാക്കപ്പെടുന്നു."</string>
+</resources>

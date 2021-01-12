@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">[Ýöûŕ ðéVîçé ñåḿé îš Vîšîɓļé ţö åþþš öñ ýöûŕ þĥöñé. Îţ ḿåý åļšö ɓé šééñ ɓý öţĥéŕ þéöþļé ŵĥéñ ýöû çöññéçţ ţö βļûéţööţĥ ðéVîçéš öŕ šéţ ûþ å ŴĻÅÑ ĥöţšþöţ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen]</string>
+    <string name="accessibility_no_wifi">[ŴĻÅÑ ðîšçöññéçţéð. one two three]</string>
+    <string name="accessibility_wifi_off">[ŴĻÅÑ öƒƒ. one two]</string>
+    <string name="accessibility_wifi_one_bar">[ŴĻÅÑ öñé ɓåŕ. one two]</string>
+    <string name="accessibility_wifi_signal_full">[ŴĻÅÑ šîĝñåļ ƒûļļ. one two three]</string>
+    <string name="accessibility_wifi_three_bars">[ŴĻÅÑ ţĥŕéé ɓåŕš. one two three]</string>
+    <string name="accessibility_wifi_two_bars">[ŴĻÅÑ ţŵö ɓåŕš. one two three]</string>
+    <string name="battery_usm_desc">"[Ûļţŕå ŠŢÅḾÎÑÅ ḿöðé ŵîļļ éхţéñð ɓåţţéŕý ţîḿé šîĝñîƒîçåñţļý. Ñöţé ţĥåţ šîñçé îñţéŕñéţ çöññéçţîöñ ţĥŕöûĝĥ ŴĻÅÑ åñð Ḿöɓîļé ðåţå ŵîļļ ɓé ðîšåɓļéð, ƒûñçţîöñš šûçĥ åš ðåţå šýñçĥŕöñîžåţîöñ åñð ŴĻÅÑ çåļļîñĝ ŵîļļ ɓé ûñåVåîļåɓļé. Ýöûŕ Ĥöḿé šçŕééñ ŵîļļ ɓé šŵîţçĥéð ţö Ûļţŕå ŠŢÅḾÎÑÅ ḿöðé Ĥöḿé.
+
+ÅVåîļåɓļé åþþš îñ Ûļţŕå ŠŢÅḾÎÑÅ ḿöðé one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen]"</string>
+    <string name="battery_usm_desc_variable">"[Ûļţŕå ŠŢÅḾÎÑÅ ḿöðé ŵîļļ éхţéñð ɓåţţéŕý ţîḿé šîĝñîƒîçåñţļý. Ñöţé ţĥåţ šîñçé îñţéŕñéţ çöññéçţîöñ ţĥŕöûĝĥ ŴĻÅÑ åñð Ḿöɓîļé ðåţå ŵîļļ ɓé ðîšåɓļéð, ƒûñçţîöñš šûçĥ åš ðåţå šýñçĥŕöñîžåţîöñ åñð »%s« ŵîļļ ɓé ûñåVåîļåɓļé. Ýöûŕ Ĥöḿé šçŕééñ ŵîļļ ɓé šŵîţçĥéð ţö Ûļţŕå ŠŢÅḾÎÑÅ ḿöðé Ĥöḿé.
+
+ÅVåîļåɓļé åþþš îñ Ûļţŕå ŠŢÅḾÎÑÅ ḿöðé one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve]"</string>
+    <string name="bs_feature_wifi">[ŴĻÅÑ öƒƒ one two]</string>
+    <string name="change_wifi_state_app_detail_summary">[Åļļöŵ ţĥîš åþþ ţö ţûŕñ ŴĻÅÑ öñ öŕ öƒƒ, šçåñ åñð çöññéçţ ţö ŴĻÅÑ ñéţŵöŕķš, åðð öŕ ŕéḿöVé ñéţŵöŕķš, öŕ šţåŕţ å ļöçåļ-öñļý ĥöţšþöţ one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two]</string>
+    <string name="change_wifi_state_app_detail_switch">[Åļļöŵ åþþ ţö çöñţŕöļ ŴĻÅÑ one two three]</string>
+    <string name="change_wifi_state_title">[ŴĻÅÑ çöñţŕöļ one two]</string>
+    <string name="connected_via_app">[Çöññéçţéð Vîå %1$s one two three]</string>
+    <string name="credential_for_wifi">[Îñšţåļļéð ƒöŕ ŴĻÅÑ one two three]</string>
+    <string name="ct_wifi_connected_text">[Çĥîñå Ţéļéçöḿ ŴĻÅÑ çöññéçţéð one two three four]</string>
+    <string name="cw_network_notification">[Éñåɓļé ÇŢ ŴĻÅÑ ñöţîƒîçåţîöñ one two three four]</string>
+    <string name="cw_network_priority">[Þŕîöŕîţîžé Çĥîñå Ţéļéçöḿ ŴĻÅÑ one two three four]</string>
+    <string name="cw_network_priority_summary">[Çĥîñå Ţéļéçöḿ ŴĻÅÑ ñéţŵöŕķš ŵîļļ ɓé þŕîöŕîţîžéð öVéŕ öţĥéŕ ŴĻÅÑ ñéţŵöŕķš îñ çöññéçţîöñ one two three four five six seven eight nine]</string>
+    <string name="data_service_except_mms_disabled_warning_txt">[Ûñļéšš ýöû ûšé ŴĻÅÑ, ýöû ŵîļļ ñö ļöñĝéŕ ɓé åɓļé ţö ûšé ţĥé îñţéŕñéţ, Éḿåîļ öŕ öţĥéŕ åþþš ţĥåţ ŕéQûîŕé å ðåţå çöññéçţîöñ. Ţûŕñ öƒƒ ţĥé ḿöɓîļé ðåţå çöññéçţîöñ¿ one two three four five six seven eight nine ten eleven twelve thirteen fourteen]</string>
+    <string name="data_traffic_disabled_text">[Çöûļð ñöţ çöññéçţ ţö Çĥîñå Ţéļéçöḿ ŴĻÅÑ ñéţŵöŕķš åš ðåţå ţŕåƒƒîç îš ðîšåɓļéð. Éñåɓļé ðåţå ţŕåƒƒîç ñöŵ¿ one two three four five six seven eight nine ten eleven]</string>
+    <string name="dialog_message_hint">"[ŠŢÅḾÎÑÅ ḿöðé îñçļûðéš:
+
+• Éхţéñðéð šţåñðɓý
+ŠåVéš þöŵéŕ ŵĥéñ ţĥé šçŕééñ îš öƒƒ ɓý ţéḿþöŕåŕîļý ðîšåɓļîñĝ ŴĻÅÑ. Ḿöšţ åþþļîçåţîöñš ŵîļļ ɓé îñåçţîVé.
+Ŵĥéñ ţĥé šçŕééñ îš ÖÑ, ýöûŕ ðéVîçé ŵîļļ ƒûñçţîöñ ñöŕḿåļļý.
+Îƒ ýöû ŵåñţ ţö ķééþ šöḿé åþþš åçţîVé ŵĥîļé Éхţéñðéð šţåñðɓý îš ÖÑ, åðð ţĥé åþþš ţö ţĥé ÅÞÞŠ ÅÇŢÎνÉ ÎÑ ŠŢÅÑÐβÝ ļîšţ.
+
+• Éхţéñðéð ûšåĝé
+ŠåVéš þöŵéŕ ŵĥéñ ýöûŕ ðéVîçé îš îñ ûšé ɓý ŕéšţŕîçţîñĝ ĥåŕðŵåŕé þéŕƒöŕḿåñçé.
+ one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten]"</string>
+    <string name="dialog_message_no_extended_usage_hint">[<u>Ŵĥåţ îš ŠŢÅḾÎÑÅ ḿöðé¿</u>"
+ŠŢÅḾÎÑÅ ḿöðé îš Šöñý’š þöŵéŕ šåVé ƒûñçţîöñ. Îţ éхţéñðš ţĥé ɓåţţéŕý ļîƒéţîḿé ŵĥéñ ţĥé ðîšþļåý îš öƒƒ.
+
+"<u>βåšîç ûšåĝé</u>"
+Ţö ţûŕñ öñ ŠŢÅḾÎÑÅ ḿöðé, ţåþ ţĥé ɓûţţöñ öñ ţĥé šçŕééñ.
+Ŵĥéñ ţĥé šçŕééñ îš öƒƒ, îñ öŕðéŕ ţö šåVé ɓåţţéŕý ļîƒé, ŴĻÅÑ åñð ḿöɓîļé ðåţå ŵîļļ ɓé ţéḿþöŕåŕîļý ðîšåɓļéð, åñð ḿöšţ åþþļîçåţîöñš ŵîļļ ɓé îñåçţîVé.
+Ŵĥéñ ţĥé šçŕééñ îš öñ, ýöûŕ þĥöñé ŵîļļ ƒûñçţîöñ ñöŕḿåļļý.
+
+"<u>ÅðVåñçéð ûšåĝé</u>"
+Îƒ ýöû ŵåñţ ţö ķééþ šöḿé åþþš åçţîVé ŵĥîļé ŠŢÅḾÎÑÅ îš öñ, þļéåšé åðð ţĥé åþþš îñţö ţĥé ÅÞÞŠ ÅÇŢÎνÉ ÎÑ ŠŢÅÑÐβÝ ļîšţ.
+Åþþļîçåţîöñš ḿåý ñöţ ŵöŕķ çöŕŕéçţļý îƒ ţĥéý åŕé ñöţ åððéð ţö ţĥé ļîšţ.
+
+"<u>Ñöţé</u>"
+Îƒ åñ åþþļîçåţîöñ ðöéšñ’ţ ŵöŕķ çöŕŕéçţļý, þļéåšé ŕéĝîšţéŕ ţĥé åþþ îñ ÅÞÞŠ ÅÇŢÎνÉ ÎÑ ŠŢÅÑÐβÝ öŕ ţûŕñ öƒƒ ŠŢÅḾÎÑÅ ḿöðé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen]"</string>
+    <string name="fullbackup_data_summary">"[Åûţöḿåţîçåļļý ɓåçķ ûþ ðéVîçé ðåţå (šûçĥ åš ŴĻÅÑ þåššŵöŕðš åñð çåļļ ĥîšţöŕý) åñð åþþ ðåţå (šûçĥ åš šéţţîñĝš åñð ƒîļéš šţöŕéð ɓý åþþš) ŕéḿöţéļý.
+
+Ŵĥéñ ýöû ţûŕñ öñ åûţöḿåţîç ɓåçķûþ, ðéVîçé åñð åþþ ðåţå îš þéŕîöðîçåļļý šåVéð ŕéḿöţéļý. Åþþ ðåţå çåñ ɓé åñý ðåţå ţĥåţ åñ åþþ ĥåš šåVéð (ɓåšéð öñ ðéVéļöþéŕ šéţţîñĝš), îñçļûðîñĝ þöţéñţîåļļý šéñšîţîVé ðåţå šûçĥ åš çöñţåçţš, ḿéššåĝéš, åñð þĥöţöš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four]"</string>
+    <string name="fullbackup_erase_dialog_message">[Šţöþ ɓåçķîñĝ ûþ ðéVîçé ðåţå (šûçĥ åš ŴĻÅÑ þåššŵöŕðš åñð çåļļ ĥîšţöŕý) åñð åþþ ðåţå (šûçĥ åš šéţţîñĝš åñð ƒîļéš šţöŕéð ɓý åþþš), þļûš éŕåšé åļļ çöþîéš öñ ŕéḿöţé šéŕVéŕš¿ one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten]</string>
+    <string name="install_wapi_certs">[Îñšţåļļ ŴĻÅÑ çéŕţîƒîçåţéš one two three]</string>
+    <string name="l_dialog_message_hint">"[ŠŢÅḾÎÑÅ ḿöðé îñçļûðéš:
+
+• Éхţéñðéð šţåñðɓý
+ŠåVéš þöŵéŕ ŵĥéñ ţĥé šçŕééñ îš öƒƒ ɓý ţéḿþöŕåŕîļý ðîšåɓļîñĝ ŴĻÅÑ. Ḿöšţ åþþļîçåţîöñš ŵîļļ ɓé îñåçţîVé.
+Ŵĥéñ ţĥé šçŕééñ îš öñ, ýöûŕ ðéVîçé ŵîļļ ƒûñçţîöñ ñöŕḿåļļý.
+Îƒ ýöû ŵåñţ ţö ķééþ šöḿé åþþš åçţîVé ŵĥîļé Éхţéñðéð šţåñðɓý îš éñåɓļéð, åðð ţĥé åþþš ţö ţĥé ļîšţ Åþþš åçţîVé îñ šţåñðɓý.
+
+• Éхţéñðéð ûšåĝé
+ŠåVéš þöŵéŕ ŵĥéñ ýöûŕ ðéVîçé îš îñ ûšé ɓý ŕéšţŕîçţîñĝ ĥåŕðŵåŕé þéŕƒöŕḿåñçé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven]"</string>
+    <string name="location_based_wifi">[Ļöçåţîöñ-ɓåšéð ŴĻÅÑ one two three]</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">[Ţö šĥåŕé ýöûŕ çûŕŕéñţ ŴĻÅÑ ñéţŵöŕķ, šéļéçţ ţĥé öþţîöñ \"Šĥåŕé ŴĻÅÑ îñƒö\" îñ ţĥé šéţţîñĝ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="nfc_wifi_share_checkbox">[Šĥåŕé ŴĻÅÑ îñƒö one two three]</string>
+    <string name="nfc_wifi_share_title_txt">[Šĥåŕé ŴĻÅÑ îñƒö one two three]</string>
+    <string name="operator_auto_connect_hotspot_description_txt">[Åûţö çöññéçţ ţö ÅŢ&amp;T Ţ ŴĻÅÑ ĥöţšþöţ one two three four]</string>
+    <string name="operator_auto_connect_hotspot_txt">[ÅŢ&amp;T Ţ ŴĻÅÑ åûţö çöññéçţ one two three]</string>
+    <string name="powersaver_feature_data_message">[Ûñļéšš ýöû ûšé ŴĻÅÑ, ýöû ŵîļļ ñö ļöñĝéŕ ɓé åɓļé ţö ûšé ţĥé îñţéŕñéţ, Éḿåîļ öŕ öţĥéŕ åþþš ţĥåţ ŕéQûîŕé å ðåţå çöññéçţîöñ. Ţûŕñ öƒƒ ţĥé ḿöɓîļé ðåţå çöññéçţîöñ¿ one two three four five six seven eight nine ten eleven twelve thirteen fourteen]</string>
+    <string name="powersaver_feature_wifi">[ŴĻÅÑ öƒƒ one two]</string>
+    <string name="radio_info_ims_reg_status">"[ÎḾŠ Ŕéĝîšţŕåţîöñ: %1$s
+νöîçé öVéŕ ĻŢÉ: %2$s
+νöîçé öVéŕ ŴĻÅÑ: %3$s
+νîðéö Çåļļîñĝ: %4$s
+ÛŢ Îñţéŕƒåçé: %5$s one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]"</string>
+    <string name="somc_backup_failed_no_wifi_summary">[Ŵåîţîñĝ ƒöŕ ŴĻÅÑ çöññéçţîöñ one two three four]</string>
+    <string name="somc_wifi_turned_on_info">[ŴĻÅÑ îš ţûŕñéð öñ. Šéļéçţ ýöûŕ ñéţŵöŕķ îñ ţĥé ļîšţ. one two three four five six]</string>
+    <string name="stamina_xssm_summary">[Ðîšåɓļéš ḿöɓîļé ðåţå åñð ŴĻÅÑ ŵĥéñ ţĥé šçŕééñ îš öƒƒ one two three four five six]</string>
+    <string name="tethering_no_sim_warning_txt">[Þļéåšé îñšéŕţ ŠÎḾ çåŕð ţö šĥåŕé ýöûŕ þĥöñé’š ðåţå çöññéçţîöñ ŵîţĥ öţĥéŕ ðéVîçéš ûšîñĝ Ḿöɓîļé ŴĻÅÑ Ĥöţšþöţ öŕ ÛŠβ ţéţĥéŕîñĝ ƒöŕ îñţéŕñéţ åççéšš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen]</string>
+    <string name="ultra_stamina_description_msg">[Ţö éхţéñð ɓåţţéŕý ļîƒé ŵĥéñ îñ Ûļţŕå ŠŢÅḾÎÑÅ ḿöðé, öñļý šéļéçţéð Šöñý çöŕé åþþļîçåţîöñš ŵîļļ ɓé åVåîļåɓļé. Îñţéŕñéţ çöññéçţîöñ ţĥŕöûĝĥ ŴĻÅÑ åñð Ḿöɓîļé ðåţå ŵîļļ ɓé ðîšåɓļéð. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="usm_descr">"[Ûļţŕå ŠŢÅḾÎÑÅ ḿöðé ŵîļļ éхţéñð ɓåţţéŕý ļîƒéţîḿé šîĝñîƒîçåñţļý. Îţ çåñ ɓé ûšéð ŵĥéñ ýöû çåñ'ţ çĥåŕĝé ýöûŕ ðéVîçé ƒöŕ å ļöñĝ ţîḿé.
+
+Ñöţé ţĥåţ îñţéŕñéţ çöññéçţîöñ ţĥŕöûĝĥ ŴĻÅÑ åñð Ḿöɓîļé ðåţå ŵîļļ ɓé ðîšåɓļéð.
+
+Öñļý å ƒéŵ ɓåšîç ƒûñçţîöñš, šûçĥ åš Þĥöñé åñð Ḿéššåĝîñĝ ŵîļļ ɓé åVåîļåɓļé. Ţåþ \"Ḿöŕé îñƒö\" ƒöŕ ḿöŕé ðéţåîļš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen]"</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"[Éḿéŕĝéñçý çåļļš åŕé ñöţ þöššîɓļé Vîå ŴĻÅÑ Çåļļîñĝ.
+Ţĥé ðéVîçé šŵîţçĥéš åûţöḿåţîçåļļý ţö å çéļļûļåŕ ñéţŵöŕķ (2Ĝ/3Ĝ) ţö þļåçé åñ éḿéŕĝéñçý çåļļ.
+Éḿéŕĝéñçý çåļļš åŕé öñļý þöššîɓļé îñ åŕéåš ŵîţĥ çéļļûļåŕ çöVéŕåĝé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]"</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">[Éḿéŕĝéñçý çåļļš Vîå ŴĻÅÑ çåļļîñĝ one two three four]</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">[νöðåƒöñé ŴĻÅÑ Çåļļîñĝ one two three]</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"[Ţö ţûŕñ öñ ŴĻÅÑ çåļļîñĝ, ýöû ĥåVé ţö ţûŕñ öñ Ļöçåţîöñ åñð šéļéçţ Ĥîĝĥ åççûŕåçý öŕ βåţţéŕý šåVîñĝ ḿöðé.
+
+Þļéåšé ḿåķé šûŕé ţö šţåý ţûŕñéð öñ Ļöçåţîöñ ŵĥîļé ŴĻÅÑ çåļļîñĝ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]"</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"[Éḿéŕĝéñçý çåļļš åŕé ñöţ þöššîɓļé Vîå ŴĻÅÑ Çåļļîñĝ.
+Ţĥé ðéVîçé šŵîţçĥéš åûţöḿåţîçåļļý ţö å çéļļûļåŕ ñéţŵöŕķ (2Ĝ/3Ĝ) ţö þļåçé åñ éḿéŕĝéñçý çåļļ.
+Éḿéŕĝéñçý çåļļš åŕé öñļý þöššîɓļé îñ åŕéåš ŵîţĥ çéļļûļåŕ çöVéŕåĝé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]"</string>
+    <string name="wfc_location_info_dialog_desc_txt">[Ýöûŕ ļöçåţîöñ-ŕéļåţéð îñƒöŕḿåţîöñ çåñ ɓé šéñţ ţö Ĝööĝļé åñð ýöûŕ öþéŕåţöŕ îñ öŕðéŕ ţö éšţåɓļîšĥ ŴĻÅÑ çåļļš, ŵĥéţĥéŕ Ļöçåţîöñ šéţţîñĝ îš éñåɓļéð öŕ ñöţ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen]</string>
+    <string name="wfc_provisioned_switch_string">[ŴĻÅÑ Çåļļîñĝ ÞŕöVîšîöñéð one two three]</string>
+    <string name="wifi">[ŴĻÅÑ one]</string>
+    <string name="wifi_advanced_settings_label">[ŴĻÅÑ šéţţîñĝš one two]</string>
+    <string name="wifi_ask_disable">[%s ŵåñţš ţö ţûŕñ öƒƒ ŴĻÅÑ one two three]</string>
+    <string name="wifi_ask_enable">[%s ŵåñţš ţö ţûŕñ öñ ŴĻÅÑ one two three]</string>
+    <string name="wifi_auto_network_switch_setting_msg">[Åûţöḿåţîçåļļý šŵîţçĥ ţö å þŕéƒéŕŕéð ñéţŵöŕķ ŵĥéñ ɓöţĥ ŴĻÅÑ ñéţŵöŕķ åñð ḿöɓîļé ñéţŵöŕķ åŕé åVåîļåɓļé one two three four five six seven eight nine ten eleven]</string>
+    <string name="wifi_calling_link_to_register_emergency_address">[Çļîçķ ĥéŕé ţö ŕéĝîšţéŕ ƒöŕ ŴĻÅÑ Çåļļîñĝ öŕ ţö ûþðåţé ýöûŕ éхîšţîñĝ Éḿéŕĝéñçý Åððŕéšš one two three four five six seven eight nine]</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">[Çåļļ öVéŕ ţĥé çéļļûļåŕ ñéţŵöŕķ. Îƒ çéļļûļåŕ ñéţŵöŕķ îš ñöţ åVåîļåɓļé, ûšé ŴĻÅÑ. one two three four five six seven eight nine]</string>
+    <string name="wifi_calling_mode_wifi_only_summary">[Çåļļ öVéŕ ŴĻÅÑ. Îƒ ŴĻÅÑ çöññéçţîöñ îš ļöšţ, éñð çåļļ. one two three four five six]</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">[Çåļļ öVéŕ ŴĻÅÑ. Îƒ ŴĻÅÑ îš ñöţ åVåîļåɓļé, ûšé çéļļûļåŕ ñéţŵöŕķ. one two three four five six seven]</string>
+    <string name="wifi_calling_off_explanation">"[Ûšé ŴĻÅÑ çåļļîñĝ ţö îñçŕéåšé çåļļ Qûåļîţý îñ þļåçéš ŵĥéŕé ḿöɓîļé ñéţŵöŕķ çöVéŕåĝé îš þööŕ.
+
+Çöšţ
+Föŕ îñƒöŕḿåţîöñ åɓöûţ çĥåŕĝéš öƒ ŴĻÅÑ çåļļîñĝ, þļéåšé çöñţåçţ ýöûŕ šéŕVîçé þŕöVîðéŕ.
+
+Ñöţéš öñ ŴĻÅÑ çåļļîñĝ
+Ţö šţåý öñ ŴĻÅÑ çåļļîñĝ, ḿåķé šûŕé ţö šţåý îñ ţĥé ŴĻÅÑ ŕåñĝé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five]"</string>
+    <string name="wifi_calling_on_dialog_text">[Ţö ûšé ŴĻÅÑ Çåļļîñĝ, šéţ Þŕéƒéŕŕéð ŠÎḾ ƒöŕ Ḿöɓîļé ðåţå ţö ŠÎḾ 1 one two three four five six seven]</string>
+    <string name="wifi_calling_roaming_mode_summary">[%1$s]</string>
+    <string name="wifi_calling_settings_title">[ŴĻÅÑ çåļļîñĝ one two]</string>
+    <string name="wifi_context_menu_change_wapi_certificate">[Çĥåñĝé ŴĻÅÑ Çéŕţîƒîçåţé one two three]</string>
+    <string name="wifi_data_template">[^1 ŴĻÅÑ ðåţå one two]</string>
+    <string name="wifi_disabled_wifi_failure">[ŴĻÅÑ Çöññéçţîöñ Fåîļûŕé one two three]</string>
+    <string name="wifi_dpp_add_device_to_wifi">[Åðð ţĥîš ðéVîçé ţö “%1$s”¿ one two three four]</string>
+    <string name="wifi_dpp_center_qr_code">[Çéñţéŕ ţĥé qŔ çöðé ɓéļöŵ ţö åðð ţĥé ðéVîçé ţö “%1$s” one two three four five six]</string>
+    <string name="wifi_dpp_failure_not_supported">[Åððîñĝ “%1$s” îšñ’ţ šûþþöŕţéð ɓý ţĥîš ðéVîçé one two three four five six]</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">[Šçåñ ţĥîš qŔ çöðé ţö çöññéçţ ţö “%1$s” one two three four five]</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">[Çéñţéŕ ţĥé qŔ çöðé ɓéļöŵ ţö çöññéçţ ţö “%1$s” one two three four five]</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">[Šçåñ ţĥîš qŔ çöðé ţö çöññéçţ ţö “%1$s” åñð šĥåŕé ţĥé þåššŵöŕð one two three four five six seven]</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">[Åûţö-çöññéçţ ţö åVåîļåɓļé Þåššþöîñţ ñéţŵöŕķš ŵĥéñ ŴĻÅÑ îš öñ one two three four five six seven]</string>
+    <string name="wifi_p2p_settings">[ŴĻÅÑ Ðîŕéçţ šéţţîñĝš one two three]</string>
+    <string name="wifi_scan_always_turnon_message">"[Ţö îḿþŕöVé ļöçåţîöñ åççûŕåçý åñð ƒöŕ öţĥéŕ þûŕþöšéš, %1$s ŵåñţš ţö ţûŕñ öñ ñéţŵöŕķ šçåññîñĝ, éVéñ ŵĥéñ ŴĻÅÑ îš öƒƒ.
+
+Åļļöŵ ţĥîš ƒöŕ åļļ åþþš ţĥåţ ŵåñţ ţö šçåñ¿ one two three four five six seven eight nine ten eleven twelve thirteen fourteen]"</string>
+    <string name="wifi_scan_notify_text_scanning_off">[Ţö îḿþŕöVé ļöçåţîöñ åççûŕåçý, ţûŕñ öñ ŴĻÅÑ šçåññîñĝ îñ LINK_BEGINšçåññîñĝ šéţţîñĝšLINK_END. one two three four five six seven eight]</string>
+    <string name="wifi_security_short_wapi_cert">[ŴĻÅÑ ÇÉŔŢ one two]</string>
+    <string name="wifi_security_short_wapi_psk">[ŴĻÅÑ ÞŠĶ one two]</string>
+    <string name="wifi_security_verbose_wapi_cert">[Šéçûŕéð ŵîţĥ ŴĻÅÑ ÇÉŔŢ one two three]</string>
+    <string name="wifi_security_verbose_wapi_psk">[Šéçûŕéð ŵîţĥ ŴĻÅÑ ÞŠĶ one two three]</string>
+    <string name="wifi_security_wapi_cert">[ŴĻÅÑ ÇÉŔŢ one two]</string>
+    <string name="wifi_security_wapi_psk">[ŴĻÅÑ ÞŠĶ one two]</string>
+    <string name="wifi_tether_settings_subtext">"[Šéţ ûþ &amp;  ḿåñåĝé þöŕţåɓļé ŴĻÅÑ ĥöţšþöţ one two three four five]"</string>
+    <string name="wifi_tether_settings_text">[Þöŕţåɓļé ŴĻÅÑ ĥöţšþöţ šéţţîñĝš one two three four]</string>
+    <string name="wifi_tethering_warning_txt">[Åñý öñĝöîñĝ ŴĻÅÑ öþéŕåţîöñš šûçĥ åš ḿéðîå ţŕåñšƒéŕ, þĥöñé šöƒţŵåŕé ûþðåţé, ɓåçķûþ åñð ŕéšţöŕé ŵîļļ ɓé îñţéŕŕûþţéð. one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="wifi_wps_category_title">[Šéţ ûþ ŴĻÅÑ ñéţŵöŕķ one two three]</string>
+    <string name="wps_strings_wifi_disconnected_txt">[ŴĻÅÑ ðîšçöññéçţéð. Šéţûþ çåñçéļéð. one two three four]</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"[ŠŢÅḾÎÑÅ ḿöðé šåVéš ɓåţţéŕý þöŵéŕ ɓý åðĵûšţîñĝ ðéVîçé šéţţîñĝš. Ýöû çåñ çĥööšé åþþļîçåţîöñš ţö ŕûñ ŵîţĥ ŕéðûçéð ƒûñçţîöñåļîţý ðûŕîñĝ šļééþ ḿöðé. (Ţĥîš ĥéļþš ýöû šåVé ɓåţţéŕý þöŵéŕ ɓéçåûšé ḿöšţ åþþš ķééþ ðŕåîñîñĝ ţĥé ɓåţţéŕý éVéñ ðûŕîñĝ šļééþ ḿöðé.)
+
+Fûñçţîöñš ðîšåɓļéð ƒöŕ šéļéçţéð åþþš:
+- ŴĻÅÑ
+- Ḿöɓîļé ðåţå
+- Ţîḿéŕ
+
+Ţĥé ñöţîƒîçåţîöñ ļîĝĥţ ƒöŕ åļļ åþþš ƒļåšĥéš îñ ţĥé šåḿé çöļöŕ åţ ţĥé šåḿé ƒŕéQûéñçý ðûŕîñĝ šļééþ ḿöðé.
+
+ŠŢÅḾÎÑÅ ḿöðé îš ðéåçţîVåţéð ŵĥîļé ýöû åŕé çöñţŕöļļîñĝ ţĥé ðéVîçé. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen]"</string>
+</resources>

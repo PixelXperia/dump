@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/kddi_strings_international_roaming_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <com.android.settingslib.RestrictedSwitchPreference android:persistent="false" android:title="@string/roaming" android:key="kddi_roaming_key" android:summaryOn="@string/roaming_enable" android:summaryOff="@string/roaming_disable" settings:controller="com.sonymobile.settings.network.telephony.KddiRoamingPreferenceController" settings:userRestriction="no_data_roaming" />
+    <SwitchPreference android:persistent="false" android:title="@string/kddi_strings_enable_4g_mode_title" android:key="kddi_enhanced_4g_lte" android:summary="@string/kddi_strings_enable_4g_mode_summary" settings:allowDividerAbove="true" settings:allowDividerBelow="true" settings:controller="com.sonymobile.settings.network.telephony.KddiEnhanced4gLtePreferenceController" />
+    <PreferenceCategory android:key="international_roaming_divider" />
+</PreferenceScreen>

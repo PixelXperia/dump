@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">"আপোনাৰ ডিভাইচটোৰ নাম আপোনাৰ ফ'নটোত থকা এপসমূহৰ বাবে দৃশ্যমান। আপুনি ব্লুটুথ ডিভাইচৰ সৈতে সংযোগ কৰোঁতে বা ৱাই-ফাই হটস্পট  ছেট আপ কৰোঁতেও নামটো অইনে দেখা পাব পাৰে।"</string>
+    <string name="accessibility_no_wifi">ৱাইফাই সংযোগ বিচ্ছিন্ন হৈ আছে।</string>
+    <string name="accessibility_wifi_off">ৱাই-ফাই অফ হৈ আছে।</string>
+    <string name="accessibility_wifi_one_bar">ৱাই-ফাই এদাল দণ্ড।</string>
+    <string name="accessibility_wifi_signal_full">ৱাই-ফাই সংকেত সৰ্বোচ্চ।</string>
+    <string name="accessibility_wifi_three_bars">ৱাই-ফাইৰ তিনিডাল দণ্ড।</string>
+    <string name="accessibility_wifi_two_bars">ৱাই-ফাইৰ দুডাল দণ্ড।</string>
+    <string name="change_wifi_state_app_detail_summary">এই এপক ৱাই-ফাই অন বা অফ কৰিবলৈ, ৱাই-ফাই নেটৱৰ্কসমূহ স্কেন কৰি সংযোগ কৰিবলৈ, নেটৱৰ্কসমূহ যোগ কৰিবলৈ বা আঁতৰাবলৈ বা স্থানীয়-মাত্ৰ হটস্পট আৰম্ভ কৰিবলৈ অনুমতি দিয়ক</string>
+    <string name="change_wifi_state_app_detail_switch">এপক ৱাই-ফাই নিয়ন্ত্ৰণ কৰিবলৈ দিয়ক</string>
+    <string name="change_wifi_state_title">ৱাই-ফাই নিয়ন্ত্ৰণ</string>
+    <string name="connected_via_app">%1$sৰ জৰিয়তে সংযুক্ত</string>
+    <string name="credential_for_wifi">ৱাই-ফাইৰ বাবে ইনষ্টল কৰা হৈছে</string>
+    <string name="fullbackup_data_summary">"আপোনাৰ ডিভাইচৰ ডেটা (যেনে, ৱাই-ফাইৰ পাছৱৰ্ড আৰু কলৰ ইতিহাস) আৰু এপৰ ডেটা (যেনে, ছেটিংসমূহ আৰু এপে জমা কৰা ফাইলসমূহ)ৰ নিলগৰ পৰা বেকআপ লওক।
+
+যেতিয়া আপুনি স্বয়ংক্ৰিয় বেকআপ অন কৰে, তেতিয়া ডিভাইচ আৰু এপৰ ডেটা সময়ে সময়ে নিলগৰ পৰা ছেভ কৰা হয়। এপ ডেটা যিকোনো এপে (ডেভেলপাৰ ছেটিং অনুসৰি) জমা কৰা ডেটা হ'ব পাৰে, য'ত সম্ভাব্য সংবেদী ডেটা যেনে সম্পৰ্ক, বাৰ্তা আৰু ফট' আদিসমূহ অন্তৰ্ভুক্ত হ'ব পাৰে।"</string>
+    <string name="fullbackup_erase_dialog_message">"ডিভাইচ ডেটাৰ বেকআপ (যেনে ৱাই-ফাই পাছৱৰ্ড আৰু কল ইতিহাস) আৰু এপ ডেটা (ছেটিংসমূহ আৰু এপসমূহৰ দ্বাৰা সংগ্ৰহ কৰি ৰখা ফাইলসমূহ), লগতে ৰিম'ট ছাৰ্ভাৰসমূহত থকা সকলো প্ৰতিলিপি মচা বন্ধ কৰিব নেকি?"</string>
+    <string name="radio_info_ims_reg_status">"IMS পঞ্জীয়ন: %1$s
+ভইচ অভাৰ LTE: %2$s
+ভইচ অভাৰ ৱাই-ফাই: %3$s
+ভিডিঅ' কলিং: %4$s
+UT ইণ্টাৰফেইচ: %5$s"</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"আপোনাৰ বাহকত ৱাই-ফাই কলিং ব্যৱহাৰ কৰি জৰুৰীকালীন কল কৰাৰ সুবিধা নাই।
+জৰুৰীকালীন কল কৰিবলৈ ডিভাইচটোৱে স্বয়ংক্ৰিয়ভাৱে চেলুলাৰ নেটৱৰ্কলৈ সলনি কৰে।
+কেৱল চেলুলাৰ নেটৱৰ্ক থকা ঠাইৰ পৰাহে জৰুৰীকালীন কল কৰিব পৰা যায়।"</string>
+    <string name="wfc_provisioned_switch_string">"ৱাইফাই কলিং প্ৰ'ভিজন কৰা হৈছে"</string>
+    <string name="wifi">ৱাই-ফাই</string>
+    <string name="wifi_advanced_settings_label">আইপি ছেটিংসমূহ</string>
+    <string name="wifi_ask_disable">%s এ ৱাই-ফাই অফ কৰিব বিচাৰিছে</string>
+    <string name="wifi_ask_enable">%sএ ৱাই-ফাই অন কৰিব বিচাৰে</string>
+    <string name="wifi_calling_off_explanation">ৱাই-ফাই কলিং অন হৈ থকাৰ সময়ত, আপোনাৰ অগ্ৰাধিকাৰ অনুসৰি আৰু ছিগনেলৰ ক্ষমতাক ভিত্তি কৰি, আপোনাৰ ফ’নটোৱে ৱাই-ফাই নেটৱৰ্ক বা আপোনাৰ বাহকৰ নেটৱৰ্কৰ যোগেদি কলবোৰ পঠিয়াব পাৰে৷ এই সুবিধাটো অন কৰাৰ পূৰ্বে, মাছুল আৰু অন্যান্য সবিশেষ জানিবলৈ আপোনাৰ বাহকৰ সৈতে সম্পৰ্ক কৰক৷%1$s</string>
+    <string name="wifi_calling_settings_title">ৱাই-ফাই কলিং</string>
+    <string name="wifi_data_template">^1 ৱাই-ফাই ডেটা</string>
+    <string name="wifi_disabled_wifi_failure">ৱাই-ফাই সংযোগ বিফল হৈছে</string>
+    <string name="wifi_dpp_add_device_to_wifi">এই ডিভাইচটো “%1$s”ত যোগ কৰিবনে?</string>
+    <string name="wifi_dpp_center_qr_code">“%1$s”ৰ সৈতে সংযোগ কৰিবলৈ তলৰ কিউআৰ ক’ডটো কেমেৰা ৱিণ্ড’ৰ মাজত ৰাখক</string>
+    <string name="wifi_dpp_failure_not_supported">এই ডিভাইচটোত“%1$s” যোগ কৰিব পৰা নাযায়</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">“%1$s”ৰ সৈতে সংযোগ কৰিবলৈ এই কিউআৰ ক’ডটো স্কেন কৰক</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">“%1$s”ৰ সৈতে সংযোগ কৰিবলৈ তলৰ কিউআৰ ক’ডটো কেমেৰা ৱিণ্ড’ৰ মাজত ৰাখক</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">“%1$s”ৰ সৈতে সংযোগ কৰিবলৈ কিউআৰ ক’ডটো স্কেন কৰক আৰু পাছৱৰ্ড শ্বেয়াৰ কৰক</string>
+    <string name="wifi_scan_always_turnon_message">"অৱস্থানৰ সঠিকতা বঢ়াবলৈ আৰু অন্যান্য কামৰ বাবে, %1$sএ ৱাই-ফাই অফ হৈ থাকিলেও নেটৱৰ্ক স্কেনিং অন কৰিব বিচাৰিছে।
+
+স্কেন কৰিব বিচৰা সকলো এপকে এই অনুমতি দিবনে?"</string>
+    <string name="wifi_scan_notify_text_scanning_off">অৱস্থানৰ সঠিকতা উন্নত কৰিবলৈ, LINK_BEGINস্কেন ছেটিংসমূহLINK_ENDত ৱাই-ফাই স্কেনিং অন কৰক৷</string>
+    <string name="wifi_verbose_logging_summary">ৱাই-ফাই লগিঙৰ মাত্ৰা বঢ়াওক, WLAN পিকাৰত প্ৰতি SSID RSSI দেখুৱাওক</string>
+</resources>

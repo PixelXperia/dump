@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">"Programme op jou foon kan jou toestelnaam sien. Ander mense sal dit dalk ook kan sien wanneer jy aan Bluetooth-toestelle koppel of 'n WLAN-warmkol opstel."</string>
+    <string name="accessibility_no_wifi">WLAN is ontkoppel.</string>
+    <string name="accessibility_wifi_off">WLAN af.</string>
+    <string name="accessibility_wifi_one_bar">WLAN een staaf.</string>
+    <string name="accessibility_wifi_signal_full">WLAN-sein vol.</string>
+    <string name="accessibility_wifi_three_bars">WLAN drie stawe.</string>
+    <string name="accessibility_wifi_two_bars">WLAN twee stawe.</string>
+    <string name="backup_data_summary">Rugsteun programdata, WLAN-wagwoorde en ander instellings na Google-bedieners</string>
+    <string name="backup_erase_dialog_message">Hou op om jou WLAN-wagwoorde, boekmerke, ander instellings en programdata te rugsteun en vee al die kopieë op Google-bedieners uit?</string>
+    <string name="battery_action_wifi">WLAN-instellings</string>
+    <string name="battery_desc_wifi">Battery deur WLAN gebruik</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Skakel WLAN af wanneer dit nie gebruik word nie of as dit nie beskikbaar is nie</string>
+    <string name="bluetooth_on_time">WLAN betyds</string>
+    <string name="change_wifi_state_app_detail_summary">"Laat hierdie program toe om WLAN aan of af te skakel, WLAN-netwerke te soek en aan hulle te koppel, netwerke by te voeg en te verwyder, en om 'n slegsplaaslike warmkol te begin"</string>
+    <string name="change_wifi_state_app_detail_switch">Laat program toe om WLAN te beheer</string>
+    <string name="change_wifi_state_title">WLAN-beheer</string>
+    <string name="condition_cellular_summary">Internet is net oor WLAN beskikbaar</string>
+    <string name="connected_via_app">Gekoppel via %1$s</string>
+    <string name="credential_for_wifi">Geïnstalleer vir WLAN</string>
+    <string name="data_usage_app_summary_title">Mobiele data en WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Stel WLAN se datalimiet</string>
+    <string name="data_usage_menu_hide_wifi">Versteek WLAN</string>
+    <string name="data_usage_menu_show_wifi">Wys WLAN</string>
+    <string name="data_usage_metered_wifi">Beperkte WLAN-netwerke</string>
+    <string name="data_usage_metered_wifi_disabled">Skakel WLAN aan om beperkte netwerke te kies.</string>
+    <string name="data_usage_restrict_background">As jy mobiele agtergronddata beperk, sal sommige programme en dienste nie werk nie tensy jy aan WLAN gekoppel is.</string>
+    <string name="data_usage_restrict_background_multiuser">"As jy mobiele agtergronddata beperk, sal sommige programme en dienste nie werk nie tensy jy aan WLAN gekoppel is.
+
+Hierdie instelling raak alle gebruikers van hierdie foon."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 gebruik oor WLAN</string>
+    <string name="data_usage_wifi_title">WLAN-data</string>
+    <string name="emergency_address_summary">"Word as jou ligging gebruik wanneer jy 'n noodoproep oor WLAN maak"</string>
+    <string name="fullbackup_data_summary">"Rugsteun toesteldata (soos WLAN-wagwoorde en oproepgeskiedenis) en programdata (soos instellings en lêers wat deur programme geberg is) outomaties oor 'n afstand.
+
+Wanneer jy outomatiese rugsteun aanskakel, word toestel- en programdata van tyd tot tyd oor 'n afstand gestoor. Programdata kan enige data wees wat 'n program gestoor het (op grond van ontwikkelaarinstellings), insluitend potensieel sensitiewe data, soos kontakte, boodskappe en foto's."</string>
+    <string name="fullbackup_erase_dialog_message">Staak die rugsteun van toesteldata (soos WLAN-wagwoorde en oproepgeskiedenis) en programdata (soos instellings en lêers wat deur programme geberg is), en vee ook alle kopieë op afgeleë bedieners uit?</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN-kennisgewing, wifi-kennisgewing</string>
+    <string name="location_neighborhood_level_wifi">Ligging deur WLAN vasgestel</string>
+    <string name="location_network_based">WLAN- en mobielenetwerk-ligging</string>
+    <string name="location_scanning_screen_title">WLAN- en Bluetooth-skandering</string>
+    <string name="location_scanning_wifi_always_scanning_description">Laat programme en dienste toe om enige tyd na WLAN-netwerke te soek, selfs wanneer WLAN af is. Dit kan byvoorbeeld gebruik word om ligginggegronde kenmerke en dienste te verbeter.</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN-opsporing</string>
+    <string name="lost_internet_access_cancel">Bly op WLAN</string>
+    <string name="lost_internet_access_text">"Jy kan na die mobiele netwerk oorskakel wanneer WLAN 'n swak verbinding het. Datagebruikheffings kan geld."</string>
+    <string name="lost_internet_access_title">WLAN is nie aan die internet gekoppel nie</string>
+    <string name="mobile_data_always_on_summary">Hou mobiele data altyd aktief, selfs wanneer WLAN aktief is (vir vinnige netwerkwisseling).</string>
+    <string name="network_scorer_change_active_dialog_title">Verander WLAN-assistent?</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_controls_summary">"Bestuur WLAN, Bluetooth, vliegtuigmodus, mobiele netwerke en VPN'e"</string>
+    <string name="radio_info_ims_reg_status">"IMS-registrasie: %1$s
+Stem oor LTE: %2$s
+Stem oor WLAN: %3$s
+Video-oproepe: %4$s
+UT-koppelvlak: %5$s"</string>
+    <string name="reset_network_desc">"Dit sal alle netwerkinstellings terugstel, insluitend:
+
+"<li>WLAN</li>"
+"<li>Mobiele data</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Stel terug: WLAN, mobiel en Bluetooth</string>
+    <string name="restriction_wifi_config_summary">Laat die wysiging van WLAN en mobiele instellings toe</string>
+    <string name="restriction_wifi_config_title">WLAN en selfoon</string>
+    <string name="scanning_status_text_wifi_off_ble_off">WLAN- en Bluetooth-skandering is albei af</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Bluetooth-skadering is aan, WLAN-skandering is af</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN-opsporing is aan, Bluetooth-opsporing is af</string>
+    <string name="scanning_status_text_wifi_on_ble_on">WLAN- en Bluetooth-skandering is albei aan</string>
+    <string name="status_wifi_mac_address">WLAN-MAC-adres</string>
+    <string name="tether_settings_disabled_on_data_saver">Kan nie verbind of WLAN-warmkol gebruik wanneer Databespaarder aan is nie</string>
+    <string name="tether_settings_title_all">USB-verbinding en WLAN-warmkol</string>
+    <string name="tether_settings_title_wifi">WLAN-warmkol</string>
+    <string name="usage_type_data_wifi_recv">WLAN-pakkette ontvang</string>
+    <string name="usage_type_data_wifi_send">WLAN-pakkette gestuur</string>
+    <string name="usage_type_wifi_running">WLAN aan</string>
+    <string name="user_add_user_message_long">"Jy kan hierdie toestel met ander mense deel deur bykomende gebruikers te skep. Elke gebruiker het sy eie spasie wat hulle kan pasmaak met programme, muurpapier en so meer. Gebruikers kan ook toestelinstellings wat almal raak, soos WLAN, aanpas.
+
+Wanneer jy 'n nuwe gebruiker byvoeg, moet daardie persoon hul eie spasie opstel.
+
+Enige gebruiker kan programme vir alle ander gebruikers opdateer. Toeganklikheidinstellings en -dienste sal dalk nie na die nuwe gebruiker oorgedra word nie."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Jou diensverskaffer steun nie noodoproepe oor WLAN nie.
+Die toestel skakel outomaties na 'n selnetwerk toe oor om 'n noodoproep te maak.
+Noodoproepe is net moontlik in gebiede met sellulêre dekking."</string>
+    <string name="wfc_provisioned_switch_string">WLAN-oproepe is opgestel</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN-netwerke</string>
+    <string name="wifi_advanced_not_available">WLAN se gevorderde instellngs is nie vir hierdie gebruiker beskikbaar nie</string>
+    <string name="wifi_advanced_settings_label">IP-instellings</string>
+    <string name="wifi_advanced_titlebar">Gevorderde WLAN</string>
+    <string name="wifi_ap_band_select_one">Kies minstens een band vir WLAN-warmkol:</string>
+    <string name="wifi_ask_disable">%s wil WLAN afskakel</string>
+    <string name="wifi_ask_enable">%s wil WLAN aanskakel</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">As mobiele netwerk onbeskikbaar is, gebruik WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Bel oor WLAN. Die oproep sal eindig as jy nie meer WLAN het nie.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">As WLAN onbeskikbaar is, moet jy mobiele netwerk gebruik</string>
+    <string name="wifi_calling_not_supported">WLAN-oproepe word nie gesteun vir %1$s nie</string>
+    <string name="wifi_calling_off_explanation">As WLAN-oproepe aan is, kan jou foon oproepe deur WLAN-netwerke of jou diensverskaffer se netwerk roeteer, afhangend van jou voorkeur en watter sein die sterkste is. Vind by jou diensverskaffer oor tariewe en ander besonderhede uit voordat jy hierdie kenmerk aanskakel.%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">Aktiveer WLAN-oproepe</string>
+    <string name="wifi_calling_settings_title">WLAN-oproepe</string>
+    <string name="wifi_calling_suggestion_summary">Skakel WLAN-oproepe aan om dekking te vergroot</string>
+    <string name="wifi_calling_suggestion_title">Brei oproepe uit met WLAN</string>
+    <string name="wifi_calling_summary">Gebruik WLAN vir oproepe om gehalte te verbeter</string>
+    <string name="wifi_calling_turn_on">Skakel WLAN-oproepe aan</string>
+    <string name="wifi_carrier_connect">Diensverskaffer-WLAN-netwerk</string>
+    <string name="wifi_cellular_data_fallback_summary">Gebruik mobiele data wanneer WLAN geen internettoegang het nie. Datagebruik kan geld.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN skakel nie outomaties weer aan nie</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN skakel outomaties weer aan</string>
+    <string name="wifi_configure_settings_preference_title">WLAN-voorkeure</string>
+    <string name="wifi_data_template">^1 WLAN-data</string>
+    <string name="wifi_data_usage">WLAN-datagebruik</string>
+    <string name="wifi_disabled_wifi_failure">WLAN-verbinding het misluk</string>
+    <string name="wifi_dpp_add_device_to_wifi">Voeg hierdie toestel by “%1$s”?</string>
+    <string name="wifi_dpp_center_qr_code">Sentreer die QR-kode hieronder om die toestel by “%1$s” te voeg</string>
+    <string name="wifi_dpp_failure_not_supported">Hierdie toestel steun nie byvoeging van “%1$s” nie</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Skandeer hierdie QR-kode om aan “%1$s” te koppel</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Sentreer die QR-kode hieronder om aan “%1$s” te koppel</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">"Skandeer 'n QR-kode om by WLAN aan te sluit"</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Skandeer hierdie QR-kode om aan “%1$s” te koppel en die wagwoord te deel</string>
+    <string name="wifi_dpp_share_wifi">Deel WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Deel tans WLAN met hierdie toestel …</string>
+    <string name="wifi_dpp_wifi_password">WLAN-wagwoord: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN is met toestel gedeel</string>
+    <string name="wifi_empty_list_user_restricted">Jy het nie toestemming om die WLAN-netwerk te verander nie.</string>
+    <string name="wifi_empty_list_wifi_off">Skakel WLAN aan om beskikbare netwerke te sien.</string>
+    <string name="wifi_empty_list_wifi_on">Soek tans vir WLAN-netwerke…</string>
+    <string name="wifi_hotspot_auto_off_summary">WLAN-warmkol sal afskakel as geen toestelle gekoppel is nie</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN-warmkol</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN-warmkolopstelling</string>
+    <string name="wifi_hotspot_footer_info_regular">"Gebruik warmkol om 'n WLAN-netwerk vir jou ander toestelle te skep. Warmkol verskaf internet deur jou mobiele dataverbinding te gebruik. Bykomende dataheffings kan dalk geld."</string>
+    <string name="wifi_limit_optimizations_summary">Beperk WLAN-batterygebruik</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN betyds</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">"Moenie 'n WLAN-netwerk gebruik tensy dit 'n goeie internetverbinding het nie"</string>
+    <string name="wifi_quick_toggle_summary">Skakel WLAN aan</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"'n Onbekende program wil netwerkskandering aanskakel om liggingakkuraatheid te verbeter en vir ander doeleindes, selfs wanneer WLAN af is.
+
+Laat dit toe vir alle programme wat wil skandeer?"</string>
+    <string name="wifi_scan_always_turnon_message">"Om liggingsakkuraatheid te verbeter en vir ander doele, wil %1$s netwerkskandering aanskakel, selfs wanneer WLAN af is.
+
+ Laat dit toe vir alle programme wat wil skandeer?"</string>
+    <string name="wifi_scan_notify_text">Om liggingakkuraatheid te verbeter, kan programme en dienste steeds enige tyd na WLAN-netwerke soek, selfs wanneer WLAN af is. Dit kan byvoorbeeld gebruik word om ligginggegronde kenmerke en dienste te verbeter. Jy kan dit in LINK_BEGINsoekinstellingsLINK_END verander.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Skakel WLAN-opsporing in LINK_BEGINskanderinginstellingsLINK_END aan om liggingakkuraatheid te verbeter.</string>
+    <string name="wifi_scan_throttling">Regulering van WLAN-opsporing</string>
+    <string name="wifi_select_network">Kies WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN aan tydens slaap</string>
+    <string name="wifi_setting_sleep_policy_title">Hou WLAN aan tydens sluimer</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN-instellings</string>
+    <string name="wifi_settings_master_switch_title">Gebruik WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN-opsporing is aangeskakel</string>
+    <string name="wifi_settings_scanning_required_info">WLAN-opsporing maak dit vir programme en dienste moontlik om enige tyd na WLAN-netwerke te soek, selfs wanneer WLAN af is. Dit kan byvoorbeeld gebruik word om ligginggegronde kenmerke en dienste te verbeter.</string>
+    <string name="wifi_settings_scanning_required_summary">Om WLAN outomaties aan te skakel, moet jy eers WLAN-opsporing aanskakel.</string>
+    <string name="wifi_settings_scanning_required_title">Skakel WLAN-opsporing aan?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Skakel tans WLAN aan…</string>
+    <string name="wifi_stopping">Skakel tans WLAN af…</string>
+    <string name="wifi_suspend_optimizations">WLAN-optimering</string>
+    <string name="wifi_suspend_optimizations_summary">Minimaliseer batterygebruik wanneer WLAN aan is</string>
+    <string name="wifi_switch_away_when_unvalidated">Skakel na mobiele data oor as WLAN internettoegang verloor.</string>
+    <string name="wifi_tether_configure_ap_text">Stel WLAN-warmkol op</string>
+    <string name="wifi_tether_failed_subtext">Fout met draagbare WLAN-warmkol</string>
+    <string name="wifi_tether_starting">Skakel tans WLAN-warmkol aan...</string>
+    <string name="wifi_tether_stopping">Skakel tans WLAN-warmkol af...</string>
+    <string name="wifi_turned_on_message">WLAN is aangeskakel</string>
+    <string name="wifi_verbose_logging">Aktiveer WLAN-woordryke aanmelding</string>
+    <string name="wifi_verbose_logging_summary">Verhoog WLAN-aantekeningvlak, wys per SSID RSSI in WLAN-kieser</string>
+    <string name="wifi_wakeup">Skakel WLAN outomaties aan</string>
+    <string name="wifi_wakeup_summary">WLAN sal weer aanskakel naby gestoorde netwerke van hoë gehalte, soos jou tuisnetwerk</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Nie beskikbaar nie want WLAN-opsporing is afgeskakel</string>
+</resources>

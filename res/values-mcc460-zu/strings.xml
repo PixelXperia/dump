@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Igama ledivayisi yakho liyabonakala kuzinhlelo zokusebenza efonini yakho. Futhi lingabonwa ngabanye abantu uma uxhuma kumadivayisi e-Bluetooth noma usetha i-WLAN hotspot.</string>
+    <string name="accessibility_no_wifi">I-WLAN inqanyuliwe.</string>
+    <string name="accessibility_wifi_off">I-WLAN ivaliwe.</string>
+    <string name="accessibility_wifi_one_bar">Ibha elilodwa le-WLAN.</string>
+    <string name="accessibility_wifi_signal_full">Isiginali ye-WLAN igcwele.</string>
+    <string name="accessibility_wifi_three_bars">Amabha amathathu we-WLAN.</string>
+    <string name="accessibility_wifi_two_bars">Amabha amabili we-WLAN.</string>
+    <string name="backup_data_summary">Sekela ngokulondoloza idatha yohlelo lokusebenza, amaphasiwedi e-WLAN, nezinye izilungiselelo kwumaseva we-Google</string>
+    <string name="backup_erase_dialog_message">Yeka ukulondoloza amaphasiwedi akho e-WLAN, amabhukhimaki, ezinye izilungiselelo, kanye nedatha yezinhlelo zokusebenza, nokususa onke amakhophi kumaseva we-Google?</string>
+    <string name="battery_action_wifi">Izilungiselelo ze-WLAN</string>
+    <string name="battery_desc_wifi">Ibhethri elisetshenziswe i-WLAN</string>
+    <string name="battery_stats_wifi_running_label">I-WLAN</string>
+    <string name="battery_sugg_wifi">Vala i-WLAN uma ungayisebenzisi noma uma ingatholakali</string>
+    <string name="bluetooth_on_time">I-WLAN isesikhathini</string>
+    <string name="change_wifi_state_app_detail_summary">Vumela lolu hlelo lokusebenza ukuthi luvule noma luvale i-WLAN, luskene luphinde lulawule amanethiwekhi e-WLAN, lungeze noma lususe amanethiwekhi, noma luqale i-hotspot yasendaweni kuphela</string>
+    <string name="change_wifi_state_app_detail_switch">Vumela uhlelo lokusebenza ukuthi lulawule i-WLAN</string>
+    <string name="change_wifi_state_title">Ulawulo lwe-WLAN</string>
+    <string name="condition_cellular_summary">I-inthanethi itholakala kuphela nge-WLAN</string>
+    <string name="connected_via_app">Ixhumeke nge-%1$s</string>
+    <string name="credential_for_wifi">Kufakelwe i-WLAN</string>
+    <string name="data_usage_app_summary_title">Idatha yeselula kanye ne-WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Setha umkhawulo wedatha ye-WLAN</string>
+    <string name="data_usage_menu_hide_wifi">Fihla i-WLAN</string>
+    <string name="data_usage_menu_show_wifi">Bonisa i-WLAN</string>
+    <string name="data_usage_metered_wifi">Amanethiwekhi we-WLAN akaliwe</string>
+    <string name="data_usage_metered_wifi_disabled">Ukuze ukhethe amanethiwekhi akaliwe, vula i-WLAN.</string>
+    <string name="data_usage_restrict_background">Uma ukhawulele idatha yeselula engemuva, ezinye izinhlelo zokusebenza namasevisi ngeke asebenze ngaphandle kokuthi uxhumeke ku-WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Uma ukhawulela idatha yeselula engemuva, ezinye izinhlelo zokusebenza namasevisi ngeke asebenze ngaphandle kokuthi uxhumeke ku-WLAN.
+
+Lesi silungiselelo sithinta bonke abasebenzisi abakule foni."</string>
+    <string name="data_usage_tab_wifi">I-WLAN</string>
+    <string name="data_usage_wifi_format">^1 okusetshenziswe ku-WLAN</string>
+    <string name="data_usage_wifi_title">Idatha ye-WLAN</string>
+    <string name="emergency_address_summary">Isetshenziswa njengendawo yakho uma wenza ikholi ephuthumayo nge-WLAN</string>
+    <string name="fullbackup_data_summary">"Yenza isipele ngokuzenzakalela idatha yedivayisi (efana namaphasiwedi we-WLAN nomlando wokushaya) nedatha yohlelo lokusebenza (efana nezilungiselelo namafayela agcinwe yizinhlelo zokusebenza) ngokulawula kude.
+
+Uma uvula isipele ngokuzenzakalela, idivayisi nedatha yohlelo lokusebenza ilondolozwa ngesikhathi ezithile ngesilawuli kude. Idatha yohlelo lokusebenza ingaba yinoma iyiphi idatha elondolozwe wuhlelo lokusebenza (kususelwa kuzilungiselelo zonjiniyela), efaka idatha enekhono lokuzwela njengoxhumana nabo, imilayezo, nezithombe."</string>
+    <string name="fullbackup_erase_dialog_message">Misa ukwenza isipele idatha yedivayisi (njengamaphasiwedi we-WLAN nomlando wekholi) nedatha yohlelo lokusebenza (njengezilungiselelo namafayela alondolozwe izinhlelo zokusebenza), futhi nokusula wonke amakhophi kumaseva werimothi?</string>
+    <string name="keywords_wifi_notify_open_networks">Isaziso se-WLAN, isaziso se-wifi</string>
+    <string name="location_neighborhood_level_wifi">Indawo etholwe i-WLAN</string>
+    <string name="location_network_based">I-WLAN nendawo yenethiwekhi yeselula</string>
+    <string name="location_scanning_screen_title">I-WLAN nokuskena kwe-Bluetooth</string>
+    <string name="location_scanning_wifi_always_scanning_description">Vumela izinhlelo zokusebenza namasevisi ukuthi askenele amanethiwekhi e-WLAN noma kunini, nanoma i-WLAN ivaliwe. Lokhu kungasetshenziselwa, njengesibonelo, ukuthuthukisa izici ezisuselwa endaweni namasevisi.</string>
+    <string name="location_scanning_wifi_always_scanning_title">Ukuskena kwe-WLAN</string>
+    <string name="lost_internet_access_cancel">Hlala ku-WLAN</string>
+    <string name="lost_internet_access_text">Ungashintshela kunethiwekhi yeselula noma kunini lapho i-WLAN inokuxhumeka okungalungile. Izindleko zokusetshenziswa kwedatha zingasebenza.</string>
+    <string name="lost_internet_access_title">I-WLAN ayixhunyiwe kwi-inthanethi</string>
+    <string name="mobile_data_always_on_summary">Hlala ugcine idatha yeselula isebenza, nanoma i-WLAN isebenza (ngokushintshwa kwenethiwekhi okusheshayo).</string>
+    <string name="network_scorer_change_active_dialog_title">Shintsha umsizi we-WLAN?</string>
+    <string name="power_wifi">I-WLAN</string>
+    <string name="radio_controls_summary">Phatha i-WLAN, i-Bluetooth, imodi yendiza, amanethiwekhi eselula; nama-VPN</string>
+    <string name="radio_info_ims_reg_status">"Ukubhalisa kwe-IMS: %1$s
+I-Voice over LTE: %2$s
+I-Voice over WLAN: %3$s
+Ukushaya kwevidiyo: %4$s
+UT isixhumi esibonakalayo: %5$s"</string>
+    <string name="reset_network_desc">"Lokhu kuzosetha kabusha zonke izilungiselelo zenethiwekhi ezifaka:
+
+"<li>i-WLAN</li>"
+"<li>Idatha yeselula</li>"
+"<li>ne-Bluetooth</li></string>
+    <string name="reset_network_title">Setha kabusha i-WLAN, iselula ne-Bluetooth</string>
+    <string name="restriction_wifi_config_summary">Vumela ukushintsha kwezilungiselelo ze-WLAN nezeselula</string>
+    <string name="restriction_wifi_config_title">I-WLAN neselula</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Kokubili i-WLAN nokuskena kwe-Bluetooth kuvaliwe</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Ukuskena kwe-Bluetooth kuvuliwe, ukuskena kwe-WLAN kuvaliwe</string>
+    <string name="scanning_status_text_wifi_on_ble_off">Ukuskena kwe-WLAN kuvuliwe, ukuskena kwe-Bluetooth kuvaliwe</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Kokubili i-WLAN nokuskena kwe-Bluetooth kuvuliwe</string>
+    <string name="status_wifi_mac_address">Ikheli le-WLAN MAC</string>
+    <string name="usage_type_data_wifi_recv">Amaphakethe we-WLAN amukelwe</string>
+    <string name="usage_type_data_wifi_send">Amaphakethe we-WLAN athunyelwe</string>
+    <string name="usage_type_wifi_running">I-WLAN iyasebenza</string>
+    <string name="user_add_user_message_long">"Manje ungabelana ngale divayisi nabanye abantu ngokudala abasebenzisi abangeziwe. Umsebenzisi ngamunye unesikhala sakhe, angakwazi ukusenza ngendlela ayifisayo ngezinhlelo zokusebenza, isithombe sangemuva, njalo njalo. Abasebenzisi bangalungisa izilungiselelo zedivayisi ezifana ne-WLAN ezithinta wonke umuntu.
+
+Uma ungeza umsebenzisi omusha, loyo muntu kumele asethe isikhala sakhe.
+
+Noma imuphi umsebenzisi angabuyekeza izinhlelo zokusebenza kubo bonke abanye abasebenzisi. Izilungiselelo zokufinyelela kungenzeka zingadluliselwa kumsebenzisi omusha."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Amakholi aphuthumayo ngokushaya kwe-WLAN awasekelwe inkampani yakho yenethiwekhi.
+Idivayisi ishintsha ngokuzenzakalela iye kunethiwekhi yeselula ukuze yenze ikholi ephuthumayo.
+Amakholi aphuthumayo akhonakala kuphela ezindaweni ezinokufakwa kweselula."</string>
+    <string name="wfc_provisioned_switch_string">Kugunyazwe ukushaya kwe-WLAN</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">Amanethiwekhi e-WLAN</string>
+    <string name="wifi_advanced_not_available">Izilungiselelo ezithuthukisiwe ze-WLAN azitholakaleli lo msebenzisi</string>
+    <string name="wifi_advanced_settings_label">Izilungiselelo ze-IP</string>
+    <string name="wifi_ap_band_select_one">Khetha okungenani ibhendi eyodwa ye-WLAN hotspot:</string>
+    <string name="wifi_ask_disable">%s ifuna ukuvala i-WLAN</string>
+    <string name="wifi_ask_enable">%s ifuna ukuvula i-WLAN</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Uma inethiwekhi yeselula ingatholakali, sebenzisa i-WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Shaya nge-WLAN. Uma i-WLAN ilahleka, ikholi izophela.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Uma i-WLAN ingatholakali, sebenzisa inethiwekhi yeselula</string>
+    <string name="wifi_calling_not_supported">Ukushaya kwe-WLAN akusekelwa ku-%1$s</string>
+    <string name="wifi_calling_off_explanation">Uma kuvulwe ukushaya kwe-WLAN, ifoni yakho ingahambisa amakholi ngamanethiwekhi e-WLAN kunethiwekhi yenkampani yakho yenethiwekhi, ngokuya ngokuncamelayo nokuthi iyiphi isignali eqinile. Ngaphambi kokuthi uvule lesi sici, hlola nenkampani yakho yenethiwekhi ngokuphathelene nezinkokhiso kanye neminye imininingwane. %1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">Yenza kusebenze ukushaya kwe-WLAN</string>
+    <string name="wifi_calling_settings_title">Ukushaya kwe-WLAN</string>
+    <string name="wifi_calling_suggestion_summary">Vula ukushaya kwe-WLAN ukuze unwebe ukufakwa</string>
+    <string name="wifi_calling_suggestion_title">Nweba amakholi nge-WLAN</string>
+    <string name="wifi_calling_summary">Sebenzisa i-WLAN ngamakholi ukuthuthukisa ikhwalithi</string>
+    <string name="wifi_calling_turn_on">Vula ukushaya kwe-WLAN</string>
+    <string name="wifi_carrier_connect">Inethiwekhi ye-WLAN yenkampani yenethiwekhi</string>
+    <string name="wifi_cellular_data_fallback_summary">Sebenzisa idatha yeselula uma i-WLAN ingenakho ukufinyelela kwe-inthanethi. Ukusetshenziswa kwedatha kungasebenza.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">I-WLAN ayivuli ngokuzenzakalelayo</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">I-WLAN ivuleka ngokuzenzakalelayo</string>
+    <string name="wifi_configure_settings_preference_title">Okuncamelayo kwe-WLAN</string>
+    <string name="wifi_data_template">^1 idatha ye-WLAN</string>
+    <string name="wifi_data_usage">Ukusetshenziswa kwedatha ye-WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Ukwehlulekla koxhumo le-WLAN</string>
+    <string name="wifi_dpp_add_device_to_wifi">Engeza le divayisi ku-“%1$s”?</string>
+    <string name="wifi_dpp_center_qr_code">Misa phakathi nendawo ikhodi ye-QR ngaphansi ukuze ungeze idivayisi ku-“%1$s”</string>
+    <string name="wifi_dpp_failure_not_supported">Ukungeza i-“%1$s” akusekelwa ile divayisi</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Skena le khodi ye-QR ukuze ixhumeke ku-“%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Misa phakathi nendawo ikhodi ye-QR ngaphansi ukuze uxhumeke ku-“%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Joyina i-WLAN ngokuskena ikhodi ye-QR</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Skena le khodi ye-QR ukuze uxhumeke ku-“%1$s” uphinde wabelane ngephasiwedi</string>
+    <string name="wifi_dpp_share_wifi">Yaba i-WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Yabelana nge-WLAN ngale divayisi…</string>
+    <string name="wifi_dpp_wifi_password">Iphasiwedi ye-WLAN: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">I-WLAN yabiwe nedivayisi</string>
+    <string name="wifi_empty_list_user_restricted">Awunayo imvume yokushintsha inethiwekhi ye-WLAN.</string>
+    <string name="wifi_empty_list_wifi_off">Ukubona amanethiwekhi atholakalayo, vula i-WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Isesha amanethiwekhi e-WLAN…</string>
+    <string name="wifi_hotspot_auto_off_summary">I-WLAN hotspot izovaleka uma kungekho amadivayisi axhunyiwe</string>
+    <string name="wifi_hotspot_checkbox_text">I-WLAN hotspot</string>
+    <string name="wifi_hotspot_configure_ap_text">Ukusetha i-WLAN hotspot</string>
+    <string name="wifi_hotspot_footer_info_regular">Sebenzisa i-hotspot ukudala inethiwekhi ye-WLAN yamanye amadivayisi akho. I-Hotspot inikezela nge-inthanethi isebenzisa uxhumo lwedatha yakho yeselula. Amashaji edatha yeselula angeziwe angasebenza.</string>
+    <string name="wifi_limit_optimizations_summary">Khawulela ibhethri elisetshenziswe yi-WLAN</string>
+    <string name="wifi_menu_p2p">I-WLAN eqondile</string>
+    <string name="wifi_on_time">I-WLAN isesikhathini</string>
+    <string name="wifi_p2p_settings_title">I-WLAN eqondile</string>
+    <string name="wifi_poor_network_detection_summary">Ungasebenzisi inethiwekhi ye-WLAN ngaphandle kokuthi inoxhumano lwe-intanethi olukahle.</string>
+    <string name="wifi_quick_toggle_summary">Vula i-WLAN</string>
+    <string name="wifi_quick_toggle_title">I-WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Ukuze uthuthukse ukunemba kwendawo nangezinye izinhloso, uhlelo lokusebenza olungaziwa lufuna ukuvula ukuskena inethiwekhi, ngisho noma i-WLAN ivaliwe.
+
+Vumela lokhu kuzo zonke izinhlelo zokusebenza ezifuna ukuskena?"</string>
+    <string name="wifi_scan_always_turnon_message">"Ukuze kuthuthukiswe ukufaneleka kwendawo nezinye izinjongo, i-%1$s ifuna ukuvula ukuskena kwenethiwekhi, noma ngabe i-WLAN ivaliwe.
+
+Vumela lokhu ngazo zonke izinhlelo zokusebenza ezifuna ukuskena?"</string>
+    <string name="wifi_scan_notify_text">Ukuze kuthuthukiswe ukunemba kwendawo, izinhlelo zokusebenza namasevisi asengaskenela amanethiwekhi e-WLAN noma kunini, nanoma i-WLAN ivaliwe. Lokhu kungasetshenziselwa, njengesibonelo, ukuthuthukisa izici ezisuselwa endaweni namasevisi. Ungashintsha lokhu LINK_BEGINekuskeneni izilungiseleloLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Ukuze uthuthukise ukunemba kwendawo, vula ukuskena kwe-WLAN LINK_BEGINkuzilungiselelo zokuskenaLINK_END.</string>
+    <string name="wifi_scan_throttling">I-throttling yokuskena kwe-WLAN</string>
+    <string name="wifi_select_network">Khetha i-WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">I-WLAN ivulekile phakathi kokulala</string>
+    <string name="wifi_setting_sleep_policy_title">Gcina i-WLAN isebenza ngesikhathi sokulala</string>
+    <string name="wifi_settings">I-WLAN</string>
+    <string name="wifi_settings_category">Izilungiselelo ze-WLAN</string>
+    <string name="wifi_settings_master_switch_title">Sebenzisa i-WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">Ukuskena kwe-WLAN kuvuliwe</string>
+    <string name="wifi_settings_scanning_required_info">Ukuskena kwe-WLAN kuvumela izinhlelo zokusebenza namasevisi ukuthi askenele amanethiwekhi e-WLAN noma kunini, nanoma i-WLAN ivaliwe. Lokhu kungasetshenziswa, njengesibonelo, ukuze kuthuthukiswe izici ezisuselwa endaweni namasevisi.</string>
+    <string name="wifi_settings_scanning_required_summary">Ukuze uvule i-WLAN ngokuzenzakalelayo, kokuqala udinga ukuvula ukuskena kwe-WLAN.</string>
+    <string name="wifi_settings_scanning_required_title">Ivula ukuskena kwe-WLAN?</string>
+    <string name="wifi_settings_title">I-WLAN</string>
+    <string name="wifi_starting">Ivula i-WLAN...</string>
+    <string name="wifi_stopping">Ivala i-WLAN...</string>
+    <string name="wifi_suspend_optimizations">Ukuthuthukiswa kwe-WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Nciphisa ukusetshenziswa kwebhethri uma i-WLAN ivuliwe</string>
+    <string name="wifi_switch_away_when_unvalidated">Shintshela kudatha yeselula uma i-WLAN ilahlekelwa ukufinyelela kwe-inthanethi.</string>
+    <string name="wifi_tether_configure_ap_text">Setha i-WLAN hotspot</string>
+    <string name="wifi_tether_failed_subtext">Iphutha le-WLAN hotspot ephathekayo</string>
+    <string name="wifi_turned_on_message">I-WLAN ivuliwe</string>
+    <string name="wifi_verbose_logging">Nika amandlaukungena kwe-WLAN Verbose</string>
+    <string name="wifi_verbose_logging_summary">khuphula izinga lokungena le-WLAN, bonisa nge-SSID RSSI engayodwana kusikhethi se-WLAN</string>
+    <string name="wifi_wakeup">Vula i-WLAN ngokuzenzakalelayo</string>
+    <string name="wifi_wakeup_summary">I-WLAN izovuleka eceleni kwamanethiwekhi alondolozwe ngekhwalithi ephezulu, njengenethiwekhi yakho yasekhaya</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Akutholakali ngoba ukuskena kwe-WLAN kuvaliwe</string>
+</resources>

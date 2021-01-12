@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">የእርስዎ መሣሪያ በእርስዎ ስልክ ላይ ላሉ መተግበሪያዎች የሚታይ ነው። ወድ ብሉቱዝ መሣሪያዎች ሲያገኙ ወይም የWLAN መገናኛ ነጥብን ሲያቀናብሩ በተጨማሪ በሌሎች ሰዎች የሚታይ ይሆናል።</string>
+    <string name="accessibility_no_wifi">የWLAN ግንኙነት ተቋርጧል።</string>
+    <string name="accessibility_wifi_off">WLAN ጠፍቷል።</string>
+    <string name="accessibility_wifi_one_bar">አንድ የWLAN አሞሌ።</string>
+    <string name="accessibility_wifi_signal_full">የWLAN ምልክት ሙሉ ነው።</string>
+    <string name="accessibility_wifi_three_bars">ሦስት የWLAN አሞሌዎች።</string>
+    <string name="accessibility_wifi_two_bars">ሁለት የWLAN አሞሌዎች።</string>
+    <string name="backup_data_summary">የመተግበሪያ ውሂብ፣ የWLAN ይለፍ ቃላት እና ሌሎች ቅንብሮች በGoogle አገልጋዮች ላይ መጠባበቂያ ያስቀምጡላቸው</string>
+    <string name="backup_erase_dialog_message">የWLAN ይለፍ ቃላትዎን፣ ዕልባቶችዎን፣ ሌሎች ቅንብሮችዎን፣ እና የመተግበሪያ ውሂብዎን መጠባበቂያ መስራት ይቆም፣ እና እንዲሁም በGoogle አገልጋዮች ላይ ያሉ ቅጂዎችም ይሰረዙ?</string>
+    <string name="battery_action_wifi">የWLAN ቅንብሮች</string>
+    <string name="battery_desc_wifi">WLAN የተጠቀመበት የባትሪ መጠን</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">ካልተጠቀምክበት ወይም በሌለበት ቦታ ላይ WLAN ን አጥፋ</string>
+    <string name="bluetooth_on_time">WLAN በጊዜ</string>
+    <string name="change_wifi_state_app_detail_summary">ይህ መተግበሪያ WLANን እንዲያበራ ወይም እንዲያጠፋ፣ WLANን እንዲቃኝ እና ከWLAN አውታረ መረቦች ጋር እንዲገናኝ፣ አውታረ መረቦችን እንዲያክል ወይም እንዲያስወግድ፣ ወይም አካባቢያዊ ብቻ የሆነ መገናኛ ነጥብ እንዲጀምር ይፍቀዱለት</string>
+    <string name="change_wifi_state_app_detail_switch">መተግበሪያ WLANን እንዲቆጣጠር ይፍቀዱ</string>
+    <string name="change_wifi_state_title">የWLAN ቁጥጥር</string>
+    <string name="condition_cellular_summary">በይነመረብ በWLAN በኩል ብቻ ነው የሚገኘው</string>
+    <string name="connected_via_app">በ %1$s በኩል ተገናኝተዋል</string>
+    <string name="credential_for_wifi">ለWLAN ተጭኗል</string>
+    <string name="data_usage_app_summary_title">የተንቀሳቃሽ ስልክ ውሂብ እና WLAN</string>
+    <string name="data_usage_disable_wifi_limit">የWLAN ውሂብ ወሰን አዋቅር</string>
+    <string name="data_usage_menu_hide_wifi">WLAN ደብቅ</string>
+    <string name="data_usage_menu_show_wifi">WLAN አሳይ</string>
+    <string name="data_usage_metered_wifi">የሚለኩ የWLAN አውታረ መረቦች</string>
+    <string name="data_usage_metered_wifi_disabled">የሚለኩ አውታረ መረቦችን ለመምረጥ WLAN ያብሩ።</string>
+    <string name="data_usage_restrict_background">የተንቀሳቃሽ ስልክ ውሂብ ጀርባን ከገደቡ ከWLAN ጋር ካልተገናኙ በስተቀር አንዳንድ መተግበሪያዎች እና አገልግሎቶች አይሠሩም።</string>
+    <string name="data_usage_restrict_background_multiuser">"የጀርባ ተንቀሳቃሽ ስልክ ውሂብ ከገደቡ አንዳንድ መተግበሪያዎች እና አገልግሎቶች ከWLAN ጋር ካልተገናኙ በስተቀር ድረስ አይሠሩም።
+
+ይህ ቅንብር እዚህ ስልክ ላይ ያሉት ሁሉም ተጠቃሚዎች ይመለከታቸዋል።"</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 በWLAN ላይ ጥቅም ላይ የዋለ</string>
+    <string name="data_usage_wifi_title">WLAN ውሂብ</string>
+    <string name="emergency_address_summary">በWLAN ላይ የአስቸኳይ አደጋ ጥሪ ሲያደርጉ እንደ የእርስዎ አካባቢ ሆኖ ስራ ላይ ይውላል</string>
+    <string name="fullbackup_data_summary">"በራስ-ሰር የመሣሪያ ውሂብ (እንደ WLAN የይለፍ ቃሎች እና የጥሪ ታሪክ የመሳሰሉ) እና የመተግበሪያ ውሂብ (እንደ በመተግበሪያዎች የተቀመጡ ቅንብሮች እና ፋይሎች) በርቀት በምትኬ ያስቀምጡ።
+
+ራስ-ሰር በምትኬ ማስቀመጥን ሲያበሩ፣ የመሣሪያ እና የመተግበሪያ ውሂብ በተወሰነ ክፍለ ጊዜ በርቀት ይቀመጣሉ። የመተግበሪያ ውሂብ (በገንቢ ቅንብሮች ላይ የሚመረኮዝ ሆኖ)፣ እንደ እውቂያዎች፣ መልዕክቶች፣ እና ፎቶዎች የመሳሰሉ አደጋ ሊያስክትሉ የሚችሉ ውሂብን ጨምሮ ማናቸውም መተግበሪያ ያስቀመጠው ውሂብ ሊሆን ይችላል።"</string>
+    <string name="fullbackup_erase_dialog_message">የመሣሪያ ውሂብ (እንደ የWLAN ይለፍ ቃሎች እና የጥሪ ታሪክ ያሉ) እና የመተግበሪያ ውሂብ (እንደ በመተግበሪያዎች የተከማቹ ቅንብሮች እና ፋይሎች ያሉ) ምትኬ ማስቀመጥ ቆሞ በርቀት አገልጋዮች ላይ ያሉ ሁሉም ቅጂዎች ይደምሰሱ?</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN ማሳወቂያ፣ wifi ማሳወቂያ</string>
+    <string name="location_neighborhood_level_wifi">አካባቢ በWLAN ይታወቃል</string>
+    <string name="location_network_based">የWLAN እና የተንቀሳቃሽ ስልክ አውታረ መረብ አካባቢ</string>
+    <string name="location_scanning_screen_title">የWLAN እና ብሉቱዝ መቃኘት</string>
+    <string name="location_scanning_wifi_always_scanning_description">WLAN ጠፍቶ ቢሆንም እንኳ በማንኛውም ጊዜ የWLAN አውታረ መረቦችን እንዲቃኙ ይፍቀዱ። ይህ ለምሳሌ በአካባቢ ላይ የተመሠረቱ ባሕሪያትን እና አገልግሎቶችን ለማሻሻል ጥቅም ላይ ሊውል ይችላል።</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN ቅኝት</string>
+    <string name="lost_internet_access_cancel">በWLAN ላይ ይቆዩ</string>
+    <string name="lost_internet_access_text">WLAN መጥፎ ግንኙነት በኖረው ማንኛውም ጊዜ ወደ የተንቀሳቃሽ ስልክ አውታረ መረብ መቀየር ይችላሉ። የውሂብ ክፍያ ሊከፈልባቸው ይችላል።</string>
+    <string name="lost_internet_access_title">WLAN ከበይነመረብ ጋር አልተገናኘም</string>
+    <string name="mobile_data_always_on_summary">ምንም እንኳን WLAN ንቁ ቢሆንም የሞባይል ውሂብን ንቁ እንደሆነ አቆይ (ለፈጣን የአውታረ መረብ ቅይይር)።</string>
+    <string name="network_scorer_change_active_dialog_title">የWLAN ረዳት ይቀየር?</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_controls_summary">WLAN፣ ብሉቱዝ፣ የአውሮፕላን ሁነታ፣ የተንቀሳቃሽ አውታረ መረቦች፣ እና VPNዎችን ያቀናብሩ</string>
+    <string name="radio_info_ims_reg_status">"የIMS ምዝገባ፦ %1$s
+በLTE በኩል ድምፅ፦ %2$s
+በWLAN በኩል ድምፅ፦ %3$s
+የቪድዮ ጥሪ፦ %4$s
+UT በይነገጽ፦ %5$s"</string>
+    <string name="reset_network_desc">"የሚከተሉትን ጨምሮ ይህ ሁሉንም የአውታረ መረብ ቅንብሮችን ዳግም ያቀናብራል፦
+
+"<li>WLAN</li>"
+"<li>የተንቀሳቃሽ ስልክ ውሂብ</li>"
+"<li>ብሉቱዝ</li></string>
+    <string name="reset_network_title">WLAN፣ ተንቀሳቃሽ ስልክ እና ብሉቱዝን ዳግም አስጀምር</string>
+    <string name="restriction_wifi_config_summary">የWLAN እና የተንቀሳቃሽ ስልክ ቅንብሮች መቀየርን ይፍቀዱ</string>
+    <string name="restriction_wifi_config_title">WLAN እና ተንቀሳቃሽ ስልክ</string>
+    <string name="scanning_status_text_wifi_off_ble_off">ሁለቱም WLAN እና ብሉቱዝ ቅኝት ጠፍተዋል</string>
+    <string name="scanning_status_text_wifi_off_ble_on">ብሉቱዝ ቅኝት በርቷል፣ WLAN ቅኝት ጠፍቷል</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN ቅኝት በርቷል፣ ብሉቱዝ ቅኝት ጠፍቷል</string>
+    <string name="scanning_status_text_wifi_on_ble_on">ሁለቱም WLAN እና ብሉቱዝ ቅኝት በርተዋል</string>
+    <string name="status_wifi_mac_address">የWLAN ማክ አድራሻ</string>
+    <string name="usage_type_data_wifi_recv">የWLAN ጥቅሎች መጥተዋል</string>
+    <string name="usage_type_data_wifi_send">የWLAN ጥቅሎች ተልከዋል</string>
+    <string name="usage_type_wifi_running">WLANን በማስኬድ ላይ</string>
+    <string name="user_add_user_message_long">"ተጨማሪ ተጠቃሚዎችን በመፍጠር ይህን መሣሪያ ለሌሎች ሰዎች ማጋራት ይችላሉ። እያንዳንዱ ተጠቃሚ በራሱ መተግበሪያዎች፣ ልጣፍ እና በመሳሰሉ ነገሮች ሊያበጀው የሚችል የራሱ ቦታ አለው። ተጠቃሚዎችም እንዲሁ እንደ WLAN ያሉ በሁሉም ሰው ላይ ተጽዕኖ ሊኖራቸው የሚችሉ የመሣሪያ ቅንብሮችን ማስተካከል ይችላሉ። 
+
+እርስዎ አንድ አዲስ ተጠቃሚ ሲያክሉ ያ ሰው የራሱ ቦታ ማዘጋጀት አለበት።
+
+ማንኛውም ተጠቃሚ መተግበሪያዎችን ለሌሎች ተጠቃሚዎች ሁሉ ሊያዘምኑ ይችላሉ።"</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"በየWLAN ጥሪ ማድረጊያ በኩል የሚደረጉ የድንገተኛ አደጋ የስልክ ጥሪዎች በአገልግሎት አቅራቢው የሚደገፉ አይደሉም።
+የድንገተኛ አደጋ ጥሪን ለማድረግ መሣሪያው በራስሰር ወደ ተንቀሳቃሽ ስልክ አውታረ መረብ ይቀይራል።
+የድንገተኛ አደጋ የስልክ ጥሪዎችን ማድረግ የተንቀሳቃሽ ስልክ ሽፋን ባለባቸው አካባቢዎች ላይ ብቻ የሚቻል ነው።"</string>
+    <string name="wfc_provisioned_switch_string">የWLAN ጥሪ ቀርቧል</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">የWLAN አውታረ መረቦች</string>
+    <string name="wifi_advanced_not_available">የላቁ የWLAN ቅንብሮች ለዚህ ተጠቃሚ አይገኙም</string>
+    <string name="wifi_advanced_settings_label">IP ቅንብሮች</string>
+    <string name="wifi_advanced_titlebar">የላቀ WLAN</string>
+    <string name="wifi_ap_band_select_one">ለWLAN መገናኛ ነጥብ ቢያንስ አንድ ሞገድ ይምረጡ፦</string>
+    <string name="wifi_ask_disable">%s WLANን ማጥፋት ይፈልጋል</string>
+    <string name="wifi_ask_enable">%s WLANን ማብራት ይፈልጋል</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">የተንቀሳቃስሽ ስልክ አውታረ መረብ የማይገኝ ከሆነ፣ WLAN ይጠቀሙ</string>
+    <string name="wifi_calling_mode_wifi_only_summary">በ WLAN በኩል ደውል። WLAN ከጠፋ፣ ጥሪ ያበቃል።</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">WLAN የማይገኝ ከሆነ፣ የተንቀሳቃሽ ስልክ አውታረ መረብ ተጠቀም</string>
+    <string name="wifi_calling_not_supported">የWLAN ጥሪ አደራረግ ለ%1$s ከእንግዲህ አይደገፍም</string>
+    <string name="wifi_calling_off_explanation">የWLAN ጥሪ ሲበራ የእርስዎ ስልክ በምርጫዎ እና በየትኛው ይበልጥ ጠንካራ እንደሆነ የሚወሰን ሆኖ ጥሪዎችን በWLAN አውታረ መረቦች ወይም በአገልግሎት አቅራቢዎ አውታረ መረብ በኩል ሊያዞር ይችላል። ይህን ባህሪ ከማብራትዎ በፊት ክፍያዎችን እና ሌሎች ዝርዝሮችን በተመለከተ አገልግሎት አቅራቢዎን ያነጋግሩ።%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">የWLAN ጥሪ አደራረግን አግብር</string>
+    <string name="wifi_calling_settings_title">የWLAN ጥሪ ማድረጊያ</string>
+    <string name="wifi_calling_suggestion_summary">ሽፋንን ለመቀጠል የWLAN ጥሪን ያብሩ</string>
+    <string name="wifi_calling_suggestion_title">ጥሪዎችን በWLAN ያስቀጥሉ</string>
+    <string name="wifi_calling_summary">ጥራትን ለማሻሻል WLANን ለጥሪዎች ይጠቀሙ</string>
+    <string name="wifi_calling_turn_on">WLAN Callingን ያብሩ</string>
+    <string name="wifi_carrier_connect">የአገልግሎት አቅራቢ የWLAN አውታረ መረብ</string>
+    <string name="wifi_cellular_data_fallback_summary">የWLAN በይነመረብ መዳረሻ በማይኖርበት ጊዜ የተንቀሳቃሽ ስልክ ውሂብ ይጠቀሙ። የውሂብ ክፍያዎች ሊከፈልባቸው ይችላል።</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN በራስ-ሰር ተመልሶ አይበራም</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN በራስ-ሰር ተመልሶ ይበራል</string>
+    <string name="wifi_configure_settings_preference_title">የWLAN ምርጫዎች</string>
+    <string name="wifi_data_template">^1 የWLAN ውሂብ</string>
+    <string name="wifi_data_usage">WLAN ውሂብ አጠቃቀም</string>
+    <string name="wifi_disabled_wifi_failure">የWLAN ግንኙነት መሰናከል</string>
+    <string name="wifi_dpp_add_device_to_wifi">ይህ መሣሪያ ወደ «%1$s» ይታከል?</string>
+    <string name="wifi_dpp_center_qr_code">ወደ «%1$s» መሣሪያ ለማከል የQR ኮዱን ከዚህ በታች መሃል ላይ ያስቀምጡት</string>
+    <string name="wifi_dpp_failure_not_supported">«%1$s»ን ማከል በዚህ መሣሪያ አይደገፍም</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">ወደ «%1$s» ለማገናኘት ይህን የQR ኮድ ይቃኙት</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">ወደ «%1$s» መሣሪያ ለማከል የQR ኮዱን ከዚህ በታች መሃል ላይ ያስቀምጡት</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">የQR ኮድን በመቃኘት WLAN ን ይቀላቀሉ</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">ወደ «%1$s»ን ለማገናኘት ይህን የQR ኮድ ይቃኙ እና የይለፍ ቃሉን ያጋሩ</string>
+    <string name="wifi_dpp_share_wifi">WLANን አጋራ</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">ከዚህ መሣሪያ ጋር WLAN በማጋራት ላይ…</string>
+    <string name="wifi_dpp_wifi_password">የWLAN ይለፍ ቃል፦ %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">ከመሣሪያ ጋር የተጋራ WLAN</string>
+    <string name="wifi_empty_list_user_restricted">የWLAN አውታረ መረቡን የመቀየር ፍቃድ የሉዎትም።</string>
+    <string name="wifi_empty_list_wifi_off">ያሉ አውታረ መረቦችን ለማየት WLAN ያብሩ።</string>
+    <string name="wifi_empty_list_wifi_on">የWLAN አውታረ መረቦችን በመፈለግ ላይ…</string>
+    <string name="wifi_hotspot_auto_off_summary">WLAN መገናኛ ነጥብ ምንም መሣሪያዎች ካልተገናኙ ይጠፋል</string>
+    <string name="wifi_hotspot_checkbox_text">የWLAN መገናኛ ነጥብ</string>
+    <string name="wifi_hotspot_configure_ap_text">የWLAN መገናኛ ነጥብ ማዋቀር</string>
+    <string name="wifi_hotspot_footer_info_regular">ለሌሎች መሣሪያዎችዎ የWLAN አውታረ መረብን ለመፍጠር መገናኛ ነጥብብ ይጠቀሙ። መገናኛ ነጥብ የእርስዎን የሞባይል ውሂብ ግንኙነት በመጠቀም በይነመረብን ያቀርባል። ተጨማሪ የሞባይል ውሂብ ክፍያዎች ሊከፈልባቸው ይችላል።</string>
+    <string name="wifi_limit_optimizations_summary">WLAN የሚጠቀመውን ባትሪ ገድብ</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN በጊዜ</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">ጥሩ የበየነመረብ ግንኙነት ከሌለው በስተቀር የWLAN አውታረ መረብን አትጠቀም</string>
+    <string name="wifi_quick_toggle_summary">WLAN ያብሩ</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"WLAN ጠፍቶም እያለ እንኳ የአካባቢ ትክክለኛነትን ለማሻሻል እና ለሌሎች ዓላማዎች የአውታረ መረብ መቃኘትን ማብራት ይፈልጋል።
+
+ለሁሉም መቃኘት ለሚፈልጉ መተግበሪያዎች ይህ ይፈቀድ?"</string>
+    <string name="wifi_scan_always_turnon_message">"%1$s የአካባቢ ትክክለኛነትን ለማሻሻል እና ለሌሎች ዓላማዎች የአውታረ መረብ መቃኘትን ማብራት ይፈልጋል፣ WLAN ጠፍቶ ቢሆንም እንኳ።
+
+ይሄ ለሁሉም መቃኘት ለሚፈልጉ መተግበሪያዎች ይፈቀድ?"</string>
+    <string name="wifi_scan_notify_text">የአካባቢ ትክክለኝነት ለማሻሻል ሲባል መተግበሪያዎች እና አገልግሎቶች አሁንም በማንኛውም ጊዜ የ WLAN አውታረ መረቦችን መቃኘት ይችላሉ፣ WLAN ጠፍቶ ቢሆንም እንኳ። ይህ ለምሳሌ በአካባቢ ላይ የተመሠረቱ ባህሪያትን እና አገልግሎቶችን ለማሻሻል ስራ ላይ ሊውል ይችላል። ይህን በLINK_BEGINየመቃኛ ቅንብሮችLINK_END ውስጥ መቀየር ይችላሉ።</string>
+    <string name="wifi_scan_notify_text_scanning_off">የአካባቢ ትክክለኝነትን ለማሻሻል በLINK_BEGINየቅንት ቅንብሮችLINK_END ውስጥ የWLAN ቅኝትን ያብሩ።</string>
+    <string name="wifi_scan_throttling">WLAN scan throttling</string>
+    <string name="wifi_select_network">WLAN ይምረጡ</string>
+    <string name="wifi_setting_on_during_sleep_title">በእንቅልፍ ጊዜ WLAN ይበራል</string>
+    <string name="wifi_setting_sleep_policy_title">በሚተኛበት WLAN እንደበራ ይቆይ</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">የWLAN ቅንብሮች</string>
+    <string name="wifi_settings_master_switch_title">WLANን ተጠቀም</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN ቅኝት በርቷል</string>
+    <string name="wifi_settings_scanning_required_info">WLAN ቅኝት አደራረግ በማናቸውም ጊዜ የWLAN አውታረመረቦችን መተግበሪያዎች እና አገልግሎቶች WLAN ጠፍቶ እያለ እንኳ እንዲቃኙ ያስችላል። ይህ ለምሳሌ በአካባቢ ላይ የተመሠረቱ ባህሪያትን እና አገልግሎቶችን ለማሻሻል ሥራ ላይ ሊውል ይችላል።</string>
+    <string name="wifi_settings_scanning_required_summary">WLANን በራስሰር ለማብራት፣ በመጀመሪያ WLAN ቅኝትን ማብራት ያስፈልግዎታል።</string>
+    <string name="wifi_settings_scanning_required_title">የWLAN ቅኝትን ይብራ?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN በማብራት ላይ...</string>
+    <string name="wifi_stopping">WLAN በማጥፋት ላይ...</string>
+    <string name="wifi_suspend_optimizations">የWLAN ማመቻቸት</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN ሲበራ የባትሪ አጠቃቀም ቀንስ</string>
+    <string name="wifi_switch_away_when_unvalidated">WLAN የበይነመረብ መድረሻን ካጣ ወደ የተንቀሳቃሽ ስልክ ውሂብ ለውጥ።</string>
+    <string name="wifi_tether_configure_ap_text">የWLAN መገናኛ ነጥብ ያዋቅሩ</string>
+    <string name="wifi_tether_failed_subtext">የተንቀሳቃሽ የWLAN መገናኛ ነጥብ ስህተት</string>
+    <string name="wifi_turned_on_message">WLAN በርቷል</string>
+    <string name="wifi_verbose_logging">የWLAN ተጨማሪ ቃላት ምዝግብ ማስታወሻ መያዝ</string>
+    <string name="wifi_verbose_logging_summary">የWLAN ምዝግብ ማስታወሻ አያያዝ ደረጃ ጨምር፣ በWLAN መምረጫ ውስጥ በአንድ SSID RSSI አሳይ</string>
+    <string name="wifi_wakeup">WLANን በራስ-ሰር አብራ</string>
+    <string name="wifi_wakeup_summary">እንደ የቤትዎ አውታረ መረብ ካሉ የተቀመጡ አውታረ መረቦች አጠገብ ሲሆኑ WLAN ተመልሶ ይበራል</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">የWLAN ቅኝት ስለጠፋ አይገኝም</string>
+</resources>

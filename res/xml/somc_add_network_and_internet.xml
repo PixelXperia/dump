@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:key="internet_settings" settings:after="mobile_network_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.apnupdater" android:targetClass="com.sonymobile.apnupdater.ApnUpdaterEntry" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="rcs_settings" settings:after="internet_settings" settings:dependOnIsOwnerOnly="true" settings:dependOnIsValidIntent="true" settings:dependOnSettingsSystem="somc.rcs_settings_configured" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.rcs.settings" android:targetClass="com.sonymobile.rcs.settings.RcsSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.SwitchPreference android:key="showRcsInSettings" android:defaultValue="false" settings:after="internet_settings" settings:dependOnIsValidIntent="true" settings:dependOnSettingsSystem="somc.rcse_configured" settings:hasMetaData="true" settings:valueOfSettingsSystem="somc.rcse_enabled">
+        <intent android:targetPackage="com.sonymobile.rcs" android:action="com.sonymobile.rcs.ENABLE_RCS_SERVICE" android:targetClass="com.sonymobile.rcs.settings.RcsServiceEnabler" />
+    </com.sonymobile.settings.preference.SwitchPreference>
+</PreferenceScreen>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">您的裝置名稱會在手機的應用程式上顯示。當您連接藍牙裝置或設定 WLAN 熱點時，其他人亦可能會看到您的裝置名稱。</string>
+    <string name="accessibility_no_wifi">WLAN 連線已中斷。</string>
+    <string name="accessibility_wifi_off">WLAN 已關閉。</string>
+    <string name="accessibility_wifi_one_bar">WLAN 訊號一格。</string>
+    <string name="accessibility_wifi_signal_full">WLAN 訊號滿格。</string>
+    <string name="accessibility_wifi_three_bars">WLAN 訊號三格。</string>
+    <string name="accessibility_wifi_two_bars">WLAN 訊號兩格。</string>
+    <string name="backup_data_summary">將應用程式資料、WLAN 密碼及其他設定備份到 Google 伺服器</string>
+    <string name="backup_erase_dialog_message">要停止備份您的 WLAN 密碼、書籤、其他設定以及應用程式資料，並清除 Google 伺服器上儲存的所有副本嗎？</string>
+    <string name="battery_action_wifi">WLAN 設定</string>
+    <string name="battery_desc_wifi">WLAN 耗電量</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">不使用或無法使用時即關閉 WLAN</string>
+    <string name="battery_usm_desc">"Ultra STAMINA模式可大幅延長電池使用時間。請注意，由於透過WLAN或流動數據的互聯網連接將會停用，數據同步及WLAN通話功能將無法使用。您的[主屏幕]將被切換至Ultra STAMINA[主屏幕]模式。
+
+Ultra STAMINA模式下可使用的應用程式"</string>
+    <string name="battery_usm_desc_variable">"Ultra STAMINA模式可大幅延長電池使用時間。請注意，由於透過WLAN或流動數據的互聯網連接將會停用，數據同步及%s功能將無法使用。您的[主屏幕]將被切換至Ultra STAMINA[主屏幕]模式。
+
+Ultra STAMINA模式下可使用的應用程式"</string>
+    <string name="bluetooth_on_time">WLAN 開啟時間</string>
+    <string name="bs_feature_wifi">關閉WLAN</string>
+    <string name="change_wifi_state_app_detail_summary">允許這個應用程式開啟或關閉 WLAN，掃瞄和連線至 WLAN 網絡、新增或移除網絡，或啟動僅限本機的熱點</string>
+    <string name="change_wifi_state_app_detail_switch">允許應用程式控制 WLAN</string>
+    <string name="change_wifi_state_title">WLAN 控制</string>
+    <string name="condition_bg_data_summary">您必須連接 WLAN 才能使用背景數據。在沒有 WLAN 的情況下，使用背景數據可能會影響部分應用程式或服務。</string>
+    <string name="condition_cellular_summary">只能透過連接 WLAN 來使用互聯網</string>
+    <string name="connected_via_app">已透過「%1$s」連線</string>
+    <string name="credential_for_wifi">已針對 WLAN 安裝憑證</string>
+    <string name="ct_wifi_connected_text">已連接中國電信WLAN</string>
+    <string name="cw_network_notification">啟用中國電信WLAN通知</string>
+    <string name="cw_network_priority">將中國電信WLAN設定為優先</string>
+    <string name="cw_network_priority_summary">連接時中國電信WLAN網絡將比其他WLAN網絡優先</string>
+    <string name="data_service_except_mms_disabled_warning_txt">除非使用WLAN，否則您將無法繼續使用互聯網、電子郵件或其他需要數據連接的應用程式。是否要關閉流動數據連接？</string>
+    <string name="data_traffic_disabled_text">由於數據流量被停用，無法連接至中國電信WLAN網絡。立即啟用數據流量？</string>
+    <string name="data_usage_app_summary_title">流動數據與 WLAN</string>
+    <string name="data_usage_disable_wifi_limit">設定 WLAN 數據上限</string>
+    <string name="data_usage_menu_hide_wifi">隱藏 WLAN</string>
+    <string name="data_usage_menu_show_wifi">顯示 WLAN 用量</string>
+    <string name="data_usage_metered_wifi">按用量收費的 WLAN 網絡</string>
+    <string name="data_usage_metered_wifi_disabled">如要選取按用量收費的網絡，請開啟 WLAN。</string>
+    <string name="data_usage_restrict_background">如果您限制背景流動數據用量，部分應用程式和服務必須在連線至 WLAN 後才能運作。</string>
+    <string name="data_usage_restrict_background_multiuser">"如果您限制背景流動數據，部分應用程式和服務必須連線至WLAN後才能運作。
+
+這項設定會影響這部手機的所有如果您限制背景流動數據，部分應用程式和服務必須連線至WLAN後才能運作。
+
+這項設定會影響這部手機的所有使用者。"</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">已使用 ^1 (透過 WLAN)</string>
+    <string name="data_usage_wifi_title">WLAN 數據</string>
+    <string name="dialog_message_hint">"STAMINA模式包括：
+
+• 延長備用
+當屏幕關閉時，將暫時停用WLAN和流動數據，且無法使用大部分的應用程式，以節省電力。
+當屏幕開啟時，您的手機便可正常運作。
+若您想要在開啟延長備用時讓某些應用程式保持運作，請將應用程式新增至[備用時啟動應用程式]清單。
+
+•延長使用
+限制硬件效能，在您使用裝置時節省電力。
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>何謂STAMINA模式？</u>"
+STAMINA模式是Sony的省電功能，可在屏幕關閉時停用功能來延長電池壽命。
+
+"<u>基本使用方式</u>"
+若要開啟STAMINA模式，請輕按畫面上的按鈕。
+當屏幕關閉時，將會暫時停用WLAN和流動數據，且大部分的應用程式將無法使用，以節省電池電力。
+屏幕開啟後，手機即可恢復正常運作。
+
+"<u>進階使用方式</u>"
+若您想要在開啟STAMINA時讓某些應用程式維持運作，只要將其新增至[備用時啟動應用程式]清單即可。
+若未將應用程式新增至清單，其可能就無法正常運作。
+
+"<u>注意</u>"
+若應用程式無法正常運作，請以[備用時啟動應用程式]註冊應用程式，或關閉STAMINA模式。"</string>
+    <string name="emergency_address_summary">當您使用 WLAN 撥打緊急電話時，緊急服務會將該地址視作您所在位置的地址</string>
+    <string name="fullbackup_data_summary">"自動遙距備份裝置資料 (例如 WLAN 密碼和通話記錄) 和應用程式資料 (例如由應用程式儲存的設定和檔案)。
+
+啟用自動備份功能後，裝置和應用程式資料會定時以遙距方式儲存。應用程式資料可以是由應用程式儲存的任何資料 (視乎開發設定而定)，包括可能視為敏感的資料，如通訊錄、訊息及相片。"</string>
+    <string name="fullbackup_erase_dialog_message">停止備份裝置資料 (例如 WLAN 密碼和通話記錄) 和應用程式資料 (例如由應用程式儲存的設定和檔案)，並清除遠端伺服器內的所有副本？</string>
+    <string name="install_wapi_certs">安裝WLAN憑證</string>
+    <string name="keywords_change_wifi_state">WLAN, WLAN, 切換, 控制</string>
+    <string name="keywords_hotspot_tethering">USB 網絡共享, 藍牙網絡共享, WLAN 熱點</string>
+    <string name="keywords_wifi">WLAN, WLAN, 網絡連線, 互聯網, 無線, 數據, WLAN</string>
+    <string name="keywords_wifi_calling">WLAN, WLAN, 通話, 撥號中</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN 通知, wifi 通知</string>
+    <string name="l_dialog_message_hint">"STAMINA模式包含：
+
+•延長備用
+當屏幕關閉時，將暫時停用WLAN且無法使用大部分的應用程式，以節省電力。
+當屏幕開啟時，您的裝置便可正常運作。
+若您想要在開啟延長備用時讓某些應用程式保持運作，請將應用程式新增至[備用時啟動應用程式]清單。
+
+•延長使用
+限制硬件效能，在您使用裝置時節省電力。"</string>
+    <string name="location_based_wifi">行動定位WLAN</string>
+    <string name="location_neighborhood_level_wifi">根據 WLAN 確定位置</string>
+    <string name="location_network_based">WLAN 和流動網絡位置</string>
+    <string name="location_scanning_screen_title">WLAN 和藍牙掃瞄</string>
+    <string name="location_scanning_wifi_always_scanning_description">允許應用程式和服務隨時掃瞄 WLAN 網絡 (即使 WLAN 已關閉)。此操作可用來改善適地性功能和服務。</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN 掃瞄</string>
+    <string name="lost_internet_access_cancel">繼續使用 WLAN</string>
+    <string name="lost_internet_access_text">WLAN 連線情況欠佳時，您可以切換至流動網絡 (可能需要支付數據用量費用)。</string>
+    <string name="lost_internet_access_title">WLAN 並未連線至互聯網</string>
+    <string name="mobile_data_always_on_summary">即使 WLAN 已啟用，仍永遠啟用流動數據 (可快速切換網絡)。</string>
+    <string name="network_scorer_change_active_dialog_title">變更 WLAN Assistant？</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">若要分享目前的WLAN網絡，請選擇設定中的[分享WLAN資料]選項。</string>
+    <string name="nfc_wifi_share_checkbox">分享WLAN資料</string>
+    <string name="nfc_wifi_share_title_txt">分享WLAN資料</string>
+    <string name="operator_auto_connect_hotspot_description_txt">自動連接至AT&amp;T的WLAN無線基地台</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T的WLAN自動連接</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">除非使用WLAN，否則您將無法繼續使用互聯網、電子郵件或其他需要數據連接的應用程式。是否要關閉流動數據連接？</string>
+    <string name="powersaver_feature_wifi">關閉WLAN</string>
+    <string name="radio_controls_summary">管理 WLAN、藍牙、飛行模式、流動網絡和 VPN</string>
+    <string name="radio_info_ims_reg_status">"IMS 註冊：%1$s
+語音 LTE：%2$s
+語音 WLAN：%3$s
+視像通話：%4$s
+UT 介面：%5$s"</string>
+    <string name="reset_network_desc">"此操作會重設所有網絡設定，包括：
+
+"<li>WLAN</li>"
+"<li>流動數據</li>"
+"<li>藍牙</li></string>
+    <string name="restriction_wifi_config_summary">允許修改 WLAN 和流動網絡設定</string>
+    <string name="restriction_wifi_config_title">WLAN 與流動網絡</string>
+    <string name="scanning_status_text_wifi_off_ble_off">WLAN 和藍牙掃描功能均已關閉</string>
+    <string name="scanning_status_text_wifi_off_ble_on">藍牙掃瞄功能已開啟，WLAN 掃瞄功能已關閉</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN 掃描功能已開啟，藍牙掃描功能已關閉</string>
+    <string name="scanning_status_text_wifi_on_ble_on">WLAN 和藍牙掃描功能均已開啟</string>
+    <string name="somc_backup_failed_no_wifi_summary">等待WLAN連接</string>
+    <string name="somc_wifi_turned_on_info">WLAN已開啟。在清單中選擇您的網絡。</string>
+    <string name="stamina_xssm_summary">在屏幕關閉時停用流動數據和WLAN</string>
+    <string name="status_wifi_mac_address">WLAN MAC 位址</string>
+    <string name="tethering_no_sim_warning_txt">請插入SIM卡，以便使用流動WLAN Hotspot或USB數據連線進行互聯網存取，讓其他裝置分享手機的數據連接。</string>
+    <string name="usage_type_data_wifi_recv">已接收的 WLAN 數據包</string>
+    <string name="usage_type_data_wifi_send">已傳送的 WLAN 數據包</string>
+    <string name="usage_type_wifi_running">WLAN 執行中</string>
+    <string name="user_add_user_message_long">"您可以建立其他使用者，與他人共用這部裝置。每位使用者都有專屬的空間，並可使用應用程式、桌布等項目自訂個人空間。此外，使用者也可以調整會影響所有人的裝置設定，例如 WLAN 設定。
+
+新增的使用者需要自行設定個人空間。
+
+任何使用者都可以為所有其他使用者更新應用程式。協助工具設定和服務可能無法轉移至新的使用者。"</string>
+    <string name="usm_descr">"Ultra STAMINA模式將大幅延長電池壽命。您可在長時間無法為裝置充電時使用此模式。
+
+您只能使用一些基本功能，例如手機和訊息功能。請輕按[更多資訊]以取得更多詳細資料。
+
+請注意，將停用透過WLAN和流動數據的互聯網連接。"</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"無法透過WLAN電話撥打緊急通話。
+裝置自動切換至移動電話通訊網絡(2G/3G)以撥出緊急通話。
+緊急通話只於有移動電話通訊涵蓋的地區方可使用。"</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">透過WLAN電話撥打緊急通話</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone WLAN電話</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"如要開啟WLAN通話，您必須開啟[位置]並選擇[高精確度]或[省電模式]。
+
+WLAN通話期間，請確保[位置]保持開啟。"</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"無法透過WLAN電話撥打緊急通話。
+裝置自動切換至移動電話通訊網絡(2G/3G)以撥出緊急通話。
+緊急通話只於有移動電話通訊涵蓋的地區方可使用。"</string>
+    <string name="wfc_location_info_dialog_desc_txt">您可以傳送所在位置的相關資訊至Google，而且您的流動網絡供應商就能建立WLAN通話，無論您是否啟用[定位]設定。</string>
+    <string name="wfc_provisioned_switch_string">已佈建 WLAN 通話</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN 網絡</string>
+    <string name="wifi_advanced_not_available">這位使用者無法查看或變更 WLAN 進階設定</string>
+    <string name="wifi_advanced_settings_label">WLAN設定</string>
+    <string name="wifi_advanced_titlebar">進階 WLAN</string>
+    <string name="wifi_ap_band_select_one">請為 WLAN 熱點至少選擇一個頻段：</string>
+    <string name="wifi_ask_disable">「%s」要求關閉 WLAN</string>
+    <string name="wifi_ask_enable">「%s」要求開啟 WLAN</string>
+    <string name="wifi_auto_network_switch_setting_msg">在WLAN網絡和流動網絡可用時會自動切換到首選的網絡</string>
+    <string name="wifi_calling_link_to_register_emergency_address">點擊這裡以註冊WLAN通話或更新您現有的緊急地址</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">如果無法使用流動網絡，請使用 WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">使用 WLAN 通話。如果 WLAN 斷線，通話便會結束。</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">如果無法使用 WLAN，請使用流動網絡</string>
+    <string name="wifi_calling_not_supported">%1$s不支援 WLAN 通話功能</string>
+    <string name="wifi_calling_off_explanation">"在流動網絡訊號接收較差的範圍，使用WLAN通話可提高通話品質。
+
+費用
+有關WLAN通話的收費，請聯絡您的服務供應商。
+
+WLAN通話注意事項
+要確保WLAN通話不會中斷，請勿離開WLAN接收範圍。"</string>
+    <string name="wifi_calling_on_dialog_text">若要使用WLAN 通話，請將[流動數據]的[首選SIM]設為[SIM 1]</string>
+    <string name="wifi_calling_settings_activation_instructions">啟用 WLAN 通話功能</string>
+    <string name="wifi_calling_settings_title">WLAN 通話</string>
+    <string name="wifi_calling_suggestion_summary">開啟 WLAN 通話功能，以擴大通話覆蓋範圍</string>
+    <string name="wifi_calling_suggestion_title">透過 WLAN 擴大通話覆蓋範圍</string>
+    <string name="wifi_calling_summary">使用 WLAN 撥打電話，以提升通話質素</string>
+    <string name="wifi_calling_turn_on">開啟 WLAN 通話功能</string>
+    <string name="wifi_carrier_connect">流動網絡供應商 WLAN 網絡</string>
+    <string name="wifi_cellular_data_fallback_summary">當 WLAN 無法連線至互聯網時，切換至流動數據網絡 (可能會增加數據用量費用)。</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN 不會自動再次開啟</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN 會再次自動開啟</string>
+    <string name="wifi_configure_settings_preference_title">WLAN 偏好設定</string>
+    <string name="wifi_context_menu_change_wapi_certificate">更改WLAN憑證</string>
+    <string name="wifi_data_template">^1 WLAN 數據</string>
+    <string name="wifi_data_usage">WLAN 數據用量</string>
+    <string name="wifi_disabled_wifi_failure">WLAN 連線失敗</string>
+    <string name="wifi_dpp_add_device_to_wifi">要將此裝置新增至「%1$s」嗎？</string>
+    <string name="wifi_dpp_center_qr_code">相機對準以下二維條碼，即可將裝置新增至「%1$s」</string>
+    <string name="wifi_dpp_failure_not_supported">此裝置不支援新增「%1$s」</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">掃描此二維條碼即可連線至「%1$s」</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">將二維條碼置於下方中間，即可連接至「%1$s」</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">掃瞄二維條碼以加入 WLAN</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">掃瞄此二維條碼即可連線至「%1$s」並分享密碼</string>
+    <string name="wifi_dpp_share_wifi">分享 WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">正在與此裝置分享 WLAN…</string>
+    <string name="wifi_dpp_wifi_password">WLAN 密碼：%1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">已與裝置分享 WLAN</string>
+    <string name="wifi_empty_list_user_restricted">您無權更改 WLAN 網絡。</string>
+    <string name="wifi_empty_list_wifi_off">如要查看可用的網絡，請開啟 WLAN。</string>
+    <string name="wifi_empty_list_wifi_on">正在搜尋 WLAN 網絡...</string>
+    <string name="wifi_hotspot_auto_off_summary">如果未連接任何裝置，WLAN 熱點將會關閉</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN 熱點設定</string>
+    <string name="wifi_hotspot_footer_info_regular">使用熱點為其他裝置建立 WLAN 網絡。熱點會使用流動數據連線提供互聯網服務。可能需要支付額外流動數據費用。</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">當WLAN開啟時自動連接至可用的Passpoint網絡。</string>
+    <string name="wifi_limit_optimizations_summary">限制 WLAN 耗電量</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN 開啟時間</string>
+    <string name="wifi_p2p_settings">WLAN Direct設定</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">除非互聯網連線穩定，否則不要使用 WLAN 網絡</string>
+    <string name="wifi_quick_toggle_summary">開啟 WLAN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"有不明的應用程式要求開啟網絡掃瞄功能 (即使 WLAN 已關閉)，以提升定位精確度及用於其他用途。
+
+您要為所有需要掃瞄的應用程式允許這項要求嗎？"</string>
+    <string name="wifi_scan_always_turnon_message">"「%1$s」要求開啟網絡掃瞄功能 (即使 WLAN 已關閉)，以提升定位精確度及用於其他用途。
+
+您要允許所有需要掃瞄的應用程式這項要求嗎？"</string>
+    <string name="wifi_scan_notify_text">為提升位置資訊精確度，應用程式和服務仍可隨時掃瞄 WLAN 網絡 (即使 WLAN 已關閉)。此操作可用來改善適地性功能和服務。您可以前往LINK_BEGIN掃瞄設定LINK_END變更此設定。</string>
+    <string name="wifi_scan_notify_text_scanning_off">為提高定位準確度，請前往「LINK_BEGIN掃瞄設定LINK_END」開啟 WLAN 掃瞄功能。</string>
+    <string name="wifi_scan_throttling">WLAN 掃瞄限流</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">受WLAN CERT保護</string>
+    <string name="wifi_security_verbose_wapi_psk">受WLAN PSK保護</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">選取 WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">休眠狀態仍保持 WLAN 連線</string>
+    <string name="wifi_setting_sleep_policy_title">休眠時繼續連接 WLAN 網絡</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN 設定</string>
+    <string name="wifi_settings_master_switch_title">使用 WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">已開啟 WLAN 掃瞄功能</string>
+    <string name="wifi_settings_scanning_required_info">WLAN 掃瞄功能允許應用程式和服務隨時掃瞄 WLAN 網絡 (即使 WLAN 已關閉)。此功能可用作改善行動定位功能和服務</string>
+    <string name="wifi_settings_scanning_required_summary">您必須先開啟 WLAN 掃瞄功能，才能自動開啟 WLAN。</string>
+    <string name="wifi_settings_scanning_required_title">要開啟 WLAN 掃瞄功能嗎？</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">正在開啟 WLAN...</string>
+    <string name="wifi_stopping">正在關閉 WLAN…</string>
+    <string name="wifi_suspend_optimizations">WLAN 優化</string>
+    <string name="wifi_suspend_optimizations_summary">開啟 WLAN 時盡量節約用電</string>
+    <string name="wifi_switch_away_when_unvalidated">當 WLAN 無法連線至互聯網時，切換至流動數據網絡。</string>
+    <string name="wifi_tether_settings_subtext">設置和管理可攜式WLAN無線基地台</string>
+    <string name="wifi_tether_settings_text">可攜式WLAN無線基地台設定</string>
+    <string name="wifi_tethering_warning_txt">任何進行中的WLAN作業將會中斷，例如媒體傳輸、手機軟件更新、備份和還原。</string>
+    <string name="wifi_turned_on_message">已開啟 WLAN</string>
+    <string name="wifi_verbose_logging">啟用 WLAN 詳細記錄</string>
+    <string name="wifi_verbose_logging_summary">讓 WLAN 記錄功能升級，在 WLAN 選擇器中依每個 SSID RSSI 顯示 WLAN 詳細紀錄</string>
+    <string name="wifi_wakeup">自動開啟 WLAN</string>
+    <string name="wifi_wakeup_summary">附近有已儲存的高品質網絡 (例如家用網絡) 時會開啟 WLAN</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">WLAN 掃瞄功能已關閉，因此無法使用</string>
+    <string name="wifi_wps_category_title">設置WLAN網絡</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN已中斷連接。設定已取消。</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINA模式會調校裝置設定，以節省電池電量。您可以選擇在睡眠模式期間以降低的功能執行的應用程式。(由於大部分的應用程式在睡眠模式期間仍會耗用電力，因此這可協助您節省電池電量。)
+
+針對所選應用程式停用的功能：
+- WLAN
+- 流動數據
+- 計時器
+
+在睡眠模式期間，所有應用程式的通知燈閃爍時都會採用相同色彩和相同頻率。
+
+您控制裝置時，便會撤銷STAMINA模式。"</string>
+</resources>

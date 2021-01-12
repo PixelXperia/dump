@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Eszköze neve látható a telefonján lévő alkalmazások számára. Mások is láthatják, ha csatlakoztatja telefonját más Bluetooth-eszközökhöz, vagy ha WLAN-hotspotot állít be.</string>
+    <string name="accessibility_no_wifi">Nincs WLAN-kapcsolat.</string>
+    <string name="accessibility_wifi_off">WLAN kikapcsolva.</string>
+    <string name="accessibility_wifi_one_bar">WLAN-jel: egy sáv.</string>
+    <string name="accessibility_wifi_signal_full">WLAN-jel: teljes.</string>
+    <string name="accessibility_wifi_three_bars">WLAN-jel: három sáv.</string>
+    <string name="accessibility_wifi_two_bars">WLAN-jel: két sáv.</string>
+    <string name="backup_data_summary">Alkalmazásadatok, WLAN jelszavak és egyéb beállítások mentése a Google szervereire</string>
+    <string name="backup_erase_dialog_message">Kikapcsolja a WLAN-jelszavak, könyvjelzők, egyéb beállítások és alkalmazásadatok biztonsági mentését, illetve törli a Google szerverein lévő összes példányt?</string>
+    <string name="battery_action_wifi">WLAN beállítások</string>
+    <string name="battery_desc_wifi">WLAN által felhasznált energia</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Kapcsolja ki a WLANt, ha nem használja, vagy amikor nincs elérhető hálózat</string>
+    <string name="battery_usm_desc">"Az Ultra STAMINA üzemmód jelentősen meghosszabbítja az akkumulátor üzemidejét. Ne feledje, hogy mivel a WLAN- és a mobilhálózaton keresztüli internetkapcsolat le lesz tiltva, a funkciók, többek között az adatszinkronizálás és a WLAN-hívás nem lesz elérhető. Kezdőképernyője az Ultra STAMINA üzemmód kezdőképernyőjére fog váltani.
+
+Az Ultra STAMINA üzemmódban elérhető alkalmazások"</string>
+    <string name="battery_usm_desc_variable">"Az Ultra STAMINA üzemmód jelentősen meghosszabbítja az akkumulátor üzemidejét. Ne feledje, hogy mivel a WLAN- és a mobilhálózaton keresztüli internetkapcsolat le lesz tiltva, a funkciók, többek között az adatszinkronizálás és a %s nem lesz elérhető. Kezdőképernyője az Ultra STAMINA üzemmód kezdőképernyőjére fog váltan.
+
+Az Ultra STAMINA üzemmódban elérhető alkalmazások"</string>
+    <string name="bluetooth_on_time">WLAN időben</string>
+    <string name="bs_feature_wifi">WLAN kikapcsolva</string>
+    <string name="change_wifi_state_app_detail_summary">A WLAN be- és kikapcsolásának, a WLAN-hálózatok keresésének és a hozzájuk való kapcsolódásnak, hálózatok hozzáadásának és eltávolításának, illetve csak helyi hotspot indításának engedélyezése az alkalmazás számára</string>
+    <string name="change_wifi_state_app_detail_switch">A WLAN vezérlésének engedélyezése az alkalmazás számára</string>
+    <string name="change_wifi_state_title">WLAN-vezérlés</string>
+    <string name="condition_bg_data_summary">A háttéradatok kizárólag WLAN-n keresztül állnak rendelkezésre. Ez hatással lehet bizonyos alkalmazásokra és szolgáltatásokra, amikor nincs rendelkezésre álló WLAN-kapcsolat.</string>
+    <string name="condition_cellular_summary">Az internet csak WLAN-n keresztül használható</string>
+    <string name="connected_via_app">Kapcsolódva a következőn keresztül: %1$s</string>
+    <string name="credential_for_wifi">WLAN-hez telepítve</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN csatlakozt.</string>
+    <string name="cw_network_notification">CT WLAN értesítés eng.</string>
+    <string name="cw_network_priority">"Prioritás: China Telecom WLAN "</string>
+    <string name="cw_network_priority_summary">A kapcsolatban a China Telecom WLAN hálózatai prioritást élveznek a WLAN hálózataival szemben</string>
+    <string name="data_service_except_mms_disabled_warning_txt">Csak WLAN használata esetén tudja a továbbiakban az internetet, az E-mail alkalmazást, valamint az adatkapcsolatot igénylő egyéb alkalmazásokat használni. Kikapcsolja a mobil adatkapcsolatot?</string>
+    <string name="data_traffic_disabled_text">Az adatforgalom le van tiltva, ezért nem sikerült csatlakozni a China Telecom WLAN hálózataihoz. Engedélyezi az adatforgalmat?</string>
+    <string name="data_usage_app_summary_title">Mobiladatok és WLAN</string>
+    <string name="data_usage_disable_wifi_limit">WLAN adatkorlát</string>
+    <string name="data_usage_menu_hide_wifi">WLAN-használat elrejtése</string>
+    <string name="data_usage_menu_show_wifi">WLAN megjelenítése</string>
+    <string name="data_usage_metered_wifi">Forgalomkorlátos WLAN-hálózatok</string>
+    <string name="data_usage_metered_wifi_disabled">Forgalomkorlátos hálózat kiválasztásához kapcsolja be a WLANt.</string>
+    <string name="data_usage_restrict_background">Ha korlátozza a háttérben zajló mobiladat-forgalmat, néhány alkalmazás és szolgáltatás nem fog működni, ha nem csatlakozik WLAN-hálózathoz.</string>
+    <string name="data_usage_restrict_background_multiuser">"Ha korlátozza a háttérben zajló mobiladat-forgalmat, néhány alkalmazás és szolgáltatás nem fog működni, ha nem csatlakozik WLAN-hálózathoz.
+
+Ez a beállítás minden felhasználót érint ezen a telefonon."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 felhasználva WLAN-n</string>
+    <string name="data_usage_wifi_title">WLAN-adatok</string>
+    <string name="dialog_message_hint">"A STAMINA üzemmód magában foglalja a következőket:
+
+• Hosszabbított készenléti mód
+A képernyő kikapcsolásakor a WLAN és a mobilhálózati adatok ideiglenes letiltásával energiát takarít meg. A legtöbb alkalmazás inaktív lesz.
+A képernyő bekapcsolásakor a telefon a szokásos módon működik.
+Ha a Hosszabbított készenléti mód bekapcsolásakor néhány alkalmazást aktív állapotban szeretne tartani, vegye fel őket a KÉSZENLÉTI MÓDBAN AKTÍV ALKALMAZÁSOK listájára.
+
+• Hosszabbított használat
+A hardver teljesítményének korlátozásával energiát takarít meg az eszköz használata során.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Mi az a STAMINA üzemmód?</u>"
+A STAMINA üzemmód a Sony energiatakarékos üzemmódja, amely a képernyő kikapcsolásakor megnöveli az akkumulátor üzemidejét.
+
+"<u>Alapszintű használat</u>"
+A STAMINA üzemmód a képernyőn található gombbal kapcsolható be.
+A képernyő kikapcsolásakor az akkumulátor kímélése végett a WLAN és a mobilhálózati adatok ideiglenesen le lesznek tiltva és a legtöbb alkalmazás inaktív lesz.
+A képernyő bekapcsolásakor a telefon ismét rendeltetésszerűen fog működni.
+
+"<u>Haladó szintű használat</u>"
+Ha a STAMINA üzemmód használatakor néhány alkalmazást aktív állapotban szeretne tartani, vegye fel őket a KÉSZENLÉTI MÓDBAN AKTÍV ALKALMAZÁSOK listájára.
+Ha nem szerepelnek a listán, előfordulhat, hogy az alkalmazások nem működnek megfelelően.
+
+"<u>Megjegyzés</u>"
+Ha egy alkalmazás nem működik megfelelően, vegye fel a KÉSZENLÉTI MÓDBAN AKTÍV ALKALMAZÁSOK listájára, vagy kapcsolja ki a STAMINA üzemmódot."</string>
+    <string name="emergency_address_summary">A WLAN-n keresztül indított segélyhívások esetében megjelenő tartózkodási hely</string>
+    <string name="fullbackup_data_summary">"Eszközadatok (például WLAN-jelszavak és híváslista) és alkalmazásadatok (például az alkalmazások által tárolt beállítások és fájlok) automatikus biztonsági mentése távolról.
+
+Ha bekapcsolja az automatikus biztonsági mentést, akkor a rendszer szabályos időközönként elvégzi eszköz- és alkalmazásadatainak távoli mentését. Alkalmazásadat bármilyen adat lehet, amelyet egy alkalmazás mentett (a fejlesztői beállításoktól függően), beleértve a potenciálisan bizalmas adatokat is (például névjegyek, üzenetek és fotók)."</string>
+    <string name="fullbackup_erase_dialog_message">Kikapcsolja az eszközadatok (például WLAN-jelszavak és híváslista) és alkalmazásadatok (például az alkalmazások által tárolt beállítások és fájlok) automatikus biztonsági mentését, és törli azok összes példányát a távoli szerverekről?</string>
+    <string name="install_wapi_certs">WLAN tanúsítv. telepítése</string>
+    <string name="keywords_hotspot_tethering">USB-s internetmegosztás, bluetooth-os internetmegosztás, WLAN-hotspot</string>
+    <string name="keywords_wifi">WLAN, WLAN, hálózati kapcsolat, internet, vezeték nélküli, adatok, WLAN</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN-értesítés, wifi értesítés</string>
+    <string name="l_dialog_message_hint">"A STAMINA üzemmód magában foglalja az alábbiakat:
+
+• Hosszabbított készenléti mód
+A képernyő kikapcsolásakor a WLAN ideiglenes letiltásával energiát takarít meg. A legtöbb alkalmazás inaktív lesz.
+A képernyő bekapcsolásakor a készülék a szokásos módon működik.
+Ha a Hosszabbított készenléti mód bekapcsolásakor néhány alkalmazást aktív állapotban szeretne tartani, vegye fel őket a Készenléti módban aktív alkalmazások listájára.
+
+• Hosszabbított használat
+A hardver teljesítményének korlátozásával energiát takarít meg a készülék használata során."</string>
+    <string name="location_based_wifi">Helyalapú WLAN</string>
+    <string name="location_neighborhood_level_wifi">Helymeghatározás WLAN-vel</string>
+    <string name="location_network_based">Hely WLAN és mobilhálózat alapján</string>
+    <string name="location_scanning_screen_title">WLAN- és Bluetooth-alapú keresés</string>
+    <string name="location_scanning_wifi_always_scanning_description">Engedélyezi az alkalmazásoknak és szolgáltatásoknak, hogy WLAN-hálózatokat keressenek még akkor is, ha ki van kapcsolva a WLAN. Ez például a helyalapú funkciók és szolgáltatások javítására használható.</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN-keresés</string>
+    <string name="lost_internet_access_cancel">Maradjon a WLAN-hálózaton</string>
+    <string name="lost_internet_access_text">Ha gyenge a WLAN-kapcsolat, bármikor átválthat mobilhálózatra. A szolgáltató adatforgalmi díjat számíthat fel.</string>
+    <string name="lost_internet_access_title">A WLAN-hálózat nem kapcsolódik az internethez</string>
+    <string name="mobile_data_always_on_summary">A mobiladat-kapcsolat mindig maradjon aktív, még akkor is, ha a WLAN aktív (a gyors hálózatváltás érdekében).</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN-kezelő módosítása?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Jelenlegi WLAN hálózata megosztásához a beállítások közt jelölje be a \"WLAN-adatok megosztása\" jelölőnégyzetet.</string>
+    <string name="nfc_wifi_share_checkbox">WLAN-adatok megosztása</string>
+    <string name="nfc_wifi_share_title_txt">WLAN-adatok megosztása</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Autom. kapcsolódás az üzemeltető WLAN csatlakozási pontjához</string>
+    <string name="operator_auto_connect_hotspot_txt">Aut. kapcs.: üzem. WLAN</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">Csak WLAN használata esetén tudja a továbbiakban az internetet, az E-mail alkalmazást, valamint az adatkapcsolatot igénylő egyéb alkalmazásokat használni. Kikapcsolja a mobil adatkapcsolatot?</string>
+    <string name="powersaver_feature_wifi">WLAN kikapcsolva</string>
+    <string name="radio_controls_summary">A WLAN, a Bluetooth, a repülési üzemmód, a mobilhálózatok és a VPN-ek kezelése</string>
+    <string name="radio_info_ims_reg_status">"IMS-regisztráció: %1$s
+Hanghívás LTE-adatkapcsolaton keresztül: %2$s
+Hanghívás WLAN-kapcsolaton keresztül: %3$s
+Videohívás: %4$s
+UT-felület: %5$s"</string>
+    <string name="reset_network_desc">"Az összes hálózati beállítást visszaállítja, például a következőket:
+
+"<li>WLAN</li>"
+"<li>Mobiladat</li>"
+"<li>Bluetooth</li></string>
+    <string name="restriction_wifi_config_summary">Lehetővé teszi a WLAN és mobilbeállítások módosítását.</string>
+    <string name="restriction_wifi_config_title">WLAN és mobil</string>
+    <string name="scanning_status_text_wifi_off_ble_off">A WLAN- és a Bluetooth-alapú keresés is ki van kapcsolva</string>
+    <string name="scanning_status_text_wifi_off_ble_on">A Bluetooth-alapú keresés be van kapcsolva, a WLAN-alapú keresés nincs bekapcsolva</string>
+    <string name="scanning_status_text_wifi_on_ble_off">A WLAN-keresés be van kapcsolva, a Bluetooth-alapú keresés nincs bekapcsolva</string>
+    <string name="scanning_status_text_wifi_on_ble_on">A WLAN- és a Bluetooth-alapú keresés is be van kapcsolva</string>
+    <string name="somc_backup_failed_no_wifi_summary">Várakozás WLAN kapcsolatra</string>
+    <string name="somc_wifi_turned_on_info">A WLAN be van kapcsolva. Válassza ki a hálózatot a listából.</string>
+    <string name="stamina_xssm_summary">Mobilhálózati adatok és WLAN letiltása a képernyő kikapcsolásakor</string>
+    <string name="status_wifi_mac_address">WLAN MAC-címe</string>
+    <string name="tethering_no_sim_warning_txt">Helyezze be a SIM kártyát, hogy megoszthassa adatkapcsolatát más készülékekkel mobil WLAN csatlakozási pont vagy USB internetmegosztás segítségével.</string>
+    <string name="usage_type_data_wifi_recv">Fogadott WLAN-adatok</string>
+    <string name="usage_type_data_wifi_send">Elküldött WLAN-adatok</string>
+    <string name="usage_type_wifi_running">WLAN használat</string>
+    <string name="user_add_user_message_long">"További felhasználók létrehozásával megoszthatja ezt az eszközt másokkal. Minden felhasználó saját felülettel rendelkezik, amelyet személyre szabhat saját alkalmazásaival, háttérképével stb. A felhasználók módosíthatják az eszköz beállításait is, például a WLAN használatát, amely mindenkit érint.
+
+Ha új felhasználót ad hozzá, az illetőnek be kell állítania saját felületét.
+
+Bármely felhasználó frissítheti az alkalmazásokat valamennyi felhasználó számára. Előfordulhat, hogy a kisegítő lehetőségekkel kapcsolatos beállításokat és szolgáltatásokat nem viszi át a rendszer az új felhasználóhoz."</string>
+    <string name="usm_descr">"Az Ultra STAMINA üzemmód jelentősen megnöveli az akkumulátor üzemidejét. Akkor érdemes használni, amikor hosszú ideig nem tudja tölteni a készüléket.
+
+Csak néhány funkció, például a Telefon és az Üzenetek érhető el. Részletekért koppintson a További információ gombra.
+
+Vegye figyelembe, hogy a WLAN hálózaton keresztüli internetkapcsolat és a mobiladatok le lesznek tiltva."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Segélyhívások nem lehetségesek WLAN kapcsolaton keresztüli híváson.
+Segélyhívás indításához a készülék automatikusan mobilhálózatra (2G/3G) vált.
+Segélyhívások csak mobilhálózati lefedettséggel rendelkező területeken lehetségesek."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">Segélyhívások WLAN kapcsolaton keresztül</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone WLAN hívás</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"A WLAN-hívás bekapcsolásához be kell kapcsolnia a Tartózkodási hely funkciót, és a Nagyon pontos vagy az Energiatakarékos üzemmódot kell választania.
+
+Ügyeljen arra, hogy a WLAN-hívás során a Tartózkodási hely be legyen kapcsolva."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Segélyhívások nem lehetségesek WLAN kapcsolaton keresztüli híváson.
+Segélyhívás indításához a készülék automatikusan mobilhálózatra (2G/3G) vált.
+Segélyhívások csak mobilhálózati lefedettséggel rendelkező területeken lehetségesek."</string>
+    <string name="wfc_location_info_dialog_desc_txt">A helyszínnel kapcsolatos információk attól függetlenül elküldhetők a Google és a szolgáltatója számára a WLAN-hívások létrehozásához, hogy a Helyszín beállítás engedélyezve van-e.</string>
+    <string name="wfc_provisioned_switch_string">WLAN-hívás beütemezve</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN hálózatok</string>
+    <string name="wifi_advanced_not_available">A speciális WLAN-beállítások nem állnak rendelkezésre ennél a felhasználónál</string>
+    <string name="wifi_advanced_settings_label">WLAN-beállítások</string>
+    <string name="wifi_advanced_titlebar">Speciális WLAN-beállítások</string>
+    <string name="wifi_ap_band_select_one">Válasszon legalább egy sávot a WLAN-hotspot számára:</string>
+    <string name="wifi_ask_disable">A(z) %s szeretné kikapcsolni a WLANt</string>
+    <string name="wifi_ask_enable">A(z) %s szeretné bekapcsolni a WLANt</string>
+    <string name="wifi_auto_network_switch_setting_msg">Automatikus váltás előnyben részesített hálózatra, amikor WLAN és mobilhálózat is rendelkezésre áll</string>
+    <string name="wifi_calling_link_to_register_emergency_address">Ide kattintva regisztrálhat a WLAN-hívásra, vagy frissítheti meglévő segélyhívási helyét</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">WLAN használata, ha nem áll rendelkezésre mobilhálózat</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Hívás WLAN-n. Ha a WLAN kapcsolat megszűnik, a hívás véget ér.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Mobilhálózat használata, ha nem áll rendelkezésre WLAN-hálózat</string>
+    <string name="wifi_calling_not_supported">A WLAN-hívások nem támogatottak a következőnél: %1$s</string>
+    <string name="wifi_calling_off_explanation">"WLAN hívás használatával javíthatja a hívás minőségét az olyan helyeken, ahol gyenge a mobilhálózat térereje.
+
+Költség
+A WLAN hívás díjával kapcsolatban érdeklődjön a szolgáltatónál.
+
+Megjegyzések a WLAN hívással kapcsolatban
+Ha nem szeretné, hogy megszakadjon a WLAN hívás, maradjon a WLAN hatósugarában."</string>
+    <string name="wifi_calling_on_dialog_text">WLAN-hívás használatához a mobil adatkapcsolathoz előnyben részesített SIM-kártyát állítsa 1. SIM-kártya értékre</string>
+    <string name="wifi_calling_settings_activation_instructions">Aktiválja a WLAN-hívást</string>
+    <string name="wifi_calling_settings_title">WLAN-hívás</string>
+    <string name="wifi_calling_suggestion_summary">Kapcsolja be a WLAN-hívást a lefedettség növeléséhez</string>
+    <string name="wifi_calling_suggestion_title">Hívások kiterjesztése WLAN segítségével</string>
+    <string name="wifi_calling_summary">WLAN használata a hívásokhoz a minőség javítása érdekében</string>
+    <string name="wifi_calling_turn_on">Kapcsolja be a WLAN-hívásokat</string>
+    <string name="wifi_carrier_connect">Szolgáltatói WLAN-hálózat</string>
+    <string name="wifi_cellular_data_fallback_summary">Mobilhálózat használata, ha nincs WLAN-kapcsolat. A szolgáltató adatforgalmi díjat számíthat fel.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">A WLAN nem kapcsol be újra automatikusan</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">A WLAN automatikusan újra bekapcsol</string>
+    <string name="wifi_configure_settings_preference_title">WLAN-beállítások</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN tanúsítvány módosítása</string>
+    <string name="wifi_data_template">Adatforgalom WLAN-hálózaton: ^1</string>
+    <string name="wifi_data_usage">Adathasználat – WLAN</string>
+    <string name="wifi_disabled_wifi_failure">WLAN-kapcsolati hiba</string>
+    <string name="wifi_dpp_add_device_to_wifi">Hozzáadja ezt az eszközt a(z) „%1$s” hálózathoz?</string>
+    <string name="wifi_dpp_center_qr_code">Irányítsa a QR-kódot az alábbi panel közepéhez az eszköznek a következőhöz való hozzáadásához: %1$s</string>
+    <string name="wifi_dpp_failure_not_supported">A(z) „%1$s” hozzáadása nem támogatott ennél az eszköznél</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">A(z) „%1$s” hálózathoz való csatlakozás érdekében olvassa be ezt a QR-kódot</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Irányítsa a QR-kódot az alábbi panel közepéhez a következőhöz való csatlakozáshoz: %1$s</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Csatlakozzon WLAN-hálózathoz QR-kód beolvasásával</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">A(z) „%1$s” hálózathoz való csatlakozás érdekében olvassa be ezt a QR-kódot, és ossza meg a jelszót</string>
+    <string name="wifi_dpp_share_wifi">WLAN megosztása</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">WLAN megosztása ezzel az eszközzel…</string>
+    <string name="wifi_dpp_wifi_password">WLAN-jelszó: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">Sikerült a WLAN megosztása az eszközzel</string>
+    <string name="wifi_empty_list_user_restricted">Nincs jogosultsága a WLAN hálózat módosítására.</string>
+    <string name="wifi_empty_list_wifi_off">Kapcsolja be a WLANt a hálózatok megjelenítéséhez</string>
+    <string name="wifi_empty_list_wifi_on">WLAN hálózatok keresése...</string>
+    <string name="wifi_hotspot_auto_off_summary">A WLAN-hotspot kikapcsol, ha nincsenek csatlakoztatott eszközök</string>
+    <string name="wifi_hotspot_auto_off_title">WLAN-hotspot automatikus kikapcsolása</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN-hotspot beállítása</string>
+    <string name="wifi_hotspot_footer_info_regular">Hotspot használatával hozzon létre WLAN-hálózatot további eszközei számára. A hotspot internetet biztosít mobiladat-kapcsolata használatával. A szolgáltató további díjat számíthat fel.</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Automatikus csatlakozás Passpoint hálózatokhoz, amikor a WLAN be van kapcsolva</string>
+    <string name="wifi_limit_optimizations_summary">WLAN akkuhasználat korlátozása</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN időben</string>
+    <string name="wifi_p2p_settings">WLAN Direct beállításai</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Csak akkor használjon WLAN-hálózatot, ha jó internetkapcsolatot tud biztosítani</string>
+    <string name="wifi_quick_toggle_summary">WLAN bekapcsolása</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"A helymeghatározás javítása és egyebek érdekében egy ismeretlen alkalmazás engedélyezni akarja a hálózatkeresést kikapcsolt WLAN mellett is.
+
+Engedélyezi minden alkalmazásnál, amely keresni szeretne?"</string>
+    <string name="wifi_scan_always_turnon_message">"A helymeghatározás pontosságának javítása és egyéb célok érdekében a(z) %1$s szeretné engedélyezni a hálózatkeresést még kikapcsolt WLAN mellett is.
+
+Engedélyezi ezt az összes olyan alkalmazásnál, amely keresést akar végezni?"</string>
+    <string name="wifi_scan_notify_text">A pontosabb helyadatok érdekében az alkalmazások és a szolgáltatások továbbra is kereshetnek WLAN-hálózatokat még akkor is, ha a WLAN ki van kapcsolva. Ez például a helyalapú funkciók és szolgáltatások javítására használható. Ezt a LINK_BEGINkeresési beállításoknálLINK_END módosíthatja.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Pontosabb helyadatok érdekében kapcsolja be a WLAN-alapú keresést a LINK_BEGINkeresési beállításokbanLINK_END.</string>
+    <string name="wifi_scan_throttling">WLAN-hálózat szabályozása</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT-védelemmel ellátva</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK-védelemmel ellátva</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">WLAN-hálózat kiválasztása</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN bekapcsolva alvó módban</string>
+    <string name="wifi_setting_sleep_policy_title">Tartsa bekapcsolva a WLANt alvó üzemmódban</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN beállítások</string>
+    <string name="wifi_settings_master_switch_title">WLAN használata</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN-keresés bekapcsolva</string>
+    <string name="wifi_settings_scanning_required_info">A WLAN-keresés engedélyezi az alkalmazásoknak és szolgáltatásoknak, hogy WLAN-hálózatokat keressenek még akkor is, ha ki van kapcsolva a WLAN. Ez például a helyalapú funkciók és szolgáltatások hatékonyságának javítására használható.</string>
+    <string name="wifi_settings_scanning_required_summary">A WLAN automatikus bekapcsolásához előbb engedélyeznie kell a WLAN-keresést.</string>
+    <string name="wifi_settings_scanning_required_title">Bekapcsolja a WLAN-keresést?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Bekapcsolja a WLANt?</string>
+    <string name="wifi_stopping">WLAN kikapcsolása...</string>
+    <string name="wifi_suspend_optimizations">WLAN optimalizálása</string>
+    <string name="wifi_suspend_optimizations_summary">Az akkumulátorhasználat minimalizálása, ha a WLAN be van kapcsolva</string>
+    <string name="wifi_switch_away_when_unvalidated">Váltás mobiladat-kapcsolatra, ha megszakad a WLAN-kapcsolat.</string>
+    <string name="wifi_tether_settings_subtext">Hordozható WLAN csatlakozási pont beállítása és kezelése</string>
+    <string name="wifi_tether_settings_text">Hord. WLAN csatlakozási pont beállításai</string>
+    <string name="wifi_tethering_warning_txt">Megszakadnak a folyamatban lévő WLAN-műveletek, többek között a médiaátvitel, a telefon szoftverének frissítése, a biztonsági mentés vagy a visszaállítás.</string>
+    <string name="wifi_turned_on_message">WLAN bekapcsolva</string>
+    <string name="wifi_verbose_logging">Részletes WLAN-naplózás engedélyezése</string>
+    <string name="wifi_verbose_logging_summary">WLAN-naplózási szint növelése, RSSI/SSID megjelenítése a WLAN-választóban</string>
+    <string name="wifi_wakeup">WLAN automatikus bekapcsolása</string>
+    <string name="wifi_wakeup_summary">A WLAN újra bekapcsol jó minőségű mentett hálózatok (például az otthoni hálózat) közelében</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Nem használható, mert a WLAN-keresés ki van kapcsolva</string>
+    <string name="wifi_wps_category_title">WLAN hálózat beállítása</string>
+    <string name="wps_strings_wifi_disconnected_txt">A WLAN kapcsolat bontva. A beállítás megszakadt.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"A STAMINA üzemmód a készülék beállításainak módosításával energiát takarít meg. Kiválaszthatja az alvó módban csökkentett funkciókkal futtatandó alkalmazásokat. (Mivel az alkalmazások többsége még alvó módban is meríti az akkumulátort, ily módon kímélheti azt.)
+
+A kijelölt alkalmazások esetén letiltott funkciók:
+- WLAN
+- Mobiladatok
+- Időzítő
+
+Alvó módban a jelzőfény azonos frekvencián ugyanolyan színnel világít az összes alkalmazás esetén.
+
+A készülék vezérlésekor a STAMINA üzemmód kikapcsol."</string>
+</resources>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">‏آپ کے آلہ کا نام آپ کے فون پر موجود ایپس میں مرئی ہوتا ہے۔ جب آپ بلوٹوتھ آلات سے منسلک ہوتے ہیں یا WLAN ہاٹ اسپاٹ سیٹ اپ کرتے ہیں تو دوسرے لوگ بھی اسے دیکھ سکتے ہیں۔</string>
+    <string name="accessibility_no_wifi">‏WLAN غیر منسلک ہو گیا۔</string>
+    <string name="accessibility_wifi_off">‏WLAN آف ہے۔</string>
+    <string name="accessibility_wifi_one_bar">‏WLAN ایک بار۔</string>
+    <string name="accessibility_wifi_signal_full">‏WLAN سگنل پورا ہے۔</string>
+    <string name="accessibility_wifi_three_bars">‏WLAN تین بارز۔</string>
+    <string name="accessibility_wifi_two_bars">‏WLAN دو بارز۔</string>
+    <string name="backup_data_summary">‏ایپ ڈیٹا، WLAN پاس ورڈز اور دیگر ترتیبات کا Google سرورز پر بیک اپ لیں</string>
+    <string name="backup_erase_dialog_message">‏اپنے WLAN پاس ورڈز، بُک مارکس، دوسری ترتیبات اور ایپ کے ڈیٹا کا بیک اپ لینا بند کریں، ساتھ ہی Google سرورز پر موجود سبھی کاپیاں حذف کریں۔</string>
+    <string name="battery_action_wifi">‏WLAN کی ترتیبات</string>
+    <string name="battery_desc_wifi">‏WLAN کے ذریعہ استعمال کی گئی بیٹری</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">‏جب WLAN کا استعمال نہیں کر رہے ہوں یا جب یہ غیر دستیاب ہو تو اسے آف کریں</string>
+    <string name="bluetooth_on_time">‏وقت پر WLAN</string>
+    <string name="change_wifi_state_app_detail_summary">‏اس ایپ کو WLAN آن یا آف کرنے، WLAN نیٹ ورکس اسکین کرنے اور ان سے منسلک کرنے، نیٹ ورکس شامل کرنے یا ہٹانے یا صرف مقامی ہاٹ اسپاٹ شروع کرنے کی اجازت دیں</string>
+    <string name="change_wifi_state_app_detail_switch">‏ایپ کو WLAN کنٹرول کرنے کی اجازت دیں</string>
+    <string name="change_wifi_state_title">‏WLAN کنٹرول</string>
+    <string name="condition_cellular_summary">‏انٹرنیٹ صرف WLAN کے ذریعے دستیاب ہے</string>
+    <string name="connected_via_app">%1$s کے ذریعے منسلک</string>
+    <string name="credential_for_wifi">‏WLAN کیلئے انسٹال کردہ</string>
+    <string name="data_usage_app_summary_title">‏موبائل ڈیٹا اور WLAN</string>
+    <string name="data_usage_disable_wifi_limit">‏WLAN ڈیٹا کی حد سیٹ کریں</string>
+    <string name="data_usage_menu_hide_wifi">‏WLAN کو چھپائیں</string>
+    <string name="data_usage_menu_show_wifi">‏WLAN دکھائیں</string>
+    <string name="data_usage_metered_wifi">‏میٹرڈ WLAN نیٹ ورکس</string>
+    <string name="data_usage_metered_wifi_disabled">‏میٹرڈ نیٹ ورکس منتخب کرنے کیلئے، WLAN کو آن کریں۔</string>
+    <string name="data_usage_restrict_background">‏اگر آپ پس منظر کا موبائل ڈیٹا محدود کرتے ہیں تو کچھ ایپس اور سروسز اس وقت تک کام نہیں کریں گی جب تک آپ WLAN سے منسلک نہ ہوں۔</string>
+    <string name="data_usage_restrict_background_multiuser">"‏اگر آپ پس منظر کا موبائل ڈیٹا محدود کرتے ہیں تو کچھ ایپس اور سروسز اس وقت تک کام نہیں کریں گی جب تک آپ WLAN سے منسلک نہ ہوں۔
+
+یہ ترتیب اس فون پر موجود سبھی صارفین کو متاثر کرتی ہے۔"</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">‏WLAN پر ^1 استعمال ہوا</string>
+    <string name="data_usage_wifi_title">‏WLAN ڈیٹا</string>
+    <string name="emergency_address_summary">‏جب آپ WLAN سے ہنگامی کال کرتے ہیں، تو آپ کے مقام کے طور پر استعمال ہوتا ہے</string>
+    <string name="fullbackup_data_summary">"‏خودکار طریقے سے دور سے آلہ کے ڈیٹا (جیسے کہ WLAN پاس ورڈز اور کال کی سرگزشت) اور ایپ ڈیٹا (جیسے کہ ایپس کی جانب سے اسٹور کردہ ترتیبات اور فائلز) کا بیک اپ لیں۔
+
+جب آپ خودکار بیک اپ آن کرتے ہیں تو آلہ اور ایپ کا ڈیٹا وقفہ وقفہ پر دور سے محفوظ کیا جاتا ہے۔ ممکنہ طور پر حساس ڈیٹا مثلاً رابطے، پیغامات اور تصاویر سمیت ایپ ڈیٹا کوئی بھی ایسا ڈیٹا ہو سکتا ہے جسے کسی ایپ نے (ڈیولپر ترتیبات کی بنیاد پر) محفوظ کیا ہو۔"</string>
+    <string name="fullbackup_erase_dialog_message">‏آلہ کے ڈیٹا (جیسے کہ WLAN پاس ورڈز اور کال کی سرگزشت) اور ایپ ڈیٹا (جیسے کہ ایپس کی جانب سے اسٹور کردہ ترتیبات اور فائلز) کا بیک اپ لینا بند کریں، نیز ریموٹ سرورز پر موجود سبھی کاپیاں مٹائیں؟</string>
+    <string name="keywords_wifi_calling">‏WLAN، ‏WLAN، کال، کال کرنا</string>
+    <string name="keywords_wifi_notify_open_networks">‏WLAN کی اطلاع، wifi کی اطلاع</string>
+    <string name="location_neighborhood_level_wifi">‏WLAN کے ذریعہ مقام کا تعین کیا گیا</string>
+    <string name="location_network_based">‏WLAN اور‎ موبائل نیٹ ورک مقام</string>
+    <string name="location_scanning_screen_title">‏WLAN اور بلوٹوتھ اسکیننگ</string>
+    <string name="location_scanning_wifi_always_scanning_description">‏WLAN کے آف ہونے پر بھی ایپس اور سروسز کو کسی بھی وقت WLAN نیٹ ورکس اسکین کرنے کی اجازت دیں۔ مثال کے طور، اسے مقام پر مبنی خصوصیات اور سروسز کو بہتر بنانے کے لیے استعمال کیا جا سکتا ہے۔</string>
+    <string name="location_scanning_wifi_always_scanning_title">‏WLAN اسکیننگ</string>
+    <string name="lost_internet_access_cancel">‏WLAN پر رہیں</string>
+    <string name="lost_internet_access_text">‏جب بھی WLAN کنکشن خراب ہو آپ موبائل نیٹ ورک پر سوئچ کر سکتے ہیں۔ ڈیٹا کے استعمال کے چارجز کا اطلاق ہو سکتا ہے۔</string>
+    <string name="lost_internet_access_title">‏WLAN انٹرنیٹ سے منسلک نہیں ہے</string>
+    <string name="mobile_data_always_on_summary">‏WLAN فعال ہونے پر بھی موبائل ڈیٹا کو ہمیشہ فعال رکھیں (تیزی سے نیٹ ورک سوئچ کرنے کیلئے)۔</string>
+    <string name="network_scorer_change_active_dialog_title">‏WLAN اسسٹنٹ تبدیل کریں؟</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_controls_summary">‏WLAN، بلوٹوتھ، ہوائی جہاز وضع، موبائل نیٹ ورکس اور VPNs کا نظم کریں</string>
+    <string name="radio_info_ims_reg_status">"‏IMS رجسٹریشن: %1$s
+وائس اوور LTE‏: %2$s
+‎وائس اوور WLAN‏: %3$s
+‎ویڈیو کالنگ: %4$s
+UT انٹرفیس: %5$s"</string>
+    <string name="reset_network_desc">"‏اس سے نیٹ ورک کی سبھی ترتیبات ری سیٹ ہو جائیں گی، بشمول:
+
+"<li>WLAN</li>"
+"<li>موبائل ڈیٹا</li>"
+"<li>بلوٹوتھ</li></string>
+    <string name="reset_network_title">‏WLAN، موبائل اور بلوٹوتھ ری سیٹ کریں</string>
+    <string name="restriction_wifi_config_summary">‏WLAN اور موبائل ترتیبات میں ترمیم کی اجازت دیں</string>
+    <string name="restriction_wifi_config_title">‏WLAN اور موبائل</string>
+    <string name="scanning_status_text_wifi_off_ble_off">‏WLAN اور بلوٹوتھ دونوں کی اسکیننگ آف ہیں</string>
+    <string name="scanning_status_text_wifi_off_ble_on">‏بلوٹوتھ اسکیننگ آن ہے، WLAN اسکیننگ آف ہے</string>
+    <string name="scanning_status_text_wifi_on_ble_off">‏WLAN اسکیننگ آن ہے، بلوٹوتھ اسکیننگ آف ہے</string>
+    <string name="scanning_status_text_wifi_on_ble_on">‏WLAN اور بلوٹوتھ اسکیننگ دونوں آن ہیں</string>
+    <string name="status_wifi_mac_address">‏WLAN MAC پتہ</string>
+    <string name="usage_type_data_wifi_recv">‏موصولہ WLAN پیکٹس</string>
+    <string name="usage_type_data_wifi_send">‏بھیجے گئے WLAN پیکٹس</string>
+    <string name="usage_type_wifi_running">‏WLAN چل رہا ہے</string>
+    <string name="user_add_user_message_long">"‏آپ اضافی صارفین تخلیق کر کے دوسرے لوگوں کے ساتھ اس آلہ کا اشتراک کر سکتے ہیں۔ ہر صارف کے پاس اپنی جگہ ہوتی ہے، جسے وہ ایپس، وال پیپر وغیرہ کے ساتھ حسب ضرورت بنا سکتا ہے۔ صارفین WLAN جیسی آلے کی ترتیبات کو ایڈجسٹ بھی کر سکتے ہیں جس کا اثر ہر کسی پر ہوتا ہے۔
+
+جب آپ ایک نیا صارف شامل کرتے ہیں، تو اسے اپنی جگہ سیٹ اپ کرنا پڑتی ہے۔
+
+کوئی بھی صارف دیگر تمام صارفین کیلئے ایپس اپ ڈیٹ کر سکتا ہے۔ رسائی کی ترتیبات اور سروسز کو نئے صارف کو منتقل نہیں کیا جا سکتا۔"</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"‏آپ کے کیریئر کی جانب سے WLAN پر ہنگامی کالز تعاون یافتہ نہیں ہیں۔
+ہنگامی کال کرنے کے لیے آلہ خود کار طور پر سیلولر نیٹ ورک پر سوئچ ہو جاتا ہے۔
+ہنگامی کالز صرف سیلولر کوریج والے علاقے میں ممکن ہیں۔"</string>
+    <string name="wfc_provisioned_switch_string">‏WLAN کالنگ فراہم کردہ</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">‏WLAN نیٹ ورکس</string>
+    <string name="wifi_advanced_not_available">‏اس صارف کیلئے WLAN کی اعلی ترتیبات دستیاب نہیں ہیں</string>
+    <string name="wifi_advanced_settings_label">‏IP ترتیبات</string>
+    <string name="wifi_advanced_titlebar">‏جدید WLAN</string>
+    <string name="wifi_ap_band_select_one">‏WLAN ہاٹ اسپاٹ کیلئے کم از کم ایک بینڈ منتخب کریں:</string>
+    <string name="wifi_ask_disable">‏%s WLAN کو آف کرنا چاہتی ہے</string>
+    <string name="wifi_ask_enable">‏%s WLAN کو آن کرنا چاہتی ہے</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">‏اگر موبائل نیٹ ورک دستیاب نہ ہو تو WLAN استعمال کریں</string>
+    <string name="wifi_calling_mode_wifi_only_summary">‏WLAN پر کال کریں۔ اگر WLAN منقطع ہو جاتا ہے تو کال ختم ہو جائے گی۔</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">‏اگر WLAN دستیاب نہیں ہے تو موبائل نیٹ ورک استعمال کریں</string>
+    <string name="wifi_calling_not_supported">‏WLAN کالنگ ‎%1$s کیلئے دستیاب نہیں ہے</string>
+    <string name="wifi_calling_off_explanation">‏WLAN کالنگ آن ہونے پر، آپ کا فون آپ کی ترجیح اور زیادہ مضبوط سگنل کی بنیاد پر کالز کو WLAN یا آپ کے کیریئر نیٹ ورک کے ذریعہ روٹ کر سکتا ہے۔ اس خصوصیت کو آن کرنے سے پہلے، فیس اور دیگر تفصیلات کے لیے اپنے کیریئر سے رابطہ کریں۔%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">‏WLAN کالنگ فعال کریں</string>
+    <string name="wifi_calling_settings_title">‏WLAN کالنگ</string>
+    <string name="wifi_calling_suggestion_summary">‏کوریج کی توسیع کرنے کیلئے WLAN کالنگ آن کریں</string>
+    <string name="wifi_calling_suggestion_title">‏WLAN کے ساتھ کالز کی توسیع کریں</string>
+    <string name="wifi_calling_summary">‏معیار کو بہتر بنانے کے لیے کالز کے لیے WLAN کا استعمال کریں</string>
+    <string name="wifi_calling_turn_on">‏WLAN کالنگ آن کریں</string>
+    <string name="wifi_carrier_connect">‏کیریئر WLAN نیٹ ورک</string>
+    <string name="wifi_cellular_data_fallback_summary">‏WLAN پر انٹرنیٹ رسائی نہ ہونے کی صورت میں موبائل ڈیٹا استعمال کریں۔ ڈیٹا کے استعمال کے چارجز عائد ہو سکتے ہیں۔</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">‏WLAN خود کار طور پر واپس آن نہیں ہوگا</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">‏WLAN خود کار طور پر واپس آن ہوگا</string>
+    <string name="wifi_configure_settings_preference_title">‏WLAN کی ترجیحات</string>
+    <string name="wifi_data_template">‏^1 WLAN ڈیٹا</string>
+    <string name="wifi_data_usage">‏WLAN ڈیٹا کا استعمال</string>
+    <string name="wifi_disabled_wifi_failure">‏WLAN کنکشن کی ناکامی</string>
+    <string name="wifi_dpp_add_device_to_wifi">کیا اس آلہ کو \"%1$s\" سے منسلک کریں؟</string>
+    <string name="wifi_dpp_center_qr_code">‏آلہ کو \"%1$s\" سے منسلک کرنے کے لیے مندرجہ ذیل QR کوڈ کو مرکز میں رکھیں</string>
+    <string name="wifi_dpp_failure_not_supported">%1$s کو شامل کرنا اس آلہ میں سپورٹ شدہ نہیں ہے</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">‏”%1$s“ سے منسلک ہونے کے لیے یہ QR کوڈ اسکین کریں</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">‏\"%1$s\" سے منسلک کرنے کے لیے مندرجہ ذیل QR کوڈ کو مرکز میں رکھیں</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">‏QR کوڈ اسکین کر کے WLAN میں شامل ہوں</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">‏”%1$s“ سے منسلک ہونے کے لیے اس QR کوڈ کو اسکین کریں اور پاس ورڈ کا اشتراک کریں</string>
+    <string name="wifi_dpp_share_wifi">‏WLAN کا اشتراک کریں</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">‏اس آلہ کے ساتھ WLAN کا اشتراک کیا جا رہا ہے…</string>
+    <string name="wifi_dpp_wifi_password">‏WLAN کا پاس ورڈ: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">‏آلہ کے ساتھ اشتراک کردہ WLAN</string>
+    <string name="wifi_empty_list_user_restricted">‏آپ کے پاس WLAN نیٹ ورک تبدیل کرنے کی اجازت نہیں ہے۔</string>
+    <string name="wifi_empty_list_wifi_off">‏دستیاب نیٹ ورکس کو دیکھنے کیلئے، WLAN آن کریں۔</string>
+    <string name="wifi_empty_list_wifi_on">‏WLAN نیٹ ورکس کی تلاش کر رہا ہے…</string>
+    <string name="wifi_hotspot_auto_off_summary">‏کوئی آلہ منسلک نہ ہونے پر WLAN ہاٹ اسپاٹ آف ہو جائے گا</string>
+    <string name="wifi_hotspot_checkbox_text">‏WLAN ہاٹ اسپاٹ</string>
+    <string name="wifi_hotspot_configure_ap_text">‏WLAN ہاٹ اسپاٹ سیٹ اپ</string>
+    <string name="wifi_hotspot_footer_info_regular">‏اپنے دیگر آلات کیلئے WLAN نیٹ ورک بنانے کی خاطر ہاٹ اسپاٹ کا استعمال کریں۔ ہاٹ اسپاٹ آپ کے موبائل ڈیٹا کنکشن کا استعمال کر کے انٹرنیٹ فراہم کرتا ہے۔ اضافی موبائل ڈیٹا کے چارجز عائد ہو سکتے ہیں۔</string>
+    <string name="wifi_limit_optimizations_summary">‏WLAN کے ذریعے مستعمل بیٹری محدود کریں</string>
+    <string name="wifi_menu_p2p">‏WLAN ڈائریکٹ</string>
+    <string name="wifi_on_time">‏وقت پر WLAN</string>
+    <string name="wifi_p2p_settings_title">‏WLAN ڈائریکٹ</string>
+    <string name="wifi_poor_network_detection_summary">‏WLAN نیٹ ورک کا تب تک استعمال نہ کریں جب تک ایک اچھا انٹرنیٹ کنکشن موجود نہ ہو</string>
+    <string name="wifi_quick_toggle_summary">‏WLAN آن کریں</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"‏مقام کی درستگی کو بہتر بنانے اور دیگر مقاصد کے لیے، ایک نامعلوم ایپ WLAN بند ہونے پر بھی نیٹ ورک اسکیننگ کو آن کرنا چاہتی ہے۔
+
+اسکین کرنے کی خواہاں سبھی ایپس کے لیے اس کی اجازت دیں؟"</string>
+    <string name="wifi_scan_always_turnon_message">"‏مقام کی قطعیت کو بہتر بنانے اور دوسرے مقاصد کیلئے، %1$s WLAN بند ہونے پر بھی نیٹ ورک اسکیننگ آن کرنا چاہتی ہے۔
+
+اسکین کرنے کی خواہاں سبھی ایپس کیلئے اس کی اجازت دیں؟"</string>
+    <string name="wifi_scan_notify_text">‏مقام کی درستگی کو بہتر بنانے کے لیے، WLAN کے آف ہونے پر بھی ایپس اور سروسز کسی بھی وقت WLAN نیٹ ورکس اسکین کر سکتی ہیں۔ مثال کے طور، اسے مقام پر مبنی خصوصیات اور سروسز کو بہتر بنانے کے لیے استعمال کیا جا سکتا ہے۔ آپ اسے LINK_BEGINاسکین کی ترتیباتLINK_END میں تبدیل کر سکتے ہیں۔</string>
+    <string name="wifi_scan_notify_text_scanning_off">‏مقام کی درستگی کو بہتر بنانے کیلئے، LINK_BEGINاسکیننگ ترتیباتLINK_END میں WLAN اسکیننگ آن کریں۔</string>
+    <string name="wifi_scan_throttling">‏WLAN اسکین کو زبردستی روکا جا رہا ہے</string>
+    <string name="wifi_select_network">‏WLAN منتخب کریں</string>
+    <string name="wifi_setting_on_during_sleep_title">‏سکرین آف ہونے پر WLAN آن</string>
+    <string name="wifi_setting_sleep_policy_title">‏سونے کے دوران WLAN آن رکھیں</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">‏WLAN ترتیبات</string>
+    <string name="wifi_settings_master_switch_title">‏WLAN استعمال کریں</string>
+    <string name="wifi_settings_scanning_required_enabled">‏WLAN اسکیننگ آن ہے</string>
+    <string name="wifi_settings_scanning_required_info">‏WLAN کے آف ہونے پر بھی، WLAN اسکیننگ ایپس اور سروسز کو کسی بھی وقت WLAN نیٹ ورکس اسکین کرنے کی اجازت دیتی ہے۔ مثال کے طور، اسے مقام پر مبنی خصوصیات اور سروسز کو بہتر بنانے کیلئے استعمال کیا جا سکتا ہے۔</string>
+    <string name="wifi_settings_scanning_required_summary">‏WLAN خودکار طور پر آن کرنے کے لئے آپ کو پہلے WLAN اسکیننگ آن کرنے کی ضرورت ہے۔</string>
+    <string name="wifi_settings_scanning_required_title">‏WLAN اسکیننگ آن کریں؟</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">‏WLAN آن ہو رہا ہے…</string>
+    <string name="wifi_stopping">‏WLAN آف ہو رہا ہے…</string>
+    <string name="wifi_suspend_optimizations">‏WLAN بیش کارکردگی</string>
+    <string name="wifi_suspend_optimizations_summary">‏WLAN آن ہونے پر بیٹری کے استعمال کو کم کریں</string>
+    <string name="wifi_switch_away_when_unvalidated">‏WLAN پر انٹرنیٹ رسائی ختم ہونے پر موبائل ڈیٹا میں سوئچ کریں۔</string>
+    <string name="wifi_tether_configure_ap_text">‏WLAN ہاٹ اسپاٹ کو ترتیب دیں</string>
+    <string name="wifi_tether_failed_subtext">‏پورٹیبل WLAN ہاٹ اسپاٹ میں خرابی</string>
+    <string name="wifi_turned_on_message">‏WLAN کو آن کر دیا گیا</string>
+    <string name="wifi_verbose_logging">‏WLAN وربوس لاگنگ فعال کریں</string>
+    <string name="wifi_verbose_logging_summary">‏WLAN لاگنگ لیول میں اضافہ کریں، WLAN منتخب کنندہ میں فی SSID RSSI دکھائیں</string>
+    <string name="wifi_wakeup">‏خود کار طور پر WLAN آن کریں</string>
+    <string name="wifi_wakeup_summary">‏آپ کے ہوم نیٹ ورک کی طرح، اعلی معیاری محفوظ نیٹ ورکس کے قریب ہونے پر WLAN واپس آن ہو جائے گا۔</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">‏WLAN اسکیننگ آف ہونے کی وجہ سے WLAN ویک اپ دستیاب نہیں ہے</string>
+</resources>

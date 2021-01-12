@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Telefonunuzdaki uygulamalar cihazınızın adını görür. Bluetooth cihazlarına bağlandığınızda veya bir kablosuz hotspot ayarladığınızda başka kişiler de bu adı görebilir.</string>
+    <string name="accessibility_no_wifi">Kablosuz bağlantı kesildi.</string>
+    <string name="accessibility_wifi_off">Kablosuz kapalı.</string>
+    <string name="accessibility_wifi_one_bar">Kablosuz sinyal gücü tek çubuk.</string>
+    <string name="accessibility_wifi_signal_full">Kablosuz sinyal gücü tam.</string>
+    <string name="accessibility_wifi_three_bars">Kablosuz sinyal gücü üç çubuk.</string>
+    <string name="accessibility_wifi_two_bars">Kablosuz sinyal gücü iki çubuk.</string>
+    <string name="battery_usm_desc">"Ultra STAMINA modu pil süresini önemli ölçüde artırır. WLAN ve Mobil veri üzerinden İnternet bağlantısının devre dışı bırakılacağını, veri senkronizasyonu ve WLAN çağrısı gibi işlevlerin kullanılamayacağını unutmayın. Ana Ekranınız Ultra STAMINA modu Ana ekranına dönüştürülür.
+
+Ultra STAMINA modunda kullanılabilen uygulamalar"</string>
+    <string name="battery_usm_desc_variable">"Ultra STAMINA modu pil süresini önemli ölçüde artırır. WLAN ve Mobil veri üzerinden İnternet bağlantısının devre dışı bırakılacağını, veri senkronizasyonu ve %s gibi işlevlerin kullanılamayacağını unutmayın. Ana Ekranınız Ultra STAMINA modu Ana ekranına dönüştürülür.
+
+Ultra STAMINA modunda kullanılabilen uygulamalar"</string>
+    <string name="bs_feature_wifi">WLAN kapalı</string>
+    <string name="change_wifi_state_app_detail_summary">Bu uygulamanın kablosuz bağlantıyı açmasına veya kapatmasına, kablosuz ağları taramasına, eklemesine veya kaldırmasına, kablosuz ağlara bağlanmasına ya da yalnızca yerel hotspot bağlantısı başlatmasına izin verin</string>
+    <string name="change_wifi_state_app_detail_switch">Uygulamanın Kablosuz bağlantıyı kontrol etmesine izin ver</string>
+    <string name="change_wifi_state_title">WLAN kontrolü</string>
+    <string name="connected_via_app">%1$s ile bağlandı</string>
+    <string name="credential_for_wifi">Kablosuz bağlantı için yüklendi</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN bağlandı</string>
+    <string name="cw_network_notification">CT WLAN bildirimini etkinleştir</string>
+    <string name="cw_network_priority">China Telecom WLAN içn Öncl Tnı</string>
+    <string name="cw_network_priority_summary">Diğer WLAN ağlarına göre China Telecom WLAN ağlarına öncelik tanınacaktır</string>
+    <string name="data_service_except_mms_disabled_warning_txt">"WLAN kullanmıyorsanız, Internet'i, E-posta'yı veya veri bağlantısı gerektiren diğer uygulamaları artık kullanamazsınız. Mobil veri bağlantısı kapatılsın mı?"</string>
+    <string name="data_traffic_disabled_text">Veri trafiği devre dışı bırakıldığından China Telecom WLAN ağlarına bağlanılamadı. Veri trafiği şimdi etkinleştirilsin mi?</string>
+    <string name="dialog_message_hint">"STAMINA modu şunları içerir:
+
+• Genişletilmiş bekleme modu
+Ekran kapalıyken, WLAN ve mobil veriler geçici olarak devre dışı bırakılarak pil tasarrufu sağlar. Uygulamaların çoğu devre dışı duruma getirilir.
+Ekran açıkken telefonunuz normal şekilde çalışır.
+Genişletilmiş bekleme modu AÇIKKEN bazı uygulamaların aktif kalmasını istiyorsanız, bunları BEKLEME MODUNDA AKTİF UYGULAMALAR listesine eklemeniz yeterlidir.
+
+•Genişletilmiş kullanım
+Donanım performansını sınırlandırarak cihaz kullanılırken pil tasarrufu sağlar.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>STAMINA modu nedir?</u>"
+STAMINA modu, Sony'nin güç tasarruf fonksiyonudur. Ekran kapalıyken pil ömrünü uzatır.
+
+"<u>Temel kullanım</u>"
+STAMINA modunu aktifleştirmek için, ekrandaki tuşa dokunun.
+Ekran kapalıyken, pilden tasarruf etmek için WLAN ve mobil veriler geçici olarak devre dışı bırakılır ve uygulamalarınızın çoğu devre dışı duruma getirilir.
+Ekran açıkken, telefonunuz normal olarak çalışır.
+
+"<u>Gelişmiş kullanım</u>"
+STAMINA açıkken bazı uygulamaların aktif olmasını istiyorsanız lütfen bunları BEKLEME MODUNDA AKTİF UYGULAMALAR listesine ekleyin.
+Uygulamalar listeye eklenmezse düzgün şekilde çalışmayabilir.
+
+"<u>Not</u>"
+Bir uygulama düzgün şekilde çalışmıyorsa, bu uygulamayı BEKLEME MODUNDA AKTİF UYGULAMALAR listesine ekleyin veya STAMINA modunu kapatın."</string>
+    <string name="fullbackup_data_summary">"Cihaz verilerini (Kablosuz ağ şifreleri ve çağrı geçmişi gibi) ve uygulama verilerini (uygulamalar tarafından depolanan ayarlar ve dosyalar gibi) uzaktan otomatik olarak yedekleyin.
+
+Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olarak uzaktan kaydedilir. Uygulama verileri, bir uygulamanın kaydettiği (geliştirici ayarlarına göre), kişiler, iletiler ve fotoğraflar gibi hassas olabilecek verileri de içeren her türlü veri olabilir."</string>
+    <string name="fullbackup_erase_dialog_message">Cihaz verilerinin (kablosuz ağ şifreleri ve çağrı geçmişi gibi) ve uygulama verilerinin (uygulamalar tarafından depolanan ayarlar ve dosyalar gibi) yedeklenmesi durdurulsun ve uzak sunuculardaki tüm kopyaları silinsin mi?</string>
+    <string name="install_wapi_certs">WLAN sertifikalarını yükle</string>
+    <string name="l_dialog_message_hint">"STAMINA mod şunları içerir:
+
+• Uzun bekleme
+Ekran kapalı olduğunda WLAN'yı geçici olarak devre dışı bırakarak güçten tasarruf eder. Çoğu uygulama pasifleşir.
+Ekran açıldığında cihazınız normal şekilde çalışır.
+Uzun bekleme modu etkinleştirildiğinde bazı uygulamaları aktif tutmak isterseniz söz konusu uygulamaları Bekleme modunda aktif uygulamalar listesine ekleyin.
+
+• Uzun kullanım
+Cihazınız kullanımdayken donanım performansını sınırlandırarak güçten tasarruf eder."</string>
+    <string name="location_based_wifi">Konum tabanlı WLAN</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN Assistant değiştirilsin mi?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Geçerli WLAN ağınızı paylaşmak için ayarlarda \"WLAN bilgisini paylaş\" seçeneğini belirleyin.</string>
+    <string name="nfc_wifi_share_checkbox">WLAN bilgisini paylaş</string>
+    <string name="nfc_wifi_share_title_txt">WLAN bilgisini paylaş</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;T WLAN genel alanına otomatik bağlan</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN oto. bağlan</string>
+    <string name="powersaver_feature_data_message">"WLAN kullanmıyorsanız, Internet'i, E-posta'yı veya veri bağlantısı gerektiren diğer uygulamaları artık kullanamazsınız. Mobil veri bağlantısı kapatılsın mı?"</string>
+    <string name="powersaver_feature_wifi">WLAN kapalı</string>
+    <string name="radio_info_ims_reg_status">"IMS Kaydı: %1$s
+LTE:üzerinden ses %2$s
+WLAN üzerinden ses: %3$s
+Görüntülü Görüşme: %4$s
+UT Arayüzü: %5$s"</string>
+    <string name="somc_backup_failed_no_wifi_summary">WLAN bağlantısı bekleniyor</string>
+    <string name="somc_wifi_turned_on_info">WLAN açık. Listeden ağınızı seçin.</string>
+    <string name="stamina_xssm_summary">"Ekran kapalı olduğunda mobil verileri ve WLAN'yi devre dışı bırakır"</string>
+    <string name="tethering_no_sim_warning_txt">Telefonunuzun veri bağlantısını İnternet erişimi için Mobil WLAN Genel Alanı veya USB bağlantısı kullanan diğer cihazlarla paylaşmak üzere SIM kart takın.</string>
+    <string name="usm_descr">"Ultra STAMINA modu, pil ömrünü önemli ölçüde uzatır. Uzun süre boyunca cihazınızı şarj edemediğiniz durumlarda kullanılabilir.
+
+Sadece Telefon ve Mesajlaşma gibi birkaç temel işlev kullanılabilir. Daha fazla ayrıntı için \"Daha fazla bilgi\"ye dokunun.
+
+WLAN ve Mobil veri üzerinden İnternet bağlantısının devre dışı olacağını unutmayın."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Acil durum çağrıları WLAN Çağrısı üzerinden yapılamaz.
+Cihaz, acil durum çağrısı yapabilmek için otomatik olarak hücresel ağa (2G/3G) geçiş yapar.
+Acil durum çağrıları, yalnızca hücresel kapsama alanı içindeki alanlarda yapılabilir."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">WLAN çağrısı üzerinden acil durum aramaları</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone WLAN Çağrısı</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"WLAN çağrısını açmak için Konumu açmanız ve Yüksek doğruluk ya da Pil tasarrufu modunu seçmeniz gerekir.
+
+WLAN çağrısı sırasında Konumun açık olduğundan lütfen emin olun."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Acil durum çağrıları WLAN Çağrısı üzerinden yapılamaz.
+Cihaz, acil durum çağrısı yapabilmek için otomatik olarak hücresel ağa (2G/3G) geçiş yapar.
+Acil durum çağrıları, yalnızca hücresel kapsama alanı içindeki alanlarda yapılabilir."</string>
+    <string name="wfc_location_info_dialog_desc_txt">"WLAN çağrılarını gerçekleştirmek amacıyla konumunuzla ilgili bilgiler, Konum ayarınız etkin olsun veya olmasın Google'a ve operatörünüze gönderilebilir."</string>
+    <string name="wfc_provisioned_switch_string">Kablosuz Ağ Üzerinden Görüşme Temel Hazırlığını Yap</string>
+    <string name="wifi">Kablosuz</string>
+    <string name="wifi_advanced_settings_label">WLAN ayarları</string>
+    <string name="wifi_ask_disable">%s, Kablosuz özelliğini kapatmak istiyor</string>
+    <string name="wifi_ask_enable">%s, Kablosuz özelliğini açmak istiyor</string>
+    <string name="wifi_auto_network_switch_setting_msg">Hem WLAN ağı hem de mobil ağ mevcut olduğunda otomatik olarak tercih edilen ağa geç</string>
+    <string name="wifi_calling_link_to_register_emergency_address">WLAN Çağrısına kaydolmak veya mevcut Acil Durum Adresinizi güncellemek için burayı tıklayın</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Hücresel ağ üzerinden ara. Hücresel ağ yoksa, WLAN kullan.</string>
+    <string name="wifi_calling_mode_wifi_only_summary">WLAN üzerinden ara. WLAN bağlantısı kesilirse, çağrıyı bitir.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">WLAN üzerinden ara. WLAN kullanılamıyorsa, hücresel ağı kullan.</string>
+    <string name="wifi_calling_off_explanation">"Mobil ağ kapsamasının zayıf olduğu yerlerde çağrı kalitesini artırmak için WLAN çağrısını kullanın.
+
+Maliyet
+WLAN çağrı ücretleri hakkında bilgi için lütfen servis sağlayıcınızla iletişim kurun.
+
+WLAN çağrısı hakkında notlar
+WLAN çağrısını sürdürmek için WLAN kapsama alanında bulunduğunuzdan emin olun."</string>
+    <string name="wifi_calling_on_dialog_text">"WLAN Çağrısı özelliğini kullanmak üzere, Mobil veri için tercih edilen SIM'i SIM 1 olarak ayarlayın"</string>
+    <string name="wifi_calling_settings_title">Kablosuz çağrı</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN Sertifikasını değiştir</string>
+    <string name="wifi_data_template">^1 kablosuz bağlantı verisi</string>
+    <string name="wifi_disabled_wifi_failure">Kablosuz Bağlantı Hatası</string>
+    <string name="wifi_dpp_add_device_to_wifi">Bu cihaz “%1$s” ağına eklensin mi?</string>
+    <string name="wifi_dpp_center_qr_code">Cihazı “%1$s” ağına eklemek için QR kodunu ortalayın</string>
+    <string name="wifi_dpp_failure_not_supported">Bu cihaz, “%1$s” öğesinin eklenmesini desteklemez</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">\"%1$s\" ağına bağlanmak için bu QR kodunu tarayın</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">“%1$s” ile bağlantı kurmak için aşağıdaki QR kodunu ortalayın.</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">\"%1$s\" ağına bağlanmak ve şifreyi paylaşmak için bu QR kodunu tarayın</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">WLAN açıkken mevcut Passpoint ağlarına otomatik olarak bağlanın</string>
+    <string name="wifi_p2p_settings">WLAN Direct ayarları</string>
+    <string name="wifi_scan_always_turnon_message">"Konum bilgisinin doğruluğunu iyileştirmek ve diğer amaçlar için, %1$s Kablosuz bağlantı kapalı olduğunda bile ağ tarama işlevini açmak istiyor.
+
+Tarama yapmak isteyen tüm uygulamaların bu işlevi kullanmalarına izin veriyor musunuz?"</string>
+    <string name="wifi_scan_notify_text_scanning_off">Konum doğruluğunu iyileştirmek için LINK_BEGINtarama ayarlarındaLINK_END kablosuz taramayı açın.</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT korumalı</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK korumalı</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_tether_settings_subtext">Taşınabilir WLAN genel alanını ayarla ve yönet</string>
+    <string name="wifi_tether_settings_text">Taşınabilir WLAN genel alan ayarları</string>
+    <string name="wifi_tethering_warning_txt">Medya aktarımı, telefon yazılım güncellemesi, yedekleme ve geri yükleme gibi devam etmekte olan tüm WLAN işlemleri kesilir.</string>
+    <string name="wifi_wps_category_title">Kablosuz ağını ayarla</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN bağlantısı kesildi. Kurulum iptal edildi.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINA modu, cihaz ayarlarını yaparak pil gücünden tasarruf edilmesini sağlar. Uyku modundayken düşük fonksiyonellikle çalıştırmak üzere uygulamaları seçebilirsiniz. (Bu, pil gücünden tasarruf etmenize yardımcı olur, çünkü çoğu uygulama uyku modunda bile pil tüketmeye devam eder.)
+
+Seçilen uygulamalar için devre dışı bırakılan fonksiyonlar:
+- WLAN
+- Mobil veri
+- Zaman sayacı
+
+Tüm uygulamalar için bildirim ışığı uyku modunda aynı sıklıkta, aynı renkte yanıp söner.
+
+Siz cihazı kontrol ederken STAMINA modu devre dışı olur."</string>
+</resources>

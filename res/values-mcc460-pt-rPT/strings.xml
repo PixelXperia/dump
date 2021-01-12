@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">O nome do seu dispositivo é visível para as aplicações do telemóvel. Também pode ser visto por outras pessoas quando se liga a dispositivos Bluetooth ou configura uma zona WLAN.</string>
+    <string name="accessibility_no_wifi">WLAN desligado.</string>
+    <string name="accessibility_wifi_off">WLAN desativado.</string>
+    <string name="accessibility_wifi_one_bar">Uma barra de WLAN.</string>
+    <string name="accessibility_wifi_signal_full">Sinal de WLAN completo.</string>
+    <string name="accessibility_wifi_three_bars">Três barras de WLAN.</string>
+    <string name="accessibility_wifi_two_bars">Duas barras de WLAN.</string>
+    <string name="backup_data_summary">Fazer cópia de segurança de dados da aplicação, palavras-passe WLAN e outras definições para os servidores da Google</string>
+    <string name="backup_erase_dialog_message">Deixar de fazer cópia de segurança de palavras-passe de rede WLAN, marcadores, outras definições e dados da aplicação, bem como apagar todas as cópias nos servidores da Google?</string>
+    <string name="battery_action_wifi">Definições de WLAN</string>
+    <string name="battery_desc_wifi">Bateria utilizada por WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Desativar WLAN quando não estiver a ser utilizada ou não estiver disponível</string>
+    <string name="battery_usm_desc">"O modo Ultra STAMINA prolongará significativamente a duração da bateria. Tenha em atenção que, uma vez que a ligação à Internet através de WLAN e Dados Móveis será desativada, não estarão disponíveis funções como a sincronização de dados e o WLAN Calling. O Ecrã inicial será alterado para Início do modo Ultra STAMINA.
+
+Aplicações disponíveis no modo Ultra STAMINA"</string>
+    <string name="battery_usm_desc_variable">"O modo Ultra STAMINA prolongará significativamente a vida útil da bateria. Tenha em atenção que, uma vez que a ligação à Internet através de WLAN e Dados móveis será desativada, não estarão disponíveis funções como a sincronização de dados e o %s. O ecrã da Página inicial será alterado para Página inicial do modo Ultra STAMINA.
+
+Aplicações disponíveis no modo Ultra STAMINA"</string>
+    <string name="bluetooth_on_time">Tempo de ligação WLAN</string>
+    <string name="bs_feature_wifi">WLAN desligado</string>
+    <string name="change_wifi_state_app_detail_summary">Permitir a esta aplicação ativar ou desativar o WLAN, procurar e estabelecer ligação a redes WLAN, adicionar ou remover redes, assim como iniciar uma zona WLAN apenas local.</string>
+    <string name="change_wifi_state_app_detail_switch">Permitir à aplicação controlar o WLAN</string>
+    <string name="change_wifi_state_title">Controlo do WLAN</string>
+    <string name="condition_bg_data_summary">Os dados de segundo plano só estão disponíveis através de WLAN. Isto pode afetar algumas aplicações ou alguns serviços quando o WLAN não estiver disponível.</string>
+    <string name="condition_cellular_summary">A Internet está disponível apenas por WLAN.</string>
+    <string name="condition_hotspot_title">A zona WLAN está ativa</string>
+    <string name="connected_via_app">Ligado via %1$s</string>
+    <string name="credential_for_wifi">Instalada para WLAN</string>
+    <string name="ct_wifi_connected_text">China Telecom ligada por WLAN</string>
+    <string name="cw_network_notification">Ativar notificações WLAN CT</string>
+    <string name="cw_network_priority">Dar pri. WLAN da China Telecom</string>
+    <string name="cw_network_priority_summary">É dada prioridade às redes WLAN da China Telecom sobre as outras redes WLAN associadas</string>
+    <string name="data_service_except_mms_disabled_warning_txt">A menos que utilize WLAN, deixará de ser possível utilizar a Internet, o e-mail ou outras aplicações que necessitem de uma ligação de dados. Desativar a ligação de dados móvel?</string>
+    <string name="data_traffic_disabled_text">Não é possível ligar às redes WLAN da China Telecom, uma vez que o tráfego de dados está desativado. Ativar o tráfego de dados agora?</string>
+    <string name="data_usage_app_summary_title">Dados móveis e WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Definir limite de dados WLAN</string>
+    <string name="data_usage_menu_hide_wifi">Ocultar WLAN</string>
+    <string name="data_usage_menu_show_wifi">Mostrar WLAN</string>
+    <string name="data_usage_metered_wifi">Redes WLAN de acesso limitado</string>
+    <string name="data_usage_metered_wifi_disabled">Para selecionar redes de acesso limitado, ative o WLAN.</string>
+    <string name="data_usage_restrict_background">Se restringir os dados móveis de segundo plano, algumas aplicações e serviços não funcionarão, exceto se estiver ligado a uma rede WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis de segundo plano, algumas aplicações e serviços não funcionarão, exceto se estiver ligado a uma rede WLAN.
+
+Esta definição afeta todos os utilizadores neste telemóvel."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 utilizado em WLAN</string>
+    <string name="data_usage_wifi_title">Dados de WLAN</string>
+    <string name="dialog_message_hint">"O modo STAMINA inclui:
+
+• Modo de espera prolongado
+Poupa energia quando o ecrã está desligado, desativando temporariamente o WLAN e os dados móveis. A maioria das aplicações ficarão inativas.
+Quando o ecrã está LIGADO, o seu telemóvel funcionará normalmente.
+Se pretende manter algumas aplicações ativas com o modo de espera prolongado ATIVO, adicione as aplicações à lista APLICAÇÕES ATIVAS NO MODO ESPERA.
+
+• Utilização prolongada
+Poupa energia quando o seu dispositivo estiver em utilização, restrigindo o desempenho do hardware.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>O que é o modo STAMINA?</u>"
+O modo STAMINA é uma função de poupança de energia da Sony. Prolonga a duração da bateria quando o ecrã está desligado.
+
+"<u>Utilização básica</u>"
+Para ativar o modo STAMINA, toque no botão no ecrã.
+Quando o ecrã estiver desligado, o WLAN e os dados móveis serão temporariamente desativados e a maioria das aplicações será desativada para poupar bateria.
+Quando o ecrã estiver ligado, o dispositivo funcionará normalmente.
+
+"<u>Utilização avançada</u>"
+Se pretender manter algumas aplicações ativas quando o STAMINA estiver ativado, adicione as aplicações à lista APLICAÇÕES ATIVAS NO MODO ESPERA.
+As aplicações poderão não funcionar corretamente se não forem adicionadas à lista.
+
+"<u>Nota</u>"
+Se uma aplicação não funcionar corretamente, registe a aplicação em APLICAÇÕES ATIVAS NO MODO ESPERA ou desative o modo STAMINA."</string>
+    <string name="emergency_address_summary">Utilizado como a sua localização quando efetuar chamadas de emergência através de WLAN.</string>
+    <string name="fullbackup_data_summary">"Faça cópias de segurança automáticas dos dados do dispositivo (como palavras-passe de WLAN e o histórico de chamadas) e dos dados das aplicações (como as definições e os ficheiros armazenados pelas aplicações) remotamente.
+
+Quando ativa a cópia de segurança automática, os dados do dispositivo e das aplicações são guardados remotamente de forma periódica. Os dados das aplicações podem ser quaisquer dados que uma aplicação tenha guardado (com base nas definições do programador), incluindo dados potencialmente confidenciais como contactos, mensagens e fotos."</string>
+    <string name="fullbackup_erase_dialog_message">Pretende parar de fazer cópias de segurança dos dados do dispositivo (como palavras-passe de WLAN e o histórico de chamadas) e dos dados das aplicações (como as definições e os ficheiros armazenados pelas aplicações) e apagar todas as cópias nos servidores remotos?</string>
+    <string name="install_wapi_certs">Instalar certificados WLAN</string>
+    <string name="keywords_change_wifi_state">WLAN, WLAN, ativar/desativar, controlar</string>
+    <string name="keywords_hotspot_tethering">ligação à Internet via USB, ligação à Internet via Bluetooth, zona WLAN</string>
+    <string name="keywords_wifi">wifi, WLAN, ligação de rede, Internet, sem fios, dados, wi fi</string>
+    <string name="keywords_wifi_calling">WLAN, WLAN, telefonar, chamadas</string>
+    <string name="keywords_wifi_notify_open_networks">Notificação WLAN, notificação wifi</string>
+    <string name="l_dialog_message_hint">"O modo STAMINA inclui:
+
+• Modo espera prolongado
+Poupa energia quando o ecrã está desligado, desativando temporariamente o WLAN. A maioria das aplicações ficará inativa.
+Quando o ecrã está ligado, o seu dispositivo funcionará normalmente.
+Se pretende manter algumas aplicações ativas com o modo espera prolongado ativado, adicione as aplicações à lista Aplicações ativas no modo espera.
+
+• Utilização prolongada
+Poupa energia quando o seu dispositivo estiver em utilização, restrigindo o desempenho do hardware."</string>
+    <string name="location_based_wifi">WLAN baseado na localização</string>
+    <string name="location_neighborhood_level_wifi">Localização determinada por WLAN</string>
+    <string name="location_network_based">WLAN e localização de rede de telemóvel</string>
+    <string name="location_scanning_screen_title">Procura de WLAN e Bluetooth</string>
+    <string name="location_scanning_wifi_always_scanning_description">Permita que as aplicações e os serviços procurem redes WLAN em qualquer altura, mesmo quando o WLAN estiver desativado. Isto pode ser utilizado, por exemplo, para melhorar as funcionalidades e os serviços baseados na localização.</string>
+    <string name="location_scanning_wifi_always_scanning_title">Procura de WLAN</string>
+    <string name="lost_internet_access_cancel">Permanecer em WLAN</string>
+    <string name="lost_internet_access_text">Pode mudar para a rede móvel sempre que o WLAN tiver uma ligação fraca. Podem aplicar-se custos de utilização de dados.</string>
+    <string name="lost_internet_access_title">A rede WLAN não está ligada à Internet.</string>
+    <string name="mobile_data_always_on_summary">Manter sempre os dados móveis ativados, mesmo quando o WLAN estiver ativado (para mudança de rede rápida)</string>
+    <string name="network_dashboard_summary_hotspot">Zona WLAN</string>
+    <string name="network_scorer_change_active_dialog_title">Alterar assistente WLAN?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Para partilhar a rede WLAN atual, selecione a opção \"Partilhar info. WLAN\" na definição.</string>
+    <string name="nfc_wifi_share_checkbox">Partilhar info. WLAN</string>
+    <string name="nfc_wifi_share_title_txt">Partilhar informações de WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Ligação Automática ao Hotspot WLAN da AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">Ligar aut. WLAN da AT&amp;T</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">A menos que utilize WLAN, deixará de ser possível utilizar a Internet, o e-mail ou outras aplicações que necessitem de uma ligação de dados. Desativar a ligação de dados móvel?</string>
+    <string name="powersaver_feature_wifi">WLAN desligado</string>
+    <string name="radio_controls_summary">Gerir WLAN, Bluetooth, modo de avião, redes móveis e VPNs</string>
+    <string name="radio_info_ims_reg_status">"Registo IMS: %1$s
+Voz por LTE: %2$s
+Voz por WLAN: %3$s
+Videochamadas: %4$s
+Interface UT: %5$s"</string>
+    <string name="reset_network_desc">"Esta ação repõe todas as definições de rede, incluindo:
+
+"<li>WLAN</li>"
+"<li>Dados móveis</li>"
+"<li>Bluetooth</li></string>
+    <string name="restriction_wifi_config_summary">Permitir a modificação de definições de WLAN e de Rede de Telemóvel</string>
+    <string name="restriction_wifi_config_title">WLAN e Rede de Telemóvel</string>
+    <string name="scanning_status_text_wifi_off_ble_off">As procuras de WLAN e Bluetooth estão desativadas</string>
+    <string name="scanning_status_text_wifi_off_ble_on">A procura de Bluetooth está ativada e a procura de WLAN está desativada</string>
+    <string name="scanning_status_text_wifi_on_ble_off">A procura de WLAN está ativada e a procura de Bluetooth está desativada</string>
+    <string name="scanning_status_text_wifi_on_ble_on">As procuras de WLAN e Bluetooth estão ativadas</string>
+    <string name="somc_backup_failed_no_wifi_summary">A aguardar ligação WLAN</string>
+    <string name="somc_wifi_turned_on_info">O WLAN está ligado. Selecione a sua rede na lista.</string>
+    <string name="stamina_xssm_summary">Desativa os dados móveis e WLAN quando o ecrã está desligado</string>
+    <string name="status_wifi_mac_address">Endereço MAC de WLAN</string>
+    <string name="tether_settings_disabled_on_data_saver">Não é possível ligar via telemóvel ou utilizar zonas WLAN portáteis com a Poupança de dados ativada</string>
+    <string name="tether_settings_summary_hotspot_on_tether_off">Zona WLAN ativada</string>
+    <string name="tether_settings_summary_hotspot_on_tether_on">Zona WLAN ativada, ligação à Internet via telemóvel</string>
+    <string name="tethering_no_sim_warning_txt">Insira o cartão SIM para partilhar a ligação de dados do telemóvel com outros dispositivos utilizando o Mobile WLAN Hotspot ou a partilha USB para acesso à Internet.</string>
+    <string name="usage_type_data_wifi_recv">Pacotes WLAN recebidos</string>
+    <string name="usage_type_data_wifi_send">Pacotes WLAN enviados</string>
+    <string name="usage_type_wifi_running">WLAN em execução</string>
+    <string name="user_add_user_message_long">"Pode partilhar este dispositivo com outras pessoas ao criar utilizadores adicionais. Cada utilizador possui o seu próprio espaço, que pode ser personalizado com aplicações, imagens de fundo, etc. Os utilizadores também podem ajustar as definições do dispositivo, como o WLAN, que afetam os restantes utilizadores.
+
+Ao adicionar um novo utilizador, essa pessoa tem de configurar o respetivo espaço.
+
+Qualquer utilizador pode atualizar aplicações para todos os outros utilizadores. Os serviços e as definições de acessibilidade podem não ser transferidos para o novo utilizador."</string>
+    <string name="usm_descr">"O modo Ultra STAMINA prolongará significativamente a vida útil da bateria. Poderá utilizá-lo se não for possível carregar o dispositivo durante muito tempo.
+
+Estarão disponíveis apenas algumas funções básicas, como o Telemóvel e as Mensagens. Toque em \"Mais informações\" para mais detalhes.
+
+Tenha em atenção que a ligação à Internet através de WLAN e Dados Móveis será desativada."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Não é possível fazer chamadas de emergência através de WLAN Calling.
+O dispositivo muda automaticamente para uma rede celular (2G/3G) para fazer uma chamada de emergência.
+Só é possível fazer chamadas de emergência em áreas com cobertura celular."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">Chamadas de emergência através de WLAN calling</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">WLAN Calling da Vodafone</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"Para ativar o WLAN Calling, tem de ativar a Localização e selecionar o modo Alta precisão ou Poupança de bateria.
+
+Certifique-se de que mantém a Localização ativada durante a utilização do WLAN Calling."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Não é possível fazer chamadas de emergência através de WLAN Calling.
+O dispositivo muda automaticamente para uma rede celular (2G/3G) para fazer uma chamada de emergência.
+Só é possível fazer chamadas de emergência em áreas com cobertura celular."</string>
+    <string name="wfc_location_info_dialog_desc_txt">É possível enviar as informações relativas à sua localização para a Google e para o seu operador para fazer chamadas WLANl, quer a definição Localização esteja ativada ou não.</string>
+    <string name="wfc_provisioned_switch_string">Chamadas WLAN fornecidas</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">Redes WLAN</string>
+    <string name="wifi_advanced_not_available">As definições avançadas de WLAN não estão disponíveis para este utilizador</string>
+    <string name="wifi_advanced_settings_label">Definições de WLAN</string>
+    <string name="wifi_advanced_titlebar">WLAN Avançada</string>
+    <string name="wifi_ap_band_select_one">Selecione, pelo menos, uma banda para a zona WLAN:</string>
+    <string name="wifi_ask_disable">%s pretende desativar o WLAN</string>
+    <string name="wifi_ask_enable">%s pretende ativar o WLAN</string>
+    <string name="wifi_auto_network_switch_setting_msg">Mude automaticamente para uma rede preferencial se a rede WLAN e a rede móvel estiverem ambas disponíveis</string>
+    <string name="wifi_calling_link_to_register_emergency_address">Clique aqui para se registar no WLAN Calling ou para atualizar o seu Endereço de emergência existente</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Se a rede móvel não estiver disponível, utilizar WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Chamada por WLAN. Se o WLAN for perdido, a chamada é terminada.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Se o WLAN não estiver disponível, utilize a rede móvel.</string>
+    <string name="wifi_calling_not_supported">A funcionalidade Chamadas WLAN não é suportada para %1$s.</string>
+    <string name="wifi_calling_off_explanation">"Utilize o WLAN Calling para aumentar a qualidade da chamada em locais onde a cobertura da rede móvel for fraca.
+
+Custo
+Para obter informações sobre as tarifas do WLAN Calling, contacte o fornecedor de serviços.
+
+Notas sobre o WLAN Calling
+Para permanecer no WLAN Calling, certifique-se de que se mantém na área de alcance da rede WLAN."</string>
+    <string name="wifi_calling_on_dialog_text">Para utilizar as Chamadas WLAN, defina SIM preferido de Dados móveis para SIM 1</string>
+    <string name="wifi_calling_settings_activation_instructions">Ativar Chamadas WLAN</string>
+    <string name="wifi_calling_settings_title">Chamadas WLAN</string>
+    <string name="wifi_calling_suggestion_summary">Ativar as Chamadas WLAN para alargar a cobertura</string>
+    <string name="wifi_calling_suggestion_title">Alargar as chamadas com o WLAN</string>
+    <string name="wifi_calling_summary">Utilize o WLAN nas chamadas para melhorar a qualidade.</string>
+    <string name="wifi_calling_turn_on">Ativar Chamadas WLAN</string>
+    <string name="wifi_carrier_connect">Rede WLAN do operador</string>
+    <string name="wifi_cellular_data_fallback_summary">Utilize os dados móveis quando não tiver acesso à Internet via WLAN. Podem aplicar-se custos de utilização de dados.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">O WLAN não é reativado automaticamente</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">O WLAN é reativado automaticamente</string>
+    <string name="wifi_configure_settings_preference_title">Preferências de WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Alterar certificado WLAN</string>
+    <string name="wifi_data_template">^1 de dados de WLAN</string>
+    <string name="wifi_data_usage">Utilização de dados de WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Falha de ligação WLAN</string>
+    <string name="wifi_dpp_add_device_to_wifi">Pretende adicionar este dispositivo a “%1$s”?</string>
+    <string name="wifi_dpp_center_qr_code">Centre o código QR abaixo para adicionar o dispositivo a \"%1$s\".</string>
+    <string name="wifi_dpp_failure_not_supported">A adição de \"%1$s\" não é suportada por este dispositivo.</string>
+    <string name="wifi_dpp_hotspot_password">Palavra-passe da zona WLAN: %1$s</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Leia este código QR para se ligar a \"%1$s\"</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Centre o código QR abaixo para estabelecer ligação a “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Estabeleça ligação ao WLAN ao ler um código QR.</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Leia este código QR para se ligar a \"%1$s\" e partilhar a palavra-passe</string>
+    <string name="wifi_dpp_share_hotspot">Partilhar zona WLAN</string>
+    <string name="wifi_dpp_share_wifi">Partilhar WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">A partilhar o WLAN com este dispositivo…</string>
+    <string name="wifi_dpp_wifi_password">Palavra-passe de WLAN: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">Rede WLAN partilhada com o dispositivo</string>
+    <string name="wifi_empty_list_user_restricted">Não tem autorização para alterar a rede WLAN.</string>
+    <string name="wifi_empty_list_wifi_off">Para ver as redes disponíveis, ligue o WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">A pesquisar redes WLAN...</string>
+    <string name="wifi_hotspot_auto_off_summary">A zona WLAN será desativada se não forem ligados quaisquer dispositivos.</string>
+    <string name="wifi_hotspot_auto_off_title">Desativar a zona WLAN automaticamente</string>
+    <string name="wifi_hotspot_configure_ap_text">Configuração de zona WLAN</string>
+    <string name="wifi_hotspot_configure_ap_text_summary">Zona WLAN AndroidAP WPA2 PSK</string>
+    <string name="wifi_hotspot_footer_info_local_only">As aplicações podem criar uma zona WLAN para partilhar conteúdo com dispositivos próximos.</string>
+    <string name="wifi_hotspot_footer_info_regular">Utilize uma zona WLAN para criar uma rede WLAN para os seus outros dispositivos. A zona WLAN disponibiliza Internet através da sua ligação móvel de dados. Podem aplicar-se custos de dados móveis adicionais.</string>
+    <string name="wifi_hotspot_name_title">Nome da zona WLAN</string>
+    <string name="wifi_hotspot_on_local_only_subtext">A aplicação está a partilhar conteúdo. Para partilhar a ligação à Internet, desative e volte a ativar a zona WLAN.</string>
+    <string name="wifi_hotspot_password_title">Palavra-passe da zona WLAN</string>
+    <string name="wifi_hotspot_tethering_on_subtext">A partilhar a ligação à Internet deste telemóvel através de zona WLAN…</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Ligar automatica/ a redes Passpoint disponíveis quando o WLAN está ligado</string>
+    <string name="wifi_limit_optimizations_summary">Limitar bat. utiliz. por WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">Tempo de ligação WLAN</string>
+    <string name="wifi_p2p_settings">Definições de WLAN Direct</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Não utilizar uma rede WLAN exceto se possuir uma boa ligação à Internet</string>
+    <string name="wifi_quick_toggle_summary">Ativar WLAN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Para melhorar a precisão da localização e outros fins, uma app desconhecida pretende ativar a procura de redes, mesmo quando o WLAN está desativado.
+
+Permitir para todas as apps que pretenderem procurar?"</string>
+    <string name="wifi_scan_always_turnon_message">"Para melhorar a precisão da localização e para outros fins, %1$s pretende ativar a verificação de redes, mesmo quando o WLAN está desativado.
+
+Permitir esta opção para todas as aplicações que pretenderem verificar?"</string>
+    <string name="wifi_scan_notify_text">Para melhorar a precisão da localização, as aplicações e os serviços podem continuar a procurar redes WLAN a qualquer momento, mesmo quando o WLAN está desativado. Pode utilizar esta opção, por exemplo, para melhorar as funcionalidades e os serviços baseados na localização. Pode alterar esta opção nas LINK_BEGINdefinições de análiseLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Para melhorar a precisão da localização, ative a procura de redes WLAN nas LINK_BEGINdefinições de análiseLINK_END.</string>
+    <string name="wifi_scan_throttling">Controlo da procura de WLAN</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">Protegido com WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Protegido com WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">Selecionar WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN ligado durante suspensão</string>
+    <string name="wifi_setting_sleep_policy_title">Manter WLAN ligada durante suspensão</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Definições de WLAN</string>
+    <string name="wifi_settings_master_switch_title">Utilizar o WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">Procura de WLAN ativada</string>
+    <string name="wifi_settings_scanning_required_info">A procura de WLAN permite que as aplicações e os serviços procurem redes WLAN em qualquer altura, mesmo quando o WLAN estiver desativado. Isto pode ser utilizado, por exemplo, para melhorar as funcionalidades e os serviços baseados na localização.</string>
+    <string name="wifi_settings_scanning_required_summary">Para ativar o WLAN automaticamente, primeiro tem de ativar a procura de WLAN.</string>
+    <string name="wifi_settings_scanning_required_title">Pretende ativar a procura de WLAN?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">A ligar WLAN...</string>
+    <string name="wifi_stopping">A desligar WLAN...</string>
+    <string name="wifi_suspend_optimizations">Otimização de WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Minimizar a utilização da bateria quando o WLAN está ligado</string>
+    <string name="wifi_switch_away_when_unvalidated">Mudar para os dados móveis se o WLAN perder o acesso à Internet</string>
+    <string name="wifi_tether_settings_subtext">Configurar e gerir hotspot WLAN portátil</string>
+    <string name="wifi_tether_settings_text">Definições do hotspot WLAN portátil</string>
+    <string name="wifi_tether_starting">A ativar zona WLAN...</string>
+    <string name="wifi_tether_stopping">A desativar zona WLAN...</string>
+    <string name="wifi_tethering_warning_txt">Qualquer operação WLAN em curso como transferência multimédia, atualização de software do telemóvel, cópia de segurança ou restauro será interrompida.</string>
+    <string name="wifi_turned_on_message">WLAN ativado</string>
+    <string name="wifi_verbose_logging">Ativar o registo verboso de WLAN</string>
+    <string name="wifi_verbose_logging_summary">Aumentar o nível de reg. de WLAN, mostrar por RSSI de SSID no Selec. de WLAN</string>
+    <string name="wifi_wakeup">Ativar o WLAN automaticamente</string>
+    <string name="wifi_wakeup_summary">O WLAN é reativado quando estiver perto de redes de alta qualidade guardadas, como a sua rede doméstica</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Não disponível porque a procura de WLAN está desativada</string>
+    <string name="wifi_wps_category_title">Configurar rede WLAN</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN desligado. Configuração cancelada.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"O modo STAMINA poupa bateria ao ajustar as definições do dispositivo. Escolha aplicações a executar com funcionalidade reduzida no modo de suspensão. (Esta ação ajuda a poupar bateria porque a maioria das aplicações continua a gastar bateria mesmo no modo de suspensão.)
+
+Funções desativadas para aplicações selecionadas:
+- WLAN
+- Dados móveis
+- Temporizador
+
+A luz de notificação para todas as aplicações pisca na mesma cor e com a mesma frequência no modo de suspensão.
+
+O modo STAMINA é desativado enquanto controla o dispositivo."</string>
+</resources>

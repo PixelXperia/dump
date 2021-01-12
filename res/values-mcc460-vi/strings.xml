@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Tên thiết bị của bạn sẽ hiển thị với các ứng dụng trên điện thoại. Những người khác cũng có thể thấy tên thiết bị này khi bạn kết nối với thiết bị Bluetooth hoặc thiết lập điểm phát sóng WLAN.</string>
+    <string name="accessibility_no_wifi">Đã ngắt kết nối WLAN.</string>
+    <string name="accessibility_wifi_off">Đã tắt WLAN.</string>
+    <string name="accessibility_wifi_one_bar">Tín hiệu WLAN một vạch.</string>
+    <string name="accessibility_wifi_signal_full">Tín hiệu WLAN đủ.</string>
+    <string name="accessibility_wifi_three_bars">Tín hiệu WLAN ba vạch.</string>
+    <string name="accessibility_wifi_two_bars">Tín hiệu WLAN hai vạch.</string>
+    <string name="backup_data_summary">Sao lưu dữ liệu ứng dụng, mật khẩu WLAN và các cài đặt khác vào máy chủ Google</string>
+    <string name="backup_erase_dialog_message">Dừng sao lưu mật khẩu WLAN, dấu trang, các cài đặt khác và dữ liệu ứng dụng của bạn đồng thời xóa tất cả bản sao trên các máy chủ Google?</string>
+    <string name="battery_action_wifi">Cài đặt WLAN</string>
+    <string name="battery_desc_wifi">Pin được WLAN sử dụng</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Tắt WLAN khi không sử dụng hoặc khi không có WLAN</string>
+    <string name="battery_usm_desc">"Chế độ Ultra STAMINA sẽ kéo dài tuổi thọ pin đáng kể. Lưu ý rằng vì kết nối Internet qua WLAN và Dữ liệu di động sẽ bị tắt, các chức năng như đồng bộ hóa dữ liệu và gọi qua WLAN sẽ không khả dụng. Màn hình chủ của bạn sẽ được chuyển sang Màn hình chủ của chế độ Ultra STAMINA.
+
+Các ứng dụng khả dụng trong chế độ Ultra STAMINA"</string>
+    <string name="battery_usm_desc_variable">"Chế độ Ultra STAMINA sẽ kéo dài đáng kể thời lượng pin. Hãy lưu ý rằng vì kết nối Internet qua WLAN và Dữ liệu di động sẽ bị tắt nên các chức năng như đồng bộ hóa dữ liệu và %s sẽ không khả dụng. Màn hình chính của bạn sẽ được chuyển sang Màn hình chính của chế độ Ultra STAMINA.
+
+Các ứng dụng khả dụng trong chế độ Ultra STAMINA"</string>
+    <string name="bluetooth_on_time">Thời gian bật WLAN</string>
+    <string name="bs_feature_wifi">Tắt WLAN</string>
+    <string name="change_wifi_state_app_detail_summary">Cho phép ứng dụng này bật/tắt WLAN, quét và kết nối với mạng WLAN, thêm/xóa mạng hoặc bắt đầu một điểm phát sóng chỉ cục bộ</string>
+    <string name="change_wifi_state_app_detail_switch">Cho phép ứng dụng kiểm soát WLAN</string>
+    <string name="change_wifi_state_title">Kiểm soát WLAN</string>
+    <string name="condition_bg_data_summary">Dữ liệu nền chỉ khả dụng qua WLAN. Điều này có thể ảnh hưởng đến một số ứng dụng hoặc dịch vụ khi không có WLAN.</string>
+    <string name="condition_cellular_summary">Chỉ có thể truy cập Internet qua WLAN</string>
+    <string name="connected_via_app">Đã kết nối qua %1$s</string>
+    <string name="credential_for_wifi">Đã cài đặt cho WLAN</string>
+    <string name="ct_wifi_connected_text">Đã k.nối WLAN viễn thông TQ</string>
+    <string name="cw_network_notification">Bật t.b k.nối WLAN của V.T TQ</string>
+    <string name="cw_network_priority">Tối ưu hoá WLAN viễn thông TQ</string>
+    <string name="cw_network_priority_summary">Mạng WLAN viễn thông TQ sẽ được tối ưu hoá qua mạng WLAN khác khi k.nối</string>
+    <string name="data_service_except_mms_disabled_warning_txt">Bạn sẽ không thể sử dụng Internet, email hoặc các ứng dụng khác yêu cầu kết nối dữ liệu nữa trừ khi bạn sử dụng WLAN. Tắt kết nối dữ liệu di động?</string>
+    <string name="data_traffic_disabled_text">Không thể k.nối mạng WLAN viễn thông TQ vì lưu lượng dữ liệu đã bị tắt. Bật lưu lượng DL ngay?</string>
+    <string name="data_usage_app_summary_title">Dữ liệu di động và WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Hạn mức dữ liệu WLAN</string>
+    <string name="data_usage_menu_hide_wifi">Ẩn WLAN</string>
+    <string name="data_usage_menu_show_wifi">Hiển thị WLAN</string>
+    <string name="data_usage_metered_wifi">Mạng WLAN có đo lượng dữ liệu</string>
+    <string name="data_usage_metered_wifi_disabled">Để chọn mạng có đo lượng dữ liệu, hãy bật WLAN.</string>
+    <string name="data_usage_restrict_background">Nếu bạn hạn chế dữ liệu di động nền thì một số ứng dụng và dịch vụ sẽ không hoạt động trừ khi bạn kết nối với WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Nếu bạn hạn chế dữ liệu di động nền thì một số ứng dụng và dịch vụ sẽ không hoạt động trừ khi bạn kết nối với WLAN.
+
+Cài đặt này ảnh hưởng đến tất cả người dùng trên điện thoại này."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">Đã sử dụng ^1 trên WLAN</string>
+    <string name="data_usage_wifi_title">Dữ liệu WLAN</string>
+    <string name="dialog_message_hint">"Chế STAMINA bao gồm: 
+
+• Chế độ chờ kéo dài 
+Tiết kiệm năng lượng khi màn hình tắt bằng cách tạm thời vô hiệu hóa WLAN và dữ liệu di động. Hầu hết các ứng dụng sẽ không hoạt động. 
+Khi màn hình bật, điện thoại của bạn sẽ hoạt động bình thường. 
+Nếu bạn muốn giữ cho một số ứng dụng hoạt động khi chế độ Chờ kéo dài được bật, hãy thêm ứng dụng vào danh sách ỨNG DỤNG HOẠT ĐỘNG Ở CHẾ ĐỘ CHỜ. 
+
+• Sử dụng kéo dài 
+Tiết kiệm năng lượng khi thiết bị của bạn đang được sử dụng bằng cách hạn chế hiệu suất phần cứng.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Chế độ STAMINA là gì?</u>"
+Chế độ STAMINA là chức năng tiết kiệm năng lượng của Sony. Chức năng này giúp kéo dài tuổi thọ pin khi màn hình tắt.
+
+"<u>Cách sử dụng cơ bản</u>"
+Để bật chế độ STAMINA, hãy nhấn nút trên màn hình. 
+Khi màn hình tắt, để tiết kiệm pin, để tiết kiệm pin, WLAN và dữ liệu di động sẽ bị tắt tạm thời và hầu hết các ứng dụng sẽ ngừng hoạt động.
+Khi màn hình bật, điện thoại của bạn sẽ hoạt động bình thường.
+
+"<u>Cách sử dụng nâng cao</u>"
+Nếu bạn muốn duy trì hoạt động của một số ứng dụng khi STAMINA bật, hãy thêm ứng dụng vào danh sách ỨNG DỤNG HOẠT ĐỘNG Ở CHẾ ĐỘ CHỜ.
+Ứng dụng có thể không hoạt động bình thường nếu chúng chưa được thêm vào danh sách.
+
+"<u>Lưu ý</u>"
+Nếu ứng dụng không hoạt động bình thường, hãy đăng ký ứng dụng đó vào ỨNG DỤNG HOẠT ĐỘNG Ở CHẾ ĐỘ CHỜ hoặc tắt chế độ STAMINA."</string>
+    <string name="emergency_address_summary">Dùng làm vị trí của bạn khi bạn thực hiện cuộc gọi khẩn cấp qua WLAN</string>
+    <string name="fullbackup_data_summary">"Tự động sao lưu từ xa dữ liệu của thiết bị (chẳng hạn như mật khẩu WLAN và lịch sử cuộc gọi) cũng như dữ liệu ứng dụng (chẳng hạn như các cài đặt và các tệp được ứng dụng lưu trữ).
+
+Khi bạn bật tính năng sao lưu tự động, dữ liệu ứng dụng và thiết bị được lưu từ xa theo định kỳ. Dữ liệu ứng dụng có thể là bất kỳ dữ liệu nào mà ứng dụng đã lưu (dựa trên cài đặt của nhà phát triển), bao gồm dữ liệu nhạy cảm có thể có như danh bạ, tin nhắn và ảnh."</string>
+    <string name="fullbackup_erase_dialog_message">Dừng sao lưu dữ liệu thiết bị (chẳng hạn như mật khẩu WLAN và lịch sử cuộc gọi) và dữ liệu ứng dụng (chẳng hạn như cài đặt và tệp được ứng dụng lưu trữ), đồng thời xóa tất cả các bản sao trên máy chủ từ xa?</string>
+    <string name="install_wapi_certs">C.đặt các chứng nhận WLAN</string>
+    <string name="keywords_wifi_notify_open_networks">thông báo về WLAN, thông báo wifi</string>
+    <string name="l_dialog_message_hint">"Chế độ STAMINA bao gồm:
+
+• Chế độ chờ kéo dài
+Tiết kiệm năng lượng khi màn hình tắt bằng cách tạm thời tắt WLAN. Hầu hết các ứng dụng sẽ không hoạt động.
+Khi màn hình bật, thiết bị của bạn sẽ hoạt động bình thường.
+Nếu bạn muốn giữ một số ứng dụng luôn hiện hoạt trong khi bật Chế độ chờ kéo dài, hãy thêm ứng dụng vào dánh sách Ứng dụng hiện hoạt trong chế độ chờ.
+
+• Thời gian sử dụng kéo dài
+Tiết kiệm năng lượng khi thiết bị của bạn đang được sử dụng bằng cách hạn chế hiệu suất phần cứng."</string>
+    <string name="location_based_wifi">WLAN dựa trên vị trí</string>
+    <string name="location_neighborhood_level_wifi">Vị trí được xác định bằng WLAN</string>
+    <string name="location_network_based">Vị trí WLAN và mạng di động</string>
+    <string name="location_scanning_screen_title">Quét tìm WLAN và Bluetooth</string>
+    <string name="location_scanning_wifi_always_scanning_description">Cho phép các ứng dụng và dịch vụ quét tìm mạng WLAN bất kỳ lúc nào, ngay cả khi WLAN tắt. Bạn có thể sử dụng tùy chọn cài đặt này để cải thiện các tính năng và dịch vụ dựa trên vị trí.</string>
+    <string name="location_scanning_wifi_always_scanning_title">Quét tìm WLAN</string>
+    <string name="lost_internet_access_cancel">Luôn sử dụng WLAN</string>
+    <string name="lost_internet_access_text">Bạn có thể chuyển sang mạng di động bất cứ khi nào kết nối WLAN kém. Có thể áp dụng phí sử dụng dữ liệu.</string>
+    <string name="lost_internet_access_title">WLAN chưa kết nối với Internet</string>
+    <string name="mobile_data_always_on_summary">Luôn bật dữ liệu di động ngay cả khi WLAN đang hoạt động (để chuyển đổi mạng nhanh).</string>
+    <string name="network_scorer_change_active_dialog_title">Thay đổi trình hỗ trợ WLAN?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Để chia sẻ mạng WLAN hiện tại của bạn, hãy chọn tùy chọn \"Chia sẻ thông tin WLAN\" trong cài đặt.</string>
+    <string name="nfc_wifi_share_checkbox">Chia sẻ thông tin WLAN</string>
+    <string name="nfc_wifi_share_title_txt">Chia sẻ thông tin WLAN</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Tự động Kết nối với Điểm phát sóng WLAN của AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">T.động k.nối WLAN AT&amp;T</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">Bạn sẽ không thể sử dụng Internet, email hoặc các ứng dụng khác yêu cầu kết nối dữ liệu nữa trừ khi bạn sử dụng WLAN. Tắt kết nối dữ liệu di động?</string>
+    <string name="powersaver_feature_wifi">Tắt WLAN</string>
+    <string name="radio_controls_summary">Quản lý WLAN, Bluetooth, chế độ trên máy bay, mạng di động và VPN</string>
+    <string name="radio_info_ims_reg_status">"Đăng ký IMS: %1$s
+Thoại trên nền LTE: %2$s
+Thoại qua WLAN: %3$s
+Gọi điện video: %4$s
+Giao diện UT: %5$s"</string>
+    <string name="reset_network_desc">"Thao tác này sẽ đặt lại tất cả các tùy chọn cài đặt mạng, bao gồm:
+
+"<li>WLAN</li>"
+"<li>Dữ liệu di động</li>"
+"<li>Bluetooth</li></string>
+    <string name="restriction_wifi_config_summary">Cho phép sửa đổi cài đặt Di động và WLAN</string>
+    <string name="restriction_wifi_config_title">WLAN và Di động</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Cả tính năng quét tìm WLAN và quét tìm Bluetooth đều đang tắt</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Tính năng quét tìm Bluetooth đang bật, tính năng quét tìm WLAN đang tắt</string>
+    <string name="scanning_status_text_wifi_on_ble_off">Tính năng quét tìm WLAN đang bật, tính năng quét tìm Bluetooth đang tắt</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Cả tính năng quét tìm WLAN và quét tìm Bluetooth đều đang bật</string>
+    <string name="somc_backup_failed_no_wifi_summary">Đang chờ kết nối WLAN</string>
+    <string name="somc_wifi_turned_on_info">WLAN đang được bật. Hãy chọn mạng của bạn trong danh sách.</string>
+    <string name="stamina_xssm_summary">Vô hiệu hóa dữ liệu di động và WLAN khi màn hình tắt</string>
+    <string name="status_wifi_mac_address">Địa chỉ MAC của WLAN</string>
+    <string name="tethering_no_sim_warning_txt">Vui lòng lắp thẻ SIM để chia sẻ kết nối dữ liệu trên điện thoại của bạn với các thiết bị khác bằng Mobile WLAN Hotspot hoặc kết nối USB để truy cập Internet.</string>
+    <string name="usage_type_data_wifi_recv">Gói WLAN đã nhận</string>
+    <string name="usage_type_data_wifi_send">Gói WLAN đã gửi</string>
+    <string name="usage_type_wifi_running">Đang chạy WLAN</string>
+    <string name="user_add_user_message_long">"Bạn có thể chia sẻ thiết bị này với người khác bằng cách tạo thêm người dùng. Mỗi người dùng sẽ có không gian riêng của mình. Họ có thể tùy chỉnh không gian đó với ứng dụng, hình nền, v.v. Người dùng cũng có thể điều chỉnh các cài đặt thiết bị có ảnh hưởng đến tất cả mọi người, chẳng hạn như WLAN.
+
+Khi bạn thêm người dùng mới, người dùng đó cần thiết lập không gian của họ.
+
+Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả người dùng khác. Các dịch vụ và cài đặt hỗ trợ tiếp cận có thể không chuyển sang người dùng mới."</string>
+    <string name="usm_descr">"Chế độ Ultra STAMINA sẽ kéo dài đáng kể tuổi thọ pin. Chế độ này có thể được sử dụng khi bạn không thể sạc thiết bị của mình trong thời gian dài.
+
+Chỉ một vài chức năng cơ bản, như Gọi điện và Nhắn tin sẽ khả dụng. Nhấn vào \"Thêm thông tin\" để biết thêm chi tiết.
+
+Lưu ý rằng Kết nối Internet qua WLAN và dữ liệu Di động sẽ bị tắt."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Không thực hiện được cuộc gọi khẩn cấp qua tính năng gọi qua WLAN.
+Thiết bị tự động chuyển sang mạng di động (2G/3G) để thực hiện cuộc gọi khẩn cấp.
+Các cuộc gọi khẩn cấp chỉ thực hiện được trong các khu vực có phủ sóng di động."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">Cuộc gọi khẩn cấp qua tính năng gọi qua WLAN</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Gọi qua WLAN của Vodafone</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"Để bật tính năng gọi điện qua WLAN, bạn phải bật Vị trí và chọn Độ chính xác cao hoặc chế độ Tiết kiệm pin.
+
+Hãy nhớ bật Vị trí liên tục trong khi gọi điện qua WLAN."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Không thực hiện được cuộc gọi khẩn cấp qua tính năng gọi qua WLAN.
+Thiết bị tự động chuyển sang mạng di động (2G/3G) để thực hiện cuộc gọi khẩn cấp.
+Các cuộc gọi khẩn cấp chỉ thực hiện được trong các khu vực có phủ sóng di động."</string>
+    <string name="wfc_location_info_dialog_desc_txt">Thông tin liên quan đến vị trí của bạn có thể được gửi đến Google và nhà mạng của bạn để thiết lập các cuộc gọi WLAN, cho dù cài đặt Vị trí có được bật hay không.</string>
+    <string name="wfc_provisioned_switch_string">Đã cấp phép gọi điện qua WLAN</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">Mạng WLAN</string>
+    <string name="wifi_advanced_not_available">Cài đặt nâng cao WLAN không khả dụng cho người dùng này</string>
+    <string name="wifi_advanced_settings_label">Cài đặt WLAN</string>
+    <string name="wifi_advanced_titlebar">WLAN nâng cao</string>
+    <string name="wifi_ap_band_select_one">Chọn ít nhất một băng tần cho điểm phát sóng WLAN:</string>
+    <string name="wifi_ask_disable">%s muốn tắt WLAN</string>
+    <string name="wifi_ask_enable">%s muốn bật WLAN</string>
+    <string name="wifi_auto_network_switch_setting_msg">Tự động chuyển sang một mạng ưa thích khi cả mạng WLAN và mạng di động đều khả dụng</string>
+    <string name="wifi_calling_link_to_register_emergency_address">Nhấn vào đây để đăng ký tính năng Gọi qua WLAN hoặc cập nhật Địa chỉ Khẩn cấp hiện tại của bạn</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Nếu không có mạng di động, hãy dùng WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Gọi qua WLAN. Nếu mất WLAN, cuộc gọi sẽ kết thúc.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Nếu không có WLAN, hãy dùng mạng di động</string>
+    <string name="wifi_calling_not_supported">%1$s không hỗ trợ tính năng Gọi qua WLAN</string>
+    <string name="wifi_calling_off_explanation">"Sử dụng tính năng gọi qua WLAN để tăng chất lượng cuộc gọi ở những nơi có phủ sóng mạng di động kém.
+
+Chi phí
+Để biết thông tin về phí gọi qua WLAN, vui lòng liên hệ nhà cung cấp dịch vụ của bạn.
+
+Lưu ý về gọi qua WLAN
+Để tiếp tục sử dụng gọi qua WLAN, hãy nhớ ở trong phạm vi WLAN."</string>
+    <string name="wifi_calling_on_dialog_text">Để sử dụng Gọi điện qua WLAN, đặt SIM được ưu tiên cho Dữ liệu di động thành SIM 1</string>
+    <string name="wifi_calling_settings_activation_instructions">Kích hoạt tính năng Gọi qua WLAN</string>
+    <string name="wifi_calling_settings_title">Gọi qua WLAN</string>
+    <string name="wifi_calling_suggestion_summary">Bật tính năng gọi qua WLAN để tăng phạm vi phủ sóng</string>
+    <string name="wifi_calling_suggestion_title">Mở rộng cuộc gọi bằng WLAN</string>
+    <string name="wifi_calling_summary">Sử dụng WLAN cho cuộc gọi để cải thiện chất lượng</string>
+    <string name="wifi_calling_turn_on">Bật tính năng Gọi qua WLAN</string>
+    <string name="wifi_carrier_connect">Mạng WLAN của nhà cung cấp dịch vụ</string>
+    <string name="wifi_cellular_data_fallback_summary">Sử dụng dữ liệu di động khi WLAN không truy cập được Internet. Bạn có thể mất thêm phí sử dụng dữ liệu.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN không bật lại tự động</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN bật lại tự động</string>
+    <string name="wifi_configure_settings_preference_title">Tùy chọn WLAN</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Thay đổi Chứng nhận WLAN</string>
+    <string name="wifi_data_template">^1 dữ liệu WLAN</string>
+    <string name="wifi_data_usage">Mức sử dụng dữ liệu WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Lỗi kết nối WLAN</string>
+    <string name="wifi_dpp_add_device_to_wifi">Thêm thiết bị này vào “%1$s”?</string>
+    <string name="wifi_dpp_center_qr_code">Căn giữa mã QR dưới đây để thêm thiết bị vào “%1$s”</string>
+    <string name="wifi_dpp_failure_not_supported">Không hỗ trợ thêm “%1$s” bằng thiết bị này</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Quét mã QR này để kết nối với “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Căn giữa mã QR dưới đây để kết nối với “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Kết nối với WLAN bằng cách quét mã QR</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Quét mã QR này để kết nối với “%1$s” và chia sẻ mật khẩu</string>
+    <string name="wifi_dpp_share_wifi">Chia sẻ WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Chia sẻ WLAN với thiết bị này…</string>
+    <string name="wifi_dpp_wifi_password">Mật khẩu WLAN: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">Đã chia sẻ WLAN với thiết bị</string>
+    <string name="wifi_empty_list_user_restricted">Bạn không có quyền thay đổi mạng WLAN.</string>
+    <string name="wifi_empty_list_wifi_off">Để xem các mạng có thể kết nối, hãy bật WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Đang tìm kiếm mạng WLAN...</string>
+    <string name="wifi_hotspot_auto_off_summary">Điểm phát sóng WLAN sẽ tắt nếu không có thiết bị nào kết nối</string>
+    <string name="wifi_hotspot_configure_ap_text">Thiết lập điểm phát sóng WLAN</string>
+    <string name="wifi_hotspot_footer_info_regular">Sử dụng điểm phát sóng để tạo mạng WLAN cho các thiết bị khác của bạn. Điểm phát sóng cung cấp kết nối Internet bằng kết nối dữ liệu di động. Bạn có thể mất thêm phí dữ liệu di động.</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Tự động kết nối với mạng Passpoint sẵn có khi bật WLAN</string>
+    <string name="wifi_limit_optimizations_summary">G.hạn pin được WLAN sử dụng</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">Thời gian bật WLAN</string>
+    <string name="wifi_p2p_settings">Cài đặt WLAN Direct</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Không sử dụng mạng WLAN trừ khi mạng đó có kết nối Internet tốt</string>
+    <string name="wifi_quick_toggle_summary">Bật WLAN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Để nâng cao độ chính xác vị trí và phục vụ các mục đích khác, một ứng dụng không xác định muốn bật tính năng quét tìm mạng ngay cả khi WLAN tắt.
+
+Bạn có muốn cho phép tất cả các ứng dụng có thể quét tìm mạng không?"</string>
+    <string name="wifi_scan_always_turnon_message">"Để nâng cao độ chính xác vị trí và phục vụ các mục đích khác, %1$s muốn bật tính năng quét mạng ngay cả khi WLAN đang tắt.
+
+Cho phép cài đặt này đối với tất cả ứng dụng muốn quét?"</string>
+    <string name="wifi_scan_notify_text">Để nâng cao độ chính xác của vị trí, các ứng dụng và dịch vụ có thể vẫn quét tìm mạng WLAN bất kỳ lúc nào, ngay cả khi WLAN bị tắt. Chẳng hạn, bạn có thể sử dụng cài đặt này để cải thiện các tính năng và dịch vụ dựa trên vị trí. Bạn có thể thay đổi cài đặt này trong phần LINK_BEGINcài đặt quétLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Để nâng cao độ chính xác về vị trí, hãy bật quét tìm WLAN trong LINK_BEGINcài đặt quétLINK_END.</string>
+    <string name="wifi_scan_throttling">Hạn chế quét tìm WLAN</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">Bảo mật với WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Bảo mật với WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">Chọn WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">Bật WLAN khi ở chế độ ngủ</string>
+    <string name="wifi_setting_sleep_policy_title">Bật WLAN khi ở chế độ ngủ</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Cài đặt WLAN</string>
+    <string name="wifi_settings_master_switch_title">Sử dụng WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">Đã bật tính năng quét tìm WLAN</string>
+    <string name="wifi_settings_scanning_required_info">Chế độ Quét tìm WLAN cho phép các ứng dụng và dịch vụ quét tìm mạng WLAN bất kỳ lúc nào, ngay cả khi WLAN tắt. Chẳng hạn, bạn có thể sử dụng chế độ này để cải thiện các tính năng và dịch vụ dựa trên vị trí.</string>
+    <string name="wifi_settings_scanning_required_summary">Để bật WLAN tự động, trước tiên, bạn cần bật tính năng quét tìm WLAN.</string>
+    <string name="wifi_settings_scanning_required_title">Bật tính năng quét tìm WLAN?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Đang bật WLAN…</string>
+    <string name="wifi_stopping">Đang tắt WLAN…</string>
+    <string name="wifi_suspend_optimizations">Tối ưu hóa WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Giảm thiểu sử dụng pin khi WLAN bật</string>
+    <string name="wifi_switch_away_when_unvalidated">Chuyển sang dữ liệu di động nếu WLAN không truy cập được Internet.</string>
+    <string name="wifi_tether_settings_subtext">Thiết lập &amp; quản lý điểm phát sóng WLAN di động</string>
+    <string name="wifi_tether_settings_text">C.đặt điểm phát sóng WLAN d.động</string>
+    <string name="wifi_tethering_warning_txt">Mọi thao tác đang diễn ra qua WLAN chẳng hạn như truyền phương tiện, cập nhật phần mềm điện thoại, sao lưu và khôi phục sẽ bị ngắt.</string>
+    <string name="wifi_turned_on_message">Đã bật WLAN</string>
+    <string name="wifi_verbose_logging">Bật ghi nhật ký chi tiết WLAN</string>
+    <string name="wifi_verbose_logging_summary">Tăng mức ghi nhật ký WLAN, hiển thị mỗi SSID RSSI trong bộ chọn WLAN</string>
+    <string name="wifi_wakeup">Tự động bật WLAN</string>
+    <string name="wifi_wakeup_summary">WLAN sẽ bật lại khi ở gần các mạng đã lưu chất lượng cao, chẳng hạn như mạng gia đình của bạn</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Không hoạt động vì tính năng quét tìm WLAN đang tắt</string>
+    <string name="wifi_wps_category_title">Thiết lập mạng WLAN</string>
+    <string name="wps_strings_wifi_disconnected_txt">Đã ngắt kết nối WLAN. Thiết lập bị hủy.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"Chế độ STAMINA tiết kiệm năng lượng pin bằng cách điều chỉnh cài đặt thiết bị. Bạn có thể chọn các ứng dụng để chạy với chức năng bị giảm trong chế độ ngủ. (Điều này giúp bạn tiết kiệm năng lượng pin vì hầu hết các ứng dụng vẫn tiêu hao pin ngay cả trong chế độ ngủ.)
+
+Các chức năng bị tắt cho các ứng dụng được chọn:
+- WLAN
+- Dữ liệu di động
+- Bộ hẹn giờ
+
+Đèn thông báo cho tất cả ứng dụng lóe sáng cùng một màu ở tần số giống nhau trong chế độ ngủ.
+
+Chế độ STAMINA bị hủy kích hoạt trong khi bạn điều khiển thiết bị."</string>
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Mugikorreko aplikazioek gailuaren izena ikus dezakete. Halaber, jendeak ere ikus dezake Bluetooth gailuetara konektatzean edo WLAN sare publiko bat konfiguratzean.</string>
+    <string name="accessibility_no_wifi">Deskonektatu egin da WLAN konexioa.</string>
+    <string name="accessibility_wifi_off">Desaktibatuta dago WLAN konexioa.</string>
+    <string name="accessibility_wifi_one_bar">WLAN sarearen barra bat.</string>
+    <string name="accessibility_wifi_signal_full">WLAN sarearen seinalea osoa.</string>
+    <string name="accessibility_wifi_three_bars">WLAN sarearen hiru barra.</string>
+    <string name="accessibility_wifi_two_bars">WLAN sarearen bi barra.</string>
+    <string name="backup_data_summary">Egin datuen, WLAN pasahitzen eta beste ezarpenen babeskopia Google zerbitzarietan.</string>
+    <string name="backup_erase_dialog_message">WLAN pasahitzen, laster-marken, bestelako ezarpenen eta aplikazioetako datuen babeskopiak egiteari utzi eta Google zerbitzarietako kopia guztiak ezabatu nahi dituzu?</string>
+    <string name="battery_action_wifi">WLAN ezarpenak</string>
+    <string name="battery_desc_wifi">WLANak erabilitako energia</string>
+    <string name="battery_stats_wifi_running_label">WLANa</string>
+    <string name="battery_sugg_wifi">Desaktibatu WLAN konexioa erabiltzen ari ez denean edo erabilgarri ez dagoenean.</string>
+    <string name="bluetooth_on_time">WLAN garaiz</string>
+    <string name="change_wifi_state_app_detail_summary">Baimendu aplikazio honi WLAN konexioa aktibatzea edo desaktibatzea, WLAN sareak bilatzea eta haietara konektatzea, sareak gehitzea edo kentzea, edota sare publiko lokal bat sortzea</string>
+    <string name="change_wifi_state_app_detail_switch">Baimendu aplikazioari WLAN konexioa kontrolatzea</string>
+    <string name="change_wifi_state_title">WLAN-konexioa kontrolatzeko aukera</string>
+    <string name="condition_cellular_summary">WLAN bidez soilik erabil daiteke Internet</string>
+    <string name="connected_via_app">%1$s bidez konektatuta</string>
+    <string name="credential_for_wifi">WLAN konexioarekin erabiltzeko instalatuta</string>
+    <string name="data_usage_disable_wifi_limit">Ezarri WLAN datuen muga</string>
+    <string name="data_usage_menu_hide_wifi">Ezkutatu WLAN erabilera</string>
+    <string name="data_usage_menu_show_wifi">Erakutsi WLAN sareen erabilera</string>
+    <string name="data_usage_metered_wifi">WLAN-sare neurtuak</string>
+    <string name="data_usage_restrict_background">Atzeko planoan datu-konexioa erabiltzeko aukera mugatzen baduzu, aplikazio eta zerbitzu batzuek ez dute funtzionatuko WLAN sare batera konektatu ezean.</string>
+    <string name="data_usage_restrict_background_multiuser">"Atzeko planoan datu-konexioa erabiltzeko aukera mugatzen baduzu, aplikazio eta zerbitzu batzuek ez dute funtzionatuko WLAN sare batera konektatu ezean.
+
+Telefonoko erabiltzaile guztiei eragingo die ezarpen honek."</string>
+    <string name="data_usage_tab_wifi">WLANa</string>
+    <string name="data_usage_wifi_title">WLAN datuak</string>
+    <string name="emergency_address_summary">Kokapen gisa erabiliko da larrialdi-zerbitzuetara WLAN bidez deituz gero</string>
+    <string name="fullbackup_data_summary">"Egin babeskopiak automatikoki urrunetik, bai gailuetako datuenak (esaterako, WLAN sareetako pasahitzak eta deien historia), bai aplikazioetako datuenak (esaterako, ezarpenak eta aplikazioek gordetako fitxategiak).
+
+Babeskopiak automatikoki egiteko aukera aktibatzean, gailuko eta aplikazioetako datuak urrunetik gordetzen dira aldizka. Aplikazioetako datuak aplikazioek gordetako edozein datu izan daitezke (garatzailearen ezarpenen arabera), eta kontuzkoak izan litezkeen datuak ere sar daitezke (adibidez, kontaktuak, mezuak eta argazkiak)."</string>
+    <string name="fullbackup_erase_dialog_message">Gailuko datuen (adibidez, WLAN pasahitzak eta deien historia) eta aplikazioetako datuen (besteak beste, ezarpenak eta aplikazioek gordetako fitxategiak) babeskopiak egiteari utzi nahi diozu eta urruneko zerbitzarietako kopia guztiak ezabatu nahi dituzu?</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN konexioari buruzko jakinarazpena, wifi konexioari buruzko jakinarazpena</string>
+    <string name="location_neighborhood_level_wifi">Kokapena WLAN bidez zehaztuta</string>
+    <string name="location_network_based">WLAN eta sare mugikor bidezko kokapena</string>
+    <string name="location_scanning_screen_title">WLAN eta Bluetooth bidezko bilaketa</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN-sareen bilaketa</string>
+    <string name="lost_internet_access_cancel">Jarraitu WLAN konexioa erabiltzen</string>
+    <string name="lost_internet_access_text">Sare mugikorra erabil dezakezu WLAN sareak konexio txarra badu. Agian datuen erabilera ordaindu beharko duzu.</string>
+    <string name="lost_internet_access_title">WLAN sarea ez dago Internetera konektatuta</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN-laguntzailea aldatu nahi duzu?</string>
+    <string name="power_wifi">WLANa</string>
+    <string name="radio_info_ims_reg_status">"IMS erregistroa: %1$s
+LTE bidezko ahots-deiak: %2$s
+WLAN bidezko ahots-deiak: %3$s
+Bideo-deiak: %4$s
+UT interfazea: %5$s"</string>
+    <string name="reset_network_desc">"Hori eginez gero, sare guztien ezarpenak berrezarri egingo dira, besteak beste: 
+
+"<li>WLANa</li>"
+"<li>Datu-konexioa</li>"
+"<li>Bluetooth-a</li></string>
+    <string name="restriction_wifi_config_summary">Baimendu WLAN ezarpenak eta datu mugikorren ezarpenak aldatzea.</string>
+    <string name="restriction_wifi_config_title">WLAN eta datu-konexioa</string>
+    <string name="scanning_status_text_wifi_off_ble_off">WLAN-sareen eta Bluetooth gailuen bilaketa desaktibatuta daude</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Bluetooth gailuen bilaketa aktibatuta dago; WLAN-sareen bilaketa, berriz, desaktibatuta</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN-sareen bilaketa aktibatuta dago; Bluetooth gailuen bilaketa, berriz, desaktibatuta</string>
+    <string name="scanning_status_text_wifi_on_ble_on">WLAN-sareen eta Bluetooth gailuen bilaketa aktibatuta daude</string>
+    <string name="status_wifi_mac_address">WLAN-sarearen MAC helbidea</string>
+    <string name="usage_type_data_wifi_recv">Jasotako WLAN paketeak</string>
+    <string name="usage_type_data_wifi_send">Bidalitako WLAN paketeak</string>
+    <string name="usage_type_wifi_running">WLANa exekutatzen</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Zure operadoreak ez ditu onartzen wifi bidezko larrialdi-deiak.
+Larrialdi-dei bat egin behar dela hautematean, gailua automatikoki aldatzen da sare mugikor batera deia egiteko.
+Sare mugikorren estaldura-eremuetan bakarrik egin daitezke larrialdi-deiak."</string>
+    <string name="wfc_provisioned_switch_string">WLAN bidezko deiak aktibatuta</string>
+    <string name="wifi">WLANa</string>
+    <string name="wifi_access_points">WLAN-sareak</string>
+    <string name="wifi_advanced_not_available">Erabiltzaile honek ezin ditu erabili WLAN aurreratuaren ezarpenak</string>
+    <string name="wifi_advanced_settings_label">IP ezarpenak</string>
+    <string name="wifi_advanced_titlebar">WLAN ezarpen aurreratuak</string>
+    <string name="wifi_ap_band_select_one">Aukeratu gutxienez banda bat WLAN sare publikorako:</string>
+    <string name="wifi_ask_disable">%s aplikazioak WLAN konexioa desaktibatu nahi du</string>
+    <string name="wifi_ask_enable">%s aplikazioak WLAN konexioa aktibatu nahi du</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Deitu wifi bidez. WLAN-konexioa galduz gero, eseki egingo da deia.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">WLAN-sarerik ez badago, erabili sare mugikorra</string>
+    <string name="wifi_calling_not_supported">%1$s operadoreak ez ditu onartzen WLAN bidezko deiak</string>
+    <string name="wifi_calling_off_explanation">WLAN bidezko deiak aktibatuta daudenean, telefonoak wifi-sareen bidez edo operadorearen sarearen bidez bidera ditzake deiak, zure hobespenen eta seinalearen sendotasunaren arabera. Eginbide hau aktibatu aurretik, eskatu tarifak eta bestelako informazioa operadoreari.%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">Aktibatu WLAN bidezko deiak</string>
+    <string name="wifi_calling_settings_title">WLAN bidezko deiak</string>
+    <string name="wifi_calling_suggestion_summary">Aktibatu WLAN bidezko deiak estaldura zabaltzeko</string>
+    <string name="wifi_calling_suggestion_title">Zabaldu deiak egiteko aukera WLAN konexioarekin</string>
+    <string name="wifi_calling_turn_on">Aktibatu WLAN bidezko deiak</string>
+    <string name="wifi_carrier_connect">Operadorearen WLAN sarea</string>
+    <string name="wifi_cellular_data_fallback_summary">WLAN bidez ezin denean, erabili datu-konexioa Internetera konektatzeko. Agian datuen erabilera ordaindu beharko duzu.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN-konexioa ez da aktibatuko berriro automatikoki</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN-konexioa automatikoki aktibatuko da berriro</string>
+    <string name="wifi_configure_settings_preference_title">WLAN-sarearen hobespenak</string>
+    <string name="wifi_data_template">^1 WLAN konexioaren bidez</string>
+    <string name="wifi_data_usage">WLAN-datuen erabilera</string>
+    <string name="wifi_disabled_wifi_failure">Ezin izan da konektatu WLAN sarera</string>
+    <string name="wifi_dpp_add_device_to_wifi">Gailu hau gehitu nahi duzu “%1$s\" sarean?</string>
+    <string name="wifi_dpp_center_qr_code">Gailua \"%1$s\" sarean gehitzeko, erdiratu QR kodea hemen behean</string>
+    <string name="wifi_dpp_failure_not_supported">Ezin da gehitu \"%1$s\" gailu honetan</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Eskaneatu QR kode hau \"%1$s\" sarera konektatzeko</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">\"%1$s\" sarera konektatzeko, erdiratu QR kodea hemen behean</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">WLAN-sarean sartzeko, eskaneatu QR kodea</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Eskaneatu QR kode hau \"%1$s\" sarera konektatu eta pasahitza partekatzeko</string>
+    <string name="wifi_dpp_wifi_password">WLAN-sarearen pasahitza: %1$s</string>
+    <string name="wifi_empty_list_user_restricted">Ez duzu WLAN sarea aldatzeko baimenik.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN sareak bilatzen…</string>
+    <string name="wifi_hotspot_auto_off_summary">WLAN-sare publikoa desaktibatu egingo da ez badago gailurik konektatuta</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN-sare publikoa</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN publikoaren konfigurazioa</string>
+    <string name="wifi_hotspot_footer_info_regular">Erabili sare publikoa beste gailuentzako WLAN sare bat sortzeko. Sare publikoen bidez, Interneteko konexioa ematen da datu-konexioa erabilita. Baliteke datu-konexioa erabiltzeagatiko kostu gehigarriak ordaindu behar izatea.</string>
+    <string name="wifi_limit_optimizations_summary">Mugatu WLAN bidezko bateria-kontsumoa</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN garaiz</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Ez erabili WLAN sareak ez badute Interneteko konexio onik</string>
+    <string name="wifi_quick_toggle_summary">Aktibatu WLANa</string>
+    <string name="wifi_quick_toggle_title">WLANa</string>
+    <string name="wifi_scan_always_turnon_message">"Kokapenaren zehaztasuna hobetzeko eta beste helburu batzuetarako, %1$s aplikazioak sare-bilaketa aktibatu nahi du, WLANa desaktibatuta egonda ere.
+
+Bilaketa egin nahi duten beste aplikazio guztiei ere baimendu nahi diezu?"</string>
+    <string name="wifi_scan_notify_text_scanning_off">Kokapenaren zehaztasuna hobetzeko, aktibatu WLAN-sareen bilaketa LINK_BEGINbilatzeko ezarpenetanLINK_END.</string>
+    <string name="wifi_scan_throttling">WLAN-sareen bilaketaren muga</string>
+    <string name="wifi_select_network">Hautatu WLAN sarea</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN aktibatuta inaktibo moduan</string>
+    <string name="wifi_setting_sleep_policy_title">Izan WLANa aktibatuta egoera inaktiboan</string>
+    <string name="wifi_settings">WLANa</string>
+    <string name="wifi_settings_category">WLAN ezarpenak</string>
+    <string name="wifi_settings_scanning_required_enabled">Aktibatu da WLAN-sareen bilaketa</string>
+    <string name="wifi_settings_scanning_required_info">WLAN-sareen bilaketari esker, aplikazioek eta zerbitzuek edonoiz bila ditzakete wifi-sareak, baita wifi-konexioa desaktibatuta dagoenean ere. Kokapenean oinarritutako eginbideak eta zerbitzuak hobetzeko erabil daiteke, besteak beste.</string>
+    <string name="wifi_settings_scanning_required_summary">WLAN-konexioa automatikoki aktibatzeko, WLAN-sareen bilaketa aktibatu behar duzu lehenik.</string>
+    <string name="wifi_settings_scanning_required_title">WLAN-sareen bilaketa aktibatu nahi al duzu?</string>
+    <string name="wifi_settings_title">WLANa</string>
+    <string name="wifi_starting">WLAN konexioa aktibatzen…</string>
+    <string name="wifi_stopping">WLANa desaktibatzen…</string>
+    <string name="wifi_suspend_optimizations">WLANaren optimizazioa</string>
+    <string name="wifi_switch_away_when_unvalidated">Aldatu datu-konexiora WLAN sareak Interneteko konexioa galtzen badu.</string>
+    <string name="wifi_tether_configure_ap_text">Konfiguratu WLAN sare publikoa</string>
+    <string name="wifi_tether_failed_subtext">WLAN sare publiko eramangarriaren errorea gertatu da</string>
+    <string name="wifi_tether_settings_subtext">Konfiguratu eta kudeatu WLAN publiko eramangarria</string>
+    <string name="wifi_tether_settings_text">WLAN pub. eramangarriaren ez.</string>
+    <string name="wifi_turned_on_message">WLAN konexioa aktibatu da</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Ez dago erabilgarri, WLAN-sareen bilaketa desaktibatuta dagoelako</string>
+</resources>

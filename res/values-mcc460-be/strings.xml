@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Назва вашай прылады даступная для праграм на вашым тэлефоне. Яе таксама будуць бачыць іншыя людзі, калі вы падключыцеся да прылад праз Bluetooth ці наладзіце хот-спот WLAN.</string>
+    <string name="accessibility_no_wifi">WLAN адлучаны.</string>
+    <string name="accessibility_wifi_off">WLAN выключаны.</string>
+    <string name="accessibility_wifi_one_bar">Адзiн слупок WLAN.</string>
+    <string name="accessibility_wifi_signal_full">Поўны сігнал WLAN.</string>
+    <string name="accessibility_wifi_three_bars">Тры слупкi WLAN.</string>
+    <string name="accessibility_wifi_two_bars">Два слупкi WLAN.</string>
+    <string name="backup_data_summary">Рэзервовае капіраванне дадзеных прыкладанняў, пароляў WLAN і іншых параметраў на серверы Google</string>
+    <string name="backup_erase_dialog_message">Спыніць рэзервовае капіраванне пароляў ад WLAN, закладак, іншых налад і дадзеных, а таксама выдаліць усе копіі на серверах Google?</string>
+    <string name="battery_action_wifi">налады WLAN</string>
+    <string name="battery_desc_apps">Акумулятар выкарыстоўваецца сеткай WLAN</string>
+    <string name="battery_desc_wifi">Выкарыстанне акумулятару модулем WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Выключаць WLAN, калі не выкарыстоўваецца або недаступны</string>
+    <string name="bluetooth_on_time">WLAN у тэрмiн</string>
+    <string name="change_wifi_state_app_detail_summary">Дазволіць гэтай праграме ўключаць ці выключаць WLAN, шукаць сеткі WLAN і падключацца да іх, дадаваць або выдаляць сеткі ці запускаць лакальны хот-спот</string>
+    <string name="change_wifi_state_app_detail_switch">Дазволіць праграме кіраваць наладамі WLAN</string>
+    <string name="change_wifi_state_title">Кіраванне наладамі WLAN</string>
+    <string name="condition_cellular_summary">Інтэрнэт даступны толькі праз WLAN</string>
+    <string name="connected_via_app">Падключана праз праграму \"%1$s\"</string>
+    <string name="credential_for_wifi">Усталявана для WLAN</string>
+    <string name="data_usage_app_summary_title">Мабільныя даныя і WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Усталяваць ліміт дадзеных WLAN</string>
+    <string name="data_usage_menu_hide_wifi">Схаваць WLAN</string>
+    <string name="data_usage_menu_show_wifi">Паказ. выкар. даных WLAN</string>
+    <string name="data_usage_metered_wifi">Сеткі WLAN з абмеж. па трафіку</string>
+    <string name="data_usage_metered_wifi_disabled">Каб выбраць сеткі з абежаваннем па трафіку, уключыце WLAN.</string>
+    <string name="data_usage_restrict_background">Калі вы абмяжоўваеце мабільную перадачу даных у фоне, некаторыя праграмы і сэрвісы не будуць працаваць, пакуль вы не падключыцеся да WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"Калі вы абмяжоўваеце мабільную перадачу даных у фоне, некаторыя праграмы і сэрвісы не будуць працаваць, пакуль вы не падключыцеся да WLAN.
+
+Гэта налада ўплывае на ўсіх карыстальнікаў гэтага тэлефона."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">WLAN выкарыстоўвае ^1</string>
+    <string name="data_usage_wifi_title">Трафік WLAN</string>
+    <string name="emergency_address_summary">Выкарыстоўваецца як ваша месцазнаходжанне, калі вы робіце экстранны выклік праз WLAN</string>
+    <string name="fullbackup_data_summary">"Аўтаматычна ствараць рэзервовыя копіі даных прылады (такіх як паролі WLAN і гісторыя выклікаў) і дадаткаў (такіх як налады і файлы, якія захоўваюцца ў дадатках) аддалена.
+
+Калі аўтаматычнае рэзеравовае капіраванне даных уключана, даныя прылады і дадаткаў перыядычна аддалена захоўваюцца. Даныя дадаткаў – гэта любыя даныя, якія захоўваюцца дадаткам (у залежнасці ад налад распрацоўшчыка), у тым ліку патэнцыяльна ўразлівыя даныя, такія як кантакты, паведамленні і фатаграфіі."</string>
+    <string name="fullbackup_erase_dialog_message">Спыніць рэзервовае капіраванне даных прылады (напрыклад, пароляў WLAN і гісторыі выклікаў) і даных праграм (напрыклад, налад і файлаў, якія захоўваюцца праграмамі), а таксама выдаліць усе копіі на аддаленых серверах?</string>
+    <string name="keywords_wifi_notify_open_networks">Апавяшчэнне WLAN, WLAN-апавяшчэнне</string>
+    <string name="location_neighborhood_level_wifi">Месцазнаходжанне вызначаецца праз WLAN</string>
+    <string name="location_network_based">Месцазнаходжанне WLAN і мабiльнай сеткi</string>
+    <string name="location_scanning_screen_title">Праверка WLAN і Bluetooth</string>
+    <string name="location_scanning_wifi_always_scanning_description">Дазвольце праграмам і сэрвісам шукаць сеткі WLAN, нават калі WLAN не падключаны. Гэту функцыю можна выкарыстоўваць для паляпшэння працы геасэрвісаў.</string>
+    <string name="location_scanning_wifi_always_scanning_title">Пошук сетак WLAN</string>
+    <string name="lost_internet_access_cancel">Заставацца ў сетцы WLAN</string>
+    <string name="lost_internet_access_text">Пры дрэнным падключэнні WLAN вы можаце пераключацца на мабільную сетку. Можа спаганяцца плата за выкарыстанне трафіка.</string>
+    <string name="lost_internet_access_title">WLAN не падключаны да інтэрнэту</string>
+    <string name="mobile_data_always_on_summary">Перадача даных мабільнай сувязі заўсёды актыўная, нават калі актыўная сетка WLAN (для хуткага пераключэння паміж сеткамі).</string>
+    <string name="network_scorer_change_active_dialog_title">Змяніць памочніка WLAN?</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_controls_summary">Кіраванне WLAN, Bluetooth, рэжымам палёту, мабільнымі сеткамі і VPN</string>
+    <string name="radio_info_ims_reg_status">"Рэгістрацыя IMS: %1$s
+Голас па LTE: %2$s
+Голас па WLAN: %3$s
+Відэавыклік: %4$s
+Інтэрфейс UT: %5$s"</string>
+    <string name="reset_network_desc">"Гэта прывядзе да скіду ўсіх налад сеткі, у тым ліку:
+
+"<li>WLAN</li>"
+"<li>мабільнай перадачы даных</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Скінуць налады WLAN, мабільнай перадачы даных і Bluetooth</string>
+    <string name="restriction_wifi_config_summary">Дазволіць змяненне параметраў сетак WLAN і мабільных сетак</string>
+    <string name="restriction_wifi_config_title">Сеткі WLAN і мабільныя сеткі</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Выключаны і пошук WLAN, і пошук Bluetooth</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Пошук Bluetooth уключаны, пошук сетак WLAN выключаны</string>
+    <string name="scanning_status_text_wifi_on_ble_off">Пошук сетак WLAN уключаны, пошук Bluetooth выключаны</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Уключаны і пошук WLAN, і пошук Bluetooth</string>
+    <string name="status_wifi_mac_address">MAC-адрас WLAN</string>
+    <string name="usage_type_data_wifi_recv">Атрыманыя пакеты WLAN</string>
+    <string name="usage_type_data_wifi_send">Адпраўленыя пакеты WLAN</string>
+    <string name="usage_type_wifi_running">WLAN працуе</string>
+    <string name="user_add_user_message_long">"Вы можаце адкрыць доступ да гэтай прылады іншым людзям шляхам стварэння дадатковых карыстальнікаў. Кожны карыстальнік мае свой уласны раздзел, на якім ён можа наладзіць свае праграмы, шпалеры і іншае. Карыстальнікі таксама могуць наладжваць параметры прылады, напрыклад WLAN, якія ўплываюць на ўсіх.
+
+Калі вы дадаяце новага карыстальніка, ён павінен наладзіць свой раздзел.
+
+Любы карыстальнік можа абнаўляць праграмы для ўсіх астатніх карыстальнікаў. Спецыяльныя магчымасці наладжваюцца асабіста кожным карыстальнікам."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Экстранныя выклікі праз WLAN-тэлефанію не падтрымліваюцца вашым аператарам.
+Каб зрабіць экстранны выклік, прылада аўтаматычна пераключыцца на мабільную сетку.
+Экстранныя выклікі можна рабіць толькі ў зонах сотавага пакрыцця."</string>
+    <string name="wfc_provisioned_switch_string">WLAN-тэлефанія забяспечана</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">Сеткi WLAN</string>
+    <string name="wifi_advanced_not_available">Пашыраныя налады WLAN не даступныя для гэтага карыстальніка</string>
+    <string name="wifi_advanced_settings_label">Налады IP</string>
+    <string name="wifi_advanced_titlebar">Пашыраны WLAN</string>
+    <string name="wifi_ap_band_select_one">Выберыце як мінімум адзін дыяпазон для хот-спота WLAN:</string>
+    <string name="wifi_ask_disable">%s хоча адключыць WLAN</string>
+    <string name="wifi_ask_enable">%s хоча ўключыць WLAN</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Калі мабільная сетка недаступная, выкарыстоўвайце WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Выклікайце праз WLAN. Калі сігналу WLAN няма, выклік завяршаецца.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Калі WLAN недаступны, выкарыстоўвайце мабільную сетку</string>
+    <string name="wifi_calling_not_supported">WLAN-тэлефанія не падтрымліваецца аператарам %1$s</string>
+    <string name="wifi_calling_off_explanation">Калі ўключана WLAN-тэлефанія, ваш тэлефон можа накіроўваць выклікі праз сеткі WLAN або сетку вашага аператара, у залежнасці ад вашых налад і таго, які сігнал мацнейшы. Перад уключэннем гэтай функцыі спытайце ў вашага аператара наконт аплаты і запытайце іншую падрабязную інфармацыю.%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">Актываваць WLAN-тэлефанію</string>
+    <string name="wifi_calling_settings_title">WLAN-тэлефанія</string>
+    <string name="wifi_calling_suggestion_summary">Званіце па сетцы WLAN, калі няма сотавай сувязі</string>
+    <string name="wifi_calling_suggestion_title">Выклікі па WLAN</string>
+    <string name="wifi_calling_summary">Каб палепшыць якасць выклікаў, выкарыстоўвайце WLAN</string>
+    <string name="wifi_calling_turn_on">Уключыць WLAN-тэлефанію</string>
+    <string name="wifi_carrier_connect">Сетка WLAN аператара</string>
+    <string name="wifi_cellular_data_fallback_summary">Выкарыстоўваць мабільную перадачу даных, калі сетка WLAN страчвае доступ да інтэрнэту. Можа спаганяцца плата за выкарыстанне трафіка.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN не ўключаецца аўтаматычна</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN уключаецца аўтаматычна</string>
+    <string name="wifi_configure_settings_preference_title">Параметры WLAN</string>
+    <string name="wifi_data_template">^1 трафіку WLAN</string>
+    <string name="wifi_data_usage">Выкарыстанне трафіка WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Збой падлучэння WLAN</string>
+    <string name="wifi_dpp_add_device_to_wifi">Дадаць гэту прыладу да сеткі \"%1$s\"?</string>
+    <string name="wifi_dpp_center_qr_code">Каб дадаць прыладу ў сетку \"%1$s\", навядзіце камеру на QR-код, паказаны ніжэй</string>
+    <string name="wifi_dpp_failure_not_supported">Дадаванне \"%1$s\" не падтрымліваецца гэтай прыладай</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Каб падключыцца да \"%1$s\", прасканіруйце гэты QR-код</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Каб падключыцца да сеткі \"%1$s\", навядзіце камеру на QR-код, паказаны. ніжэй</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Далучыцеся да сеткі WLAN, прасканіраваўшы QR-код</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Прасканіруйце QR-код, каб падключыцца да сеткі \"%1$s\" і абагуліць пароль</string>
+    <string name="wifi_dpp_share_wifi">Абагуліць WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">WLAN абагульваецца з гэтай прыладай…</string>
+    <string name="wifi_dpp_wifi_password">Пароль WLAN: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN абагулены з прыладай</string>
+    <string name="wifi_empty_list_user_restricted">У вас няма дазволу на змяненне сеткі WLAN.</string>
+    <string name="wifi_empty_list_wifi_off">Каб праглядзець даступныя сеткi, уключыце WLAN.</string>
+    <string name="wifi_empty_list_wifi_on">Пошук сеткI WLAN...</string>
+    <string name="wifi_hotspot_ap_band_title">Дыяпазон частот WLAN</string>
+    <string name="wifi_hotspot_auto_off_summary">Хот-спот WLAN выключыцца, калі прылады непадключаныя</string>
+    <string name="wifi_hotspot_checkbox_text">Хот-спот WLAN</string>
+    <string name="wifi_hotspot_configure_ap_text">Усталёўка хот-спота WLAN</string>
+    <string name="wifi_hotspot_footer_info_regular">Выкарыстоўвайце хот-спот для стварэння сеткі WLAN для іншых прылад. Хот-спот дае доступ да інтэрнэту праз падключэнне да мабільнай перадачы даных. Мабільны аператар можа спаганяць дадатковую плату.</string>
+    <string name="wifi_limit_optimizations_summary">Абмеж. выкарыст. энергіі WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN у тэрмін</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Не выкарыстоўваць сетку WLAN, калі няма якаснага падключэння да інтэрнэту</string>
+    <string name="wifi_quick_toggle_summary">Уключыць WLAN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Каб павысіць дакладнасць вызначэння месцазнаходжання, а таксама для іншых мэт, невядомая праграма хоча ўключыць сканіраванне сеткі, нават калі WLAN выключаны.
+
+Дазволіць гэта для ўсіх падобных праграм?"</string>
+    <string name="wifi_scan_always_turnon_message">"Каб павысіць дакладнасць размяшчэння і для іншых мэтаў, %1$s хоча ўключыць сеткавае сканаванне, нават калі WLAN выключаны.
+
+Дазволіць для ўсіх прыкладанняў, якія патрабуецца адсканаваць?"</string>
+    <string name="wifi_scan_notify_text">Каб больш дакладна вызначаць месцазнаходжанне, праграмы і службы могуць шукаць сеткі WLAN, нават калі WLAN выключаны. Гэты рэжым дазваляе палепшыць працу функцый і сэрвісаў, звязаных з геалакацыяй. Яго можна адключыць у LINK_BEGINналадах пошукуLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Каб дакладней вызначаць месцазнаходжанне, уключыце пошук сетак WLAN у LINK_BEGINналадахLINK_END.</string>
+    <string name="wifi_scan_throttling">Рэгуляванне пошуку сетак WLAN</string>
+    <string name="wifi_select_network">Выберыце WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN уключаны у рэжыме сну</string>
+    <string name="wifi_setting_sleep_policy_title">Захоўваць WLAN уключанай у рэжыме сну</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">Налады WLAN</string>
+    <string name="wifi_settings_master_switch_title">Выкарыстоўваць WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">Пошук сетак WLAN уключаны</string>
+    <string name="wifi_settings_scanning_required_info">Пошук сетак WLAN дазваляе праграмам і сэрвісам шукаць сеткі WLAN, нават калі WLAN не ўключаны, для паляпшэння функцый і сэрвісаў, якія выкарыстоўваюць геалакацыю.</string>
+    <string name="wifi_settings_scanning_required_summary">Каб уключыць WLAN аўтаматычна, спачатку неабходна ўключыць пошук сетак WLAN.</string>
+    <string name="wifi_settings_scanning_required_title">Уключыць пошук сетак WLAN?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Уключэнне WLAN...</string>
+    <string name="wifi_stopping">Адключэнне WLAN...</string>
+    <string name="wifi_suspend_optimizations">Аптымiзацыя WLAN</string>
+    <string name="wifi_suspend_optimizations_summary">Зменшыць выкарыстанне батарэi, калi ўключана WLAN</string>
+    <string name="wifi_switch_away_when_unvalidated">Пераключыцца на мабільную перадачу даных, калі сетка WLAN страчвае доступ да інтэрнэту.</string>
+    <string name="wifi_tether_configure_ap_text">Наладка хот-спота WLAN</string>
+    <string name="wifi_tether_failed_subtext">Памылка партатыўнага хот-спота WLAN</string>
+    <string name="wifi_tether_settings_subtext">Настройка і кіраванне партатыўнай кропкай доступу WLAN</string>
+    <string name="wifi_tether_settings_text">Парам партат кропкі дост WLAN</string>
+    <string name="wifi_turned_on_message">WLAN уключаны</string>
+    <string name="wifi_verbose_logging">Уключыць падрабязны журнал WLAN</string>
+    <string name="wifi_verbose_logging_summary">Пры выбары сеткі WLAN указваць у журнале RSSI для кожнага SSID</string>
+    <string name="wifi_wakeup">Уключаць WLAN аўтаматычна</string>
+    <string name="wifi_wakeup_summary">WLAN будзе ўключацца аўтаматычна побач з захаванымі высакаякаснымі сеткамі, напрыклад вашай дамашняй сеткай</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Недаступна, бо выключаны пошук сетак WLAN</string>
+</resources>

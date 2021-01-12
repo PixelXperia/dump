@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usb_direct_settings_hi_res_audio_title_txt">Zvuk s vysokým rozlíšením cez USB</string>
+    <string name="wifi_tether_settings_text">Nastavenia prenosného prístupového bodu pre Wi-Fi</string>
+</resources>

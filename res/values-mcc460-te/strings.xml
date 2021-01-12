@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">మీ ఫోన్‌లోని యాప్‌లకు మీ పరికరం పేరు కనిపిస్తుంది. మీరు బ్లూటూత్ పరికరాలకు కనెక్ట్ చేసినప్పుడు లేదా WLAN హాట్‌స్పాట్‌ని సెటప్ చేసినప్పుడు ఇతర వ్యక్తులకు కూడా ఇది కనిపించవచ్చు.</string>
+    <string name="accessibility_no_wifi">WLAN డిస్‌కనెక్ట్ చేయబడింది.</string>
+    <string name="accessibility_wifi_off">WLAN ఆఫ్‌లో ఉంది.</string>
+    <string name="accessibility_wifi_one_bar">WLAN సిగ్నల్ ఒక బార్ ఉంది.</string>
+    <string name="accessibility_wifi_signal_full">WLAN సిగ్నల్ పూర్తిగా ఉంది.</string>
+    <string name="accessibility_wifi_three_bars">WLAN సిగ్నల్ మూడు బార్‌లు ఉంది.</string>
+    <string name="accessibility_wifi_two_bars">WLAN సిగ్నల్ రెండు బార్‌లు ఉంది.</string>
+    <string name="backup_data_summary">అనువర్తన డేటా, WLAN పాస్‌వర్డ్‌లు మరియు ఇతర సెట్టింగ్‌లను Google సర్వర్‌లకు బ్యాకప్ చేయండి</string>
+    <string name="backup_erase_dialog_message">Google సర్వర్‌ల్లో మీ WLAN పాస్‌వర్డ్‌లు, బుక్‌మార్క్‌లు, ఇతర సెట్టింగ్‌లు మరియు అనువర్తన డేటాను బ్యాకప్ చేయడాన్ని ఆపివేయడంతో పాటు అదనంగా అన్ని కాపీలను ఎరేజ్ చేయాలా?</string>
+    <string name="battery_action_wifi">WLAN సెట్టింగ్‌లు</string>
+    <string name="battery_desc_wifi">WLAN ద్వారా వినియోగించబడిన బ్యాటరీ</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">WLAN ఉపయోగించనప్పుడు లేదా ఇది అందుబాటులో లేనప్పుడు దీన్ని ఆపివేయండి</string>
+    <string name="battery_usm_desc">"Ultra STAMINA విధానం బ్యాటరీ కాలాన్ని చాలా సమయానికి పొడిగిస్తుంది. WLAN మరియు మొబైల్ డేటా ద్వారా ఇంటర్నెట్ కనెక్షన్ డిసేబుల్ చేయబడతాయి, డేటా సమకాలీకరణ మరియు WLAN కాలింగ్ వంటి చర్యలు అందుబాటులో ఉండవని గమనించండి. మీ హోమ్ స్క్రీన్ Ultra STAMINA విధాన హోమ్‌కు మారుతుంది.
+
+Ultra STAMINA విధానంలో అందుబాటులో ఉన్న అప్లికేషన్‌లు"</string>
+    <string name="battery_usm_desc_variable">"Ultra STAMINA విధానం బ్యాటరీ కాలాన్ని చాలా సమయానికి పొడిగిస్తుంది. WLAN మరియు మొబైల్ డేటా ద్వారా ఇంటర్నెట్ కనెక్షన్ డిసేబుల్ చేయబడతాయి, డేటా సమకాలీకరణ మరియు %s అందుబాటులో ఉండవని గమనించండి. మీ హోమ్ స్క్రీన్ Ultra STAMINA విధాన హోమ్‌కు మారుతుంది.
+
+Ultra STAMINA విధానంలో అందుబాటులో ఉన్న అప్లికేషన్‌లు"</string>
+    <string name="bluetooth_on_time">WLAN ఆన్‌లో ఉండే సమయం</string>
+    <string name="bs_feature_wifi">WLAN ఆఫ్</string>
+    <string name="change_wifi_state_app_detail_summary">WLANని ఆన్ లేదా ఆఫ్ చేయడానికి, WLAN నెట్‌వర్క్‌లను స్కాన్ చేసి, కనెక్ట్ కావడానికి, నెట్‌వర్క్‌లను జోడించడానికి లేదా తీసివేయడానికి లేదా స్థానికం-మాత్రమే హాట్‌స్పాట్‌ని ప్రారంభించడానికి ఈ యాప్‌ని అనుమతించండి</string>
+    <string name="change_wifi_state_app_detail_switch">WLANని నియంత్రించడానికి యాప్‌ని అనుమతించండి</string>
+    <string name="change_wifi_state_title">WLAN నియంత్రణ</string>
+    <string name="condition_bg_data_summary">నేపథ్య డేటా WLAN ద్వారా మాత్రమే అందుబాటులో ఉంది. WLAN అందుబాటులో లేనప్పుడు కొన్ని అనువర్తనాలు లేదా సేవలపై దీని ప్రభావం ఉండవచ్చు.</string>
+    <string name="condition_cellular_summary">ఇంటర్నెట్‌ WLAN ద్వారా మాత్రమే అందుబాటులో ఉంటుంది</string>
+    <string name="connected_via_app">%1$s ద్వారా కనెక్ట్ చేయబడింది</string>
+    <string name="credential_for_wifi">WLAN కోసం ఇన్‌స్టాల్ చేయబడింది</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN కనెక్ట్ చేయబ.</string>
+    <string name="cw_network_notification">CT WLAN నోటిఫికేషను్ ప్రారంభించు</string>
+    <string name="cw_network_priority">China Telecom WLANను ప్రాధ్యానప.</string>
+    <string name="cw_network_priority_summary">కనెక్షన్‌లో ఇతర WLAN నెట్‌వర్క్‌లు కంటే China Telecom WLAN నెట్‌వర్క్‌లకు ప్రాధాన్యత ఇవ్వబడతాయి</string>
+    <string name="data_service_except_mms_disabled_warning_txt">మీరు WLAN ఉపయోగిస్తే మినహా, మీరు డేటా కనెక్షన్ అవసరమయ్యే ఇంటర్నెట్, ఇమెయిల్ లేదా ఇతర అప్లికేషన్‌లను ఉపయోగించలేరు. మొబైల్ డేటా కనెక్షన్‌ను ఆపివేయాలా?</string>
+    <string name="data_usage_app_summary_title">మొబైల్ డేటా &amp; WLAN</string>
+    <string name="data_usage_disable_wifi_limit">WLAN డేటా పరిమితిని సెట్ చేయి</string>
+    <string name="data_usage_menu_hide_wifi">WLANని దాచు</string>
+    <string name="data_usage_menu_show_wifi">WLANని చూపు</string>
+    <string name="data_usage_metered_wifi">గణించబడే WLAN నెట్‌వర్క్‌లు</string>
+    <string name="data_usage_metered_wifi_disabled">గణించబడే నెట్‌వర్క్‌లను ఎంచుకోవడానికి, WLAN ఆన్ చేయండి.</string>
+    <string name="data_usage_restrict_background">మీరు నేపథ్య మొబైల్ డేటాను నియంత్రిస్తే, WLANకి కనెక్ట్ చేయకుంటే కొన్ని అనువర్తనాలు మరియు సేవలు పని చేయవు.</string>
+    <string name="data_usage_restrict_background_multiuser">"మీరు నేపథ్య మొబైల్ డేటాను నియంత్రిస్తే, WLANకి కనెక్ట్ చేయకుంటే కొన్ని అనువర్తనాలు మరియు సేవలు పని చేయవు.
+
+ఈ సెట్టింగ్ ఈ ఫోన్‌లోని వినియోగదారులందరిపై ప్రభావం చూపుతుంది."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">WLANలో ^1 ఉపయోగించబడింది</string>
+    <string name="data_usage_wifi_title">WLAN డేటా</string>
+    <string name="dialog_message_hint">"STAMINA విధానం కలిగి ఉంది:
+
+• విస్తరించిన స్టాండ్‌బై
+WLAN మరియు మొబైల్ డేటా తాత్కాలికంగా నిలిపివేయబడం ద్వారా స్క్రీన్ ఆఫ్‌లో ఉన్నపుడు పవర్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను సేవ్ చేస్తుంది. చాలా అప్లికేషన్లు నిష్క్రియంగా ఉంటాయి.
+స్క్రీన్ ఆన్ అయినపుడు, మీ పరికరం విధి సాధారణంగా ఉంటుంది.
+విస్తరించిన స్టాండ్‌బై ఆన్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌లో ఉన్నపుడు మీరు కొన్ని అప్లికేషన్‌లను సక్రియంలో ఉంచాలనుకుంటే, స్టాండ్‌బైలో సక్రియంలో ఉన్న అప్లికేషన్‌లు జాబితాకు అప్లికేషన్లను చేర్చండి.
+
+• విస్తరించిన వాడుక
+హార్డువేర్ పనితీరుని పరిమితం చేయడం ద్వారా మీ పరికరం ఉపయోగంలో ఉన్నప్పుడు పవర్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను సేవ్ చేస్తుంది.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>STAMINA విధానం అంటే ఏమిటి?</u>"
+STAMINA విధానం Sony విద్యుత్ ఆదా విధి. డిస్‌ప్లే ఆఫ్‌లో ఉన్నప్పుడు ఇది బ్యాటరీ జీవితకాలాన్ని పొడిగిస్తుంది.
+
+"<u>ప్రాథమిక వినియోగం</u>"
+STAMINA విధానాన్ని సక్రియం చేయడానికి, స్క్రీన్‌పై బటన్‌ను ట్యాప్ చేయండి.
+స్క్రీన్ ఆఫ్‌లో ఉన్నపుడు, బ్యాటరీ జీవితకాలాన్ని ఆదా చేయడానికి, WLAN మరియు మొబైల్ డేటా తాత్కాలికంగా నిలిపివేయబడతాయి మరియు చాలా అప్లికేషన్‌లు నిష్క్రియం చేయబడతాయి.
+స్క్రీన్ ఆన్ అయినపుడు, మీ పరికరం విధి సాధారణంగా ఉంటుంది.
+
+"<u>ఆధునాత వినియోగం</u>"
+STAMINA ఆఫ్‌లో ఉన్నపుడు మీరు కొన్ని అప్లికేషన్‌లను సక్రియంలో ఉంచాలనుకుంటే, స్టాండ్‌బై‌లో సక్రియంలో ఉన్న అప్లికేషన్‌ల జాబితాకు వాటిని జోడించండి.
+జాబితాకు జోడించబడకపోతే అప్లికేషన్‌లు సరిగ్గా పని చేయకపోవచ్చు.
+
+"<u>గమనిక</u>"
+అప్లికేషన్ సరిగ్గా పనిచేయకపోతే, స్టాండ్‌బైలో సక్రియంలో ఉన్న అప్లికేషన్‌ల జాబితాకు దానిని జోడించండి లేదా ఇది పనిచేయకపోతే, STAMINA విధానాన్ని ఆపివేయండి."</string>
+    <string name="emergency_address_summary">WLAN ద్వారా అత్యవసర కాల్ చేసినప్పుడు మీ స్థానాన్ని ఉపయోగించబడుతుంది</string>
+    <string name="fullbackup_data_summary">"డివైజ్ డేటా (WLAN పాస్‌వర్డ్‌లు మరియు కాల్ చరిత్ర వంటివి) మరియు యాప్ డేటాను (సెట్టింగ్‌లు మరియు యాప్‌ల ద్వారా నిల్వ చేయబడిన ఫైల్‌లు వంటివి) స్వయంచాలకంగా రిమోట్ విధానంలో బ్యాకప్ చేస్తుంది.
+
+మీరు స్వీయ బ్యాకప్‌ను ఆన్ చేసినప్పుడు, డివైజ్ మరియు యాప్ డేటా కాలానుగుణంగా రిమోట్ విధానంలో సేవ్ చేయబడుతుంది. డివైజ్‌లు, సందేశాలు మరియు ఫోటోల వంటి సున్నితమైన వ్యక్తిగత డేటాతో సహా యాప్ సేవ్ చేసిన (డెవలపర్ సెట్టింగ్‌ల ఆధారంగా) ఎలాంటి డేటా అయినా యాప్ డేటాగా పరిగణించబడుతుంది."</string>
+    <string name="fullbackup_erase_dialog_message">పరికర డేటా (WLAN పాస్‌వర్డ్‌లు మరియు కాల్ చరిత్ర వంటివి) మరియు అనువర్తన డేటాను (సెట్టింగ్‌లు మరియు అనువర్తనాల ద్వారా నిల్వ చేయబడిన ఫైల్‌లు వంటివి) బ్యాకప్ చేయడం ఆపివేసి, రిమోట్ సర్వర్‌ల్లోని అన్ని కాపీలను తీసివేయాలా?</string>
+    <string name="install_wapi_certs">WLAN ప్రమాణ పత్రాలను ఇన్‌స్టాల్ చేయండి</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN నోటిఫికేషన్, wifi నోటిఫికేషన్</string>
+    <string name="l_dialog_message_hint">"STAMINA విధానంలో ఇవి ఉంటాయి:
+
+• విస్తారిత స్టాండ్‌బై
+WLAN తాత్కాలికంగా నిలిపివేయబడం ద్వారా స్క్రీన్ ఆఫ్‌లో ఉన్నపుడు పవర్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను ఆదా చేస్తుంది. అత్యధిక అప్లికేషన్‌లు నిష్క్రియపరచబడతాయి.
+స్క్రీన్ ఆన్ అయినపుడు, మీ పరికరం సాధారణంగా పని చేస్తుంది.
+విస్తారిత స్టాండ్‌బై మోడ్‌లో మీరు కొన్ని అప్లికేషన్‌లను సక్రియంలో ఉంచాలనుకుంటే, స్టాండ్‌బైలో సక్రియంలో ఉన్న అప్లికేషన్‌ల జాబితాకు వాటిని జోడించండి.
+
+• విస్తారిత వాడుక
+హార్డ్‌వేర్ పనితీరుని పరిమితం చేయడం ద్వారా మీ పరికరం ఉపయోగంలో ఉన్నప్పుడు పవర్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ను ఆదా చేస్తుంది."</string>
+    <string name="location_based_wifi">స్థాన ఆధారిత WLAN</string>
+    <string name="location_neighborhood_level_wifi">స్థానం WLAN ద్వారా గుర్తించబడింది</string>
+    <string name="location_network_based">WLAN &amp; మొబైల్ నెట్‌వర్క్ స్థానం</string>
+    <string name="location_scanning_screen_title">WLAN, బ్లూటూత్‌ స్కానింగ్‌</string>
+    <string name="location_scanning_wifi_always_scanning_description">WLAN ఆఫ్‌లో ఉన్నా కూడా, ఏ సమయంలోనైనా WLAN నెట్‌‍వర్క్‌లను స్కాన్ చేయడానికి యాప్‌లను మరియు సేవలను అనుమతించండి. ఉదాహరణకు, ఇది స్థాన ఆధారిత ఫీచర్‌లు మరియు సేవలను మెరుగుపరచడానికి ఉపయోగించబడుతుంది.</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN స్కానింగ్</string>
+    <string name="lost_internet_access_cancel">అలాగే WLANలో ఉంచు</string>
+    <string name="lost_internet_access_text">WLAN కనెక్షన్ బలహీనంగా ఉన్నప్పుడు మీరు మొబైల్ నెట్‌వర్క్‌కు మారవచ్చు. డేటా వినియోగ ఛార్జీలు వర్తించవచ్చు.</string>
+    <string name="lost_internet_access_title">WLAN ఇంటర్నెట్‌కు కనెక్ట్ కాలేదు</string>
+    <string name="mobile_data_always_on_summary">ఎల్లప్పుడూ మొబైల్ డేటాను యాక్టివ్‌గా ఉంచు, WLAN యాక్టివ్‌గా ఉన్నా కూడా (వేగవంతమైన నెట్‌వర్క్ మార్పు కోసం).</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN సహాయకాన్ని మార్చాలా?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">మీ ప్రస్తుత WLAN నెట్‌వర్క్‌ను పంచుకోవడానికి, సెట్టింగుల్లో \"WLAN సమాచారాన్ని పంచుకోండి\" ఎంపిక ఎంచుకోండి.</string>
+    <string name="nfc_wifi_share_checkbox">WLAN సమాచారాన్ని పంచుకోండి</string>
+    <string name="nfc_wifi_share_title_txt">WLAN సమాచారాన్ని పంచుకోండి</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;T WLAN హాట్‌స్పాట్‌కు ఆటో కనెక్ట్</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN ఆటో కనెక్ట్</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">మీరు WLAN ఉపయోగిస్తే మినహా, మీరు డేటా కనెక్షన్ అవసరమయ్యే ఇంటర్నెట్, ఇమెయిల్ లేదా ఇతర అప్లికేషన్‌లను ఉపయోగించలేరు. మొబైల్ డేటా కనెక్షన్‌ను ఆపివేయాలా?</string>
+    <string name="powersaver_feature_wifi">WLAN ఆఫ్</string>
+    <string name="radio_controls_summary">WLAN, బ్లూటూత్, ఎయిర్‌ప్లేన్ మోడ్, మొబైల్ నెట్‌వర్క్‌లు &amp; VPNలను నిర్వహించు</string>
+    <string name="radio_info_ims_reg_status">"IMS నమోదు: %1$s
+వాయిస్ ఓవర్ LTE: %2$s
+వాయిస్ ఓవర్ WLAN: %3$s
+వీడియో కాలింగ్: %4$s
+UT ఇంటర్‌ఫేస్: %5$s"</string>
+    <string name="reset_network_desc">"ఇది అన్ని నెట్‌వర్క్ సెట్టింగ్‌లను రీసెట్ చేస్తుంది, వీటితో సహా:
+
+"<li>WLAN</li>"
+"<li>మొబైల్ డేటా</li>"
+"<li>బ్లూటూత్</li></string>
+    <string name="restriction_wifi_config_summary">WLAN మరియు మొబైల్ సెట్టింగ్‌ల సవరణను అనుమతించండి</string>
+    <string name="restriction_wifi_config_title">WLAN మరియు మొబైల్</string>
+    <string name="scanning_status_text_wifi_off_ble_off">WLAN, బ్లూటూత్ స్కానింగ్ రెండూ ఆఫ్‌లో ఉన్నాయి</string>
+    <string name="scanning_status_text_wifi_off_ble_on">బ్లూటూత్ స్కానింగ్ ఆన్‌లో ఉంది, WLAN స్కానింగ్ ఆఫ్‌లో ఉంది</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN స్కానింగ్ ఆన్‌లో ఉంది, బ్లూటూత్ స్కానింగ్ ఆఫ్‌లో ఉంది</string>
+    <string name="scanning_status_text_wifi_on_ble_on">WLAN, బ్లూటూత్ స్కానింగ్ రెండూ ఆన్‌లో ఉన్నాయి</string>
+    <string name="somc_backup_failed_no_wifi_summary">WLAN కనెక్షన్ కోసం వేచి ఉంది</string>
+    <string name="somc_wifi_turned_on_info">WLAN ఆన్ చేయబడింది. జాబితాలోని మీ నెట్‌వర్క్ ఎంచుకోండి.</string>
+    <string name="stamina_xssm_summary">స్క్రీన్ ఆఫ్‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌లో ఉన్నప్పుడు, మొబైల్ డేటా మరియు WLAN డిసేబుల్ చేయబడుతాయి</string>
+    <string name="status_wifi_mac_address">WLAN MAC చిరునామా</string>
+    <string name="tethering_no_sim_warning_txt">ఇంటర్నెట్ యాక్సెస్ కోసం మొబైల్ WLAN హాట్‌స్పాట్ లేదా USB టీథరింగ్‌ను ఉపయోగించి ఇతర పరికరాలతో మీ ఫోన్ డేటా కనెక్షన్‌ను పంచుకోవడానికి దయచేసి SIM కార్డును చొప్పించండి.</string>
+    <string name="usage_type_data_wifi_recv">స్వీకరించబడిన WLAN ప్యాకెట్‌లు</string>
+    <string name="usage_type_data_wifi_send">పంపబడిన WLAN ప్యాకెట్‌లు</string>
+    <string name="usage_type_wifi_running">WLAN అమలవుతున్నది</string>
+    <string name="user_add_user_message_long">"అదనపు వినియోగదారులను సృష్టించడం ద్వారా మీరు ఈ పరికరాన్ని ఇతరులతో షేర్ చేయవచ్చు. ప్రతి వినియోగదారుకు వారికంటూ ప్రత్యేక స్థలం ఉంటుంది, వారు ఆ స్థలాన్ని యాప్‌లు, వాల్‌పేపర్ మొదలైనవాటితో అనుకూలీకరించవచ్చు. వినియోగదారులు ప్రతి ఒక్కరిపై ప్రభావం చూపే WLAN వంటి పరికర సెట్టింగ్‌లను కూడా సర్దుబాటు చేయవచ్చు.
+
+మీరు కొత్త వినియోగదారును జోడించినప్పుడు, ఆ వ్యక్తి వారికంటూ స్వంత స్థలం సెట్ చేసుకోవాలి.
+
+ఏ వినియోగదారు అయినా మిగిలిన అందరు వినియోగదారుల కోసం యాప్‌లను అప్‌డేట్ చేయవచ్చు. యాక్సెస్ సామర్ధ్యం సెట్టింగ్‌లు మరియు సేవలు కొత్త వినియోగదారుకి బదిలీ కాకపోవచ్చు."</string>
+    <string name="usm_descr">"Ultra STAMINA విధానం బ్యాటరీ జీవితకాలాన్ని మరింత కాలం పొడిగిస్తుంది. మీకు మీ పరికరాన్ని ఛార్జ్ చేయడానికి సమయం లేనప్పుడు దీనిని ఉపయోగించవచ్చు.
+
+ఫోన్ మరియు సందేశం పంపే సామర్థ్యం వంటి కొన్ని ప్రాథమిక విధులు మాత్రమే అందుబాటులో ఉంటాయి. మరిన్ని వివరాలు కోసం \"మరింత సమాచారం\" టాప్ చేయండి.
+
+WLAN మరియు మొబైల్ డేటా ద్వారా ఇంటర్నెట్ కనెక్షన్ డిసేబుల్ చేయబడుతుంది."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"WLAN కాలింగ్ ద్వారా అత్యవసర కాల్‌‌లు చేయడం సాధ్యం కావు.
+అత్యవసర కాల్‌‌ను‌‌ చేయడానికి పరికరం స్వయంచాలకంగా సెల్యూలర్ నెట్‌వర్క్‌కు (2G/3G) మారుతుంది.
+సెల్యూలర్ కవరేజ్‌లో మాత్రమే అత్యవసర కాల్‌‌లు అందుబాటులో ఉంటాయి."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">WLAN కాలింగ్ ద్వారా అత్యవసర కాల్‌‌లు</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone WLAN కాలింగ్</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"WLAN కాలింగ్‌ను ఆన్ చేయడానికి, మీరు స్థానాన్ని ఆన్ చేసి, ఆపై అధిక ఖచ్చితత్వం లేదా బ్యాటరీ సేవింగ్ మోడ్‌ను ఎంపిక చేయాలి.
+
+దయచేసి WLAN కాల్ చేస్తున్నప్పుడు స్థానం ఆన్‌లో ఉన్నట్లు నిర్ధారించుకోండి."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"WLAN కాలింగ్ ద్వారా అత్యవసర కాల్‌‌లు చేయడం సాధ్యం కావు.
+అత్యవసర కాల్‌‌ను‌‌ చేయడానికి పరికరం స్వయంచాలకంగా సెల్యూలర్ నెట్‌వర్క్‌కు (2G/3G) మారుతుంది.
+సెల్యూలర్ కవరేజ్‌లో మాత్రమే అత్యవసర కాల్‌‌లు అందుబాటులో ఉంటాయి."</string>
+    <string name="wfc_location_info_dialog_desc_txt">స్థాన సెట్టింగ్ ఎనేబుల్ చేయబడినా లేకున్నా WLAN కాల్‌లను ఏర్పాటు చేయడానికి మీ స్థాన సంబంధిత సమాచారాన్ని Googleకు మరియు మీ ఆపరేటర్‌కు పంపబడుతుంది.</string>
+    <string name="wfc_provisioned_switch_string">WLAN కాలింగ్ సదుపాయం ఉంది</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN నెట్‌వర్క్‌లు</string>
+    <string name="wifi_advanced_not_available">ఈ వినియోగదారుకి WLAN అధునాతన సెట్టింగ్‌లు అందుబాటులో లేవు</string>
+    <string name="wifi_advanced_settings_label">WLAN సెట్టింగ్‌లు</string>
+    <string name="wifi_advanced_titlebar">అధునాతన WLAN</string>
+    <string name="wifi_ap_band_select_one">WLAN హాట్‌స్పాట్ కోసం కనీసం ఒక బ్యాండ్‌ను ఎంచుకోండి:</string>
+    <string name="wifi_ask_disable">%s WLANని ఆఫ్ చేయాలనుకుంటోంది</string>
+    <string name="wifi_ask_enable">%s WLANని ఆన్ చేయాలనుకుంటోంది</string>
+    <string name="wifi_auto_network_switch_setting_msg">WLAN నెట్‌వర్క్ మరియు మొబైల్ నెట్‌వర్క్‌లు రెండూ అందుబాటులో ఉన్నప్పుడు స్వయంచాలకంగా ప్రాధాన్య నెట్‌వర్క్‌కు మారుతుంది</string>
+    <string name="wifi_calling_link_to_register_emergency_address">WLAN కాలింగ్‌ను నమోదు చేయడానికి లేదా ఇప్పటికే ఉన్న మీ అత్యవసర చిరునామాను అప్‌డేట్ చేయడానికి ఇక్కడ క్లిక్ చేయండి</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">మొబైల్ నెట్‌వర్క్ అందుబాటులో లేకపోతే, WLANని ఉపయోగించు</string>
+    <string name="wifi_calling_mode_wifi_only_summary">WLAN ద్వారా కాల్ చేయగలరు. WLANని కోల్పోతే, కాల్ ముగిసిపోతుంది.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">WLAN అందుబాటులో లేకుంటే, మొబైల్ నెట్‌వర్క్‌ను ఉపయోగిస్తుంది</string>
+    <string name="wifi_calling_not_supported">%1$sలో WLAN కాలింగ్‌కు మద్దతు లేదు</string>
+    <string name="wifi_calling_off_explanation">"మొబైల్ నెట్‌వర్క్ కవరేజ్ బలహీనంగా ఉన్న స్థలాల్లో కాల్ నాణ్యతను మెరుగుపరచడానికి WLAN కాలింగ్ ఉపయోగించండి.
+
+ధర
+WLAN కాలింగ్ ఛార్జీలు గురించి మరింత సమాచారం కోసం, దయచేసి మీ సర్వీసు ప్రొవైడర్‌ను సంప్రదించండి.
+
+WLAN కాలింగ్‌పై గమనికలు
+WLAN కాలింగ్‌లో కొనసాగడానికి, WLAN పరిధిలో ఉన్నట్లు నిర్ధారించుకోండి."</string>
+    <string name="wifi_calling_on_dialog_text">WLAN కాలింగ్ ఉపయోగించడానికి, మొబైల్ డేటా కోసం ప్రాధాన్య SIM ను SIM 1 కు సెట్ చేయండి</string>
+    <string name="wifi_calling_settings_activation_instructions">WLAN కాలింగ్‌ను సక్రియం చేయండి</string>
+    <string name="wifi_calling_settings_title">WLAN కాలింగ్</string>
+    <string name="wifi_calling_suggestion_summary">కవరేజిని విస్తరించడానికి WLAN కాలింగ్‌ను ఆన్ చేయండి</string>
+    <string name="wifi_calling_suggestion_title">WLANతో కాల్‌లను విస్తరింపజేయండి</string>
+    <string name="wifi_calling_summary">కాల్‌ల నాణ్యతను మెరుగుపరచడానికి WLANని ఉపయోగించు</string>
+    <string name="wifi_calling_turn_on">WLAN కాలింగ్‌ను ఆన్ చేయండి</string>
+    <string name="wifi_carrier_connect">క్యారియర్ WLAN నెట్‌వర్క్</string>
+    <string name="wifi_cellular_data_fallback_summary">WLANకి ఇంటర్నెట్ యాక్సెస్ లేనప్పుడు మొబైల్ డేటాను ఉపయోగిస్తుంది. డేటా వినియోగ ఛార్జీలు వర్తించవచ్చు.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN ఆటోమేటిక్‌గా తిరిగి ఆన్ చేయబడదు</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN ఆటోమేటిక్‌గా తిరిగి ఆన్ చేయబడుతుంది</string>
+    <string name="wifi_configure_settings_preference_title">WLAN ప్రాధాన్యతలు</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN ప్రమాణ పత్రాన్ని మార్చండి</string>
+    <string name="wifi_data_template">^1 WLAN డేటా</string>
+    <string name="wifi_data_usage">WLAN డేటా వినియోగం</string>
+    <string name="wifi_disabled_wifi_failure">WLAN కనెక్షన్ వైఫల్యం</string>
+    <string name="wifi_dpp_add_device_to_wifi">“%1$s”కి ఈ పరికరాన్ని జోడించాలా?</string>
+    <string name="wifi_dpp_center_qr_code">“%1$s”కి పరికరాన్ని జోడించడానికి QR కోడ్‌ను దిగువున చూపించండి</string>
+    <string name="wifi_dpp_failure_not_supported">“%1$s”ను జోడించడానికి ఈ పరికరం మద్దతు ఇవ్వదు</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">“%1$s”కు కనెక్ట్ చేయడానికి ఈ QR కోడ్‌ను స్కాన్ చేయండి</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">“%1$s”కి కనెక్ట్ అవ్వడానికి ఈ కింద QR కోడ్ నమోదు చేయండి</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">QR కోడ్‌ని స్కాన్ చేయడం ద్వారా WLANలో చేరండి</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">“%1$s”కు కనెక్ట్ చేయడానికి, అలాగే షేర్ చేయడానికి ఈ QR కోడ్‌ను స్కాన్ చేయండి</string>
+    <string name="wifi_dpp_share_wifi">WLAN షేర్ చేయి</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">ఈ పరికరంతో WLANని షేర్ చేస్తోంది…</string>
+    <string name="wifi_dpp_wifi_password">WLAN పాస్‌వర్డ్: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">ఈ పరికరంతో WLAN షేర్ చేయబడింది</string>
+    <string name="wifi_empty_list_user_restricted">మీకు WLAN నెట్‌వర్క్‌ను మార్చడానికి అనుమతి లేదు.</string>
+    <string name="wifi_empty_list_wifi_off">అందుబాటులో ఉన్న నెట్‌వర్క్‌లను చూడటానికి, WLAN ప్రారంభించండి.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN నెట్‌వర్క్‌ల కోసం శోధిస్తోంది…</string>
+    <string name="wifi_hotspot_auto_off_summary">పరికరాలు ఏవీ కనెక్ట్ కాకపోతే WLAN హాట్‌స్పాట్‌ ఆఫ్ అవుతుంది</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN హాట్‌స్పాట్ సెటప్</string>
+    <string name="wifi_hotspot_footer_info_regular">మీ ఇతర పరికరాల కోసం WLAN నెట్‌వర్క్‌ని సృష్టించడానికి హాట్‌స్పాట్‌ని ఉపయోగించండి. హాట్‌స్పాట్ అనేది మీ మొబైల్ డేటా కనెక్షన్‌ని ఉపయోగించి ఇంటర్నెట్‌ని అందిస్తుంది. అదనపు మొబైల్ డేటా ఛార్జీలు చెల్లించాల్సి రావచ్చు.</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">WLAN ఆన్‌లో ఉంటే అందుబాటులో ఉన్న Passpoint నెట్‌వర్క్‌లకు స్వయంచాలకంగా కనెక్ట్ చేయి</string>
+    <string name="wifi_limit_optimizations_summary">WLAN విని. బ్యాటరీ పరి. చేయి</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN ఆన్‌లో ఉండే సమయం</string>
+    <string name="wifi_p2p_settings">WLAN Direct సెట్టింగ్‌లు</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">WLAN నెట్‌వర్క్ ఉత్తమ ఇంటర్నెట్ కనెక్షన్‌ను కలిగి ఉంటే మినహా ఉపయోగించవద్దు</string>
+    <string name="wifi_quick_toggle_summary">WLANని ప్రారంభించండి</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"స్థాన ఖచ్చితత్వం మెరుగుపరచడం, ఇతర ప్రయోజనాల దృష్ట్యా, ఒక తెలియని యాప్ WLAN ఆఫ్‌లో ఉన్నప్పటికీ నెట్‌వర్క్‌ను స్కాన్ చేయడానికి అనుమతి కోరుతోంది.
+
+స్కాన్ చేయాలనుకునే అన్ని యాప్‌ల కోసం దీన్ని అనుమతించాలా?"</string>
+    <string name="wifi_scan_always_turnon_message">"స్థాన ఖచ్చితత్వాన్ని మెరుగుపరచడానికి మరియు ఇతర ప్రయోజనాల దృష్ట్యా, %1$s WLAN ఆఫ్‌లో ఉన్నప్పటికీ, నెట్‌వర్క్‌ను స్కాన్ చేయడం ప్రారంభించాలనుకుంటుంది.
+
+స్కాన్ చేయాలనుకునే అన్ని అనువర్తనాల కోసం దీన్ని అనుమతించాలా?"</string>
+    <string name="wifi_scan_notify_text">స్థాన ఖచ్చితత్వం, యాప్‌లు మరియు సేవలను మెరుగుపరచడానికి, ఇప్పటికీ ఏ సమయంలో అయినా WLAN నెట్‌వర్క్‌ల కోసం స్కాన్ చేయగలదు. ఉదాహరణకు, దీనిని ఉపయోగించి స్థాన ఆధారిత ఫీచర్‌లు మరియు సేవలను మెరుగుపరచవచ్చు. మీరు దీనిని LINK_BEGINస్కానింగ్ సెట్టింగ్‌లుLINK_ENDలో మార్చవచ్చు.</string>
+    <string name="wifi_scan_notify_text_scanning_off">స్థాన ఖచ్చితత్వాన్ని మెరుగుపరచాలంటే, LINK_BEGINస్కానింగ్ సెట్టింగ్‌లుLINK_ENDలో WLAN స్కానింగ్‌ని ఆన్ చేయండి.</string>
+    <string name="wifi_scan_throttling">WLAN స్కాన్ కుదింపు</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERTతో భద్రత అందించబడింది</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSKతో భద్రత అందించబడింది</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">WLANను ఎంచుకోండి</string>
+    <string name="wifi_setting_on_during_sleep_title">నిద్రావస్థలో WLAN ఆన్‌లో ఉంచు</string>
+    <string name="wifi_setting_sleep_policy_title">నిద్రావస్థలో ఉన్నప్పుడు WLANని ఆన్‌లో ఉంచు</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN సెట్టింగ్‌లు</string>
+    <string name="wifi_settings_master_switch_title">WLANని ఉపయోగించండి</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN స్కానింగ్ ఆన్ చేయబడింది</string>
+    <string name="wifi_settings_scanning_required_info">WLAN ఆఫ్‌లో ఉన్నా కూడా, ఏ సమయంలోనైనా WLAN నెట్‌‍వర్క్‌లను స్కాన్ చేయడానికి యాప్‌లను మరియు సేవలను WLAN స్కానింగ్ అనుమతిస్తుంది. ఉదాహరణకు, ఇది స్థాన ఆధారిత ఫీచర్‌లు మరియు సేవలను మెరుగుపరచడానికి ఉపయోగించబడుతుంది.</string>
+    <string name="wifi_settings_scanning_required_summary">WLANని ఆటోమేటిక్‌గా ఆన్ చేయడానికి, మీరు ముందుగా WLAN స్కానింగ్‌ని ఆన్ చేయాలి.</string>
+    <string name="wifi_settings_scanning_required_title">WLAN స్కానింగ్‌ను ఆన్ చేయాలా?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLANను ప్రారంభిస్తోంది…</string>
+    <string name="wifi_stopping">WLANని ఆపివేస్తోంది…</string>
+    <string name="wifi_suspend_optimizations">WLAN అనుకూలీకరణ</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN ఆన్‌లో ఉన్నప్పుడు బ్యాటరీ వినియోగాన్ని కనిష్టీకరించు</string>
+    <string name="wifi_switch_away_when_unvalidated">WLANకి ఇంటర్నెట్ యాక్సెస్ లేకపోతే మొబైల్ డేటాకు మారండి.</string>
+    <string name="wifi_tether_settings_subtext">పోర్టబుల్ WLAN హాట్‌స్పాట్‌ను సెటప్ చేసి, నిర్వహించండి</string>
+    <string name="wifi_tether_settings_text">పోర్టబుల్ WLAN హాట్‌స్పాట్ సెట్టింగ్‌లు</string>
+    <string name="wifi_tethering_warning_txt">మీడియా బదిలీ, ఫోన్ సాఫ్ట్‌వేర్ నవీకరణ, బ్యాక్అప్ మరియు పునరుద్ధరణ వంటి ఏవైనా జరుగుతున్న WLAN విధులకు అంతరాయం కలగవచ్చు.</string>
+    <string name="wifi_turned_on_message">WLAN ఆన్ చేయబడింది</string>
+    <string name="wifi_verbose_logging">WLAN విశదీకృత లాగింగ్‌ను ప్రారంభించండి</string>
+    <string name="wifi_verbose_logging_summary">WLAN ఎంపికలో SSID RSSI ప్రకారం చూపబడే WLAN లాగింగ్ స్థాయిని పెంచండి</string>
+    <string name="wifi_wakeup">WLANని ఆటోమేటిక్‌గా ఆన్ చేయి</string>
+    <string name="wifi_wakeup_summary">మీ ఇంటి నెట్‌వర్క్‌ల వంటి సేవ్ చేసిన అధిక నాణ్యత గల నెట్‌వర్క్‌లు అందుబాటులో ఉన్నప్పుడు WLAN తిరిగి ఆన్ చేయబడుతుంది</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">WLAN స్కానింగ్ ఆఫ్ చేయబడినందున అందుబాటులో లేదు</string>
+    <string name="wifi_wps_category_title">WLAN నెట్‌వర్క్ సెటప్ చేయండి</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN డిస్‌కనెక్ట్ చేయబడింది. సెటప్ రద్దు చేయబడింది.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINA విధానం పరికర సెట్టింగులను సవరించడం ద్వారా బ్యాటరీ పవర్‌ను ఆదా చేస్తుంది. మీరు నిద్రాణ మోడ్‌లో తక్కువ పనితనంతో అమలు చేయడానికి అప్లికేషన్‌లను ఎంచుకోగలరు. (ఇది బ్యాటరీ పవర్ ఆదా చేయడానికి మీకు సహాయపడుతుంది ఎందుకంటే నిద్రాణ మోడ్‌లో కూడా అత్యధిక అప్లికేషన్‌లు బ్యాటరీని ఖాళీ చేస్తూ ఉంటాయి.)
+
+ఎంపిక చేసిన అప్లికేషన్‌లు కోసం ఈ విధులు డిసేబుల్ చేయబడతాయి:
+- WLAN
+- మొబైల్ డేటా
+- టైమర్
+
+నిద్రాణ మోడ్‌లో నోటిఫికేషన్ లైట్ అన్ని అప్లికేషన్‌లకు ఒకే ఫ్రీక్వెన్సీతో ఒకే రంగులో ఫ్లాష్ అవుతుంది.
+
+మీరు పరికరాన్ని నియంత్రిస్తున్నప్పుడు STAMINA విధానం నిష్క్రియపరచబడుతుంది."</string>
+</resources>

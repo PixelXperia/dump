@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.IntentPreference android:key="ambient_settings_top" settings:before="first" settings:dependOnIsValidIntent="true" settings:dependOnResource="@bool/config_showAmbientSettings" settings:hasMetaData="true">
+        <intent android:action="com.sonymobile.settings.intent.action.LOCKSCREEN_AMBIENT_SETTINGS_TOP" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="lockscreen" settings:after="lockscreen_category" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:action="com.sonyericsson.settings.intent.action.LOCKSCREEN" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.SwitchPreference android:title="@string/lockscreen_double_tap_to_lock_screen_title_txt" android:key="double_tap_to_lockscreen" android:summary="@string/lockscreen_double_tap_to_lock_screen_summary_txt" android:defaultValue="false" settings:after="lockscreen" settings:dependOnResource="@bool/config_showDoubleTapToLockscreenSettings" settings:valueOfSettingsSecure="double_tap_to_lockscreen_setting" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="double_tap_to_lockscreen" settings:moveTargetKey="security_setting_lockdown_enabled" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="security_setting_lockdown_enabled" settings:moveTargetKey="security_lockscreen_add_users_when_locked" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="security_lockscreen_add_users_when_locked" settings:moveTargetKey="album_art" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="album_art" settings:moveTargetKey="owner_info_settings" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="owner_info_settings" settings:moveTargetKey="notification_category" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="notification_category" settings:moveTargetKey="security_setting_lock_screen_notif" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="security_setting_lock_screen_notif" settings:moveTargetKey="somc.lockscreen.keep_notifications" />
+    <com.sonymobile.settings.preference.RemovePreference settings:targetKey="lockscreen_what_to_show" />
+    <com.sonymobile.settings.preference.RemovePreference settings:targetKey="ambient_display_category_when_to_show" />
+    <com.sonymobile.settings.preference.RemovePreference settings:targetKey="ambient_display_always_on" />
+    <com.sonymobile.settings.preference.RemovePreference settings:targetKey="ambient_display_tap" />
+    <com.sonymobile.settings.preference.RemovePreference settings:targetKey="ambient_display_double_tap" />
+    <com.sonymobile.settings.preference.RemovePreference settings:targetKey="ambient_display_pick_up" />
+    <com.sonymobile.settings.preference.RemovePreference settings:targetKey="ambient_display_notification" />
+</PreferenceScreen>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceCategory android:title="@string/device_connection_features_for_speaker_tv_txt" android:key="speaker_tv_category" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="speaker_tv_category" settings:moveTargetKey="wifi_display" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="screen_mirroring_settings" settings:after="speaker_tv_category" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.tvout.wifidisplay" android:targetClass="com.sonymobile.tvout.wifidisplay.WfdStarterActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="media_server_settings" settings:after="speaker_tv_category" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.dlna" android:targetClass="com.sonyericsson.dlna.server.DMSMainActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <PreferenceCategory android:title="@string/nfc_quick_toggle_title" android:key="nfc_category" />
+    <com.sonymobile.settings.preference.SwitchPreference android:title="@string/nfc_screen_sync_setting_title" android:key="nfc_screen_sync_setting" android:summary="@string/summary_placeholder" settings:dependOnIsValidIntent="true" settings:valueOfSettingsSecure="somc.nfc_screen_sync_enabled">
+        <intent android:targetPackage="com.sonymobile.nfc.clfstate" android:action="com.sonymobile.nfc.action.NOTIFY_SCREEN_SYNC_SETTING_CHANGED" android:targetClass="com.sonymobile.nfc.clfstate.ScreenLockSyncSettingReceiver" />
+    </com.sonymobile.settings.preference.SwitchPreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnSystemProperty="ro.sys.sync_setting_on_security" settings:targetKey="nfc_screen_sync_setting" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="nfc_category" settings:moveTargetKey="toggle_nfc" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="nfc_category" settings:moveTargetKey="nfc_secure_settings" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="nfc_category" settings:moveTargetKey="nfc_screen_sync_setting" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="nfc_category" settings:moveTargetKey="android_beam_settings" />
+    <PreferenceCategory android:title="@string/device_connection_features_for_game_controller_txt" android:key="game_controller_category">
+        <com.sonymobile.settings.preference.IntentPreference android:key="playstation_connectivity" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+            <intent android:targetPackage="com.sonymobile.dualshockmanager" android:targetClass="com.sonymobile.dualshockmanager.MenuListActivity" />
+        </com.sonymobile.settings.preference.IntentPreference>
+    </PreferenceCategory>
+    <com.sonymobile.settings.preference.PreferenceCategory android:title="@string/device_connection_features_for_usb_txt" android:key="usb_category" settings:before="game_controller_category">
+        <com.sonymobile.settings.preference.IntentPreference android:key="usb_settings" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+            <intent android:targetPackage="com.sonyericsson.usbux" android:targetClass="com.sonyericsson.usbux.settings.ConnectivitySettingsActivity" />
+        </com.sonymobile.settings.preference.IntentPreference>
+    </com.sonymobile.settings.preference.PreferenceCategory>
+    <PreferenceCategory android:title="@string/settings_header_printing_txt" android:key="printing_category" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="printing_category" settings:moveTargetKey="connected_device_printing" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="osaifukeitai_settings" settings:after="nfc_category" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.nfclock" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.nfclock.NfcSettings" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnIsValidIntent="true" settings:targetKey="toggle_nfc">
+        <intent android:targetPackage="com.sonymobile.nfclock" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.nfclock.NfcSettings" />
+    </com.sonymobile.settings.preference.RemovePreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnIsValidIntent="true" settings:targetKey="android_beam_settings">
+        <intent android:targetPackage="com.sonymobile.nfclock" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.nfclock.NfcSettings" />
+    </com.sonymobile.settings.preference.RemovePreference>
+    <com.sonymobile.settings.preference.RemovePreference settings:dependOnIsValidIntent="true" settings:targetKey="nfc_secure_settings">
+        <intent android:targetPackage="jp.softbank.mb.nfclockap" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.nfc.lock.sbm.LockSettings" />
+    </com.sonymobile.settings.preference.RemovePreference>
+</PreferenceScreen>

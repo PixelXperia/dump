@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">ឈ្មោះ​ឧបករណ៍​របស់អ្នក​អាច​ឱ្យ​កម្មវិធី​នៅលើ​ទូរសព្ទ​របស់អ្នក​មើលឃើញ។ វា​ក៏​អាច​ឱ្យ​អ្នក​ដទៃ​មើល​ឃើញ​ផងដែរ នៅពេល​ដែលអ្នក​ភ្ជាប់​ទៅ​ឧបករណ៍​ប៊្លូធូស ឬ​រៀបចំ​ហតស្ប៉ត WLAN ។</string>
+    <string name="accessibility_no_wifi">បានផ្តាច់ WLAN</string>
+    <string name="accessibility_wifi_off">បានបិទ WLAN</string>
+    <string name="accessibility_wifi_one_bar">WLAN មួយកាំ</string>
+    <string name="accessibility_wifi_signal_full">សេវា WLAN ពេញ</string>
+    <string name="accessibility_wifi_three_bars">WLAN បីកាំ</string>
+    <string name="accessibility_wifi_two_bars">WLAN ពីរកាំ</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="change_wifi_state_app_detail_summary">អនុញ្ញាត​ឱ្យ​កម្មវិធី​នេះ​បើក ឬបិទ WLAN ស្កេន និងភ្ជាប់បណ្តាញ WLAN បញ្ចូល ឬលុប​បណ្តាញ ឬចាប់ផ្តើមតែហតស្ប៉តមូលដ្ឋាន​ប៉ុណ្ណោះ</string>
+    <string name="change_wifi_state_app_detail_switch">អនុញ្ញាត​ឱ្យ​កម្មវិធី​គ្រប់គ្រង WLAN</string>
+    <string name="change_wifi_state_title">ការ​គ្រប់គ្រង WLAN</string>
+    <string name="condition_cellular_summary">អាចប្រើ​អ៊ីនធឺណិតតាមរយៈ WLAN តែប៉ុណ្ណោះ</string>
+    <string name="connected_via_app">ភ្ជាប់​តាម %1$s</string>
+    <string name="credential_for_wifi">បានដំឡើងសម្រាប់ WLAN</string>
+    <string name="data_usage_app_summary_title">ទិន្នន័យទូរសព្ទ​ចល័ត​ និង WLAN</string>
+    <string name="data_usage_metered_wifi">បណ្ដាញ​ WLAN ​ដែល​វាស់ទិន្នន័យ</string>
+    <string name="data_usage_metered_wifi_disabled">ដើម្បី​ជ្រើសរើស​បណ្ដាញ​ដែលមានការកំណត់ សូមបើក WLAN ។</string>
+    <string name="data_usage_restrict_background">ប្រសិន​បើ​អ្នក​ដាក់​កំហិត​លើទិន្នន័យ​ចល័ត​ផ្ទៃ​ខាង​ក្រោយ​ កម្មវិធី និង​សេវាកម្ម​មួយ​ចំនួន​នឹង​មិន​ដំណើរការ​ទេ ​លុះត្រាតែ​​អ្នក​​ភ្ជាប់ WLAN ។</string>
+    <string name="data_usage_restrict_background_multiuser">"ប្រសិន​បើ​អ្នក​ដាក់​កំហិតលើ​ទិន្នន័យ​ចល័ត​ផ្ទៃ​ខាង​ក្រោយ​ កម្មវិធី និង​សេវាកម្ម​មួយ​ចំនួន​នឹង​មិន​ដំណើរការ​ទេ ​លុះត្រាតែ​​អ្នក​​ភ្ជាប់ WLAN ។
+
+ការ​កំណត់​នេះ​ប៉ះពាល់​ដល់​អ្នក​ប្រើប្រាស់​ទាំងអស់​នៅ​លើ​ទូរសព្ទ​នេះ។"</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">បាន​ប្រើ ^1 ​នៅលើ WLAN</string>
+    <string name="data_usage_wifi_title">ទិន្នន័យ WLAN</string>
+    <string name="emergency_address_summary">ត្រូវបានប្រើជាទីតាំងរបស់អ្នក នៅពេលដែលអ្នកហៅទូរសព្ទសង្គ្រោះបន្ទាន់តាមរយៈ WLAN</string>
+    <string name="fullbackup_data_summary">"បម្រុងទុកទិន្នន័យឧបករណ៍ដោយស្វ័យប្រវត្តិ (ដូចជាពាក្យសម្ងាត់ WLAN និងប្រវត្តិការហៅទូរស័ព្ទ) និងទិន្នន័យកម្មវិធី (ដូចជាការកំណត់ និងឯកសារដែលបានផ្ទុកដោយកម្មវិធី) ពីចម្ងាយ។
+
+នៅពេលអ្នកបើកការបម្រុងទុកស្វ័យប្រវត្តិ ទិន្នន័យឧបករណ៍ និងកម្មវិធីនឹងត្រូវបានរក្សាទុកពីចម្ងាយជាទៀងទាត់។ ទិន្នន័យកម្មវិធីអាចជាទិន្នន័យណាដែលកម្មវិធីបានរក្សាទុក (ផ្អែកលើការកំណត់ផ្នែកអ្នកអភិវឌ្ឍន៍) រាប់បញ្ចូលទាំងទិន្នន័យដែលសំខាន់ខ្លាំង ដូចជាទំនាក់ទំនង សារ និងរូបថត។"</string>
+    <string name="fullbackup_erase_dialog_message">បញ្ឈប់ការបម្រុងទុកទិន្នន័យឧបករណ៍ (ដូចជាពាក្យសម្ងាត់ WLAN និងប្រវត្តិហៅទូរស័ព្ទ) និងទិន្នន័យកម្មវិធី (ដូចជាការកំណត់ និងឯកសារដែលបានផ្ទុកដោយកម្មវិធី) ព្រមទាំងលុបច្បាប់ចម្លងទាំងអស់នៅលើម៉ាស៊ីនមេដែលគ្រប់គ្រងពីចម្ងាយឬទេ?</string>
+    <string name="keywords_wifi_notify_open_networks">ការជូនដំណឹងអំពី WLAN, ការជូនដំណឹងអំពី wifi</string>
+    <string name="location_scanning_screen_title">ការស្កេន WLAN និងប៊្លូធូស</string>
+    <string name="location_scanning_wifi_always_scanning_description">អនុញ្ញាត​ឱ្យ​កម្មវិធី និងសេវាកម្ម​ស្កេនរក​បណ្ដាញ WLAN បាន​គ្រប់ពេល ទោះបីជា WLAN ​បិទក៏ដោយ។ ឧទាហរណ៍ សកម្មភាព​នេះ​អាច​ត្រូវ​បាន​ប្រើ ដើម្បី​កែលម្អ​មុខងារ និងសេវាកម្មនានា​ដែល​ផ្អែក​លើ​ទីតាំង។</string>
+    <string name="location_scanning_wifi_always_scanning_title">ការស្កេន WLAN</string>
+    <string name="lost_internet_access_cancel">បន្តប្រើ WLAN</string>
+    <string name="lost_internet_access_text">អ្នកអាចប្តូរទៅប្រើបណ្តាញទូរសព្ទចល័តនៅពេលដែល WLAN មានការតភ្ជាប់ខ្សោយ។ អាចនឹងគិតថ្លៃលើការប្រើប្រាស់ទិន្នន័យ។</string>
+    <string name="lost_internet_access_title">WLAN មិនត្រូវបានភ្ជាប់ទៅអ៊ីនធឺណិតទេ</string>
+    <string name="mobile_data_always_on_summary">រក្សាទិន្នន័យទូរសព្ទចល័តឲ្យដំណើរការជានិច្ច ទោះបីជា WLAN ដំណើរការហើយក៏ដោយ (ដើម្បីប្តូរបណ្តាញឲ្យបានរហ័ស)។</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_info_ims_reg_status">"ការចុះឈ្មោះ IMS៖ %1$s
+សំឡេងតាមរយៈ LTE៖ %2$s
+សំឡេងតាមរយៈ WLAN៖ %3$s
+ការហៅជាវីដេអូ៖ %4$s
+ចំណុចប្រទាក់ UT៖ %5$s"</string>
+    <string name="reset_network_desc">"វា​នឹង​កំណត់​ការកំណត់​បណ្តាញ​ទាំងអស់​ឡើងវិញ រួម​មាន៖
+
+"<li>WLAN</li>"
+"<li>ទិន្នន័យ​ទូរសព្ទចល័ត</li>"
+"<li>ប៊្លូធូស</li></string>
+    <string name="reset_network_title">កំណត់ WLAN ឧបករណ៍ចល័ត និងប៊្លូធូសឡើងវិញ</string>
+    <string name="scanning_status_text_wifi_off_ble_off">បាន​បិទ​ទាំងការស្កេន​ WLAN និងប៊្លូធូស</string>
+    <string name="scanning_status_text_wifi_off_ble_on">បានបើកការស្កេនប៊្លូធូស​ បានបិទការស្កេន WLAN</string>
+    <string name="scanning_status_text_wifi_on_ble_off">បានបើកការស្កេន WLAN បានបិទការស្កេនប៊្លូធូស​</string>
+    <string name="scanning_status_text_wifi_on_ble_on">បានបើក​ទាំងការស្កេន​ WLAN និងប៊្លូធូស</string>
+    <string name="status_wifi_mac_address">អាសយដ្ឋាន​ MAC WLAN</string>
+    <string name="user_add_user_message_long">"អ្នកអាច​ចែករំលែក​ឧបករណ៍​នេះ​ជាមួយ​មនុស្ស​ផ្សេងទៀតបានដោយ​បង្កើត​អ្នកប្រើប្រាស់​បន្ថែម។ អ្នក​ប្រើប្រាស់​ម្នាក់ៗ​មាន​ទំហំផ្ទុក​ផ្ទាល់ខ្លួន​របស់​គេ ដែលពួកគេ​អាច​ប្ដូរតាម​បំណង​សម្រាប់​កម្មវិធី ផ្ទាំង​រូបភាព និង​អ្វីៗ​ផ្សេង​ទៀត។ អ្នក​ប្រើប្រាស់​ក៏អាច​កែសម្រួល​ការកំណត់​ឧបករណ៍​ដូចជា WLAN ដែល​ប៉ះពាល់​ដល់​អ្នកប្រើប្រាស់​ផ្សេង​ទៀត​ផងដែរ។
+
+នៅពេល​ដែលអ្នក​បញ្ចូល​អ្នកប្រើប្រាស់​ថ្មី បុគ្គល​នោះត្រូវតែ​រៀបចំទំហំ​ផ្ទុក​​របស់​គេ។
+
+អ្នកប្រើប្រាស់​ណាក៏​អាច​ដំឡើង​កំណែ​កម្មវិធី​សម្រាប់​អ្នក​ប្រើប្រាស់​ទាំងអស់​ផ្សេង​ទៀត​បាន​ដែរ។ ការកំណត់​ភាព​ងាយស្រួល និង​សេវាកម្ម​មិនអាច​ផ្ទេរទៅកាន់​អ្នកប្រើប្រាស់​ថ្មី​បានទេ។"</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"ក្រុមហ៊ុន​សេវាទូរសព្ទ​របស់អ្នក​​មិនផ្ដល់សេវាហៅ​ទៅលេខ​សង្គ្រោះបន្ទាន់​តាមរយៈការហៅតាម WLAN ទេ។
+ឧបករណ៍​ប្ដូរទៅប្រើ​បណ្តាញចល័ត​ដោយស្វ័យប្រវត្តិ​ ដើម្បី​ហៅ​ទៅលេខ​សង្គ្រោះបន្ទាន់។
+ការហៅ​ទៅលេខ​សង្គ្រោះបន្ទាន់​អាច​ធ្វើ​បាននៅក្នុង​តំបន់​ដែលមាន​សេវាគ្របដណ្តប់​បណ្តាញ​ចល័ត​តែប៉ុណ្ណោះ។"</string>
+    <string name="wfc_provisioned_switch_string">បានផ្តល់នូវការហៅតាមរយៈ WLAN</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">បណ្ដាញ WLAN</string>
+    <string name="wifi_advanced_not_available">ការកំណត់កម្រិតខ្ពស់នៃ WLAN មិនអាចប្រើបានសម្រាប់អ្នកប្រើនេះទេ</string>
+    <string name="wifi_advanced_settings_label">ការ​កំណត់ IP</string>
+    <string name="wifi_ap_band_select_one">សូម​ជ្រើសរើស​ប៊ែន​យ៉ាង​ហោចណាស់​មួយសម្រាប់​ហតស្ប៉ត WLAN៖</string>
+    <string name="wifi_ask_disable">%s ចង់បិទ WLAN</string>
+    <string name="wifi_ask_enable">%s ចង់បើក WLAN</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">ប្រសិនបើ​មិន​អាច​ប្រើបណ្ដាញ​ទូរសព្ទ​ចល័ត សូម​ប្រើ WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">ហៅទូរសព្ទតាមរយៈ WLAN ។ ប្រសិនបើ​ដាច់ WLAN ការហៅទូរសព្ទនឹងបញ្ចប់។</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">ប្រសិនបើ​មិនអាច​ប្រើ WLAN សូមប្រើ​បណ្ដាញ​ទូរសព្ទ​ចល័ត</string>
+    <string name="wifi_calling_not_supported">មិន​ស្គាល់​ការហៅតាម WLAN សម្រាប់​ %1$s នោះទេ</string>
+    <string name="wifi_calling_off_explanation">នៅពេល​ការហៅ​តាម WLAN បានបើក ទូរសព្ទ​របស់អ្នក​អាច​ធ្វើការហៅចេញ​តាមរយៈ​បណ្ដាញ WLAN ឬ​បណ្ដាញ​​របស់ក្រុមហ៊ុនសេវាទូរសព្ទ​អ្នក ដោយផ្អែកលើ​ចំណូលចិត្ត​របស់អ្នក និងរលកសញ្ញា​នៃបណ្ដាញ​ណាមួយ​ដែល​ខ្លាំងជាង។ មុនពេល​បើក​មុខងារ​នេះ សូមសាកសួរ​ក្រុមហ៊ុន​សេវាទូរសព្ទរបស់អ្នក​អំពី​ថ្លៃសេវា និង​ព័ត៌មានលម្អិត​ផ្សេងៗ​។%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">បើក​ដំណើរការ​ការ​ហៅ​តាម​ WLAN</string>
+    <string name="wifi_calling_settings_title">ការហៅតាម WLAN</string>
+    <string name="wifi_calling_suggestion_summary">បើក​ការហៅ​តាម WLAN ដើម្បី​ពង្រីក​ដែន​សេវា</string>
+    <string name="wifi_calling_suggestion_title">ពង្រីក​វិសាលភាពនៃការ​ហៅ​ទូសព្ទ​តាម WLAN</string>
+    <string name="wifi_calling_summary">ប្រើ WLAN សម្រាប់​ការហៅទូរសព្ទ ដើម្បី​កែលម្អ​គុណភាព</string>
+    <string name="wifi_calling_turn_on">បើក​ការ​ហៅ​តាម WLAN</string>
+    <string name="wifi_carrier_connect">បណ្ដាញ WLAN នៃក្រុមហ៊ុន​បម្រើសេវាទូរសព្ទ</string>
+    <string name="wifi_cellular_data_fallback_summary">ប្រើទិន្នន័យ​ទូរសព្ទចល័ត​ នៅពេល​ដែល WLAN មិនមាន​ការភ្ជាប់អ៊ីនធឺណិត។ អាច​នឹង​គិតថ្លៃលើការ​ប្រើទិន្នន័យ។</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN មិនបើក​ឡើងវិញដោយស្វ័យប្រវត្តិទេ</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN បើក​ឡើងវិញដោយស្វ័យប្រវត្តិ</string>
+    <string name="wifi_configure_settings_preference_title">ចំណូល​ចិត្ត WLAN</string>
+    <string name="wifi_data_template">ទិន្នន័យ WLAN ^1</string>
+    <string name="wifi_data_usage">ការប្រើប្រាស់​ទិន្នន័យ WLAN</string>
+    <string name="wifi_disabled_wifi_failure">ការ​ភ្ជាប់​ WLAN បរាជ័យ</string>
+    <string name="wifi_dpp_add_device_to_wifi">បញ្ចូលឧបករណ៍នេះ​ទៅ “%1$s”?</string>
+    <string name="wifi_dpp_center_qr_code">ដាក់កូដ QR ខាងក្រោមឱ្យ​នៅចំកណ្ដាល ដើម្បីបញ្ចូលឧបករណ៍ទៅ “%1$s”</string>
+    <string name="wifi_dpp_failure_not_supported">មិន​អាច​បញ្ចូល “%1$s” ទៅក្នុងឧបករណ៍​នេះ​បាន​ទេ</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">ស្កេន QR កូដនេះ ដើម្បីភ្ជាប់ជាមួយ “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">ដាក់កូដ QR ខាងក្រោមឱ្យ​នៅចំកណ្ដាល ដើម្បីភ្ជាប់ទៅ “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">ចូលរួម WLAN ដោយស្កេនកូដ QR</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">ស្កេន​កូដ​ QR នេះដើម្បី​ភ្ជាប់​ “%1$s” និងចែករំលែក​ពាក្យសម្ងាត់</string>
+    <string name="wifi_dpp_share_wifi">ចែករំលែក WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">កំពុង​ចែករំលែក WLAN ជាមួយ​ឧបករណ៍​នេះ…</string>
+    <string name="wifi_dpp_wifi_password">ពាក្យសម្ងាត់ WLAN៖ %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">បានចែករំលែក WLAN ជាមួយឧបករណ៍</string>
+    <string name="wifi_empty_list_wifi_off">ដើម្បី​មើល​បណ្ដាញ​ដែល​មាន​ សូមបើក WLAN ។</string>
+    <string name="wifi_hotspot_auto_off_summary">ហតស៉្បត WLAN នឹង​បិទ​ប្រសិនបើ​គ្មាន​ឧបករណ៍​ណា​បាន​ភ្ជាប់​ទេ</string>
+    <string name="wifi_hotspot_checkbox_text">ហតស្ប៉ត WLAN</string>
+    <string name="wifi_hotspot_footer_info_regular">ប្រើហតស្ប៉តដើម្បីបង្កើតបណ្តាញ WLAN សម្រាប់ឧបករណ៍ផ្សេងទៀតរបស់អ្នក។ ហតស្ប៉តផ្តល់អ៊ីនធឺណិតដោយប្រើការភ្ជាប់​ទិន្នន័យ​ចល័តរបស់អ្នក។ អាចនឹងគិតប្រាក់លើទិន្នន័យទូរសព្ទចល័តបន្ថែមទៀត។</string>
+    <string name="wifi_menu_p2p">WLAN ផ្ទាល់</string>
+    <string name="wifi_p2p_settings_title">WLAN ​ផ្ទាល់</string>
+    <string name="wifi_poor_network_detection_summary">កុំ​ប្រើ​បណ្ដាញ WLAN ប្រសិនបើវាមិន​មាន​ការ​ភ្ជាប់​អ៊ីនធឺណិត​ខ្លាំងទេ</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"ដើម្បីធ្វើឱ្យភាពត្រឹមត្រូវនៃ​ទីតាំង​ប្រសើរឡើង និងសម្រាប់​គោលបំណងផ្សេងទៀត កម្មវិធីមួយ​ដែលមិនស្គាល់ចង់​បើកការស្កេនបណ្ដាញ ទោះបីជានៅពេលដែលបិទ WLAN ក៏ដោយ។
+
+អនុញ្ញាតឱ្យបើកសម្រាប់កម្មវិធីទាំងអស់ដែលចង់ស្កេន?"</string>
+    <string name="wifi_scan_always_turnon_message">"ដើម្បី​បង្កើន​ភាព​ត្រឹមត្រូវ​ទីតាំង និង​សម្រាប់​គោល​បំណង​ផ្សេងៗ %1$s ចង់​បើក​ការ​វិភាគ រក​បណ្ដាញ ទោះ​បី​ជា​បិទ វ៉ាយហ្វាយ ក៏​ដោយ។
+
+អនុញ្ញាត​សម្រាប់​កម្មវិធី​ទាំងអស់​ដែល​អ្នក​ចង់​វិភាគ​រក?"</string>
+    <string name="wifi_scan_notify_text">ដើម្បីកែលម្អភាពត្រឹមត្រូវ​នៃទីតាំង កម្មវិធី និង​សេវាកម្ម​នៅតែ​អាច​ស្កេនរក​បណ្តាញ WLAN បានគ្រប់ពេល ទោះបីជា WLAN បិទ​ក៏​ដោយ។ ឧទាហរណ៍ វាអាច​ត្រូវ​បាន​ប្រើដើម្បី​កែលម្អ​មុខងារ និងសេវាកម្ម​នានា​ដែល​ផ្អែក​លើ​ទីតាំង។ អ្នក​អាច​ប្ដូរ​វា​បាន​នៅក្នុងLINK_BEGINការកំណត់​ការស្កេនLINK_END។</string>
+    <string name="wifi_scan_notify_text_scanning_off">ដើម្បី​ធ្វើឲ្យ​សុក្រឹតភាព​នៃទីកន្លែង​មានភាព​ប្រសើរ​ឡើង សូម​បើកការ​ស្កេន WLAN នៅក្នុង LINK_BEGINការកំណត់​ការស្កេនLINK_END។</string>
+    <string name="wifi_scan_throttling">ការពន្យឺតការស្កេន WLAN</string>
+    <string name="wifi_setting_sleep_policy_title">បើក WLAN ​​អំឡុង​ពេល​ដេក</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_master_switch_title">ប្រើ WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">បានបើក​ការស្កេន WLAN</string>
+    <string name="wifi_settings_scanning_required_info">ការ​ស្កេន WLAN អនុញ្ញាត​ឱ្យ​កម្មវិធី និងសេវាកម្ម​ធ្វើ​ការ​ស្កេនរក​បណ្ដាញ WLAN បាន​គ្រប់ពេល ទោះបីជា WLAN ​បិទក៏ដោយ។ ឧទាហរណ៍ សកម្មភាព​នេះ​អាច​ត្រូវ​បាន​ប្រើ ដើម្បី​កែលម្អ​មុខងារ និងសេវាកម្មនានា​ដែល​ផ្អែក​លើ​ទីតាំង។</string>
+    <string name="wifi_settings_scanning_required_summary">ដើម្បី​បើក WLAN ដោយ​ស្វ័យ​ប្រវត្តិ អ្នក​ត្រូវ​បើក​ការ​ស្កេន WLAN ជាមុន​សិន។</string>
+    <string name="wifi_settings_scanning_required_title">បើក​ការ​ស្កេន WLAN ដែរ​ទេ?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_switch_away_when_unvalidated">ប្តូរទៅទិន្នន័យទូរសព្ទចល័ត ប្រសិនបើ WLAN មិន​អាច​ភ្ជាប់​អ៊ីនធឺណិតបាន។</string>
+    <string name="wifi_tether_configure_ap_text">រៀបចំ WLAN ហតស្ប៉ត</string>
+    <string name="wifi_turned_on_message">បានបើក WLAN</string>
+    <string name="wifi_verbose_logging">បើក​កំណត់ហេតុ​រៀបរាប់​ WLAN</string>
+    <string name="wifi_verbose_logging_summary">បង្កើនកម្រិតកំណត់ហេតុ WLAN បង្ហាញក្នុង SSID RSSI ក្នុងកម្មវិធីជ្រើសរើស WLAN</string>
+    <string name="wifi_wakeup">បើក WLAN ដោយស្វ័យប្រវត្តិ</string>
+    <string name="wifi_wakeup_summary">WLAN នឹងបើកឡើងវិញនៅក្បែរបណ្តាញដែលមានគុណភាពខ្ពស់ដែលបានរក្សាទុក ដូចជាបណ្តាញ​នៅ​ផ្ទះ​របស់អ្នក</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">មិនអាចប្រើបានទេ ដោយសារការស្កេន WLAN ត្រូវបានបិទ</string>
+</resources>

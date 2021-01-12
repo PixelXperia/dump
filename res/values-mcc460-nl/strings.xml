@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">De naam van je apparaat is zichtbaar voor apps op je telefoon. De apparaatnaam kan ook door andere mensen worden gezien wanneer je verbinding maakt met Bluetooth-apparaten of een wifi-hotspot instelt.</string>
+    <string name="accessibility_no_wifi">WLAN-verbinding verbroken.</string>
+    <string name="accessibility_wifi_off">WLAN: uitgeschakeld.</string>
+    <string name="accessibility_wifi_one_bar">WLAN: één streepje.</string>
+    <string name="accessibility_wifi_signal_full">WLANi-signaal is op volledige sterkte.</string>
+    <string name="accessibility_wifi_three_bars">WLAN: drie streepjes.</string>
+    <string name="accessibility_wifi_two_bars">WLAN: twee streepjes.</string>
+    <string name="battery_action_wifi">WLAN-instellingen</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_usm_desc">"Ultra STAMINA-modus verlengt de gebruiksduur van de batterij aanzienlijk. Let op dat aangezien internetverbinding via WLAN en Mobiele data wordt uitgeschakeld, functies zoals gegevenssynchronisatie en WLAN-bellen niet beschikbaar zijn. Het startscherm wordt overgeschakeld naar het startscherm van de Ultra STAMINA-modus.
+
+Beschikbare apps in Ultra STAMINA-modus"</string>
+    <string name="battery_usm_desc_variable">"Ultra STAMINA-modus verlengt de gebruiksduur van de batterij aanzienlijk. Let op dat aangezien internetverbinding via WLAN en Mobiele data wordt uitgeschakeld, functies zoals gegevenssynchronisatie en %s niet beschikbaar zijn. Het startscherm wordt overgeschakeld naar het startscherm van de Ultra STAMINA-modus.
+
+Beschikbare apps in Ultra STAMINA-modus"</string>
+    <string name="bluetooth_on_time">WLAN op tijd</string>
+    <string name="bs_feature_wifi">WLAN uit</string>
+    <string name="change_wifi_state_app_detail_summary">"Sta deze app toe om wifi in- of uit te schakelen, wifi-netwerken te scannen en er verbinding mee te maken, netwerken toe te voegen of te verwijderen of een hotspot 'Alleen lokaal' te starten."</string>
+    <string name="change_wifi_state_app_detail_switch">App toestaan om wifi te beheren</string>
+    <string name="change_wifi_state_title">WLAN-beheer</string>
+    <string name="connected_via_app">Verbonden via %1$s</string>
+    <string name="credential_for_wifi">Geïnstalleerd voor wifi</string>
+    <string name="ct_wifi_connected_text">WLAN-verb. met China Telecom</string>
+    <string name="cw_network_notification">CT WLAN-melding inschakelen</string>
+    <string name="cw_network_priority">WLAN-voorrang China Telecom</string>
+    <string name="cw_network_priority_summary">WLAN-netwerken van China Telecom krijgen voorrang boven andere WLAN-netwerken waarmee verbinding kan worden gemaakt</string>
+    <string name="data_service_except_mms_disabled_warning_txt">Tenzij u WLAN gebruikt, kunt u niet langer gebruikmaken van internet, e-mail en andere apps waarvoor een gegevensverbinding is vereist. De mobiele gegevensverbinding uitschakelen?</string>
+    <string name="data_traffic_disabled_text">Kan geen verbinding maken met WLAN-netwerken van China Telecom omdat dataverkeer is uitgeschakeld. Dataverkeer nu inschakelen?</string>
+    <string name="data_usage_disable_wifi_limit">WLAN-datalimiet instellen</string>
+    <string name="data_usage_menu_hide_wifi">WLAN verbergen</string>
+    <string name="data_usage_menu_show_wifi">WLAN weergeven</string>
+    <string name="data_usage_metered_wifi">WLAN met datalimiet</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_title">WLAN-gegevens</string>
+    <string name="dialog_message_hint">"Wat is de STAMINA-modus:
+
+• Verlengde stand-by
+Wanneer het scherm uit is, wordt energie bespaard door WLAN en mobiele data tijdelijk uit te schakelen. De meeste applicaties worden inactief.
+Wanneer het scherm aan is, werkt uw telefoon normaal.
+Als u bepaalde apps actief wilt houden terwijl Verlengde stand-by is ingeschakeld, voegt u de apps toe aan de lijst APPS ACTIEF IN STAND-BY.
+
+• Verlengd gebruik
+Wanneer uw apparaat in gebruik is, wordt energie bespaard door de hardwareprestaties te beperken.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>Wat is de STAMINA-modus?</u>"
+De STAMINA-modus is een functie voor stroombesparing van Sony. De levensduur van de batterij wordt verlengd door functionaliteit uit te schakelen wanneer het scherm uit is.
+
+"<u>Algemeen gebruik</u>"
+Tik op de knop op het scherm om de STAMINA-modus te activeren.
+Wanneer het scherm uit is, zijn uw WLAN en mobiele data tijdelijk uitgeschakeld en zijn de meeste applicaties inactief om het batterijvermogen te sparen.
+Wanneer het scherm aan is, werkt uw apparaat normaal.
+
+"<u>Geavanceerd gebruik</u>"
+Als u wilt dat bepaalde apps actief blijven wanneer het scherm uit is, voegt u ze toe aan de lijst APPS ACTIEF IN STAND-BY.
+Bepaalde applicaties werken mogelijk niet naar behoren wanneer deze zijn uitgeschakeld in de stand-bymodus.
+
+"<u>Opmerking</u>"
+Als een applicatie niet naar behoren werkt, voegt u deze toe aan de lijst APPS ACTIEF IN STAND-BY, of als dit niet werkt, schakelt u de STAMINA-modus uit."</string>
+    <string name="fullbackup_data_summary">"Automatisch op afstand een back-up maken van apparaatgegevens (zoals wifi-wachtwoorden en oproepgeschiedenis) en app-gegevens (zoals instellingen en bestanden opgeslagen door apps).
+
+Als je de functie voor automatische back-ups inschakelt, worden apparaat- en app-gegevens periodiek op afstand opgeslagen. App-gegevens kunnen gegevens omvatten die een app heeft opgeslagen (op basis van de instellingen van de ontwikkelaar), waaronder potentieel gevoelige gegevens als contacten, berichten en foto's."</string>
+    <string name="fullbackup_erase_dialog_message">Wil je stoppen met het maken van back-ups van apparaatgegevens (zoals wifi-wachtwoorden en oproepgeschiedenis) en app-gegevens (zoals instellingen en bestanden opgeslagen door apps), en alle kopieën op externe servers wissen?</string>
+    <string name="install_wapi_certs">WLAN-certificaten install.</string>
+    <string name="keywords_wifi_notify_open_networks">WLANmelding, wifi-melding</string>
+    <string name="l_dialog_message_hint">"STAMINA-modus omvat:
+
+• Verlengde stand-by
+Bespaart op voeding wanneer het scherm uit is door WLAN tijdelijk uit te schakelen. De meeste applicaties zijn niet actief.
+Wanneer het scherm aan is, werkt uw apparaat normaal.
+Als u wilt dat bepaalde apps actief blijven wanneer Verlengde stand-by wordt ingeschakeld, voegt u de apps toe aan de lijst Apps actief in stand-by.
+
+• Verlengd gebruik
+Bespaart energie wanneer uw apparaat in gebruik is door de hardwareprestaties te beperken."</string>
+    <string name="location_based_wifi">WLAN op locatie</string>
+    <string name="location_network_based">WLAN en mobiele netwerklocatie</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN-scannen</string>
+    <string name="lost_internet_access_cancel">WLAN blijven gebruiken</string>
+    <string name="lost_internet_access_title">WLAN heeft geen verbinding met internet</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN-assistent wijzigen?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">Als u uw huidige WLAN-netwerk wilt delen, selecteert u de optie \"WLAN-info delen\" in de instelling.</string>
+    <string name="nfc_wifi_share_checkbox">WLAN-info delen</string>
+    <string name="nfc_wifi_share_title_txt">Informatie van WLAN delen</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Automatisch verbinding maken met WLAN-hotspot van AT&amp;T</string>
+    <string name="operator_auto_connect_hotspot_txt">Auto-verb. WLAN AT&amp;T</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">Tenzij u WLAN gebruikt, kunt u niet langer gebruikmaken van internet, e-mail en andere apps waarvoor een gegevensverbinding is vereist. De mobiele gegevensverbinding uitschakelen?</string>
+    <string name="powersaver_feature_wifi">WLAN uit</string>
+    <string name="radio_controls_summary">"WLAN, Bluetooth, vliegtuigmodus, mobiele netwerken en VPN's beheren"</string>
+    <string name="radio_info_ims_reg_status">"IMS-registratie: %1$s
+Bellen via LTE: %2$s
+Bellen via wifi: %3$s
+Videogesprekken: %4$s
+UT-interface: %5$s"</string>
+    <string name="restriction_wifi_config_title">WLAN en mobiel</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN-scannen is ingeschakeld en Bluetooth-scannen is uitgeschakeld</string>
+    <string name="somc_backup_failed_no_wifi_summary">Wachten op WLAN-verbinding</string>
+    <string name="somc_wifi_turned_on_info">WLAN is ingeschakeld. Selecteer uw netwerk in de lijst.</string>
+    <string name="stamina_xssm_summary">Hiermee worden mobiele data en WLAN uitgeschakeld wanneer het scherm uit is</string>
+    <string name="tethering_no_sim_warning_txt">Plaats een SIM-kaart om de dataverbinding van uw telefoon te delen met andere apparaten waarop Mobiele WLAN-Hotspot of USB-tethering wordt gebruikt voor internettoegang.</string>
+    <string name="usage_type_wifi_running">WLAN actief</string>
+    <string name="usm_descr">"Met de Ultra STAMINA-modus wordt de levensduur van de batterij aanzienlijk verlengd. De modus kan worden gebruikt als u uw toestel lange tijd niet kunt opladen.
+
+Slechts enkele basisfuncties, zoals telefoneren en sms'en blijven beschikbaar Tik op 'Meer informatie' voor meer details.
+
+De internetverbinding via WLAN en mobiele data worden uitgeschakeld."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Noodoproepen zijn niet mogelijk via Bellen via WLAN.
+Het apparaat schakelt automatisch naar een mobiel netwerk (2G/3G) om een alarmnummer te bellen.
+Noodoproepen zijn alleen mogelijk op plekken met mobiele dekking."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">Noodoproepen via Bellen via WLAN</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone Bellen via WLAN</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"Schakel Locatie in en kies de modus Nauwkeurig of Accubesparing om WLAN-bellen te kunnen inschakelen.
+
+Zorg dat Locatie blijft ingeschakeld tijdens WLAN-bellen."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Noodoproepen zijn niet mogelijk via Bellen via WLAN.
+Het apparaat schakelt automatisch naar een mobiel netwerk (2G/3G) om een alarmnummer te bellen.
+Noodoproepen zijn alleen mogelijk op plekken met mobiele dekking."</string>
+    <string name="wfc_location_info_dialog_desc_txt">De locatiegegevens kunnen naar Google en uw netwerkaanbieder worden verzonden om WLAN-gesprekken te voeren, ongeacht of de Locatie-instelling is ingeschakeld.</string>
+    <string name="wfc_provisioned_switch_string">WLAN-gesprekken geregistreerd</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN-netwerken</string>
+    <string name="wifi_advanced_settings_label">WLAN-instellingen</string>
+    <string name="wifi_ask_disable">%s wil wifi uitschakelen</string>
+    <string name="wifi_ask_enable">%s wil wifi inschakelen</string>
+    <string name="wifi_auto_network_switch_setting_msg">Schakel automatisch naar het gewenste netwerk wanneer het WLAN-netwerk en het mobiele netwerk beide beschikbaar zijn.</string>
+    <string name="wifi_calling_link_to_register_emergency_address">Klik hier om u te registreren voor Bellen via WLAN of om uw bestaande adres voor noodgevallen bij te werken</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Bellen via mobiel netwerk. Gebruik WLAN als geen mobiel netwerk beschikbaar is.</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Bellen via WLAN. Beëindig het gesprek als de WLAN-verbinding wordt verbroken.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Bellen via WLAN. Gebruik mobiel netwerk als geen WLAN beschikbaar is.</string>
+    <string name="wifi_calling_off_explanation">"Gebruik WLAN-bellen om de kwaliteit van het bellen te verbeteren op plaatsen waar de dekking laag is.
+
+Kosten
+Neem contact op met uw serviceprovider voor informatie over de kosten van WLAN-bellen.
+
+Opmerkingen over WLAN-bellen
+Als u WLAN-bellen wilt blijven gebruiken, dient u binnen het WLAN-bereik te blijven."</string>
+    <string name="wifi_calling_on_dialog_text">Als u Bellen via WLAN wilt gebruiken, moet u Voorkeurssim voor mobiele data instellen op SIM 1</string>
+    <string name="wifi_calling_settings_title">Bellen via wifi</string>
+    <string name="wifi_calling_summary">WLAN gebruiken voor gesprekken om de kwaliteit te verbeteren</string>
+    <string name="wifi_carrier_connect">WLAN-netwerk van provider</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN wordt niet automatisch opnieuw ingeschakeld</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN wordt automatisch opnieuw ingeschakeld</string>
+    <string name="wifi_configure_settings_preference_title">WLAN-voorkeuren</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN-certificaat wijzigen</string>
+    <string name="wifi_data_template">^1 wifi-data</string>
+    <string name="wifi_data_usage">WLAN-datagebruik</string>
+    <string name="wifi_disabled_wifi_failure">WLAN-verbinding mislukt</string>
+    <string name="wifi_dpp_add_device_to_wifi">"Dit apparaat toevoegen aan '%1$s'?"</string>
+    <string name="wifi_dpp_center_qr_code">"Centreer de onderstaande QR-code om het apparaat toe te voegen aan '%1$s'"</string>
+    <string name="wifi_dpp_failure_not_supported">"'%1$s' toevoegen is niet mogelijk op dit apparaat"</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">"Scan deze QR-code om verbinding te maken met '%1$s'"</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">"Centreer de onderstaande QR-code om verbinding te maken met '%1$s'"</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">"Scan deze QR-code om verbinding te maken met '%1$s' en het wachtwoord te delen"</string>
+    <string name="wifi_dpp_share_wifi">WLAN delen</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">WLAN delen met dit apparaat…</string>
+    <string name="wifi_dpp_wifi_password">WLAN-wachtwoord: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN gedeeld met apparaat</string>
+    <string name="wifi_empty_list_wifi_on">WLAN-netwerken zoeken…</string>
+    <string name="wifi_hotspot_auto_off_summary">WLAN-hotspot wordt uitgeschakeld als er geen apparaten verbonden zijn</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN-hotspotconfiguratie</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Automatisch verbinden met beschikbare Passpoint-netwerken wanneer WLAN is ingesch.</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN op tijd</string>
+    <string name="wifi_p2p_settings">Instellingen van WLAN Direct</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">WLAN-netwerk niet gebruiken, tenzij dit een goede internetverbinding heeft</string>
+    <string name="wifi_quick_toggle_summary">WLAN inschakelen</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turnon_message">"Om de locatieprecisie te verbeteren en voor andere doeleinden, wil %1$s de netwerkscan inschakelen, zelfs als wifi is uitgeschakeld.
+
+Dit toestaan voor alle apps die willen scannen?"</string>
+    <string name="wifi_scan_notify_text_scanning_off">Schakel scannen via wifi in via de LINK_BEGINscaninstellingenLINK_END om de locatienauwkeurigheid te verbeteren.</string>
+    <string name="wifi_scan_throttling">WLAN-scannen beperken</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">Beveiligd met WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Beveiligd met WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">WLAN selecteren</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN aan in slaapstand</string>
+    <string name="wifi_setting_sleep_policy_title">WLAN behouden in slaapstand</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN-instellingen</string>
+    <string name="wifi_settings_master_switch_title">WLAN gebruiken</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN-scannen ingeschakeld</string>
+    <string name="wifi_settings_scanning_required_title">WLAN-scannen inschakelen?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN inschakelen…</string>
+    <string name="wifi_stopping">WLAN uitschakelen…</string>
+    <string name="wifi_suspend_optimizations">WLAN-optimalisatie</string>
+    <string name="wifi_tether_settings_subtext">Draagbare WLAN-hotspot instellen en beheren</string>
+    <string name="wifi_tether_settings_text">Instellingen draagbare WLAN-hotspot</string>
+    <string name="wifi_tethering_warning_txt">Actieve WLAN-bewerkingen (zoals mediaoverdracht, updates voor de telefoonsoftware, en back-up- en herstelbewerkingen) worden onderbroken.</string>
+    <string name="wifi_turned_on_message">WLAN ingeschakeld</string>
+    <string name="wifi_wakeup">WLAN automatisch inschakelen</string>
+    <string name="wifi_wakeup_summary">WLAN wordt opnieuw ingeschakeld in de buurt van opgeslagen netwerken van hoge kwaliteit, zoals je thuisnetwerk</string>
+    <string name="wifi_wps_category_title">WLAN-netwerk instellen</string>
+    <string name="wps_strings_wifi_disconnected_txt">Geen WLAN-verbinding. Configuratie is geannuleerd.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"In de STAMINA-modus wordt energie bespaard door de toestelinstellingen aan te passen. U kunt ervoor kiezen dat bepaalde applicaties in slaapmodus met gereduceerde functionaliteit worden uitgevoerd. (Hierdoor wordt energie bespaard omdat de meeste apps ook in slaapmodus veel energie vragen.)
+
+Uitgeschakelde functies voor geselecteerde apps:
+- WLAN
+- Mobiele data
+- Timer
+
+Het meldingslampje knippert in slaapmodus voor alle apps in dezelfde kleur en met dezelfde frequentie.
+
+STAMINA-modus is gedeactiveerd terwijl u het apparaat instelt."</string>
+</resources>

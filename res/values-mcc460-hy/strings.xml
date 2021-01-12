@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Ձեր սարքի անունը տեսանելի է հեռախոսի հավելվածներին։ Այն կարող են տեսնել օգտատերերը, երբ միանում եք Bluetooth սարքերի կամ կարգավորում եք WLAN թեժ կետը։</string>
+    <string name="accessibility_no_wifi">WLAN-ը կապակցված չէ:</string>
+    <string name="accessibility_wifi_off">WLAN-ն անջատված է:</string>
+    <string name="accessibility_wifi_one_bar">WLAN-ի ուժգնությունը՝ մեկ գիծ:</string>
+    <string name="accessibility_wifi_signal_full">WLAN-ի ազդանշանը ուժեղ է:</string>
+    <string name="accessibility_wifi_three_bars">WLAN-ի ուժգնությունը՝ երեք գիծ:</string>
+    <string name="accessibility_wifi_two_bars">WLAN-ի ուժգնությունը՝ երկու գիծ:</string>
+    <string name="backup_data_summary">Պահուստավորել հավելվածի տվյալները, WLAN գաղտնաբառերը և Google սերվերների այլ կարգավորումները</string>
+    <string name="backup_erase_dialog_message">Դադարեցնե՞լ ձեր WLAN գաղտնաբառերի, էջանիշերի, այլ կարգավորումների և հավելվածային տվյալների պահուստավորումն, ինչպես նաև ջնջե՞լ բոլոր կրկնօրինակները Google սերվերներից:</string>
+    <string name="battery_action_wifi">WLAN կարգավորումներ</string>
+    <string name="battery_desc_wifi">WLAN-ն օգտագործում է մարտկոցը</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">Անջատել WLAN-ը, երբ այն չի օգտագործվում կամ հասանելի չէ</string>
+    <string name="bluetooth_on_time">WLAN-ը ժամանակին</string>
+    <string name="change_wifi_state_app_detail_summary">Թույլ տվեք այս հավելվածին միացնել և անջատել WLAN-ը, գտնել WLAN ցանցեր և միանալ դրանց, ավելացնել և հեռացնել ցանցեր, միացնել միայն տեղային թեժ կետ</string>
+    <string name="change_wifi_state_app_detail_switch">Թույլ տվեք հավելվածին կառավարել WLAN-ը</string>
+    <string name="change_wifi_state_title">WLAN-ի կառավարում</string>
+    <string name="condition_cellular_summary">Ինտերնետը հասանելի է միայն WLAN-ով</string>
+    <string name="connected_via_app">Միացված է %1$s-ի միջոցով</string>
+    <string name="credential_for_wifi">Տեղադրվել է WLAN-ի համար</string>
+    <string name="data_usage_app_summary_title">Բջջային ինտերնետ և WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Սահմանել WLAN տվյալների սահմանը</string>
+    <string name="data_usage_menu_hide_wifi">Թաքցնել WLAN-ը</string>
+    <string name="data_usage_menu_show_wifi">Ցույց տալ WLAN-ը</string>
+    <string name="data_usage_metered_wifi">Սահմանափակ WLAN ցանցեր</string>
+    <string name="data_usage_metered_wifi_disabled">Սահմանափակումով ցանցեր ընտրելու համար միացրեք WLAN-ը:</string>
+    <string name="data_usage_restrict_background">Եթե սահմանափակեք բջջային ինտերնետի ֆոնային օգտագործումը, ապա որոշ հավելվածներ և ծառայություններ չեն աշխատի մինչև WLAN ցանցին միանալը:</string>
+    <string name="data_usage_restrict_background_multiuser">"Եթե սահմանափակեք բջջային ինտերնետի ֆոնային օգտագործումը, ապա որոշ հավելվածներ և ծառայություններ չեն աշխատի մինչև WLAN ցանցին միանալը:
+
+Այս կարգավորումը վերաբերում է այս հեռախոսի բոլոր օգտատերերին:"</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1-ը փոխանցվել է WLAN-ի միջոցով</string>
+    <string name="data_usage_wifi_title">WLAN թրաֆիկ</string>
+    <string name="emergency_address_summary">Օգտագործվում է որպես ձեր հասցեն, երբ WLAN-ի միջոցով շտապ կանչ եք կատարում</string>
+    <string name="fullbackup_data_summary">"Սարքի տվյալների (WLAN-ի գաղտնաբառեր և զանգերի պատմություն), ինչպես նաև հավելվածների տվյալների (հավելվածների պահած կարգավորումներ, ֆայլեր և այլն) ավտոմատ հեռակա պահուստավորում:
+
+Ավտոմատ պահուստավորումը միացնելիս՝ սարքի և հավելվածների տվյալները պարբերաբար պահվում են հեռակա կարգով: Հավելվածների տվյալները դա նրանց պահած տվյալներն են (կախված մշակողի կարգավորումներից): Դրանց թվում կարող են լինել նաև կոնտակտներ, հաղորդագրություններ, լուսանկարներ և այլ կոնֆիդենցիալ տվյալներ:"</string>
+    <string name="fullbackup_erase_dialog_message">Դադարեցնե՞լ սարքի տվյալների (WLAN-ի գաղտնաբառեր, զանգերի պատմություն և այլն) և հավելվածների տվյալների (հավելվածների պահած կարգավորումներ, ֆայլեր և այլ) պահուստավորումը և ջնջել բոլոր պատճենները հեռակա սերվերների վրա:</string>
+    <string name="keywords_hotspot_tethering">USB մոդեմ, Bluetooth մոդեմ, WLAN թեժ կետ</string>
+    <string name="keywords_wifi">WLAN, WLAN, ցանցային կապ, ինտերնետ, անլար կապ, բջջային ինտերնետ, WLAN</string>
+    <string name="keywords_wifi_notify_open_networks">Ծանուցում WLAN-ի մասին, ծանուցում wifi-ի մասին</string>
+    <string name="location_neighborhood_level_wifi">Տեղադրությունը որոշված է WLAN-ի օգնությամբ</string>
+    <string name="location_network_based">WLAN &amp; շարժական ցանցի տեղադրություն</string>
+    <string name="location_scanning_screen_title">WLAN ցանցերի և Bluetooth ազդանշանի որոնում</string>
+    <string name="location_scanning_wifi_always_scanning_description">Թույլ տալ հավելվածներին և ծառայություններին որոնել WLAN ցանցեր, նույնիսկ երբ WLAN-ն անջատած է: Դա կարող է բարելավել տեղորոշում օգտագործող գործառույթների և ծառայությունների աշխատանքը։</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN ցանցերի որոնում</string>
+    <string name="lost_internet_access_cancel">Մնալ WLAN ցանցում</string>
+    <string name="lost_internet_access_text">Եթե WLAN կապն անհուսալի է, կարող եք միացնել բջջային ցանցը: Տվյալների օգտագործման համար կարող են գումարներ գանձվել:</string>
+    <string name="lost_internet_access_title">WLAN-ը միացված չէ համացանցին</string>
+    <string name="mobile_data_always_on_summary">Միշտ ակտիվացրած պահել բջջային տվյալները, նույնիսկ WLAN-ը միացրած ժամանակ (ցանցերի միջև արագ փոխարկման համար):</string>
+    <string name="network_scorer_change_active_dialog_title">Փոխե՞լ WLAN օգնականին:</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_controls_summary">Կառավարել WLAN-ը, Bluetooth-ը, թռիչքային ռեժիմը, շարժական ցանցերը, &amp; VPN-ները</string>
+    <string name="radio_info_ims_reg_status">"IMS-ի գրանցում՝ %1$s
+Voice over LTE՝ %2$s
+Voice over WLAN՝ %3$s
+Տեսազանգ՝ %4$s
+UT միջերես՝ %5$s"</string>
+    <string name="reset_network_desc">"Արդյունքում կվերակայվեն բոլոր ցանցային կարգավորումները, ներառյալ հետևյալը՝
+
+"<li>WLAN</li>"
+"<li>Բջջային ինտերնետ</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">Զրոյացնել WLAN-ի, բջջային թրաֆիկի և Bluetooth-ի կարգավորումները</string>
+    <string name="restriction_wifi_config_summary">Թույլատրել WLAN-ի և շարժական կարգավորումների փոփոխությունները</string>
+    <string name="restriction_wifi_config_title">WLAN և շարժական</string>
+    <string name="scanning_status_text_wifi_off_ble_off">WLAN ցանցերի և Bluetooth-ի որոնումը անջատված է</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Bluetooth-ի որոնումը միացված է, WLAN ցանցերի որոնումը՝ անջատված</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN ցանցերի որոնումը միացված է, Bluetooth-ի որոնումը՝ անջատված</string>
+    <string name="scanning_status_text_wifi_on_ble_on">WLAN ցանցերի և Bluetooth-ի որոնումը միացված է</string>
+    <string name="status_wifi_mac_address">WLAN MAC հասցե</string>
+    <string name="usage_type_data_wifi_recv">Ստացված WLAN փաթեթներ</string>
+    <string name="usage_type_data_wifi_send">Ուղարկված WLAN փաթեթներ</string>
+    <string name="usage_type_wifi_running">WLAN-ն աշխատում է</string>
+    <string name="user_add_user_message_long">"Այս սարքից կարող եք օգտվել մի քանի հոգով: Դրա համար անհրաժեշտ է ստեղծել լրացուցիչ պրոֆիլներ: Յուրաքանչյուր օգտատեր կարող է կարգավորել իր պրոֆիլը ըստ իր հայեցողության և ճաշակի (օր.՝ ընտրել իր ուզած պաստառը, տեղադրել անհրաժեշտ հավելվածները և այլն): Բացի այդ, օգտատերերը կարող են կարգավորել սարքի որոշ պարամետրեր (օր.՝ WLAN-ը), որոնք կգործեն նաև մյուս պրոֆիլների համար:
+
+Երբ նոր պրոֆիլ ավելացնեք, տվյալ օգտատերը պետք է կարգավորի այն:
+
+Յուրաքանչյուր օգտատեր կարող է թարմացնել մյուս օգտատերերի հավելվածները: Հատուկ գործառույթների և ծառայությունների կարգավորումները կարող են չփոխանցվել նոր օգտատերերին:"</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Ձեր օպերատորի ցանցում հնարավոր չէ շտապ կանչեր անել «Զանգեր WLAN-ով» գործառույթի միջոցով:
+Շտապ կանչ կատարելու համար սարքն ավտոմատ կանցնի բջջային ցանցին:
+Շտապ կանչեր կարող եք անել միայն այն տարածքներում, որտեղ կա բջջային ցանցի ծածկույթ:"</string>
+    <string name="wfc_provisioned_switch_string">WLAN զանգերի նախապատրաստում</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN ցանցեր</string>
+    <string name="wifi_advanced_not_available">WLAN-ի լրացուցիչ կարգավորումներն անհասանելի են այս օգտատիրոջը</string>
+    <string name="wifi_advanced_settings_label">IP կարգավորումներ</string>
+    <string name="wifi_advanced_titlebar">Ընդլայնված WLAN</string>
+    <string name="wifi_ap_band_config">WLAN հաճախականությունների դիապազոն</string>
+    <string name="wifi_ap_band_select_one">Ընտրեք նվազագույնը մեկ հաճախականություն WLAN թեժ կետի համար՝</string>
+    <string name="wifi_ask_disable">%s հավելվածը ցանկանում է անջատել WLAN-ը</string>
+    <string name="wifi_ask_enable">%s հավելվածը ցանկանում է միացնել WLAN-ը</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Եթե բջջային ցանցը հասանելի չէ, օգտագործել WLAN-ը</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Զանգ WLAN-ի միջոցով։ Եթե WLAN կապն ընդհատվի, զանգը կավարտվի։</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Եթե WLAN-ը հասանելի չէ, օգտագործել բջջային ցանցը</string>
+    <string name="wifi_calling_not_supported">%1$s օպերատորը չի աջակցում զանգեր WLAN-ի միջոցով</string>
+    <string name="wifi_calling_off_explanation">Երբ «Զանգեր WLAN-ով» գործառույթը միացված է, հեռախոսը կարող է ուղարկել զանգերը WLAN ցանցերի կամ ձեր օպերատորի ցանցի միջոցով՝ կախված ձեր նախընտրություններից և ազդանշանի ուժգնությունից: Մինչ այս գործառույթը միացնելը՝ տեղեկացեք վճարների և այլ մանրամասների մասին ձեր օպերատորից:%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">Ակտիվացրեք WLAN-ի միջոցով զանգերը</string>
+    <string name="wifi_calling_settings_title">Զանգեր WLAN-ի միջոցով</string>
+    <string name="wifi_calling_suggestion_summary">Զանգեք WLAN-ի միջոցով՝ ծածկույթն ընդլայնելու համար</string>
+    <string name="wifi_calling_suggestion_title">Ընդլայնեք ծածկույթը WLAN-ի միջոցով</string>
+    <string name="wifi_calling_summary">Միացեք WLAN ցանցի՝ զանգերի որակը լավացնելու համար</string>
+    <string name="wifi_calling_turn_on">Միացրեք WLAN-ի միջոցով զանգերը</string>
+    <string name="wifi_carrier_connect">Օպերատորի WLAN ցանց</string>
+    <string name="wifi_cellular_data_fallback_summary">Օգտագործել բջջային թրաֆիկը, եթե չի հաջողվում միանալ համացանցին WLAN-ի միջոցով։ Կարող են կիրառվել գանձումներ։</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN-ը ավտոմատ կերպով չի միանում</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN-ը ավտոմատ կերպով միանում է</string>
+    <string name="wifi_configure_settings_preference_title">WLAN-ի կարգավորումներ</string>
+    <string name="wifi_data_template">^1 WLAN տվյալ</string>
+    <string name="wifi_data_usage">WLAN թրաֆիկ</string>
+    <string name="wifi_disabled_wifi_failure">WLAN կապի ձախողում</string>
+    <string name="wifi_dpp_add_device_to_wifi">Կապակցե՞լ այս սարքը «%1$s» ցանցին</string>
+    <string name="wifi_dpp_center_qr_code">Սարքը «%1$s» ցանցին ավելացնելու համար տեսախցիկը պահեք QR կոդի վրա</string>
+    <string name="wifi_dpp_failure_not_supported">Այս սարքը չի աջակցում «%1$s» ցանցի ավելացումը</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">«%1$s» ցանցին միանալու համար սկանավորեք այս QR կոդը</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">«%1$s» ցանցին միանալու համար տեսախցիկը պահեք QR կոդի վրա</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">WLAN ցանցին միանալու համար սկանավորեք QR կոդը</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">«%1$s» ցանցին միանալու և գաղտնաբառով կիսվելու համար սկանավորեք այս QR կոդը</string>
+    <string name="wifi_dpp_share_wifi">Կիսվել WLAN-ով</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Սարքը միանում է WLAN-ին…</string>
+    <string name="wifi_dpp_wifi_password">WLAN-ի գաղտնաբառ՝ %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">Սարքը միացված է WLAN-ին</string>
+    <string name="wifi_empty_list_user_restricted">Դուք թույլտվություն չունեք փոխելու WLAN-ի ցանցը:</string>
+    <string name="wifi_empty_list_wifi_off">Հասանելի ցանցերը տեսնելու համար միացրեք WLAN-ը:</string>
+    <string name="wifi_empty_list_wifi_on">WLAN ցանցերը փնտրվում են…</string>
+    <string name="wifi_hotspot_auto_off_summary">WLAN թեժ կետը կանջատվի, եթե որևէ սարք միացած չլինի դրան</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN թեժ կետ</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN թեժ կետի կարգավորում</string>
+    <string name="wifi_hotspot_footer_info_regular">Թեժ կետի միջոցով ստեղծեք WLAN ցանց ձեր այլ սարքերի hամար: Թեժ կետը տրամադրում է ինտերնետային կապ բջջային ցանցի միջոցով: Կարող են կիրառվել լրացուցիչ գանձումներ։</string>
+    <string name="wifi_limit_optimizations_summary">Սահմանափակել մարտկոցի օգտագործումը WLAN-ի կողմից</string>
+    <string name="wifi_menu_p2p">WLAN ուղիղ</string>
+    <string name="wifi_on_time">WLAN ժամանակին</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Չօգտագործել WLAN ցանցը, եթե դրա ինտերնետային կապը թույլ է</string>
+    <string name="wifi_quick_toggle_summary">Միացնել WLAN-ը</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Տեղորոշման ճշգրտությունն ու այլ գործառույթները բարելավելու նպատակով` անհայտ հավելվածին անհրաժեշտ է ցանցերի որոնման թույլտվություն, այդ թվում երբ WLAN-ն անջատված է:
+
+Թույլատրե՞լ ցանցերի որոնումը բոլոր հավելվածներին:"</string>
+    <string name="wifi_scan_always_turnon_message">"Տեղադրության ճշգրտությունը կատարելագործելու կամ այլ նպատակների համար` %1$s-ը ցանկանում է միացնել ցանցի սկանավորումը, նույնիսկ եթե WLAN-ը անջատված է:
+
+Թույլատրե՞լ բոլոր սկանավորում ցանկացող ծրագրերին:"</string>
+    <string name="wifi_scan_notify_text">Տեղորոշման ճշգրտությունը բարելավելու նպատակով հավելվածներն ու ծառայությունները կորոնեն WLAN ցանցեր՝ նույնիսկ, երբ WLAN-ն անջատած է: Դա կարող է օգտագործվել, օրինակ, տեղորոշում օգտագործող գործառույթների ու ծառայությունների աշխատանքն օպտիմալացնելու համար։ Այս պարամետրը կարող եք փոխել LINK_BEGINորոնման կարգավորումներումLINK_END։</string>
+    <string name="wifi_scan_notify_text_scanning_off">Տեղորոշման ճշգրտությունը բարելավելու համար միացրեք WLAN ցանցերի որոնումը LINK_BEGINորոնման կարգավորումներումLINK_END։</string>
+    <string name="wifi_scan_throttling">WLAN-ի որոնման սահմանափակում</string>
+    <string name="wifi_select_network">Ընտրել WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN-ը՝ քնելու ռեժիմում</string>
+    <string name="wifi_setting_sleep_policy_title">Միացված պահել WLAN-ը քնի ռեժիմում</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN կարգավորումներ</string>
+    <string name="wifi_settings_master_switch_title">Օգտագործել WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN ցանցերի որոնումը միացված է</string>
+    <string name="wifi_settings_scanning_required_info">WLAN ցանցերի որոնումը թույլ է տալիս հավելվածներին և ծառայություններին որոնել WLAN ցանցեր նույնիսկ երբ WLAN-ն անջատած է: Դա կարող է լավացնել տեղորոշում օգտագործող գործառույթների ու ծառայությունների ճշգրտությունը:</string>
+    <string name="wifi_settings_scanning_required_summary">WLAN ցանցերին ավտոմատ միանալու համար անհրաժեշտ է միացնել WLAN ցանցերի որոնումը։</string>
+    <string name="wifi_settings_scanning_required_title">Միացնե՞լ WLAN ցանցերի որոնումը</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN-ի միացում…</string>
+    <string name="wifi_stopping">WLAN-ն անջատվում է...</string>
+    <string name="wifi_suspend_optimizations">WLAN բարելավում</string>
+    <string name="wifi_suspend_optimizations_summary">Մարտկոցի օգտագործումը հասցնել նվազագույնի, երբ WLAN-ը միացված է</string>
+    <string name="wifi_switch_away_when_unvalidated">Անցնել բջջային ինտերնետի, երբ WLAN-ն անջատվում է համացանցից:</string>
+    <string name="wifi_tether_configure_ap_text">Կարգավորել WLAN թեժ կետը</string>
+    <string name="wifi_tether_failed_subtext">Շարժական WLAN թեժ կետի սխալ</string>
+    <string name="wifi_tether_settings_subtext">Տեղակայել և կառավարել դյուրակիր WLAN թեժ կետ</string>
+    <string name="wifi_tether_settings_text">Շրժ WLAN մտչ տրծքի պրմտր</string>
+    <string name="wifi_turned_on_message">WLAN-ը միացած է</string>
+    <string name="wifi_verbose_logging">Միացնել WLAN մանրամասն գրանցամատյանները</string>
+    <string name="wifi_verbose_logging_summary">Բարձրացնել մակարդակը, WLAN ընտրիչում ամեն մի SSID-ի համար ցույց տալ RSSI</string>
+    <string name="wifi_wakeup">Ավտոմատ միացնել WLAN-ը</string>
+    <string name="wifi_wakeup_summary">WLAN-ը կրկին կմիանա պահված լավ ազդանշանով պահված ցանցերի, օրինակ, ձեր տան ցանցի մոտակայքում</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Անհասանելի է, քանի որ WLAN ցանցերի որոնումն անջատված է</string>
+</resources>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">আপনার ডিভাইসের নাম আপনার ফোনে থাকা অ্যাপে দেখা যাবে। আপনি যখন এটিকে ব্লুটুথ ডিভাইসের সাথে কানেক্ট করেন বা ওয়াই-ফাই হটস্পট সেট-আপ করেন তখন এটি অন্যরাও দেখতে পেতে পারেন।</string>
+    <string name="accessibility_no_wifi">ওয়াই-ফাই ডিসকানেক্ট হয়েছে৷</string>
+    <string name="accessibility_wifi_off">ওয়াই ফাই বন্ধ৷</string>
+    <string name="accessibility_wifi_one_bar">ওয়াই ফাই এ একটি দণ্ড৷</string>
+    <string name="accessibility_wifi_signal_full">ওয়াই ফাই এ সম্পূর্ণ সিগন্যাল৷</string>
+    <string name="accessibility_wifi_three_bars">ওয়াই ফাই এ তিনটি দণ্ড৷</string>
+    <string name="accessibility_wifi_two_bars">ওয়াই ফাই এ দুইটি দণ্ড৷</string>
+    <string name="battery_usm_desc">"Ultra STAMINA মোড উল্লেখযোগ্যভাবে ব্যাটারির আয়ুষ্কাল বাড়াবে। মনে রাখবেন WLAN এবং মোবাইল ডেটার মাধ্যমে ইন্টারনেট সংযোগ অক্ষম হয়ে যাবে, ডেটা সমলয় ও WLAN কলিংয়ের মত ক্রিয়া অনুপলভ্য হবে। আপনার হোম স্ক্রীন Ultra STAMINA মোড হোমে স্যুইচ হবে।
+
+Ultra STAMINA মোডে উপলভ্য অ্যাপগুলি"</string>
+    <string name="battery_usm_desc_variable">"Ultra STAMINA মোড উল্লেখযোগ্যভাবে ব্যাটারির আয়ুষ্কাল বাড়াবে। মনে রাখবেন WLAN এবং মোবাইল ডেটার মাধ্যমে ইন্টারনেট সংযোগ অক্ষম হয়ে যাবে, ডেটা সমলয় ও %s-এর মত ক্রিয়া অনুপলভ্য হবে। আপনার হোম স্ক্রীন Ultra STAMINA মোড হোমে স্যুইচ হবে।
+
+Ultra STAMINA মোডে উপলভ্য অ্যাপগুলি"</string>
+    <string name="bs_feature_wifi">WLAN বন্ধ</string>
+    <string name="change_wifi_state_app_detail_summary">এই অ্যাপটিকে ওয়াই-ফাই চালু অথবা বন্ধ করতে, ওয়াই-ফাই নেটওয়ার্ক স্ক্যান করে তাতে কানেক্ট করতে, নেটওয়ার্ক যোগ করতে বা মুছে ফেলতে অথবা শুধুমাত্র স্থানীয় ব্যবহারের জন্য হটস্পট চালু করতে দিন</string>
+    <string name="change_wifi_state_app_detail_switch">অ্যাপটিকে ওয়াই-ফাই নিয়ন্ত্রণ করতে দিন</string>
+    <string name="change_wifi_state_title">ওয়াই-ফাই নিয়ন্ত্রণ</string>
+    <string name="connected_via_app">%1$s-এর মাধ্যমে কানেক্ট করা আছে</string>
+    <string name="credential_for_wifi">ওয়াই-ফাই এর জন্য ইনস্টল করা হয়েছে</string>
+    <string name="ct_wifi_connected_text">চিনা টেলিকম WLAN সংযুক্ত</string>
+    <string name="cw_network_notification">CT WLAN বিজ্ঞপ্তি সক্ষম করুন</string>
+    <string name="cw_network_priority">চিনা টেলিকম WLAN কে অগ্রাধিকার দ.</string>
+    <string name="cw_network_priority_summary">সংযোগে থাকা অন্য WLAN নেটওয়ার্কগুলির নিরিখে চিনা টেলিকম WLAN নেটওয়ার্কগুলিকে অগ্রাধিকার দেওয়া হবে</string>
+    <string name="data_service_except_mms_disabled_warning_txt">আপনি যদি না WLAN ব্যবহার করেন, সেক্ষেত্রে আপনি ইন্টারনেট, ইমেল বা অন্য অ্যাপ যাতে একটি ডেটা সংযোগের প্রয়োজন হয় সেগুলি আর ব্যবহার করতে পারবেন না। আপনি কি মোবাইলে ডেটা সংযোগ বন্ধ করতে চান?</string>
+    <string name="data_traffic_disabled_text">ডেটা ট্র্যাফিক অক্ষম থাকার কারণে চিন টেলিকম WLAN নেটওয়ার্কে সংযোগ করা যায়নি৷ এখন ডেটা ট্র্যাফিক সক্ষম করবেন?</string>
+    <string name="dialog_message_hint">"STAMINA মোডে থাকে:
+
+• অতিরিক্ত স্ট্যান্ডবাই
+যখন স্ক্রীণ বন্ধ থাকে তখন শক্তি সাশ্রয় করে অস্থায়ীভাবে WLAN এবং মোবাইল ডেটা অক্ষম করে। অধিকাংশ অ্যাপ্লিকেশনগুলি অক্ষম থাকবে।
+যখন স্ক্রীণ চালু থাকবে তখন ফোন সাধারণভাবে কাজ করবে।
+যখন অতিরিক্ত স্ট্যান্ডবাই চালু থাকবে তখন যদি আপনি কিছু অ্যাপগুলিকে সক্ষম রাখতে চান, তবে অ্যাপগুলিকে স্ট্যানডবাই থাকার সময় সক্ষম অ্যাপগুলি তালিকাতে রাখুন।
+
+• অতিরিক্ত ব্যবহার
+যখন আপনার যন্ত্রটি ব্যবহার হবে তখন হার্ডওয়্যার কার্যকরীতাকে সীমিত করে শক্তি সাশ্রয় করে।
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>STAMINA মোড কী?</u>"
+STAMINA মোড হল Sony’-র একটি শক্তি সঞ্চয় ক্রিয়া। ডিসপ্লে বন্ধ থাকার সময়ে এটি ব্যাটারির আয়ুষ্কাল বৃদ্ধি করে।
+
+"<u>প্রাথমিক ব্যবহার</u>"
+STAMINA মোড চালু করতে, স্ক্রীনের বোতামটি আলতো চাপুন।
+স্ক্রীন বন্ধ থাকার সময়ে, ব্যাটারির আয়ুষ্কাল সেভ করার জন্য, WLAN ও মোবাইল ডেটা সাময়িকভাবে বন্ধ করা হবে বেশীরভাগ অ্যাপ্লিকেশন নিষ্ক্রিয় হয়ে যাবে।
+স্ক্রীন চালু থাকার সময়ে, আপনার ফোন স্বাভাবিক ভাবে ক্রিয়া করবে।
+
+"<u>উন্নত ব্যবহার</u>"
+STAMINA চালু থাকার সময়ে আপনি যদি কিছু অ্যাপসকে সক্রিয় রাখতে চান, তাহলে দয়া করে সেই অ্যাপগুলিকে স্ট্যান্ডবাইতে সক্রিয় অ্যাপস তালিকায় যুক্ত করুন।
+তালিকায় সঠিকভাবে যুক্ত করা না হলে অ্যাপ্লিকেশন কাজ নাও করতে পারে।
+
+"<u>দ্রষ্টব্য</u>"
+যদি কোন অ্যাপ্লিকেশন সঠিক ভাবে কাজ না করে, তাহলে দয়া করে সেই অ্যাপকে 'স্ট্যান্ডবাইতে সক্রিয় অ্যাপস' তালিকায় নিবন্ধন করুন, বা STAMINA মোড বন্ধ করুন।"</string>
+    <string name="fullbackup_data_summary">"দূরবর্তীভাবে ডিভাইস ডেটার (যেমন, ওয়াই-ফাই এর পাসওয়ার্ডগুলি এবং কলের ইতিহাস) এবং অ্যাপ্লিকেশন ডেটার (যেমন অ্যাপ্লিকেশনগুলির দ্বারা সঞ্চিত সেটিংস এবং ফাইলগুলি)অটোমেটিক ব্যাকআপ নেওয়া হয়৷
+
+আপনি যখন অটোমেটিক ব্যাকআপ চালু করেন তখন দূরবর্তীভাবে ডিভাইস এবং অ্যাপ্লিকেশনের ডেটা পর্যায়ক্রমে সংরক্ষিত হয়৷ অ্যাপ্লিকেশন ডেটা যেকোনও ডেটা হতে পারে যা অ্যাপ্লিকেশন সংরক্ষণ করে (ডেভেলপারের সেটিংস এর উপর ভিত্তি করে), পরিচিতি, মেসেজ এবং ফটোগুলির মতো সম্ভাব্য সংবেদনশীল ডেটা অন্তর্ভুক্ত করে৷"</string>
+    <string name="fullbackup_erase_dialog_message">ডিভাইস ডেটা (যেমন ওয়াই-ফাই এর পাসওয়ার্ড এবং কলের ইতিহাস) এবং অ্যাপ্লিকেশন ডেটা (যেমন অ্যাপ্লিকেশনগুলির দ্বারা সেভ করা সেটিংস এবং ফাইলগুলি) এর ব্যাক-আপ নেওয়া বন্ধ করবেন, তার সাথে দূরবর্তী সার্ভারে সমস্ত কপি মুছবেন?</string>
+    <string name="install_wapi_certs">WLAN সার্টিফিকেটস সংস্থা. করুন</string>
+    <string name="l_dialog_message_hint">"STAMINA মোডে এগুলি অন্তর্ভুক্ত রয়েছে:
+
+• বর্ধিত স্ট্যান্ডবাই
+যখন পর্দা বন্ধ হয়ে যায় তখন সাময়িকভাবে WLAN অক্ষম করার মাধ্যমে শক্তি সঞ্চয় করে। বেশীরভাগ অ্যাপ্লিকেশনগুলি নিষ্ক্রিয় থাকে।
+পর্দা যখন চালু থাকে, তখন আপনার যন্ত্র স্বাভাবিকভাবে ক্রিয়া করে।
+বর্ধিত স্ট্যান্ডবাই সক্ষম থাকার সময়ে আপনি কিছু অ্যাপসকে সক্রিয় রাখতে চাইলে, স্ট্যান্ডবাইতে অ্যাপস সক্রিয় এই তালিকায় অ্যাপগুলি যুক্ত করতে পারেন।
+
+• দীর্ঘকালীন ব্যবহার
+হার্ডওয়্যারের কার্যসম্পাদনা সীমিত করে আপনার যন্ত্রটিকে ব্যবহার করার সময় শক্তি সঞ্চয় করুন।"</string>
+    <string name="location_based_wifi">জায়গা-ভিত্তিক WLAN</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">আপনার বর্তমান WLAN নেটওয়ার্ক অংশীদারি করতে, সেটিং-এ \"WLAN তথ্য অংশীদারি করুন\" বিকল্পটি নির্বাচন করুন।</string>
+    <string name="nfc_wifi_share_checkbox">WLAN তথ্য অংশীদারি করুন</string>
+    <string name="nfc_wifi_share_title_txt">WLAN এর তথ্য অংশীদারি করুন</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;T WLAN হটস্পটে স্বতঃসংযোগ করুন</string>
+    <string name="operator_auto_connect_hotspot_txt">অপারেটর WLAN স্বতঃসংযোগ</string>
+    <string name="powersaver_feature_data_message">আপনি যদি না WLAN ব্যবহার করেন, সেক্ষেত্রে আপনি ইন্টারনেট, ইমেল বা অন্য অ্যাপ যাতে একটি ডেটা সংযোগের প্রয়োজন হয় সেগুলি আর ব্যবহার করতে পারবেন না। আপনি কি মোবাইলে ডেটা সংযোগ বন্ধ করতে চান?</string>
+    <string name="powersaver_feature_wifi">WLAN বন্ধ</string>
+    <string name="radio_info_ims_reg_status">"IMS নিবন্ধীকরণ: %1$s
+ভয়েস ওভার LTE: %2$s
+ভয়েস ওভার ওয়াই ফাই: %3$s
+ভিডিও কলিং: %4$s
+UT ইন্টারফেস: %5$s"</string>
+    <string name="somc_backup_failed_no_wifi_summary">WLAN সংযোগের অপেক্ষা করা হচ্ছে</string>
+    <string name="somc_wifi_turned_on_info">WLAN চালু আছে। তালিকায় আপনার নেটওয়ার্ক নির্বাচন করুন।</string>
+    <string name="stamina_xssm_summary">স্ক্রীন বন্ধ থাকা কালে মোবাইল ডেটা ও WLAN অক্ষম করে</string>
+    <string name="tethering_no_sim_warning_txt">ইন্টারনেট অ্যাক্সেসের জন্য Mobile WLAN Hotspot বা USB সংযোগকরণ ব্যবহার করে আপনার ফোনের ডেটা সংযোগ অংশীদারি করতে অনুগ্রহ করে SIM কার্ড প্রবেশ করান।</string>
+    <string name="usm_descr">"Ultra STAMINA মোড উল্লেখযোগ্যভাবে ব্যাটারির আয়ুষ্কাল বাড়াবে। আপনি যখন দীর্ঘ সময় ধরে আপনার যন্ত্রটিকে চার্জ করবেন না তখন আপনি এটি ব্যবহার করতে পারেন।
+
+এতে কেবল কয়েকটি মৌলিক ক্রিয়া, যেমন ফোন ও বার্তা প্রেরণ উপলভ্য হবে। আরও বিশদ বিবরণের জন্য \"আরও তথ্য\"-তে আলতো চাপুন।
+
+মনে রাখবেন WLAN ও মোবাইল ডেটার মাধ্যমে ইন্টারনেট সংযোগ অক্ষম হবে।"</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"WLAN কলিংয়ের মাধ্যমে জরুরি কলগুলি সম্ভব নয়।
+একটি জরুরি কল করতে যন্ত্রটি স্বয়ংক্রিয়ভাবে কোনো সেলুলার নেটওয়ার্কে (2G/3G) পাল্টায়।
+জরুরি কলগুলি শুধুমাত্র সেলুলার কভারেজ সহ এলকাগুলিতে সম্ভব।"</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">WLAN কলিংয়ের মাধ্যমে জরুরি কলগুলি</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone WLAN কলিং</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"WLAN কলিং চালু করতে আপনাকে অবস্থান চালু করতে এবং উচ্চ নির্ভুলতা বা ব্যাটারি সঞ্চয় মোড চালু করতে হবে।
+
+WLAN কলিং চলার সময় অনুগ্রহ করে অবস্থান চালু রাখতে ভুলবেন না।"</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"WLAN কলিংয়ের মাধ্যমে জরুরি কলগুলি সম্ভব নয়।
+একটি জরুরি কল করতে যন্ত্রটি স্বয়ংক্রিয়ভাবে কোনো সেলুলার নেটওয়ার্কে (2G/3G) পাল্টায়।
+জরুরি কলগুলি শুধুমাত্র সেলুলার কভারেজ সহ এলকাগুলিতে সম্ভব।"</string>
+    <string name="wfc_location_info_dialog_desc_txt">আপনার অবস্থান-সংক্রান্ত তথ্য Google -এ পাঠানো হবে এবং আপনার অপারেটর যথাযথভাবে WLAN কলগুলি স্থাপন করবে, অবস্থান সেটিং সক্ষম থাকুক বা না থাকুক।</string>
+    <string name="wfc_provisioned_switch_string">ওয়াই ফাই কলিং এর ব্যবস্থা আছে</string>
+    <string name="wifi">ওয়াই-ফাই</string>
+    <string name="wifi_advanced_settings_label">WLAN সেটিংস</string>
+    <string name="wifi_ask_disable">%s ওয়াই-ফাই বন্ধ করতে চাইছে</string>
+    <string name="wifi_ask_enable">%s ওয়াই-ফাই চালু করতে চাইছে</string>
+    <string name="wifi_auto_network_switch_setting_msg">যখন WLAN নেটওয়ার্ক ও মোবাইল নেটওয়ার্ক উভয়ই উপলভ্য থাকে তখন স্বয়ংক্রিয়ভাবে একটি পছন্দের নেটওয়ার্কে পাল্টান</string>
+    <string name="wifi_calling_link_to_register_emergency_address">WLAN কলিং -এ নিবন্ধন করতে বা আপনার বিদ্যমান জরুরি ঠিকানা আপডেট করতে এখানে ক্লিক করুন</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">সেলুলার নেটওয়ার্ক ব্যবহার করে কল করুন। সেলুলার নেটওয়ার্ক উপলভ্য না হলে WLAN ব্যবহার করুন।</string>
+    <string name="wifi_calling_mode_wifi_only_summary">WLAN ব্যবহার করে কল করুন। WLAN সংযোগ বিচ্ছিন্ন হলে কল সমাপ্ত করুন।</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">WLAN ব্যবহার করে কল করুন। WLAN উপলভ্য না হলে সেলুলার নেটওয়ার্ক ব্যবহার করুন।</string>
+    <string name="wifi_calling_off_explanation">"মোবাইল নেটওয়ার্কের কভারেজ ভালো নেই এমন জায়গাগুলিতে কলের গুণমান বাড়াতে WLAN কলিং ব্যবহার করুন।
+
+খরচ
+WLAN কলিংয়ের চার্জের বিষয়ে আরো জানতে, অনুগ্রহ করে আপনার পরিষেবা প্রদানকারীর সঙ্গে যোগাযোগ করুন।
+
+WLAN কলিং বিষয়ে দ্রষ্টব্য
+WLAN কলিংয়ে থাকতে, WLAN রেঞ্জের মধ্যে থাকার বিষয়টি নিশ্চিত করুন।"</string>
+    <string name="wifi_calling_on_dialog_text">WLAN কলিং ব্যবহার করতে, মোবাইল ডেটার জন্য SIM 1-কে পছন্দসই SIM স্থাপন করুন</string>
+    <string name="wifi_calling_settings_title">ওয়াই-ফাই কলিং</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN সার্টিফিকেট পরিবর্তন করুন</string>
+    <string name="wifi_data_template">^1 ওয়াই-ফাই ডেটা</string>
+    <string name="wifi_disabled_wifi_failure">WLAN সংযোগের ব্যর্থতা</string>
+    <string name="wifi_dpp_add_device_to_wifi">এই ডিভাইস “%1$s”-এ যোগ করতে চান?</string>
+    <string name="wifi_dpp_center_qr_code">“%1$s”-এর সাথে ডিভাইস যোগ করতে নিচে ডিভাইসের QR কোড মাঝখানে রাখুন</string>
+    <string name="wifi_dpp_failure_not_supported">“%1$s” যোগ করা এই ডিভাইসে কাজ করে না</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">“%1$s”-এর সাথে কানেক্ট করতে এই QR কোড স্ক্যান করুন</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">“%1$s”-এর সাথে কানেক্ট করার জন্য QR কোড মাঝখানে রাখুন</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">“%1$s”-এর সাথে কানেক্ট করতে এই QR কোড স্ক্যান করুন ও পাসওয়ার্ড শেয়ার করুন</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">WLAN চালু থাকার সময়ে উপলভ্য Passpoint নেটওয়ার্কগুলির সঙ্গে স্বতঃ সংযোগ করুন।</string>
+    <string name="wifi_p2p_settings">WLAN Direct সেটিংস</string>
+    <string name="wifi_scan_always_turnon_message">"লোকেশন নির্ভুলতা উন্নতি ও অন্যান্য উদ্দ্যেশ্যের জন্য %1$s নেটওয়ার্ক স্ক্যান চালু করতে চাইছে, এমনকি ওয়াই-ফাই বন্ধ থাকা সত্ত্বেও।
+
+যে সব অ্যাপ্লিকেশানগুলি স্ক্যান করতে চাই তাদের জন্য এটির অনুমতি দেবেন?"</string>
+    <string name="wifi_scan_notify_text_scanning_off">আরো নির্ভুলভাবে লোকেশন নির্ণয় করতে LINK_BEGINস্ক্যানিং সেটিংসেLINK_END ওয়াই ফাই স্ক্যানিং চালু করুন।</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERT দ্বারা সুরক্ষিত করুন</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSK দ্বারা সুরক্ষিত করুন</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_tether_settings_subtext">ছোট মাপের WLAN হটস্পট সেট আপ করুন এবং পরিচালনা করুন</string>
+    <string name="wifi_tether_settings_text">ছোট মাপের WLAN হটস্পট সেটিং</string>
+    <string name="wifi_tethering_warning_txt">মিডিয়া স্থানান্তরণ, ফোন সফ্টওয়্যার আপডেট, ব্যাকআপ এবং পুনঃস্থাপনের মত চলমান যে কোন WLAN কার্যকলাপ বিঘ্নিত হবে।</string>
+    <string name="wifi_wps_category_title">WLAN নেটওয়ার্ক স্থাপন করুন</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN-এর সংযোগ বিছিন্ন হয়েছে। সেটআপ বাতিল করা হয়েছে।</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINA মোড যন্ত্র সেটিং সুবিন্যস্ত করার দ্বারা ব্যাটারির পাওয়ার সঞ্চয় করে। নিদ্রা মোডে থাকাকালীন আপনি কার্যকারিতা হ্রাসের মাধ্যমে অ্যাপ্লিকেশনগুলিকে রান করার জন্য চয়ন করতে পারেন। (এটি আপনাকে ব্যাটারির পাওয়ার সঞ্চয় করতে সহায়তা করে কারণ বেশীরভাগ অ্যাপস নিদ্রা মোডে থাকা সত্ত্বেও ব্যাটারি নিঃশেষ করা বজায় রাখে।)
+
+নির্বাচিত অ্যাপসের কার্যকারিতা নিষ্ক্রিয় হয়েছে::
+- WLAN
+- মোবাইল ডেটা
+- টাইমার
+
+নিদ্রা মোডে থাকাকালীন সমস্ত অ্যাপসের ঘোষণা আলো একই ফ্রিকোয়েন্সিতে একই রঙে ফ্ল্যাশ হয়।
+
+আপনি যন্ত্র নিয়ন্ত্রণ করার সময়ে STAMINA মোড নিষ্ক্রিয় হয়।"</string>
+</resources>

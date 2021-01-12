@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">तपाईंको फोनमा रहेका अनुप्रयोगहरूले तपाईंको यन्त्रको नाम देख्न सक्छन्। तपाईंले ब्लुटुथ यन्त्रहरूमा जडान गर्दा वा कुनै WLAN हटस्पट सेटअप गर्दा अरू मान्छेहरू पनि यसलाई देख्न सक्छन्।</string>
+    <string name="accessibility_no_wifi">WLAN जडान विच्छेद भयो।</string>
+    <string name="accessibility_wifi_off">WLAN बन्द।</string>
+    <string name="accessibility_wifi_one_bar">WLAN एक पट्टि।</string>
+    <string name="accessibility_wifi_signal_full">पूर्ण WLAN सिंग्नल।</string>
+    <string name="accessibility_wifi_three_bars">WLAN तीन बारहरू।</string>
+    <string name="accessibility_wifi_two_bars">WLAN दुई पट्टि।</string>
+    <string name="backup_data_summary">अनुप्रयोग डेटा, WLAN पासवर्डहरू र Google सर्भरहरूका अन्य सेटिङहरूको ब्याकअप गर्नुहोस्</string>
+    <string name="backup_erase_dialog_message">तपाईँको WLAN पासवर्डहरू, बुकमार्क, अन्य सेटिङहरू, र अनुप्रयोग डेटाको जगेडा राख्न बन्द गर्ने र Google सर्भरबाट सम्पूर्ण प्रतिलिपिहरू मेटाउने हो?</string>
+    <string name="battery_action_wifi">WLAN सेटिङहरू</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">यो प्रयोग नभएको वा उपलब्ध नभएको बेला WLAN बन्द गर्नुहोस्</string>
+    <string name="bluetooth_on_time">समयमा WLAN</string>
+    <string name="change_wifi_state_app_detail_summary">यो अनुप्रयोगलाई WLAN सक्रिय गर्ने वा निष्क्रिय पार्ने अनुमति दिनुहोस्, स्क्यान गरी WLAN नेटवर्कमा जडान गर्नुहोस्, नेटवर्कहरू थप्नुहोस् वा हटाउनुहोस्, वा स्थानीय रूपमा मात्र प्रयोग गर्न मिल्ने हटस्पट सुरु गर्नुहोस्</string>
+    <string name="change_wifi_state_app_detail_switch">अनुप्रयोगलाई WLAN नियन्त्रण गर्ने अनुमति दिनुहोस्</string>
+    <string name="change_wifi_state_title">WLAN को नियन्त्रण</string>
+    <string name="condition_cellular_summary">WLAN मार्फत मात्र इन्टरनेट उपलब्ध छ</string>
+    <string name="connected_via_app">%1$s मार्फत जडान गरिएको</string>
+    <string name="credential_for_wifi">WLAN का लागि स्थापना गरिएको</string>
+    <string name="data_usage_app_summary_title">मोबाइल डेटा तथा WLAN</string>
+    <string name="data_usage_disable_wifi_limit">WLAN डेटा सीमा निर्धारण गर्नुहोस्</string>
+    <string name="data_usage_menu_hide_wifi">WLAN लुकाउनुहोस्</string>
+    <string name="data_usage_menu_show_wifi">WLAN देखाउनुहोस्</string>
+    <string name="data_usage_metered_wifi">मिटर राखिएका WLAN सञ्जालहरू</string>
+    <string name="data_usage_metered_wifi_disabled">मिटर राखिएका सञ्जालहरू चयन गर्न, WLAN खोल्नुहोस्।</string>
+    <string name="data_usage_restrict_background">तपाईंले पृष्ठभूमिको मोबाइल डेटालाई सीमित गर्नुहुन्छ भने केही अनुप्रयोग र सेवाहरूले तपाईं WLAN मा जडान नहुँदासम्म काम गर्ने छैनन्।</string>
+    <string name="data_usage_restrict_background_multiuser">"तपाईंले पृष्ठभूमिको मोबाइल डेटालाई सीमित गर्नुहुन्छ भने केही अनुप्रयोग र सेवाहरूले तपाईं WLAN मा जडान नहुँदासम्म काम गर्ने छैनन्।
+
+यस सेटिङले यस फोनमा भएका सबै प्रयोगकर्ताहरूलाई प्रभाव पार्दछ।"</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">WLAN मा प्रयोग भएको ^1</string>
+    <string name="data_usage_wifi_title">WLAN डेटा</string>
+    <string name="emergency_address_summary">तपाईंले WLAN मार्फत आपतकालीन कल गर्दा उक्त ठेगानालाई तपाईंको स्थानको रूपमा प्रयोग गरिन्छ</string>
+    <string name="fullbackup_data_summary">"यन्त्र डेटा (जस्तै WLAN पासवर्डहरू र कल इतिहास) र अनुप्रयोग डेटा (जस्तै अनुप्रयोगहरूद्वारा भण्डारित सेटिङहरू र फाइलहरू) टाढाबाट स्वचालित रुपमा ब्याकअप गर्नुहोस्। 
+
+जब तपाईं स्वचालित ब्याकअप यन्त्र सक्षम गर्नुहुन्छ, यन्त्र र अनुप्रयोग डेटा आवधिक रूपमा टाढाबाट सुरक्षित गरिएको छ। सम्पर्क, सन्देशहरू, र तस्बिरहरू जस्तै सम्भावित संवेदनशील डेटा सहित, अनुप्रयोग डेटा कुनै पनि डेटा हुनसक्छ जुन अनुप्रयोगले (विकासकर्ता सेटिङहरूमा आधारित) सुरक्षित गरेको छ।"</string>
+    <string name="fullbackup_erase_dialog_message">के यन्त्र डेटा (जस्तै WLAN पासवर्डहरू र इतिहास कल) र अनुप्रयोग डेटा (जस्तै अनुप्रयोगहरू द्वारा भण्डारण सेटिङहरू र फाइलहरू) को ब्याकअपलाई रोक्ने, र थप रिमोट सर्भरहरूमा सबै प्रतिलिपिहरू मेटाउन चाहनु हुन्छ?</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN सूचना, wifi सूचना</string>
+    <string name="location_network_based">WLAN; मोबाइल नेटवर्क स्थान</string>
+    <string name="location_scanning_screen_title">WLAN तथा ब्लुटुथ स्क्यान गर्दै</string>
+    <string name="location_scanning_wifi_always_scanning_description">अनुप्रयोग र सेवाहरूलाई जुनसुकै बेला (WLAN निष्क्रिय भएको बेलामा पनि) वरपरका WLAN नेटवर्कहरू स्क्यान गर्न अनुमति दिनुहोस्। यसलाई स्थानमा आधारित सुविधा तथा सेवाहरू सुधार गर्ने जस्ता कार्यहरू गर्नाका लागि प्रयोग गर्न सकिन्छ।</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN स्क्यान गर्दै</string>
+    <string name="lost_internet_access_cancel">WLAN मा कायम रहनुहोस्</string>
+    <string name="lost_internet_access_text">WLAN को जडान खराब हुँदा तपाईं मोबाइल नेटवर्कमा स्विच गर्न सक्नुहुन्छ। डेटा उपयोग शुल्कहरू लाग्न सक्छन्।</string>
+    <string name="lost_internet_access_title">WLAN इन्टरनेटमा जडान भएको छैन</string>
+    <string name="mobile_data_always_on_summary">WLAN सक्रिय हुँदा पनि मोबाइल डेटा सधैँ सक्रिय राख्नुहोस् (द्रूत नेटवर्क स्विच गर्नको लागि)।</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN सहायक परिवर्तन गर्नुहुन्छ?</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_controls_summary">WLAN, ब्लुटुथ, हवाइजहाज मोड, मोबाइल नेटवर्क, र VPNs व्यवस्थापन गर्नुहोस्</string>
+    <string name="radio_info_ims_reg_status">"IMS को दर्ता: %1$s
+भ्वाइस ओभर LTE: %2$s
+भ्वाइस ओभर WLAN: %3$s
+भिडियो कलिङ: %4$s
+UT को इन्टरफेस: %5$s"</string>
+    <string name="reset_network_desc">"यसले निम्न सेटिङहरू लगायत सम्पूर्ण नेटवर्क सम्बन्धी सेटिहरूलाई रिसेट गर्ने छ:
+
+"<li>WLAN</li>"
+"<li>मोबाइल डेटा</li>"
+"<li>ब्लुटुथ</li></string>
+    <string name="reset_network_title">WLAN, मोबाइल र ब्लुटुथ रिसेट गर्नुहोस्</string>
+    <string name="restriction_wifi_config_summary">WLAN र मोबाइल सेटिङहरूको परिमार्जनका लागि अनुमति दिनुहोस्</string>
+    <string name="restriction_wifi_config_title">WLAN र मोबाइल</string>
+    <string name="scanning_status_text_wifi_off_ble_off">WLAN र ब्लुटुथ दुवै स्क्यान गर्ने सेवा निष्क्रिय छन्</string>
+    <string name="scanning_status_text_wifi_off_ble_on">ब्लुटुथ स्क्यान गर्ने सेवा सक्रिय छ, WLAN स्क्यान गर्ने सेवा निष्क्रिय छ</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN स्क्यान गर्ने सेवा सक्रिय छ, ब्लुटुथ स्क्यान गर्ने सेवा निष्क्रिय छ</string>
+    <string name="scanning_status_text_wifi_on_ble_on">WLAN र ब्लुटुथ दुवै स्क्यान गर्ने सेवा सक्रिय छन्</string>
+    <string name="status_wifi_mac_address">WLAN म्याक ठेगाना</string>
+    <string name="usage_type_data_wifi_recv">WLAN प्याकेटहरू प्राप्त भयो</string>
+    <string name="usage_type_data_wifi_send">WLAN प्याकेटहरू पठाइयो</string>
+    <string name="usage_type_wifi_running">WLAN चलिरहेको छ</string>
+    <string name="user_add_user_message_long">"तपाईं थप प्रयोगकर्ताहरू सिर्जना गरेर यो यन्त्र अन्य मान्छेहरूसँग साझा रूपमा प्रयोग गर्न सक्नुहुन्छ। हरेक प्रयोगकर्ताको आफ्नै ठाउँ हुन्छ, जसलाई उनीहरू अनुप्रयोग, वालपेपर इत्यादिमार्फत आफू अनुकूल पार्न सक्छन्। प्रयोगकर्ताहरू सबैजनालाई असर पार्ने WLAN जस्ता यन्त्रका सेटिङहरू पनि समायोजन गर्न सक्छन्।
+
+तपाईंले नयाँ प्रयोगकर्ता थप्दा उक्त व्यक्तिले आफ्नो ठाउँ सेटअप गर्नु पर्ने हुन्छ।
+
+कुनै पनि प्रयोगकर्ताले अन्य सबै प्रयोगकर्ताहरूका लागि अनुप्रयोगहरू अद्यावधिक गर्न सक्छन्। पहुँचसम्बन्धी सेटिङ तथा सेवाहरू नयाँ प्रयोगकर्तामा स्थानान्तरण नहुन सक्छन्।"</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"तपाईंको सेवा प्रदायकले WLAN मार्फत आपतकालीन कल गर्ने सुविधा समर्थन गदैन। 
+अपतकालीन कल गर्नका लागि उक्त यन्त्रले स्वतः सेलुलर नेटवर्क प्रयोग गर्छ।
+ सेलुलर नेटवर्कको कभरेज राम्रो भएका क्षेत्रमा मात्र अपतकालीन कल गर्न सम्भव हुन्छ।"</string>
+    <string name="wfc_provisioned_switch_string">WLAN कलिङ सम्बन्धी प्रावधानलाई सक्रिय गरिएको छ</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN नेटवर्कहरू</string>
+    <string name="wifi_advanced_not_available">यस प्रयोगकर्ताका लागि WLAN उन्नत सम्बन्धी सेटिङहरू उपलब्ध छैनन्</string>
+    <string name="wifi_advanced_settings_label">IP सेटिङहरू</string>
+    <string name="wifi_advanced_titlebar">जटिल WLAN</string>
+    <string name="wifi_ap_band_select_one">WLAN हटस्पटका लागि कम्तीमा एक ब्यान्ड छनौट गर्नुहोस्:</string>
+    <string name="wifi_ask_disable">%s WLAN निष्क्रिय पार्न चाहन्छ</string>
+    <string name="wifi_ask_enable">%s WLAN सक्रिय गर्न चाहन्छ</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">मोबाइल नेटवर्क उपलब्ध नभएमा WLAN प्रयोग गर्नुहोस्</string>
+    <string name="wifi_calling_mode_wifi_only_summary">WLAN मार्फत कल गर्नुहोस्। WLAN नेटवर्कले काम गरेन भने सम्पर्क विच्छेद हुने छ।</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">WLAN उपलब्ध छैन भने मोबाइल नेटवर्क प्रयोग गर्नुहोस्</string>
+    <string name="wifi_calling_not_supported">%1$s मा WLAN कलिङ समर्थित छैन</string>
+    <string name="wifi_calling_off_explanation">WLAN कलिङ सक्रिय पारिएका बेला तपाईंको फोनले तपाईंको प्राथमिकता र सङ्केतको बलियोपनाका आधारमा कलहरूलाई WLAN नेटवर्कहरू वा तपाईंको सेवा प्रदायकको नेटवर्कमार्फत पठाउन सक्छ। यो सुविधा सक्रिय गर्नुअघि लाग्ने शुल्क र अन्य विवरणहरूबारे बुझ्न आफ्नो सेवा प्रदायकसँग सम्पर्क गर्नुहोस्।%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">WLAN कलिङ सक्रिय गर्नुहोस्</string>
+    <string name="wifi_calling_settings_title">WLAN कलिङ</string>
+    <string name="wifi_calling_suggestion_summary">पहुँच क्षेत्र विस्तार गर्न WLAN मार्फत कल गर्ने सेवालाई सक्रिय गर्नुहोस्‌</string>
+    <string name="wifi_calling_suggestion_title">WLAN मार्फत कल गर्ने सेवाको क्षेत्र विस्तार गर्नुहोस्</string>
+    <string name="wifi_calling_summary">कलको गुणस्तर सुधार्न WLAN प्रयोग गरी कल गर्नुहोस्</string>
+    <string name="wifi_calling_turn_on">WLAN कलिङ सक्रिय गर्नुहोस्</string>
+    <string name="wifi_carrier_connect">सेवा प्रदायकको WLAN नेटवर्क</string>
+    <string name="wifi_cellular_data_fallback_summary">WLAN मार्फत इन्टरनेट उपलब्ध नभएको बेलामा मोबाइल डेटाको प्रयोग गर्नुहोस्। डेटा प्रयोगको शुल्क लाग्न सक्छ।</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN स्वत: पुनः सक्रिय हुँदैन</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN स्वत: पुन: सक्रिय हुन्छ</string>
+    <string name="wifi_configure_settings_preference_title">WLAN का प्राथमिकताहरू</string>
+    <string name="wifi_data_template">^1 WLAN को डेटा</string>
+    <string name="wifi_data_usage">WLAN डेटाको प्रयोग</string>
+    <string name="wifi_disabled_wifi_failure">वाईफाई जडान असफल</string>
+    <string name="wifi_dpp_add_device_to_wifi">यो यन्त्रलाई “%1$s” मा थप्ने हो?</string>
+    <string name="wifi_dpp_center_qr_code">उक्त यन्त्रलाई “%1$s” मा यन्त्र थप्न तलको QR कोडलाई मध्य भागमा राख्नुहोस्</string>
+    <string name="wifi_dpp_failure_not_supported">यस यन्त्रले “%1$s” थप्न सक्दैन</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">“%1$s” मा जडान गर्न QR कोड स्क्यान गर्नुहोस्</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">“%1$s” मा जडान गर्न तलको QR कोडलाई मध्य भागमा राख्नुहोस्</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">QR कोड स्क्यान गरी WLAN मा सामेल हुनुहोस्</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">“%1$s” मा जडान गर्न यो QR कोड स्क्यान गर्नुहोस् र पासवर्ड आदान प्रदान गर्नुहोस्</string>
+    <string name="wifi_dpp_share_wifi">WLAN साझा रूपमा प्रयोग गर्नुहोस्</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">यो सेवामार्फत WLAN आदान प्रदान गर्दै…</string>
+    <string name="wifi_dpp_wifi_password">WLAN को पासवर्ड: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">यन्त्रसँग WLAN आदान प्रदान गरियो</string>
+    <string name="wifi_empty_list_user_restricted">WLAN सञ्जाल बदल्न तपाईँसँग अनुमति छैन।</string>
+    <string name="wifi_empty_list_wifi_off">उपलब्ध नेटवर्कहरू हेर्नको लागि WLAN खुला गर्नुहोस्।</string>
+    <string name="wifi_empty_list_wifi_on">WLAN सञ्जालका लागि खोज्दै ...</string>
+    <string name="wifi_hotspot_auto_off_summary">कुनै पनि यन्त्र जडान नहुँदा WLAN हटस्पट स्वतः निष्क्रिय हुनेछ</string>
+    <string name="wifi_hotspot_auto_off_title">WLAN हटस्पट स्वतः निष्क्रिय पार्नुहोस्</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN हटस्पट</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN हटस्पट सेटअप</string>
+    <string name="wifi_hotspot_footer_info_regular">आफ्ना अन्य यन्त्रहरूका लागि WLAN नेटवर्क सिर्जना गर्न हटस्पट प्रयोग गर्नुहोस्। हटस्पटले तपाईंको मोबाइल डेटा जडान प्रयोग गरेर इन्टरनेट प्रदान गर्दछ। अतिरिक्त मोबाइल डेटाको शुल्क लाग्न सक्छ।</string>
+    <string name="wifi_menu_p2p">WLAN प्रत्यक्ष</string>
+    <string name="wifi_on_time">समयमा WLAN</string>
+    <string name="wifi_p2p_settings_title">WLAN प्रत्यक्ष</string>
+    <string name="wifi_poor_network_detection_summary">WLAN नेटवर्कमा राम्रो इन्टरनेट जडान उपलब्ध नभएसम्म प्रयोग नगर्नुहोस्</string>
+    <string name="wifi_quick_toggle_summary">WLAN खोल्नुहोस्</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"स्थान पहिचानको सटीकता सुधार गर्न र अन्य प्रायोजनहरूका लागि, एउटा अज्ञात अनुप्रयोग WLAN निष्क्रिय हुँदा समेत नेटवर्क स्क्यान गर्न चाहन्छ।
+
+स्क्यान गर्न चाहने सबै अनुप्रयोगहरूलाई अनुमति दिने हो?"</string>
+    <string name="wifi_scan_always_turnon_message">"स्थान सटिकता सुधार गर्न र अन्य प्रायोजनहरूको लागि, %1$s नेटवर्क स्क्यानिङ खुला भएको चाहन्छ, WLAN बन्द भएता पनि।
+
+के यसलाई सबै अनुप्रयोगहरूको लागि अनुमति दिन चाहनुहुन्छ जसले स्क्यान गर्न चाहन्छन्?"</string>
+    <string name="wifi_scan_notify_text">स्थानको सटीकतामा सुधार गर्न, अनुप्रयोग तथा सेवाहरूले अझै पनि जुनसुकै बेला (WLAN निष्क्रिय भएको बेलामा पनि) WLAN नेटवर्क स्क्यान गर्न सक्छ। यसलाई स्थानमा आधारित सुविधा तथा सेवाहरूमा सुधार गर्ने जस्ता कार्यहरू गर्नाका लागि प्रयोग गर्न सकिन्छ। तपाईं यसलाई LINK_BEGINस्क्यानिङ सेटिङहरूLINK_END मा परिवर्तन गर्न सक्नुहुन्छ।</string>
+    <string name="wifi_scan_notify_text_scanning_off">स्थानसम्बन्धी सटीकतामा सुधार गर्न LINK_BEGINस्क्यानिङ सम्बन्धी सेटिङहरूLINK_END मा गई WLAN स्क्यान गर्ने सेवालाई सक्रिय गर्नुहोस्।</string>
+    <string name="wifi_scan_throttling">WLAN स्क्यान थ्रोटलिङ</string>
+    <string name="wifi_select_network">WLAN चयन गर्नुहोस्</string>
+    <string name="wifi_setting_on_during_sleep_title">सुतेको बेलामा WLAN</string>
+    <string name="wifi_setting_sleep_policy_title">सुतेको बेलामा WLAN खुला राख्नुहोस्</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN सेटिङहरू</string>
+    <string name="wifi_settings_master_switch_title">WLAN प्रयोग गर्नुहोस्</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN स्क्यान गर्ने सेवा सक्रिय छ</string>
+    <string name="wifi_settings_scanning_required_info">WLAN स्क्यान गर्ने सुविधाले अनुप्रयोग र सेवाहरूलाई WLAN निष्क्रिय भएको बेलालगायत जुनसुकै बेला वरपरका WLAN नेटवर्कहरू स्क्यान गर्ने अनुमति दिन्छ। उदाहरणका लागि यसलाई स्थानमा आधारित सुविधा तथा सेवाहरूको सुधार गर्नका लागि प्रयोग गर्न सकिन्छ।</string>
+    <string name="wifi_settings_scanning_required_summary">WLAN स्वतः सक्रिय गर्न तपाईंले सर्वप्रथम WLAN स्क्यान गर्ने सुविधालाई सक्रिय गर्नु पर्ने हुन्छ।</string>
+    <string name="wifi_settings_scanning_required_title">WLAN स्क्यान गर्ने सुविधा सक्रिय गर्ने हो?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN खुला गर्दै...</string>
+    <string name="wifi_stopping">WLAN निष्क्रिय पार्दै...</string>
+    <string name="wifi_suspend_optimizations">WLAN अप्टिमाइजेसन</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN चालेको बेला ब्याट्रिको प्रयोग कम गर्नुहोस्</string>
+    <string name="wifi_switch_away_when_unvalidated">WLAN मार्फत इन्टरनेट उपलब्ध नभएको खण्डमा मोबाइल डेटामा बदल्नुहोस्।</string>
+    <string name="wifi_tether_configure_ap_text">WLAN हटस्पट सेटअप गर्नुहोस्</string>
+    <string name="wifi_tether_failed_subtext">पोर्टेबल WLAN हटस्पट त्रुटि</string>
+    <string name="wifi_turned_on_message">WLAN सक्रिय गरियो</string>
+    <string name="wifi_verbose_logging">WLAN वर्बोज लग सक्षम पार्नुहोस्</string>
+    <string name="wifi_verbose_logging_summary">WLAN लग स्तर बढाउनुहोस्, WLAN चयनकर्तामा प्रति SSID RSSI देखाइन्छ</string>
+    <string name="wifi_wakeup">WLAN स्वत: सक्रिय गर्नुहोस्</string>
+    <string name="wifi_wakeup_summary">तपाईंको घरको नेटवर्क जस्ता सुरक्षित गरिएका उच्च गुणस्तरका नेटवर्कहरू नजिक हुँदा WLAN पुन: सक्रिय हुनेछ</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">WLAN स्क्यान गर्ने सेवालाई निष्क्रिय पारिएको हुनाले WLAN वेकअप विकल्प उपलब्ध छैन</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/progressLayout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" android:layout_centerHorizontal="true" android:layout_centerVertical="true"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <ProgressBar android:gravity="center" android:id="@id/progressBarIcon" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true" style="?android:progressBarStyleLarge" />
+        <TextView android:textAppearance="@android:style/TextAppearance.Material.Subhead" android:gravity="center" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="16.0dip" android:text="@null" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/controlLayout" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <ScrollView android:paddingTop="0.0dip" android:paddingBottom="0.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="?android:listPreferredItemPaddingStart" android:paddingEnd="?android:listPreferredItemPaddingEnd">
+                <TextView android:textAppearance="@android:style/TextAppearance.Material.Subhead" android:id="@id/sdcrypt_keeper_on_id" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="16.0dip" android:text="@string/sdcrypt_on_dec" />
+                <TextView android:textAppearance="@android:style/TextAppearance.Material.Subhead" android:id="@id/sdcrypt_keeper_off_id" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="16.0dip" android:text="@string/sdcrypt_off_dec" />
+            </LinearLayout>
+        </ScrollView>
+        <LinearLayout android:gravity="end" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/initiate_sdencrypt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sdcrypt_keeper_encrypt_button_text" android:layout_marginEnd="16.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wapi_psk_type">
+        <item>WLAN ASCII</item>
+        <item>WLAN hexadecimal</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2">
+        <item>WLAN</item>
+        <item>Mobiilne andmeside</item>
+        <item>Ainult WLAN</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>WLAN</item>
+        <item>Mobiilne andmeside</item>
+    </string-array>
+</resources>

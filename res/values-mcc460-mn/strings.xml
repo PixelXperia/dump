@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Таны төхөөрөмжийн нэр таны утасны аппуудад харагдана. Та Bluetooth төхөөрөмжүүдэд холбогдох эсвэл WLAN сүлжээний цэгийг тохируулах үед энэ нь бусад хүмүүст харагдаж болзошгүй.</string>
+    <string name="accessibility_no_wifi">WLAN холбогдоогүй байна.</string>
+    <string name="accessibility_wifi_off">WLAN унтраалттай байна.</string>
+    <string name="accessibility_wifi_one_bar">WLAN сүлжээний дохио нэг баганатай байна.</string>
+    <string name="accessibility_wifi_signal_full">WLAN-н дохио дүүрэн байна.</string>
+    <string name="accessibility_wifi_three_bars">WLAN сүлжээний дохио гурван баганатай байна.</string>
+    <string name="accessibility_wifi_two_bars">WLAN сүлжээний дохио хоёр баганатай байна.</string>
+    <string name="backup_data_summary">Апп өгөгдөл, WLAN нууц үгс болон бусад тохиргоонуудыг Google серверүүдэд нөөшлөөрэй</string>
+    <string name="backup_erase_dialog_message">Өөрийн WLAN нууц үгс, тэмдэглэгээ, бусад тохиргоонууд болон апп өгөгдлийг Google серверт нөөцлөхийг зогсоож бүх хуулбарыг нь устгах уу?</string>
+    <string name="battery_action_wifi">WLAN тохиргоо</string>
+    <string name="battery_desc_wifi">WLAN зарцуулагдсан зай</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">WLAN-г ашиглахгүй байгаа үед эсхүл ашиглах боломжгүй байгаа үед унтраана уу</string>
+    <string name="bluetooth_on_time">WLAN цагтаа</string>
+    <string name="change_wifi_state_app_detail_summary">Энэ аппад WLAN-г асаах эсвэл унтраах, WLAN сүлжээг хайх болон холбогдох, сүлжээ нэмэх эсвэл устгах болон зөвхөн дотоодод ашиглах сүлжээний цэгийг эхлүүлэхийг зөвшөөрнө үү</string>
+    <string name="change_wifi_state_app_detail_switch">WLAN-г хянах зөвшөөрлийг аппад олгох</string>
+    <string name="change_wifi_state_title">WLAN хяналт</string>
+    <string name="condition_cellular_summary">Интернэтэд зөвхөн WLAN-р холбогдох боломжтой байна</string>
+    <string name="connected_via_app">%1$s-р холбогдсон</string>
+    <string name="credential_for_wifi">WLAN-д суулгасан</string>
+    <string name="data_usage_app_summary_title">Мобайл дата &amp; WLAN</string>
+    <string name="data_usage_disable_wifi_limit">WLAN дата хязгаар тогтоох</string>
+    <string name="data_usage_menu_hide_wifi">WLAN-г нуух</string>
+    <string name="data_usage_menu_show_wifi">WLAN харуулах</string>
+    <string name="data_usage_metered_wifi">Тоолууртай WLAN сүлжээ</string>
+    <string name="data_usage_metered_wifi_disabled">Тоолууртай сүлжээ сонгохын тулд WLAN асаагаарай.</string>
+    <string name="data_usage_restrict_background">Хэрэв та арын мобайл датаг хязгаарласан бол таныг WLAN-д холбогдох хүртэл зарим апп, үйлчилгээ ажиллахгүй.</string>
+    <string name="data_usage_restrict_background_multiuser">"Хэрэв та арын мобайл датаг хязгаарласан бол таныг WLAN-д холбогдох хүртэл зарим апп, үйлчилгээ ажиллахгүй.
+
+Энэ тохиргоо энэ утасны бүх хэрэглэгчид нөлөөлнө."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1-г WLAN-д ашигласан</string>
+    <string name="data_usage_wifi_title">WLAN өгөгдөл</string>
+    <string name="emergency_address_summary">Та WLAN-р яаралтай дуудлага хийх үед таны байршил болгон ашиглана</string>
+    <string name="fullbackup_data_summary">"Алсаас автоматаар төхөөрөмжийн өгөгдөл (WLAN нууц үг, дуудлагын түүх гэх мэт) ба апп-ын өгөгдөл (апп-ын тохиргоо, хадгалсан файл гэх мэт)-ийг нөөцлөх.
+
+Автомат нөөцлөлт нээсэн тохиолдолд төхөөрөмж, апп-ын өгөгдлийг тогтмол хугацаанд алсаас хадгална. Тус өгөгдөлд апп-ын хадгалсан бүх өгөгдөл орно (хөгжүүлэгчийн тохиргоонд үндэслэн). Үүнд: харилцагчийн хаяг, зурвас, зураг гэх мэт хувийн мэдээлэл."</string>
+    <string name="fullbackup_erase_dialog_message">Төхөөрөмжийн өгөгдөл (WLAN-ийн нууц үг, дуудлагын түүх гэх мэт) болон апп-ийн өгөгдлийг (тохиргоо болон апп-ийн хадгалсан файл гэх мэт) нөөцлөхөө зогсоож, алсын сервер дэх хуулбарыг устгах уу?</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN-н мэдэгдэл, wifi-н мэдэгдэл</string>
+    <string name="location_neighborhood_level_wifi">WLAN-р тодорхойлогдсон байршил</string>
+    <string name="location_network_based">WLAN &amp; мобайл сүлжээний байршил</string>
+    <string name="location_scanning_screen_title">WLAN болон Bluetooth-н скан</string>
+    <string name="location_scanning_wifi_always_scanning_description">Апп, үйлчилгээнд WLAN унтраалттай үед ч WLAN сүлжээг хүссэн үедээ скан хийхийг зөвшөөрнө үү. Үүнийг байршилд суурилсан онцлог, үйлчилгээнүүдийг сайжруулахад ашиглаж магадгүй.</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN скан</string>
+    <string name="lost_internet_access_cancel">WLAN-д хэвээр байх</string>
+    <string name="lost_internet_access_text">Та WLAN-н холболт муу үед мобайл сүлжээнд шилжих боломжтой. Дата ашиглалтын төлбөр гарна.</string>
+    <string name="lost_internet_access_title">WLAN интернетэд холбогдоогүй байна</string>
+    <string name="mobile_data_always_on_summary">WLAN идэвхтэй байхад ч гэсэн гар утасны датаг идэвхтэй байлгадаг (сүлжээг түргэн солихын тулд).</string>
+    <string name="network_scorer_change_active_dialog_title">WLAN туслагчийг өөрчлөх үү?</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="radio_controls_summary">WLAN, блютүүт , нислэгийн горим, мобайл сүлжээнүүд, &amp; VPNs-г удирдах</string>
+    <string name="radio_info_ims_reg_status">"IMS-н бүртгэл: %1$s
+LTE-н дуу оруулалт: %2$s
+WLAN-н дуу оруулалт: %3$s
+Видео дуудлага: %4$s
+UT харагдах байдал: %5$s"</string>
+    <string name="reset_network_desc">"Энэ нь дараах бүх сүлжээний тохиргоог шинэчилнэ: 
+
+"<li>WLAN</li>"
+"<li>мобайл дата</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_title">WLAN, мобайл &amp; Bluetooth-г шинэчлэх</string>
+    <string name="restriction_wifi_config_summary">WLAN болон Мобайл тохиргоог өөрчлөхийг зөвшөөрөх</string>
+    <string name="restriction_wifi_config_title">WLAN болон мобайл</string>
+    <string name="scanning_status_text_wifi_off_ble_off">WLAN болон Bluetooth скан аль аль нь унтраалттай байна</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Bluetooth скан асаалттай, харин WLAN скан унтраалттай байна</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN скан асаалттай, харин Bluetooth скан унтраалттай байна</string>
+    <string name="scanning_status_text_wifi_on_ble_on">WLAN болон Bluetooth скан аль аль нь асаалттай байна</string>
+    <string name="status_wifi_mac_address">WLAN MAC хаяг</string>
+    <string name="usage_type_data_wifi_recv">Хүлээн авсан WLAN пакет</string>
+    <string name="usage_type_data_wifi_send">Илгээсэн WLAN пакет</string>
+    <string name="usage_type_wifi_running">WLAN ажиллаж байна</string>
+    <string name="user_add_user_message_long">"Та нэмэлт хэрэглэгч үүсгэх замаар бусад хүмүүстэй энэ төхөөрөмжийг хуваалцаж болно. Хэрэглэгч тус бүр апп, ханын цаас болон бусад зүйлээ өөрчлөх боломжтой хувийн орон зайтай байдаг. Түүнчлэн хэрэглэгч нь бүх хэрэглэгчид нөлөөлөх боломжтой WLAN зэрэг төхөөрөмжийн тохиргоог өөрчлөх боломжтой.
+
+Хэрэв та шинэ хэрэглэгч нэмэх бол тухайн хүн хувийн орон зайгаа бүрдүүлэх ёстой.
+
+Хэрэглэгч бүр бусад бүх хэрэглэгчийн өмнөөс апп шинэчилж болно. Хүртээмжийн тохиргоо болон үйлчилгээг шинэ хэрэглэгчид шилжүүлэх боломжгүй байж болзошгүй."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Таны оператор компани WLAN Дуудлагаар яаралтай дуудлага хийхийг дэмждэггүй.
+Энэ төхөөрөмж яаралтай дуудлага хийхийн тулд үүрэн сүлжээ рүү автоматаар сэлгэнэ.
+Яаралтай дуудлагыг зөвхөн үүрэн сүлжээтэй газар хийх боломжтой."</string>
+    <string name="wfc_provisioned_switch_string">WLAN дуудлагыг бэлтгэсэн</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN сүлжээ</string>
+    <string name="wifi_advanced_not_available">Энэ хэрэглэгчид WLAN дэлгэрэнгүй тохиргоо боломжгүй байна</string>
+    <string name="wifi_advanced_settings_label">IP тохиргоо</string>
+    <string name="wifi_advanced_titlebar">WLAN дэлгэрэнгүй</string>
+    <string name="wifi_ap_band_select_one">WLAN сүлжээний цэгт хамгийн багадаа нэг зурвасыг сонгоно уу:</string>
+    <string name="wifi_ask_disable">%s WLAN-г унтраах хүсэлтэй байна</string>
+    <string name="wifi_ask_enable">%s WLAN асаах хүсэлтэй байна</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Хэрэв мобайл сүлжээ боломжгүй байвал WLAN-г ашиглана уу</string>
+    <string name="wifi_calling_mode_wifi_only_summary">WLAN-р залгана. WLAN салсан тохиолдолд залгахаа болино.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Хэрэв WLAN боломжгүй бол мобайл сүлжээ ашиглана уу</string>
+    <string name="wifi_calling_not_supported">WLAN дуудлагыг %1$s-д дэмждэггүй</string>
+    <string name="wifi_calling_off_explanation">Таны утас WLAN дуудлагыг асаалттай үед таны сонголт болон аль дохио илүү хүчтэй байгаагаас шалтгаалан WLAN сүлжээ эсвэл таны оператор компанийн сүлжээгээр дуудлага хийх боломжтой. Энэ онцлогийг асаахаасаа өмнө оператор компанийнхаа төлбөр болон бусад дэлгэрэнгүйг шалгаж үзээрэй.%1$s</string>
+    <string name="wifi_calling_settings_activation_instructions">WLAN Дуудлагыг идэвхжүүлэх</string>
+    <string name="wifi_calling_settings_title">WLAN дуудлага</string>
+    <string name="wifi_calling_suggestion_summary">Дуудлагын хамрах хүрээг өргөтгөхийн тулд WLAN-г асаах</string>
+    <string name="wifi_calling_suggestion_title">WLAN-р дуудлагын хамрах хүрээг өргөтгөх</string>
+    <string name="wifi_calling_summary">Чанарыг сайжруулахын тулд WLAN-г дуудлагад ашиглах</string>
+    <string name="wifi_calling_turn_on">WLAN дуудлагыг асаах</string>
+    <string name="wifi_carrier_connect">Оператор компанийн WLAN сүлжээ</string>
+    <string name="wifi_cellular_data_fallback_summary">WLAN-н интернет холболт тасарсан үед мобайл дата ашиглана уу. Дата ашиглалтын төлбөр гарна.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN автоматаар буцаж асдаггүй</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN автоматаар буцаж асдаг</string>
+    <string name="wifi_configure_settings_preference_title">WLAN тохиргоо</string>
+    <string name="wifi_data_template">^1 WLAN дата</string>
+    <string name="wifi_data_usage">WLAN дата ашиглалт</string>
+    <string name="wifi_disabled_wifi_failure">WLAN холболт амжилтгүй</string>
+    <string name="wifi_dpp_add_device_to_wifi">Энэ төхөөрөмжийг “%1$s”-д нэмэх үү?</string>
+    <string name="wifi_dpp_center_qr_code">Энэ төхөөрөмжийг “%1$s”-д нэмэхийн тулд доорх хурдан хариу үйлдлийн кодыг голлуулна уу</string>
+    <string name="wifi_dpp_failure_not_supported">Энэ төхөөрөмж “%1$s”-г нэмэхийг дэмжээгүй байна</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">“%1$s”-д холбогдохын тулд энэ хурдан хариу үйлдлийн кодыг скан хийнэ үү</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">“%1$s”-д холбогдохын тулд доорх хурдан хариу үйлдлийн кодыг голлуулна уу</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Хурдан хариу үйлдлийн кодыг скан хийж, WLAN-д нэгдэнэ үү</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">“%1$s”-д холбогдохын тулд энэ хурдан хариу үйлдлийн кодыг скан хийж, нууц үгийг хуваалцана уу</string>
+    <string name="wifi_dpp_share_wifi">WLAN-г хуваалцах</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">WLAN-г энэ төхөөрөмжтэй хуваалцаж байна…</string>
+    <string name="wifi_dpp_wifi_password">WLAN-н нууц үг: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN-г төхөөрөмжтэй хуваалцсан</string>
+    <string name="wifi_empty_list_user_restricted">Танд WLAN сүлжээг өөрчлөх зөвшөөрөл алга байна.</string>
+    <string name="wifi_empty_list_wifi_off">Боломжит сүлжээнүүдийг харахын тулд WLAN асаана уу.</string>
+    <string name="wifi_empty_list_wifi_on">WLAN сүлжээ хайж байна…</string>
+    <string name="wifi_hotspot_auto_off_summary">Хэрэв ямар ч төхөөрөмж холбогдоогүй бол WLAN сүлжээний цэг унтарна</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN сүлжээний цэг</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN хотспот тохируулах</string>
+    <string name="wifi_hotspot_footer_info_regular">Бусад төхөөрөмждөө WLAN холболт үүсгэхийн тулд сүлжээний цэгийг ашиглана уу. Сүлжээний цэг нь таны мобайл датаны холболтоор интернетэд холбогдоно. Мобайл датаны нэмэлт төлбөр гарна.</string>
+    <string name="wifi_limit_optimizations_summary">WLAN-д ашиглагдах батерейг хязгаарлах</string>
+    <string name="wifi_menu_p2p">WLAN Шууд</string>
+    <string name="wifi_on_time">WLAN цагтаа</string>
+    <string name="wifi_p2p_settings_title">WLAN Шууд</string>
+    <string name="wifi_poor_network_detection_summary">WLAN сүлжээний интернет холболт муу байвал бүү ашиглаарай</string>
+    <string name="wifi_quick_toggle_summary">WLAN-г асаах</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Үл мэдэгдэх апп байршлын нарийвчлалыг сайжруулах болон бусад зорилгоор сүлжээний сканыг WLAN-г унтраалттай байсан ч идэвхжүүлэх хүсэлтэй байна.
+
+Үүнийг скан хийхийг хүсэж буй бүх аппад зөвшөөрөх үү?"</string>
+    <string name="wifi_scan_always_turnon_message">"Байршлын нарийвчлалыг сайжруулах болон бусад зорилгоор %1$s нь WLAN хаалттай байгаа хэдий ч сүлжээний сканийг идэвхжүүлэхийг хүсч байна.
+
+Үүнийг скан хийхийг хүсч байгаа бүх апп-д зөвшөөрөх үү?"</string>
+    <string name="wifi_scan_notify_text">Байршлын нарийвчлалыг сайжруулахын тулд апп, үйлчилгээ нь WLAN сүлжээг хүссэн үедээ буюу WLAN-г унтраалттай үед нь ч хайх боломжтой хэвээр байна. Үүнийг байршилд тулгуурласан онцлог, үйлчилгээг сайжруулахад ашиглах боломжтой. Та үүнийг LINK_BEGINшалгах тохиргоондLINK_END өөрчилж болно.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Байршлын нарийвчлалыг сайжруулахын тулд WLAN сканийг LINK_BEGINскан хийх тохиргооLINK_END хэсэгт асаана уу.</string>
+    <string name="wifi_scan_throttling">WLAN скан бууруулалт</string>
+    <string name="wifi_select_network">WLAN сонгох</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN унтах үед</string>
+    <string name="wifi_setting_sleep_policy_title">Идэвхгүй үед WLAN-г байлгах</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN тохиргоо</string>
+    <string name="wifi_settings_master_switch_title">WLAN-г ашиглах</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN сканыг асаасан</string>
+    <string name="wifi_settings_scanning_required_info">WLAN скан нь апп болон үйлчилгээнд WLAN унтраалттай үед ч WLAN сүлжээг хүссэн үедээ хайхыг зөвшөөрдөг. Үүнийг байршилд суурилсан онцлог, үйлчилгээ зэргийг сайжруулахад ашиглах боломжтой.</string>
+    <string name="wifi_settings_scanning_required_summary">WLAN-г автоматаар асаахын тулд та эхлээд WLAN сканыг асаах шаардлагатай.</string>
+    <string name="wifi_settings_scanning_required_title">WLAN сканыг асаах уу?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLAN-г асааж байна…</string>
+    <string name="wifi_stopping">WLAN-г унтрааж байна…</string>
+    <string name="wifi_suspend_optimizations">WLAN оновчлол</string>
+    <string name="wifi_suspend_optimizations_summary">WLAN асаалттай үед зайны цэнэг зарцуулалтыг багасгах</string>
+    <string name="wifi_switch_away_when_unvalidated">WLAN-н интернет холболт тасарсан үед мобайл дата руу шилжүүлнэ үү.</string>
+    <string name="wifi_tether_configure_ap_text">WLAN сүлжээний цэгийг тохируулах</string>
+    <string name="wifi_tether_failed_subtext">Зөөврийн WLAN сүлжээний цэгийн алдаа</string>
+    <string name="wifi_turned_on_message">WLAN-г асаасан</string>
+    <string name="wifi_verbose_logging">WLAN дэлгэрэнгүй лог-г идэвхжүүлэх</string>
+    <string name="wifi_verbose_logging_summary">WLAN лог-н түвшинг нэмэгдүүлэх, WLAN Сонгогч дээрх SSID-д ногдох RSSI-г харуулах</string>
+    <string name="wifi_wakeup">WLAN-г автоматаар асаах</string>
+    <string name="wifi_wakeup_summary">WLAN таны гэрийн сүлжээ зэрэг ойролцоох хадгалсан өндөр чанарын сүлжээнд буцаж асах болно.</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">WLAN сканыг унтраасан тул боломжгүй байна</string>
+</resources>

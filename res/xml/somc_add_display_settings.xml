@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <com.sonymobile.settings.preference.PreferenceCategory android:title="@string/settings_header_image_quality_txt" android:key="quality_category" settings:before="first" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="color_gamut" settings:after="quality_category" settings:dependOnIsOwnerOnly="true" settings:dependOnIsValidIntent="true" settings:dependOnSystemProperty="ro.sys.colorgamut.supported" settings:hasMetaData="true" settings:valueOfSystemProperty="persist.sys.colorgamut.mode">
+        <intent android:targetPackage="com.sonymobile.colorgamut" android:targetClass="com.sonymobile.colorgamut.ColorGamutSettingActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="white_balance" settings:after="quality_category" settings:dependOnIsOwnerOnly="true" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.whitebalance" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.whitebalance.WhiteBalanceActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="image_enhancer2" settings:after="quality_category" settings:dependOnIsValidIntent="true" settings:dependOnSystemProperty="ro.service.xrfm.supported" settings:hasMetaData="true" settings:valueOfSystemProperty="persist.service.xrfm.mode">
+        <intent android:targetPackage="com.sonymobile.imageenhancer" android:targetClass="com.sonymobile.imageenhancer.ImageEnhancerSettingsActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.PreferenceCategory android:title="@string/settings_header_general_txt" android:key="general_category" settings:after="quality_category" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="general_category" settings:moveTargetKey="brightness" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="general_category" settings:moveTargetKey="auto_brightness_entry" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="general_category" settings:moveTargetKey="screen_timeout" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="font_selector" settings:after="general_category" settings:dependOnIsOwnerOnly="true" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.fontselector" android:action="android.intent.action.MAIN" android:targetClass="com.sonymobile.fontselector.MainActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.MovePreference settings:after="general_category" settings:moveTargetKey="font_size" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="general_category" settings:moveTargetKey="display_settings_screen_zoom" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="general_category" settings:moveTargetKey="auto_rotate" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="general_category" settings:moveTargetKey="lockscreen_from_display_settings" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="quality_category" settings:moveTargetKey="color_mode" />
+    <com.sonymobile.settings.preference.PreferenceCategory android:title="@string/settings_header_touch_txt" android:key="touch_category" settings:after="general_category" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="sidesense" settings:after="touch_category" settings:dependOnIsValidIntent="true" settings:hasMetaData="true" settings:valueOfSettingsSystem="somc.side_sense">
+        <intent android:targetPackage="com.sonymobile.sidesenseapp" android:action="com.sonymobile.sidesenseapp.action.LAUNCH_SETTINGS" android:targetClass="com.sonymobile.sidesenseapp.common.settings.SettingsTopActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="onehand" settings:after="touch_category" settings:dependOnIsValidIntent="true" settings:hasMetaData="true" settings:valueOfSettingsSystem="com.sonymobile.onehand.onehanded_mode">
+        <intent android:targetPackage="com.sonymobile.onehand" android:targetClass="com.sonymobile.onehand.OneHandGuidance" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:key="cover_app2" settings:after="touch_category" settings:dependOnIsValidIntent="true" settings:hasMetaData="true">
+        <intent android:targetPackage="com.sonymobile.coverapp2" android:action="com.sonymobile.coverapp2.action.LAUNCH_FROM_SETTINGS" android:targetClass="com.sonymobile.coverapp2.nonfc.CoverChoiceActivity" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.IntentPreference android:title="@string/glove_mode_checkbox_title" android:key="glove_mode" android:summary="@string/glove_mode_checkbox_summary" android:defaultValue="false" settings:after="touch_category" settings:dependOnIsValidIntent="true" settings:hasMetaData="true" settings:valueOfSettingsSystem="com.sonymobile.touch.glove_mode" settings:valueOfSystemProperty="persist.sys.touch.glove_mode">
+        <intent android:targetPackage="com.sonymobile.glovemode" android:targetClass="com.sonymobile.glovemode.GloveModeGuidance" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.PreferenceCategory android:title="@string/settings_header_backlight_txt" android:key="customize_category" settings:after="touch_category" />
+    <com.sonymobile.settings.preference.IntentPreference android:key="intelligent_backlight" settings:after="customize_category" settings:dependOnIsValidIntent="true" settings:hasMetaData="true" settings:valueOfSettingsSystem="intelligent_backlight">
+        <intent android:targetPackage="com.sonymobile.intelligent.backlight" android:targetClass="com.sonymobile.intelligent.backlight.SmartBacklightGuidance" />
+    </com.sonymobile.settings.preference.IntentPreference>
+    <com.sonymobile.settings.preference.MovePreference settings:after="customize_category" settings:moveTargetKey="night_display" />
+    <com.sonymobile.settings.preference.SwitchPreference android:key="pocket_mode" android:defaultValue="true" settings:after="customize_category" settings:dependOnIsValidIntent="true" settings:hasMetaData="true" settings:valueOfSettingsSystem="somc.pocketmode_enabled">
+        <intent android:targetPackage="com.sonymobile.pocketmode2" android:targetClass="com.sonymobile.pocketmode2.PocketModeSwitchPreferenceReceiver" />
+    </com.sonymobile.settings.preference.SwitchPreference>
+    <com.sonymobile.settings.preference.MovePreference settings:after="customize_category" settings:moveTargetKey="vr_display_pref" />
+    <com.sonymobile.settings.preference.PreferenceCategory android:title="@string/settings_header_view_txt" android:key="view_category" settings:after="customize_category" />
+    <com.sonymobile.settings.preference.SwitchPreference android:key="auto_hide_navbar" android:defaultValue="false" settings:after="view_category" settings:dependOnIsValidIntent="true" settings:hasMetaData="true" settings:valueOfSettingsGlobal="somc.hide_navbar_enabled">
+        <intent android:targetPackage="com.sonyericsson.settings" android:targetClass="com.sonymobile.settings.HideNavigationBarSwitchPreferenceReceiver" />
+    </com.sonymobile.settings.preference.SwitchPreference>
+    <com.sonymobile.settings.preference.MovePreference settings:after="view_category" settings:moveTargetKey="show_operator_name" />
+    <com.sonymobile.settings.preference.MovePreference settings:after="view_category" settings:moveTargetKey="screensaver" />
+    <com.sonymobile.settings.preference.RemovePreference settings:targetKey="wallpaper" />
+</PreferenceScreen>

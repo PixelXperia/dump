@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">機器名が携帯電話のアプリに表示されます。また、Bluetooth機器に接続したりWLANテザリングを設定したりすると、他のユーザーも機器名を確認できるようになります。</string>
+    <string name="accessibility_no_wifi">WLANが切断されました。</string>
+    <string name="accessibility_wifi_off">WLANはOFFです。</string>
+    <string name="accessibility_wifi_one_bar">WLANはレベル1です。</string>
+    <string name="accessibility_wifi_signal_full">WLANの電波はフルです。</string>
+    <string name="accessibility_wifi_three_bars">WLANはレベル3です。</string>
+    <string name="accessibility_wifi_two_bars">WLANはレベル2です。</string>
+    <string name="backup_data_summary">アプリのデータ、WLANパスワード、その他の設定をGoogleサーバーにバックアップする</string>
+    <string name="backup_erase_dialog_message">WLANパスワード、ブックマーク、その他の設定とアプリのデータのバックアップを停止し、Googleサーバー上のすべてのコピーを消去しますか？</string>
+    <string name="battery_action_wifi">WLANの設定</string>
+    <string name="battery_desc_wifi">WLANの電池使用量</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">未使用時または圏外のときWLANをOFFにします</string>
+    <string name="battery_usm_desc">"Ultra STAMINAモードは、使用できるアプリを限定することで電池の消費を大幅に抑えます。WLANやモバイルデータ通信を利用したインターネット接続も無効になります。そのため、データの同期やWLAN通話なども無効になります。このモードを有効にするとUltra STAMINAモード専用のホーム画面に変わります。
+
+使用できるアプリケーション"</string>
+    <string name="battery_usm_desc_variable">"Ultra STAMINAモードは、使用できるアプリを限定することで電池の消費を大幅に抑えます。WLANやモバイルデータ通信を利用したインターネット接続も無効になります。そのため、データの同期や%sなども無効になります。このモードを有効にするとUltra STAMINAモード専用のホーム画面に変わります。
+
+使用できるアプリケーション"</string>
+    <string name="bluetooth_on_time">WLANをONにしている時間</string>
+    <string name="bs_feature_wifi">WLANをOFF</string>
+    <string name="change_wifi_state_app_detail_summary">このアプリが WLAN の ON / OFF 切り替え、WLAN ネットワークのスキャンと接続、ネットワークの追加と削除、ローカル専用アクセス ポイントの起動を行うことを許可します</string>
+    <string name="change_wifi_state_app_detail_switch">WLAN の管理をアプリに許可</string>
+    <string name="change_wifi_state_title">WLAN の管理</string>
+    <string name="condition_cellular_summary">インターネットには WLAN からのみ接続</string>
+    <string name="connected_via_app">%1$s で接続しました</string>
+    <string name="credential_for_wifi">WLAN 用にインストール済み</string>
+    <string name="ct_wifi_connected_text">China TelecomのWLANに接続</string>
+    <string name="cw_network_notification">CTのWLAN通知を有効にする</string>
+    <string name="cw_network_priority">China TelecomのWLANを優先</string>
+    <string name="cw_network_priority_summary">China TelecomのWLANネットワークに優先的に接続します</string>
+    <string name="data_service_except_mms_disabled_warning_txt">モバイルデータ通信によるインターネットやEメール、マップなどの利用ができなくなります。よろしいですか?</string>
+    <string name="data_traffic_disabled_text">データ通信が無効なため、China TelecomのWLANネットワークに接続できませんでした。今すぐデータ通信を有効にしますか?</string>
+    <string name="data_usage_app_summary_title">モバイルデータと WLAN</string>
+    <string name="data_usage_disable_wifi_limit">WLANデータの制限を設定する</string>
+    <string name="data_usage_menu_hide_wifi">WLANを非表示にする</string>
+    <string name="data_usage_menu_show_wifi">WLANを表示する</string>
+    <string name="data_usage_metered_wifi">従量制の WLAN ネットワーク</string>
+    <string name="data_usage_metered_wifi_disabled">従量制のネットワークを選択するにはWLANをONにしてください。</string>
+    <string name="data_usage_restrict_background">バックグラウンドのモバイルデータを制限すると、アプリやサービスによっては、WLAN 未接続時に機能しない場合があります。</string>
+    <string name="data_usage_restrict_background_multiuser">"バックグラウンドのモバイルデータを制限すると、アプリやサービスによっては、WLAN 未接続時に機能しない場合があります。
+
+この設定はこのスマートフォン上のすべてのユーザーに影響します。"</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">WLAN で ^1 使用</string>
+    <string name="data_usage_wifi_title">WLAN データ</string>
+    <string name="dialog_message_hint">"STAMINAモードとは
+
+• 拡張待ち受け
+画面がOFFの時、WLANとモバイルデータ通信を一時的に無効にして、消費電力を抑えます。多くのアプリも停止中の状態になります。
+画面がONになると、機器は通常の動作に戻ります。
+拡張待ち受けがONの状態で、アプリを有効にしておきたい場合は、アプリを[待ち受け中実行アプリ]リストに追加してください。
+
+• 拡張使用
+機器がハードウェア動作を制限している場合、消費電力を抑えます。
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>STAMINAモードとは</u>"
+STAMINAモードは、Sonyの省電力機能です。画面がOFFの時に、電力消費を抑えます。
+
+"<u>基本的な使い方</u>"
+STAMINAモードを有効にするには、画面のボタンをタップします。
+画面がOFFの時、電力消費を抑えるため、WLAN、モバイルデータ通信は一時的に無効になり、多くのアプリケーションも停止中の状態になります。
+画面がONになると、通常の動作をします。
+
+"<u>上手な使い方</u>"
+STAMINAがONの時に、アプリを有効にしておきたい場合、アプリを[待ち受け中実行アプリ]リストに追加してください。リストに追加されていないアプリは正常に動作しない場合があります。
+
+"<u>注意</u>"
+アプリケーションが正常に動作しない場合は、[待ち受け中実行アプリ]に追加するか、STAMINAモードを無効にしてください。"</string>
+    <string name="emergency_address_summary">WLAN を使用して緊急通報を行った場合に、現在地として使用されます</string>
+    <string name="fullbackup_data_summary">"デバイスのデータ（WLANのパスワードや通話履歴など）とアプリのデータ（アプリで保存された設定やファイルなど）を自動的にリモートでバックアップします。
+
+自動バックアップをONにすると、デバイスのデータとアプリのデータは定期的にリモートで保存されます。アプリのデータとしては、連絡先、メッセージ、写真など、機密と見なされるデータを含め、（デベロッパーの設定に基づいて）アプリで保存されたすべてのデータがバックアップされる可能性があります。"</string>
+    <string name="fullbackup_erase_dialog_message">デバイスのデータ（WLANのパスワードや通話履歴など）とアプリのデータ（アプリで保存された設定やファイルなど）のバックアップを停止し、リモートサーバー上のすべてのコピーを消去しますか？</string>
+    <string name="install_wapi_certs">WLAN証明書のインストール</string>
+    <string name="keywords_hotspot_tethering">USBテザリング, Bluetoothテザリング, WLANテザリング</string>
+    <string name="keywords_wifi_calling">wifi、WLAN、通話、発信</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN 通知, wifi 通知</string>
+    <string name="l_dialog_message_hint">"STAMINAモードとは
+
+• 拡張待ち受け
+画面がOFFの時、WLANを一時的に無効にして、消費電力を抑えます。多くのアプリも停止中の状態になります。
+画面がONになると、機器は通常の動作に戻ります。
+拡張待ち受けがONの状態で、アプリを有効にしておきたい場合は、アプリを[待ち受け中実行アプリ]リストに追加してください。
+
+• 拡張使用
+機器がハードウェア動作を制限している場合、消費電力を抑えます。"</string>
+    <string name="location_based_wifi">エリア連動WLAN</string>
+    <string name="location_neighborhood_level_wifi">WLANで検出される現在地</string>
+    <string name="location_network_based">WLAN/モバイル接続時の位置情報</string>
+    <string name="location_scanning_screen_title">WLAN のスキャンと Bluetooth のスキャン</string>
+    <string name="location_scanning_wifi_always_scanning_description">アプリやサービスに対し、WLAN が OFF の場合でも、常に WLAN ネットワークをスキャンすることを許可します。この設定は、位置情報を使用する機能やサービスの改善などに役立ちます。</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN スキャン</string>
+    <string name="lost_internet_access_cancel">WLAN を継続</string>
+    <string name="lost_internet_access_text">WLAN の接続状況が悪い場合にモバイル ネットワークに切り替えることができます。データ使用量について請求が発生することがあります。</string>
+    <string name="lost_internet_access_title">WLAN はインターネットに接続していません</string>
+    <string name="mobile_data_always_on_summary">WLANが（ネットワークの自動切り替えで）ONのときでもモバイルデータが常にONになります。</string>
+    <string name="network_scorer_change_active_dialog_title">WLANアシスタントを変更しますか？</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">現在のWLANネットワークを共有するには、設定で[WLAN情報を共有する]を選択してください。</string>
+    <string name="nfc_wifi_share_checkbox">WLAN情報を共有する</string>
+    <string name="nfc_wifi_share_title_txt">WLAN情報を共有</string>
+    <string name="operator_auto_connect_hotspot_description_txt">AT&amp;TのWLANﾎｯﾄｽﾎﾟｯﾄに自動接続します</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN自動接続</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">モバイルデータ通信によるインターネットやEメール、マップなどの利用ができなくなります。よろしいですか?</string>
+    <string name="powersaver_feature_wifi">WLANをOFF</string>
+    <string name="radio_controls_summary">WLAN、Bluetooth、機内モード、モバイルネットワーク、VPNの設定</string>
+    <string name="radio_info_ims_reg_status">"IMS登録: %1$s
+ボイスオーバーLTE: %2$s
+ボイスオーバーWLAN: %3$s
+ビデオコール: %4$s
+UT インターフェース: %5$s"</string>
+    <string name="reset_network_desc">"以下を含む、すべてのネットワーク設定がリセットされます。
+
+"<li>WLAN</li>"
+"<li>モバイルデータ</li>"
+"<li>Bluetooth</li></string>
+    <string name="restriction_wifi_config_summary">WLANとモバイルの設定の変更を許可する</string>
+    <string name="restriction_wifi_config_title">WLANとモバイル</string>
+    <string name="scanning_status_text_wifi_off_ble_off">WLAN と Bluetooth の両方のスキャンが OFF です</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Bluetooth スキャンが ON、WLAN スキャンが OFF です</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN スキャンが ON、Bluetooth スキャンが OFF です</string>
+    <string name="scanning_status_text_wifi_on_ble_on">WLAN と Bluetooth の両方のスキャンが ON です</string>
+    <string name="somc_backup_failed_no_wifi_summary">WLAN接続を待っています…</string>
+    <string name="somc_wifi_turned_on_info">WLANがONです。リストからご利用のネットワークを選択してください。</string>
+    <string name="stamina_xssm_summary">画面がOFFの状態の時、モバイルデータ通信とWLANを無効にします</string>
+    <string name="status_wifi_mac_address">WLAN MACアドレス</string>
+    <string name="tether_settings_summary_hotspot_on_tether_off">WLANテザリングON</string>
+    <string name="tether_settings_title_wifi">WLANテザリング</string>
+    <string name="tethering_no_sim_warning_txt">インターネットにアクセスするため、携帯電話のデータ接続を、モバイルWLANホットスポットやUSBテザリングを利用して他の機器と共有するには、SIMカードを挿入してください。</string>
+    <string name="usage_type_data_wifi_recv">受信したWLANパケット</string>
+    <string name="usage_type_data_wifi_send">送信したWLANパケット</string>
+    <string name="usage_type_wifi_running">WLAN使用</string>
+    <string name="user_add_user_message_long">"追加ユーザーを作成して、このデバイスを他のユーザーと共有できます。各ユーザーは各自のスペースを所有して、アプリや壁紙などのカスタマイズを行うことができます。WLAN など、すべてのユーザーに影響するデバイス設定を変更することもできます。
+
+新しいユーザーを追加したら、そのユーザーは自分のスペースをセットアップする必要があります。
+
+すべてのユーザーは他のユーザーに代わってアプリを更新できます。ユーザー補助機能の設定とサービスは新しいユーザーに適用されないことがあります。"</string>
+    <string name="usm_descr">"Ultra STAMINAモードは大幅に電池の消費を抑えます。機器を長時間充電できないときに使用できます。
+
+WLANやモバイルデータ通信を利用したインターネット接続は無効になります。
+
+いくつかの基本的な機能、電話やメッセージなどは利用可能です。詳しくは[詳細情報]をタップしてください。"</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"WLAN通話での緊急通報はできません。
+緊急通報を発信すると自動的にモバイルネットワーク(2G/3G)に切り替わります。
+緊急通報はモバイルネットワーク圏内でのみ利用可能です。"</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">WLAN通話での緊急通報</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone WLAN通話</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"WLAN通話をONにするには、位置情報を[高精度]または[バッテリー節約]でONにする必要があります。
+
+WLAN通話使用時は、位置情報をONにしている必要があります。"</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"WLAN通話での緊急通報はできません。
+緊急通報を発信すると自動的にモバイルネットワーク(2G/3G)に切り替わります。
+緊急通報はモバイルネットワーク圏内でのみ利用可能です。"</string>
+    <string name="wfc_location_info_dialog_desc_txt">位置情報設定が有効になっているかどうかにかかわらず、WLAN通話を利用できるようにするために、位置情報がGoogleやご利用の通信事業者に送信されます。</string>
+    <string name="wfc_provisioned_switch_string">WLAN 通話対応</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN ネットワーク</string>
+    <string name="wifi_advanced_not_available">このユーザーは WLAN 詳細設定を利用できません</string>
+    <string name="wifi_advanced_settings_label">WLAN設定</string>
+    <string name="wifi_advanced_titlebar">WLAN詳細設定</string>
+    <string name="wifi_ap_band_select_one">WLANテザリングの帯域幅を少なくとも 1つ選択してください。</string>
+    <string name="wifi_ask_disable">「%s」が WLAN を OFF にしようとしています</string>
+    <string name="wifi_ask_enable">「%s」が WLAN を ON にしようとしています</string>
+    <string name="wifi_auto_network_switch_setting_msg">WLANネットワークとモバイルネットワークが両方利用可能なとき、最適なネットワークに自動的に接続します</string>
+    <string name="wifi_calling_link_to_register_emergency_address">ここをクリックしてWLAN通話の登録または、既存の緊急連絡先を更新してください</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">モバイル ネットワークが使用できない場合は、WLAN を使用します</string>
+    <string name="wifi_calling_mode_wifi_only_summary">WLAN 経由で通話します。WLAN が切断されると、通話は終了します。</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">WLAN が利用できない場合は、モバイル ネットワークを使用します</string>
+    <string name="wifi_calling_not_supported">%1$s は WLAN 通話に対応していません</string>
+    <string name="wifi_calling_off_explanation">"WLAN通話を使用すると、モバイルネットワークの電波が弱い場所でも高品質で通話できます。
+
+料金
+WLAN通話の料金についてはご利用の通信事業者へお問い合わせください。
+
+WLAN通話に関する注意
+WLAN通話を続けるには、WLAN圏内にいる必要があります。"</string>
+    <string name="wifi_calling_on_dialog_text">WLAN通話を使用するには、モバイルデータ通信用の優先SIMにSIM 1を設定してください</string>
+    <string name="wifi_calling_settings_activation_instructions">WLAN 通話を有効にしてください</string>
+    <string name="wifi_calling_settings_title">WLAN通話</string>
+    <string name="wifi_calling_suggestion_summary">WLAN 通話を ON にすると接続範囲を拡大できます</string>
+    <string name="wifi_calling_suggestion_title">WLAN で通話範囲を拡大</string>
+    <string name="wifi_calling_summary">通話に WLAN を使用して品質を改善する</string>
+    <string name="wifi_calling_turn_on">WLAN 通話を ON にしてください</string>
+    <string name="wifi_carrier_connect">携帯通信会社の WLAN ネットワーク</string>
+    <string name="wifi_cellular_data_fallback_summary">WLAN でインターネットにアクセスできない場合にモバイルデータを使用します。データ通信料が発生する可能性があります。</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN は自動的に ON になりません</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN は自動的に ON になります</string>
+    <string name="wifi_configure_settings_preference_title">WLAN 設定</string>
+    <string name="wifi_context_menu_change_wapi_certificate">WLAN証明書の変更</string>
+    <string name="wifi_data_template">^1（WLAN データ）</string>
+    <string name="wifi_data_usage">WLAN データ使用量</string>
+    <string name="wifi_disabled_wifi_failure">WLAN接続エラー</string>
+    <string name="wifi_dpp_add_device_to_wifi">「%1$s」にこのデバイスを追加しますか？</string>
+    <string name="wifi_dpp_center_qr_code">「%1$s」にデバイスを追加するには、下記の中心に QR コードを合わせてください</string>
+    <string name="wifi_dpp_failure_not_supported">このデバイスでは「%1$s」の追加はサポートされていません</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">「%1$s」に接続するには、この QR コードをスキャンしてください</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">「%1$s」に接続するには、下記の中心に QR コードを合わせてください</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">WLAN に接続するには、QR コードをスキャンしてください</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">「%1$s」に接続してパスワードを共有するには、この QR コードをスキャンしてください</string>
+    <string name="wifi_dpp_share_wifi">WLAN の共有</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">WLAN をこのデバイスと共有しています…</string>
+    <string name="wifi_dpp_wifi_password">WLAN パスワード: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN をデバイスと共有しました</string>
+    <string name="wifi_empty_list_user_restricted">WLANネットワークを変更する権限がありません。</string>
+    <string name="wifi_empty_list_wifi_off">利用可能なネットワークを表示するにはWLANをONにしてください。</string>
+    <string name="wifi_empty_list_wifi_on">WLANネットワークを検索しています…</string>
+    <string name="wifi_hotspot_auto_off_summary">機器が接続されていないと、WLANテザリングはOFFになります</string>
+    <string name="wifi_hotspot_auto_off_title">WLANテザリングを自動的にOFFにする</string>
+    <string name="wifi_hotspot_checkbox_text">WLANテザリング</string>
+    <string name="wifi_hotspot_configure_ap_text">WLANテザリングのセットアップ</string>
+    <string name="wifi_hotspot_footer_info_regular">アクセスポイントを使って他の機器とのWLANネットワークを作成します。WLANテザリングはモバイルデータ通信によるインターネット接続を提供します。モバイルデータ通信料が追加で発生する可能性があります。</string>
+    <string name="wifi_hotspot_on_local_only_subtext">アプリがコンテンツを共有しています。インターネット接続を共有するには、WLANテザリングをOFFにしてから再度ONにします</string>
+    <string name="wifi_hotspot_password_title">WLANテザリングのパスワード</string>
+    <string name="wifi_hotspot_tethering_on_subtext">この携帯電話のインターネット接続をWLANテザリング経由で共有</string>
+    <string name="wifi_hs2_strings_dialog_roaming_attention_message_txt">Passpointを有効にすると、海外でWLANに自動接続する場合があり、日本国内とは異なる料金が発生します。</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">WLANがONの時に利用可能なPasspoint対応アクセスポイントに自動接続する</string>
+    <string name="wifi_limit_optimizations_summary">WLANの電池使用量を制限する</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLANをONにしている時間</string>
+    <string name="wifi_p2p_settings">WLAN Direct設定</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">安定したインターネット接続があるときのみ WLAN ネットワークを使用する</string>
+    <string name="wifi_quick_toggle_summary">WLANをONにする</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"現在地情報の精度向上やその他の目的で、不明なアプリが、WLAN が OFF のときも、ネットワーク スキャンを ON にすることを要求しています。
+
+スキャンを必要とするすべてのアプリでスキャンを許可しますか？"</string>
+    <string name="wifi_scan_always_turnon_message">"現在地情報の精度向上やその他の目的で、%1$sではWLANがOFFのときでもネットワークスキャンをオンにすることを要求しています。
+
+スキャンを必要とするすべてのアプリでスキャンを許可しますか？"</string>
+    <string name="wifi_scan_notify_text">位置情報の精度を向上させるため、WLAN が OFF の場合でも、アプリやサービスはいつでも WLAN ネットワークをスキャンできます。この設定は、位置情報を使用する機能やサービスの改善などに役立ちます。この設定はLINK_BEGINスキャンの設定LINK_ENDで変更できます。</string>
+    <string name="wifi_scan_notify_text_scanning_off">位置情報の精度を上げるには、LINK_BEGINスキャンの設定LINK_ENDで WLAN スキャンをオンにしてください。</string>
+    <string name="wifi_scan_throttling">WLAN スキャン スロットリング</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">WLAN CERTでセキュリティ保護</string>
+    <string name="wifi_security_verbose_wapi_psk">WLAN PSKでセキュリティ保護</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">WLANを選択</string>
+    <string name="wifi_setting_on_during_sleep_title">スリープ時にWLAN接続を維持</string>
+    <string name="wifi_setting_sleep_policy_title">スリープ時のWLAN接続</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN設定</string>
+    <string name="wifi_settings_master_switch_title">WLAN の使用</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN スキャンを ON にしました</string>
+    <string name="wifi_settings_scanning_required_info">WLAN スキャンでは、アプリやサービスに対し、WLAN が OFF の場合でも、常に WLAN ネットワークをスキャンすることを許可します。この設定は、位置情報を使用する機能やサービスの改善などに役立ちます。</string>
+    <string name="wifi_settings_scanning_required_summary">WLAN を自動的に ON にするには、まず WLAN スキャンを ON にしてください。</string>
+    <string name="wifi_settings_scanning_required_title">WLAN スキャンを ON にする</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">WLANをONにしています…</string>
+    <string name="wifi_stopping">WLANをOFFにしています…</string>
+    <string name="wifi_suspend_optimizations">WLAN最適化</string>
+    <string name="wifi_suspend_optimizations_summary">WLANがONのときに電池使用量を節約する</string>
+    <string name="wifi_switch_away_when_unvalidated">WLAN でインターネットにアクセスできない場合にモバイルデータに切り替える</string>
+    <string name="wifi_tether_configure_ap_text">WLANテザリング設定</string>
+    <string name="wifi_tether_failed_subtext">WLANテザリングエラー</string>
+    <string name="wifi_tether_settings_subtext">WLANテザリングを設定および管理します</string>
+    <string name="wifi_tether_settings_text">WLANテザリング設定</string>
+    <string name="wifi_tether_starting">WLANテザリングをONにしています…</string>
+    <string name="wifi_tether_stopping">WLANテザリングをOFFにしています…</string>
+    <string name="wifi_tethering_warning_txt">メディア転送、携帯電話のソフトウェア更新、バックアップと復元など、WLANを使用した進行中の処理はすべて中断されます。</string>
+    <string name="wifi_turned_on_message">WLAN を有効にしました</string>
+    <string name="wifi_verbose_logging">WLAN詳細ログの有効化</string>
+    <string name="wifi_verbose_logging_summary">WLANログレベルを上げて、WLAN選択ツールでSSID RSSIごとに表示します</string>
+    <string name="wifi_wakeup">WLAN を自動的に ON にする</string>
+    <string name="wifi_wakeup_summary">ホーム ネットワークなどの高品質の保存済みネットワークの検出時に WLAN を ON にする</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">WLAN スキャンが OFF になっているため利用できません</string>
+    <string name="wifi_wps_category_title">WLANネットワークを設定</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN接続が切断されました。設定がキャンセルされました。</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINAモードを有効にすると、端末の動作を一部制限し、電池の消費を抑えます。特に画面のスリープ中は以下の動作を一部制限します。（アプリの多くはスリープ中も電池を消費しています。）
+
+"<u>特定のアプリに対する制限</u>"
+・WLANでの通信
+・モバイルネットワークでの通信
+・タイマーを利用した機能
+
+"<u>すべてのアプリに対する制限</u>"
+・通知LEDの点滅周期や点灯色
+
+スリープから復帰し画面が点灯した後にタッチ操作をすると、動作の制限は解除されます。"</string>
+</resources>

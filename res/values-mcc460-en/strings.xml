@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_phone_device_name_warning">Your device name is visible to apps on your phone. It may also be seen by other people when you connect to Bluetooth devices or set up a WLAN hotspot.</string>
+    <string name="accessibility_no_wifi">WLAN disconnected.</string>
+    <string name="accessibility_wifi_off">WLAN off.</string>
+    <string name="accessibility_wifi_one_bar">WLAN one bar.</string>
+    <string name="accessibility_wifi_signal_full">WLAN signal full.</string>
+    <string name="accessibility_wifi_three_bars">WLAN three bars.</string>
+    <string name="accessibility_wifi_two_bars">WLAN two bars.</string>
+    <string name="backup_data_summary">Back up app data, WLAN passwords and other settings to Google servers</string>
+    <string name="backup_erase_dialog_message">Stop backing up your WLAN passwords, bookmarks, other settings and app data, plus erase all copies on Google servers?</string>
+    <string name="battery_action_wifi">WLAN settings</string>
+    <string name="battery_desc_wifi">Battery used by WLAN</string>
+    <string name="battery_stats_wifi_running_label">WLAN</string>
+    <string name="battery_sugg_wifi">"Turn off WLAN when not using it or when it isn't available"</string>
+    <string name="battery_usm_desc">"Ultra STAMINA mode will extend battery time significantly. Note that, as internet connection through WLAN and Mobile data will be disabled, functions such as data synchronisation and WLAN calling will be unavailable. Your Home screen will be switched to Ultra STAMINA mode Home.
+
+Available apps in Ultra STAMINA mode"</string>
+    <string name="battery_usm_desc_variable">"Ultra STAMINA mode will extend battery time significantly. Note that as the Internet connection via WLAN and mobile data will be disabled, functions such as data synchronisation and %s will be unavailable. Your Home screen will be switched to Ultra STAMINA mode Home.
+
+Available apps in Ultra STAMINA mode"</string>
+    <string name="bluetooth_on_time">WLAN on time</string>
+    <string name="bs_feature_wifi">WLAN off</string>
+    <string name="change_wifi_state_app_detail_summary">Allow this app to turn WLAN on or off, scan and connect to WLAN networks, add or remove networks, or start a local-only hotspot</string>
+    <string name="change_wifi_state_app_detail_switch">Allow app to control WLAN</string>
+    <string name="change_wifi_state_title">WLAN control</string>
+    <string name="condition_bg_data_summary">Background data is only available via WLAN. This may affect some apps or services when WLAN is not available.</string>
+    <string name="condition_cellular_summary">Internet only available via WLAN</string>
+    <string name="connected_via_app">Connected via %1$s</string>
+    <string name="credential_for_wifi">Installed for WLAN</string>
+    <string name="ct_wifi_connected_text">China Telecom WLAN connected</string>
+    <string name="cw_network_notification">Enable CT WLAN notification</string>
+    <string name="cw_network_priority">Prioritise China Telecom WLAN</string>
+    <string name="cw_network_priority_summary">China Telecom WLAN networks will be prioritised over other WLAN networks when connecting</string>
+    <string name="data_service_except_mms_disabled_warning_txt">Unless you use WLAN, you will no longer be able to use the internet, Email or other apps that require a data connection. Turn off the mobile data connection?</string>
+    <string name="data_traffic_disabled_text">Could not connect to China Telecom WLAN networks as data traffic is disabled. Enable data traffic now?</string>
+    <string name="data_usage_app_summary_title">Mobile data &amp; WLAN</string>
+    <string name="data_usage_disable_wifi_limit">Set WLAN data limit</string>
+    <string name="data_usage_menu_hide_wifi">Hide WLAN</string>
+    <string name="data_usage_menu_show_wifi">Show WLAN</string>
+    <string name="data_usage_metered_wifi">Metered WLAN networks</string>
+    <string name="data_usage_metered_wifi_disabled">To select metered networks, turn WLAN on.</string>
+    <string name="data_usage_restrict_background">If you restrict background mobile data, some apps and services won’t work unless you’re connected to WLAN.</string>
+    <string name="data_usage_restrict_background_multiuser">"If you restrict background mobile data, some apps and services won’t work unless you’re connected to WLAN.
+
+This setting affects all users on this phone."</string>
+    <string name="data_usage_tab_wifi">WLAN</string>
+    <string name="data_usage_wifi_format">^1 used on WLAN</string>
+    <string name="data_usage_wifi_title">WLAN data</string>
+    <string name="dialog_message_hint">"STAMINA mode includes:
+
+• Extended standby
+Saves power when the screen is off by temporarily disabling WLAN and mobile data. Most applications will be inactive.
+When the screen is ON, your phone will function normally.
+If you want to keep some apps active while Extended standby is ON, add the apps to the APPS ACTIVE IN STANDBY list.
+
+• Extended usage
+Saves power when your device is in use by restricting hardware performance.
+"</string>
+    <string name="dialog_message_no_extended_usage_hint"><u>What is STAMINA mode?</u>"
+STAMINA mode is Sony’s power save function. It extends the battery lifetime when the display is off.
+
+"<u>Basic usage</u>"
+To turn on STAMINA mode, tap the button on the screen.
+When the screen is off, in order to save battery life, WLAN and mobile data will be temporarily disabled and most applications will be inactive.
+When the screen is on, your phone will function normally.
+
+"<u>Advanced usage</u>"
+If you want to keep some apps active while STAMINA is on, please add the apps into the APPS ACTIVE IN STANDBY list.
+Applications may not work correctly if they are not added to the list.
+
+"<u>Note</u>"
+If an application doesn’t work correctly, please register the app in APPS ACTIVE IN STANDBY or turn off STAMINA mode."</string>
+    <string name="emergency_address_summary">Used as your location when you make an emergency call over WLAN</string>
+    <string name="fullbackup_data_summary">"Automatically back up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps) remotely.
+
+When you turn on automatic backup, device and app data is periodically saved remotely. App data can be any data that an app has saved (based on developer settings), including potentially sensitive data such as contacts, messages and photos."</string>
+    <string name="fullbackup_erase_dialog_message">Stop backing up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps), plus erase all copies on remote servers?</string>
+    <string name="install_wapi_certs">Install WLAN certificates</string>
+    <string name="keywords_wifi_calling">wi-fi, WLAN, call, calling</string>
+    <string name="keywords_wifi_notify_open_networks">WLAN notification, wi-fi notification</string>
+    <string name="l_dialog_message_hint">"STAMINA mode includes:
+
+• Extended standby
+Saves power when the screen is off by temporarily disabling WLAN. Most applications will be inactive.
+When the screen is on, your device will function normally.
+If you want to keep some apps active while Extended standby is enabled, add the apps to the list Apps active in standby.
+
+• Extended usage
+Saves power when your device is in use by restricting hardware performance."</string>
+    <string name="location_based_wifi">Location-based WLAN</string>
+    <string name="location_neighborhood_level_wifi">Location determined by WLAN</string>
+    <string name="location_network_based">WLAN &amp; mobile network location</string>
+    <string name="location_scanning_screen_title">WLAN and Bluetooth scanning</string>
+    <string name="location_scanning_wifi_always_scanning_description">Allow apps and services to scan for WLAN networks at any time, even when WLAN is off. This can be used, for example, to improve location-based features and services.</string>
+    <string name="location_scanning_wifi_always_scanning_title">WLAN scanning</string>
+    <string name="lost_internet_access_cancel">Stay on WLAN</string>
+    <string name="lost_internet_access_text">You can switch to the mobile network whenever WLAN has a bad connection. Data usage charges may apply.</string>
+    <string name="lost_internet_access_title">WLAN is not connected to the Internet</string>
+    <string name="mobile_data_always_on_summary">Always keep mobile data active, even when WLAN is active (for fast network switching).</string>
+    <string name="network_scorer_change_active_dialog_title">Change WLAN assistant?</string>
+    <string name="nfc_wifi_share_check_dialog_des_txt">To share your current WLAN network, select the option \"Share WLAN info\" in the setting.</string>
+    <string name="nfc_wifi_share_checkbox">Share WLAN info</string>
+    <string name="nfc_wifi_share_title_txt">Share WLAN info</string>
+    <string name="operator_auto_connect_hotspot_description_txt">Auto connect to AT&amp;T WLAN hotspot</string>
+    <string name="operator_auto_connect_hotspot_txt">AT&amp;T WLAN auto connect</string>
+    <string name="power_wifi">WLAN</string>
+    <string name="powersaver_feature_data_message">Unless you use WLAN, you will no longer be able to use the internet, Email or other apps that require a data connection. Turn off the mobile data connection?</string>
+    <string name="powersaver_feature_wifi">WLAN off</string>
+    <string name="radio_controls_summary">Manage WLAN, Bluetooth, airplane mode, mobile networks, &amp; VPNs</string>
+    <string name="radio_info_ims_reg_status">"IMS Registration: %1$s
+Voice over LTE: %2$s
+Voice over WLAN: %3$s
+Video Calling: %4$s
+UT Interface: %5$s"</string>
+    <string name="reset_network_desc">"This will reset all network settings, including:
+
+"<li>WLAN</li>"
+"<li>Mobile data</li>"
+"<li>Bluetooth</li></string>
+    <string name="restriction_wifi_config_summary">Allow modification of WLAN and Mobile settings</string>
+    <string name="restriction_wifi_config_title">WLAN and Mobile</string>
+    <string name="scanning_status_text_wifi_off_ble_off">Both WLAN and Bluetooth scanning are off</string>
+    <string name="scanning_status_text_wifi_off_ble_on">Bluetooth scanning is on, WLAN scanning is off</string>
+    <string name="scanning_status_text_wifi_on_ble_off">WLAN scanning is on, Bluetooth scanning is off</string>
+    <string name="scanning_status_text_wifi_on_ble_on">Both WLAN and Bluetooth scanning are on</string>
+    <string name="somc_backup_failed_no_wifi_summary">Waiting for WLAN connection</string>
+    <string name="somc_wifi_turned_on_info">WLAN is turned on. Select your network in the list.</string>
+    <string name="stamina_xssm_summary">Disables mobile data and WLAN when the screen is off</string>
+    <string name="status_wifi_mac_address">WLAN MAC address</string>
+    <string name="tethering_no_sim_warning_txt">Please insert SIM card to share your phone’s data connection with other devices using Mobile WLAN Hotspot or USB tethering for internet access.</string>
+    <string name="usage_type_data_wifi_recv">WLAN packets received</string>
+    <string name="usage_type_data_wifi_send">WLAN packets sent</string>
+    <string name="usage_type_wifi_running">WLAN running</string>
+    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customise with apps, wallpaper and so on. Users can also adjust device settings such as WLAN that affect everyone.
+
+When you add a new user, that person needs to set up their space.
+
+Any user can update apps for all other users. Accessibility settings and services may not transfer to the new user."</string>
+    <string name="usm_descr">"Ultra STAMINA mode will extend battery lifetime significantly. It can be used when you can't charge your device for a long time.
+
+Only a few basic functions, such as Phone and Messaging will be available. Tap \"More info\" for more details.
+
+Note that internet connection through WLAN and Mobile data will be disabled."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_desc_txt">"Emergency calls are not possible via WLAN Calling.
+The device switches automatically to a mobile network (2G/3G) to make an emergency call.
+Emergency calls are only possible in areas with cellular coverage."</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_dialog_title_txt">Emergency calls via WLAN calling</string>
+    <string name="vowifi_emergency_call_unavailable_via_vowifi_notification_title_txt">Vodafone WLAN Calling</string>
+    <string name="vowifi_network_location_requested_dialog_desc_txt">"To turn on WLAN calling, you have to turn on Location and select High accuracy or Battery saving mode.
+
+Please make sure to keep Location turned on while WLAN calling."</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Emergency calls are not possible via WLAN Calling.
+The device switches automatically to a mobile network (2G/3G) to make an emergency call.
+Emergency calls are only possible in areas with cellular coverage."</string>
+    <string name="wfc_location_info_dialog_desc_txt">Your location-related information can be sent to Google and your operator in order to establish WLAN calls, whether Location setting is enabled or not.</string>
+    <string name="wfc_provisioned_switch_string">WLAN Calling provisioned</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_access_points">WLAN networks</string>
+    <string name="wifi_advanced_not_available">WLAN advanced settings are not available for this user</string>
+    <string name="wifi_advanced_settings_label">WLAN settings</string>
+    <string name="wifi_advanced_titlebar">Advanced WLAN</string>
+    <string name="wifi_ap_band_select_one">Choose at least one band for WLAN hotspot:</string>
+    <string name="wifi_ask_disable">%s wants to turn off WLAN</string>
+    <string name="wifi_ask_enable">%s wants to turn on WLAN</string>
+    <string name="wifi_auto_network_switch_setting_msg">Automatically switch to a preferred network when both the WLAN network and mobile network are available</string>
+    <string name="wifi_calling_link_to_register_emergency_address">Click here to register for WLAN Calling or to update your existing Emergency Address</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">If mobile network is unavailable, use WLAN</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Call over WLAN. If WLAN is lost, call will end.</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">If WLAN is unavailable, use mobile network</string>
+    <string name="wifi_calling_not_supported">WLAN calling is not supported for %1$s</string>
+    <string name="wifi_calling_off_explanation">"Use WLAN calling to increase call quality in places where mobile network coverage is poor.
+
+Cost
+For information about WLAN calling charges, please contact your service provider.
+
+Notes on WLAN calling
+To stay on WLAN calling, make sure to stay in the WLAN range."</string>
+    <string name="wifi_calling_on_dialog_text">To use WLAN Calling, set Preferred SIM for Mobile data to SIM 1</string>
+    <string name="wifi_calling_settings_activation_instructions">Activate WLAN Calling</string>
+    <string name="wifi_calling_settings_title">WLAN Calling</string>
+    <string name="wifi_calling_suggestion_summary">Turn on WLAN calling to extend coverage</string>
+    <string name="wifi_calling_suggestion_title">Extend calls with WLAN</string>
+    <string name="wifi_calling_summary">Use WLAN for calls to improve quality</string>
+    <string name="wifi_calling_turn_on">Turn on WLAN calling</string>
+    <string name="wifi_carrier_connect">Operator WLAN network</string>
+    <string name="wifi_cellular_data_fallback_summary">Use mobile data when WLAN has no Internet access. Data usage charges may apply.</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_off">"WLAN doesn't turn back on automatically"</string>
+    <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN turns back on automatically</string>
+    <string name="wifi_configure_settings_preference_title">WLAN preferences</string>
+    <string name="wifi_context_menu_change_wapi_certificate">Change WLAN Certificate</string>
+    <string name="wifi_data_template">^1 WLAN data</string>
+    <string name="wifi_data_usage">WLAN data usage</string>
+    <string name="wifi_disabled_wifi_failure">WLAN Connection Failure</string>
+    <string name="wifi_dpp_add_device_to_wifi">"Add this device to '%1$s'?"</string>
+    <string name="wifi_dpp_center_qr_code">"Centre the QR code below to add the device to '%1$s'"</string>
+    <string name="wifi_dpp_failure_not_supported">"Adding '%1$s' isn’t supported by this device"</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">"Scan this QR code to connect to '%1$s'"</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">"Centre the QR code below to connect to '%1$s'"</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Join WLAN by scanning a QR code</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">"Scan this QR code to connect to '%1$s' and share the password"</string>
+    <string name="wifi_dpp_share_wifi">Share WLAN</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Sharing WLAN with this device…</string>
+    <string name="wifi_dpp_wifi_password">WLAN password: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">WLAN shared with device</string>
+    <string name="wifi_empty_list_user_restricted">"You don't have permission to change the WLAN network."</string>
+    <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on.</string>
+    <string name="wifi_empty_list_wifi_on">Searching for WLAN networks…</string>
+    <string name="wifi_hotspot_auto_off_summary">WLAN hotspot will turn off if no devices are connected</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN hotspot setup</string>
+    <string name="wifi_hotspot_footer_info_regular">Use hotspot to create a WLAN network for your other devices. Hotspot provides Internet using your mobile data connection. Additional mobile data charges may apply.</string>
+    <string name="wifi_hs2_strings_hotspot2_summary_txt">Auto-connect to available Passpoint networks when WLAN is on</string>
+    <string name="wifi_limit_optimizations_summary">Limit battery used by WLAN</string>
+    <string name="wifi_menu_p2p">WLAN Direct</string>
+    <string name="wifi_on_time">WLAN on time</string>
+    <string name="wifi_p2p_settings">WLAN Direct settings</string>
+    <string name="wifi_p2p_settings_title">WLAN Direct</string>
+    <string name="wifi_poor_network_detection_summary">Don’t use a WLAN network unless it has a good Internet connection</string>
+    <string name="wifi_quick_toggle_summary">Turn on WLAN</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"To improve location accuracy and for other purposes, an unknown app wants to turn on network scanning, even when WLAN is off.
+
+Allow this for all apps that want to scan?"</string>
+    <string name="wifi_scan_always_turnon_message">"To improve location accuracy and for other purposes, %1$s wants to turn on network scanning, even when WLAN is off.
+
+Allow this for all apps that want to scan?"</string>
+    <string name="wifi_scan_notify_text">To improve location accuracy, apps and services can still scan for WLAN networks at any time, even when WLAN is off. This can be used, for example, to improve location-based features and services. You can change this in LINK_BEGINscanning settingsLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">To improve location accuracy, turn on WLAN scanning in LINK_BEGINscanning settingsLINK_END.</string>
+    <string name="wifi_scan_throttling">WLAN scan throttling</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_verbose_wapi_cert">Secured with WLAN CERT</string>
+    <string name="wifi_security_verbose_wapi_psk">Secured with WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_select_network">Select WLAN</string>
+    <string name="wifi_setting_on_during_sleep_title">WLAN on during sleep</string>
+    <string name="wifi_setting_sleep_policy_title">Keep WLAN on during sleep</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN settings</string>
+    <string name="wifi_settings_master_switch_title">Use WLAN</string>
+    <string name="wifi_settings_scanning_required_enabled">WLAN scanning turned on</string>
+    <string name="wifi_settings_scanning_required_info">WLAN scanning allows apps and services to scan for WLAN networks at any time, even when WLAN is off. This can be used, for example, to improve location‑based features and services.</string>
+    <string name="wifi_settings_scanning_required_summary">To turn on WLAN automatically, you first need to turn on WLAN scanning.</string>
+    <string name="wifi_settings_scanning_required_title">Turn on WLAN scanning?</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_starting">Turning WLAN on…</string>
+    <string name="wifi_stopping">Turning off WLAN…</string>
+    <string name="wifi_suspend_optimizations">WLAN optimisation</string>
+    <string name="wifi_suspend_optimizations_summary">Minimise battery usage when WLAN is on</string>
+    <string name="wifi_switch_away_when_unvalidated">Switch to mobile data if WLAN loses Internet access.</string>
+    <string name="wifi_tether_settings_subtext">Set up and manage portable WLAN hotspot</string>
+    <string name="wifi_tethering_warning_txt">Any ongoing WLAN operations such as media transfer, phone software update, backup and restore will be interrupted.</string>
+    <string name="wifi_turned_on_message">WLAN turned on</string>
+    <string name="wifi_verbose_logging">Enable WLAN verbose logging</string>
+    <string name="wifi_verbose_logging_summary">Increase WLAN logging level, show per SSID RSSI in WLAN Picker</string>
+    <string name="wifi_wakeup">Turn on WLAN automatically</string>
+    <string name="wifi_wakeup_summary">WLAN will turn back on near high‑quality saved networks, like your home network</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Unavailable because WLAN scanning is turned off</string>
+    <string name="wifi_wps_category_title">Set up WLAN network</string>
+    <string name="wps_strings_wifi_disconnected_txt">WLAN disconnected. Setup cancelled.</string>
+    <string name="xssm_guidecontent_what_stamina40jp_txt">"STAMINA mode saves battery power by adjusting device settings. You can choose applications to run with reduced functionality during sleep mode. (This helps you save battery power because most apps keep draining the battery even during sleep mode.)
+
+Functions disabled for selected apps:
+- WLAN
+- Mobile data
+- Timer
+
+The notification light for all apps flashes in the same colour at the same frequency during sleep mode.
+
+STAMINA mode is deactivated while you are controlling the device."</string>
+</resources>
