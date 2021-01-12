@@ -1,0 +1,99 @@
+.class Lcom/android/systemui/globalactions/GlobalActionsDialog$6;
+.super Lcom/android/systemui/globalactions/GlobalActionsDialog$SinglePressAction;
+.source "GlobalActionsDialog.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/android/systemui/globalactions/GlobalActionsDialog;->getLutAction()Lcom/android/systemui/globalactions/GlobalActionsDialog$Action;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic this$0:Lcom/android/systemui/globalactions/GlobalActionsDialog;
+
+
+# direct methods
+.method constructor <init>(Lcom/android/systemui/globalactions/GlobalActionsDialog;II)V
+    .locals 0
+
+    .line 861
+    iput-object p1, p0, Lcom/android/systemui/globalactions/GlobalActionsDialog$6;->this$0:Lcom/android/systemui/globalactions/GlobalActionsDialog;
+
+    invoke-direct {p0, p2, p3}, Lcom/android/systemui/globalactions/GlobalActionsDialog$SinglePressAction;-><init>(II)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public onPress()V
+    .locals 4
+
+    .line 867
+    new-instance v0, Landroid/content/Intent;
+
+    const-string v1, "android.intent.action.MAIN"
+
+    const/4 v2, 0x0
+
+    invoke-direct {v0, v1, v2}, Landroid/content/Intent;-><init>(Ljava/lang/String;Landroid/net/Uri;)V
+
+    .line 868
+    new-instance v1, Landroid/content/ComponentName;
+
+    const-string v2, "com.sonymobile.lut.android"
+
+    const-string v3, "com.sonymobile.lut.android.DialogsActivity"
+
+    invoke-direct {v1, v2, v3}, Landroid/content/ComponentName;-><init>(Ljava/lang/String;Ljava/lang/String;)V
+
+    invoke-virtual {v0, v1}, Landroid/content/Intent;->setComponent(Landroid/content/ComponentName;)Landroid/content/Intent;
+
+    const-string v1, "android.intent.action.VIEW"
+
+    .line 869
+    invoke-virtual {v0, v1}, Landroid/content/Intent;->setAction(Ljava/lang/String;)Landroid/content/Intent;
+
+    const-string v1, "android.intent.category.LAUNCHER"
+
+    .line 870
+    invoke-virtual {v0, v1}, Landroid/content/Intent;->addCategory(Ljava/lang/String;)Landroid/content/Intent;
+
+    const v1, 0x10008000
+
+    .line 871
+    invoke-virtual {v0, v1}, Landroid/content/Intent;->addFlags(I)Landroid/content/Intent;
+
+    .line 872
+    iget-object p0, p0, Lcom/android/systemui/globalactions/GlobalActionsDialog$6;->this$0:Lcom/android/systemui/globalactions/GlobalActionsDialog;
+
+    invoke-static {p0}, Lcom/android/systemui/globalactions/GlobalActionsDialog;->access$200(Lcom/android/systemui/globalactions/GlobalActionsDialog;)Landroid/content/Context;
+
+    move-result-object p0
+
+    invoke-virtual {p0, v0}, Landroid/content/Context;->startActivity(Landroid/content/Intent;)V
+
+    return-void
+.end method
+
+.method public showBeforeProvisioning()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method
+
+.method public showDuringKeyguard()Z
+    .locals 0
+
+    const/4 p0, 0x0
+
+    return p0
+.end method

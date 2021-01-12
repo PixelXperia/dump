@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:androidprv="http://schemas.android.com/apk/res-auto">
+    <TextClock android:textColor="?wallpaperTextColor" android:gravity="center" android:id="@id/somc_digital_clock_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="false" android:letterSpacing="0.0" style="@style/somc_digital_clock_date_text_style" />
+    <TextView android:textColor="?wallpaperTextColor" android:gravity="center" android:id="@id/somc_digital_clock_alarm" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawablePadding="6.0dip" android:textAllCaps="false" android:drawableStart="@drawable/somc_digital_clock_alarm_icon" android:letterSpacing="0.0" style="@style/somc_digital_clock_alarm_text_style" />
+</LinearLayout>
